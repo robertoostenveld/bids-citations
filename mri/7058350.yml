@@ -1,0 +1,54 @@
+articleids:
+- idtype: pmid
+  value: '32092054'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1007696
+- idtype: pmcid
+  value: PMC7058350
+authors:
+- authtype: Author
+  name: Dai K
+- authtype: Author
+  name: Hernando J
+- authtype: Author
+  name: Billeh YN
+- authtype: Author
+  name: Gratiy SL
+- authtype: Author
+  name: Planas J
+- authtype: Author
+  name: Davison AP
+- authtype: Author
+  name: Dura-Bernal S
+- authtype: Author
+  name: Gleeson P
+- authtype: Author
+  name: Devresse A
+- authtype: Author
+  name: Dichter BK
+- authtype: Author
+  name: Gevaert M
+- authtype: Author
+  name: King JG
+- authtype: Author
+  name: Van Geit WA
+- authtype: Author
+  name: Povolotsky AV
+- authtype: Author
+  name: Muller E
+- authtype: Author
+  name: Courcol JD
+- authtype: Author
+  name: Arkhipov A
+epubdate: 2020 Feb 24
+fulljournalname: PLoS Computational Biology
+issue: '2'
+pages: e1007696
+pmclivedate: 2020/03/12
+printpubdate: ''
+pubdate: 2020 Feb 24
+sortdate: 2020/02/24 00:00
+source: PLoS Comput Biol
+title: The SONATA data format for efficient description of large-scale network models
+uid: '7058350'
+volume: '16'

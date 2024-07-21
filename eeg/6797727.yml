@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '31624252'
+- idtype: doi
+  value: 10.1038/s41597-019-0223-2
+- idtype: pmcid
+  value: PMC6797727
+authors:
+- authtype: Author
+  name: Wagner J
+- authtype: Author
+  name: Martinez-Cancino R
+- authtype: Author
+  name: Delorme A
+- authtype: Author
+  name: Makeig S
+- authtype: Author
+  name: Solis-Escalante T
+- authtype: Author
+  name: Neuper C
+- authtype: Author
+  name: Mueller-Putz G
+epubdate: 2019 Oct 17
+fulljournalname: Scientific Data
+issue: ''
+pages: '211'
+pmclivedate: 2019/10/21
+printpubdate: ''
+pubdate: 2019 Oct 17
+sortdate: 2019/10/17 00:00
+source: Sci Data
+title: High-density EEG mobile brain/body imaging data recorded during a challenging
+  auditory gait pacing task
+uid: '6797727'
+volume: '6'

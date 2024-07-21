@@ -1,0 +1,62 @@
+articleids:
+- idtype: pmid
+  value: '29893753'
+- idtype: doi
+  value: 10.1038/sdata.2018.105
+- idtype: pmcid
+  value: PMC5996851
+authors:
+- authtype: Author
+  name: Pinho AL
+- authtype: Author
+  name: Amadon A
+- authtype: Author
+  name: Ruest T
+- authtype: Author
+  name: Fabre M
+- authtype: Author
+  name: Dohmatob E
+- authtype: Author
+  name: Denghien I
+- authtype: Author
+  name: Ginisty C
+- authtype: Author
+  name: Becuwe-Desmidt S
+- authtype: Author
+  name: Roger S
+- authtype: Author
+  name: Laurier L
+- authtype: Author
+  name: Joly-Testault V
+- authtype: Author
+  name: Médiouni-Cloarec G
+- authtype: Author
+  name: Doublé C
+- authtype: Author
+  name: Martins B
+- authtype: Author
+  name: Pinel P
+- authtype: Author
+  name: Eger E
+- authtype: Author
+  name: Varoquaux G
+- authtype: Author
+  name: Pallier C
+- authtype: Author
+  name: Dehaene S
+- authtype: Author
+  name: Hertz-Pannier L
+- authtype: Author
+  name: Thirion B
+epubdate: 2018 Jun 12
+fulljournalname: Scientific Data
+issue: ''
+pages: '180105'
+pmclivedate: 2018/06/15
+printpubdate: ''
+pubdate: 2018 Jun 12
+sortdate: 2018/06/12 00:00
+source: Sci Data
+title: Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping
+uid: '5996851'
+volume: '5'

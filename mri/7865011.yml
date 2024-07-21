@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '33547313'
+- idtype: doi
+  value: 10.1038/s41597-021-00829-7
+- idtype: pmcid
+  value: PMC7865011
+authors:
+- authtype: Author
+  name: Valdes-Sosa PA
+- authtype: Author
+  name: Galan-Garcia L
+- authtype: Author
+  name: Bosch-Bayard J
+- authtype: Author
+  name: Bringas-Vega ML
+- authtype: Author
+  name: Aubert-Vazquez E
+- authtype: Author
+  name: Rodriguez-Gil I
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Madjar C
+- authtype: Author
+  name: Virues-Alba T
+- authtype: Author
+  name: Mohades Z
+- authtype: Author
+  name: MacIntyre LC
+- authtype: Author
+  name: Rogers C
+- authtype: Author
+  name: Brown S
+- authtype: Author
+  name: Valdes-Urrutia L
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Valdes-Sosa MJ
+epubdate: 2021 Feb 5
+fulljournalname: Scientific Data
+issue: ''
+pages: '45'
+pmclivedate: 2021/02/16
+printpubdate: ''
+pubdate: 2021 Feb 5
+sortdate: 2021/02/05 00:00
+source: Sci Data
+title: The Cuban Human Brain Mapping Project, a young and middle age population-based
+  EEG, MRI, and cognition dataset
+uid: '7865011'
+volume: '8'

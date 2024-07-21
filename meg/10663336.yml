@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '38028437'
+- idtype: doi
+  value: 10.3389/fcvm.2023.1276321
+- idtype: pmcid
+  value: PMC10663336
+authors:
+- authtype: Author
+  name: Pille M
+- authtype: Author
+  name: Gapelyuk A
+- authtype: Author
+  name: Berg K
+- authtype: Author
+  name: Bannasch S
+- authtype: Author
+  name: Mockler J
+- authtype: Author
+  name: Park LS
+- authtype: Author
+  name: Park JW
+- authtype: Author
+  name: Wessel N
+epubdate: 2023 Nov 8
+fulljournalname: Frontiers in Cardiovascular Medicine
+issue: ''
+pages: '1276321'
+pmclivedate: 2023/01/01
+printpubdate: ''
+pubdate: 2023 Nov 8
+sortdate: 2023/11/08 00:00
+source: Front Cardiovasc Med
+title: Cardiac magnetic field map topology quantified by Kullback–Leibler entropy
+  identifies patients with clinically suspected myocarditis
+uid: '10663336'
+volume: '10'

@@ -1,0 +1,86 @@
+articleids:
+- idtype: pmid
+  value: '33227425'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2020.117519
+- idtype: pmcid
+  value: PMC9272762
+- idtype: MID
+  value: NIHMS1800568
+authors:
+- authtype: Author
+  name: Messinger A
+- authtype: Author
+  name: Sirmpilatze N
+- authtype: Author
+  name: Heuer K
+- authtype: Author
+  name: Loh KK
+- authtype: Author
+  name: Mars RB
+- authtype: Author
+  name: Sein J
+- authtype: Author
+  name: Xu T
+- authtype: Author
+  name: Glen D
+- authtype: Author
+  name: Jung B
+- authtype: Author
+  name: Seidlitz J
+- authtype: Author
+  name: Taylor P
+- authtype: Author
+  name: Toro R
+- authtype: Author
+  name: Garza-Villarreal EA
+- authtype: Author
+  name: Sponheim C
+- authtype: Author
+  name: Wang X
+- authtype: Author
+  name: Benn RA
+- authtype: Author
+  name: Cagna B
+- authtype: Author
+  name: Dadarwal R
+- authtype: Author
+  name: Evrard HC
+- authtype: Author
+  name: Garcia-Saldivar P
+- authtype: Author
+  name: Giavasis S
+- authtype: Author
+  name: Hartig R
+- authtype: Author
+  name: Lepage C
+- authtype: Author
+  name: Liu C
+- authtype: Author
+  name: Majka P
+- authtype: Author
+  name: Merchant H
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Rosa MG
+- authtype: Author
+  name: Tasserie J
+- authtype: Author
+  name: Uhrig L
+- authtype: Author
+  name: Margulies DS
+- authtype: Author
+  name: Klink PC
+epubdate: 2020 Nov 20
+fulljournalname: NeuroImage
+issue: ''
+pages: '117519'
+pmclivedate: 2022/07/11
+printpubdate: 2021 Feb 1
+pubdate: 2020 Nov 20
+sortdate: 2020/11/20 00:00
+source: Neuroimage
+title: A collaborative resource platform for non-human primate neuroimaging
+uid: '9272762'
+volume: '226'

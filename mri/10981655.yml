@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '38555295'
+- idtype: doi
+  value: 10.1038/s41597-024-03137-y
+- idtype: pmcid
+  value: PMC10981655
+authors:
+- authtype: Author
+  name: Dargahi Nobari K
+- authtype: Author
+  name: Bertram T
+epubdate: 2024 Mar 30
+fulljournalname: Scientific Data
+issue: ''
+pages: '327'
+pmclivedate: 2024/03/31
+printpubdate: ''
+pubdate: 2024 Mar 30
+sortdate: 2024/03/30 00:00
+source: Sci Data
+title: A multimodal driver monitoring benchmark dataset for driver modeling in assisted
+  driving automation
+uid: '10981655'
+volume: '11'

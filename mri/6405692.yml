@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '30881299'
+- idtype: doi
+  value: 10.3389/fninf.2019.00003
+- idtype: pmcid
+  value: PMC6405692
+authors:
+- authtype: Author
+  name: Keshavan A
+- authtype: Author
+  name: Poline JB
+epubdate: 2019 Mar 1
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '3'
+pmclivedate: 2019/03/15
+printpubdate: ''
+pubdate: 2019 Mar 1
+sortdate: 2019/03/01 00:00
+source: Front Neuroinform
+title: 'From the Wet Lab to the Web Lab: A Paradigm Shift in Brain Imaging Research'
+uid: '6405692'
+volume: '13'

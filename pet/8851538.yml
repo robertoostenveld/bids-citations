@@ -1,0 +1,20 @@
+articleids:
+- idtype: pmid
+  value: '34905986'
+- idtype: doi
+  value: 10.1177/0271678X211061050
+- idtype: pmcid
+  value: PMC8851538
+authors: []
+epubdate: 2021 Dec 15
+fulljournalname: Journal of Cerebral Blood Flow & Metabolism
+issue: 1 Suppl
+pages: 11-309
+pmclivedate: 2022/12/15
+printpubdate: 2021 Dec
+pubdate: 2021 Dec 15
+sortdate: 2021/12/15 00:00
+source: J Cereb Blood Flow Metab
+title: NRM 2021 Abstract Booklet
+uid: '8851538'
+volume: '41'

@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '32477494'
+- idtype: doi
+  value: 10.12688/f1000research.19288.1
+- idtype: pmcid
+  value: PMC7217223
+authors:
+- authtype: Author
+  name: Day TK
+- authtype: Author
+  name: Madhyastha TM
+- authtype: Author
+  name: Askren MK
+- authtype: Author
+  name: Boord P
+- authtype: Author
+  name: Montine TJ
+- authtype: Author
+  name: Grabowski TJ
+epubdate: 2019 Jun 4
+fulljournalname: F1000Research
+issue: ''
+pages: '780'
+pmclivedate: 2020/05/29
+printpubdate: ''
+pubdate: 2019 Jun 4
+sortdate: 2019/06/04 00:00
+source: F1000Res
+title: Attention Network Test fMRI data for participants with Parkinson’s disease
+  and healthy elderly
+uid: '7217223'
+volume: '8'

@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '33704401'
+- idtype: doi
+  value: 10.1093/brain/awab096
+- idtype: pmcid
+  value: PMC8370419
+authors:
+- authtype: Author
+  name: Moreau CA
+- authtype: Author
+  name: Raznahan A
+- authtype: Author
+  name: Bellec P
+- authtype: Author
+  name: Chakravarty M
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: Jacquemont S
+epubdate: 2021 Mar 11
+fulljournalname: Brain
+issue: '7'
+pages: 1943-1957
+pmclivedate: 2021/08/18
+printpubdate: ''
+pubdate: 2021 Mar 11
+sortdate: 2021/03/11 00:00
+source: Brain
+title: Dissecting autism and schizophrenia through neuroimaging genomics
+uid: '8370419'
+volume: '144'

@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '36732112'
+- idtype: doi
+  value: 10.1016/j.dcn.2023.101201
+- idtype: pmcid
+  value: PMC10150174
+authors:
+- authtype: Author
+  name: Buzzell GA
+- authtype: Author
+  name: Morales S
+- authtype: Author
+  name: Valadez EA
+- authtype: Author
+  name: Hunnius S
+- authtype: Author
+  name: Fox NA
+epubdate: 2023 Jan 27
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101201'
+pmclivedate: 2023/05/02
+printpubdate: ''
+pubdate: 2023 Jan 27
+sortdate: 2023/01/27 00:00
+source: Dev Cogn Neurosci
+title: Maximizing the potential of EEG as a developmental neuroscience tool
+uid: '10150174'
+volume: '60'

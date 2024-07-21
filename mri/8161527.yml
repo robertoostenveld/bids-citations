@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '30446748'
+- idtype: doi
+  value: 10.1038/s41596-018-0065-y
+- idtype: pmcid
+  value: PMC8161527
+- idtype: MID
+  value: NIHMS1699161
+authors:
+- authtype: Author
+  name: Ciric R
+- authtype: Author
+  name: Rosen AF
+- authtype: Author
+  name: Erus G
+- authtype: Author
+  name: Cook PA
+- authtype: Author
+  name: Bassett DS
+- authtype: Author
+  name: Davatzikos C
+- authtype: Author
+  name: Wolf DH
+- authtype: Author
+  name: Satterthwaite TD
+epubdate: ''
+fulljournalname: Nature protocols
+issue: '12'
+pages: 2801-2826
+pmclivedate: 2021/05/28
+printpubdate: 2018 Dec
+pubdate: 2018 Dec
+sortdate: 2018/12/01 00:00
+source: Nat Protoc
+title: Mitigating head motion artefact in functional connectivity MRI
+uid: '8161527'
+volume: '13'

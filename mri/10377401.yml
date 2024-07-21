@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '37509292'
+- idtype: doi
+  value: 10.3390/cancers15143632
+- idtype: pmcid
+  value: PMC10377401
+authors:
+- authtype: Author
+  name: Melis M
+- authtype: Author
+  name: Schroyen G
+- authtype: Author
+  name: Blommaert J
+- authtype: Author
+  name: Leenaerts N
+- authtype: Author
+  name: Smeets A
+- authtype: Author
+  name: Van Der Gucht K
+- authtype: Author
+  name: Sunaert S
+- authtype: Author
+  name: Deprez S
+epubdate: 2023 Jul 15
+fulljournalname: Cancers
+issue: '14'
+pages: '3632'
+pmclivedate: 2023/07/29
+printpubdate: ''
+pubdate: 2023 Jul 15
+sortdate: 2023/07/15 00:00
+source: Cancers (Basel)
+title: The Impact of Mindfulness on Functional Brain Connectivity and Peripheral Inflammation
+  in Breast Cancer Survivors with Cognitive Complaints
+uid: '10377401'
+volume: '15'

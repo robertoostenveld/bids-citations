@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '29735014'
+- idtype: doi
+  value: 10.7554/eLife.34779
+- idtype: pmcid
+  value: PMC5957527
+authors:
+- authtype: Author
+  name: Norbury A
+- authtype: Author
+  name: Robbins TW
+- authtype: Author
+  name: Seymour B
+epubdate: 2018 May 8
+fulljournalname: eLife
+issue: ''
+pages: e34779
+pmclivedate: 2018/05/18
+printpubdate: ''
+pubdate: 2018 May 8
+sortdate: 2018/05/08 00:00
+source: eLife
+title: Value generalization in human avoidance learning
+uid: '5957527'
+volume: '7'

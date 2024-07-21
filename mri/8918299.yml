@@ -1,0 +1,23 @@
+articleids:
+- idtype: pmid
+  value: '35279095'
+- idtype: doi
+  value: 10.1186/s11689-022-09433-1
+- idtype: pmcid
+  value: PMC8918299
+authors:
+- authtype: Author
+  name: Cohen AL
+epubdate: 2022 Mar 12
+fulljournalname: Journal of Neurodevelopmental Disorders
+issue: ''
+pages: '19'
+pmclivedate: 2022/03/16
+printpubdate: ''
+pubdate: 2022 Mar 12
+sortdate: 2022/03/12 00:00
+source: J Neurodev Disord
+title: 'Using causal methods to map symptoms to brain circuits in neurodevelopment
+  disorders: moving from identifying correlates to developing treatments'
+uid: '8918299'
+volume: '14'

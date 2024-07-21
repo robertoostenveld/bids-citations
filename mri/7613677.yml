@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '36089825'
+- idtype: doi
+  value: 10.1002/mrm.29418
+- idtype: pmcid
+  value: PMC7613677
+authors:
+- authtype: Author
+  name: Clarke WT
+- authtype: Author
+  name: Bell TK
+- authtype: Author
+  name: Emir UE
+- authtype: Author
+  name: Mikkelsen M
+- authtype: Author
+  name: Oeltzschner G
+- authtype: Author
+  name: Shamaei A
+- authtype: Author
+  name: Soher BJ
+- authtype: Author
+  name: Wilson M
+epubdate: 2022 Sep 11
+fulljournalname: Magnetic Resonance in Medicine
+issue: '6'
+pages: 2358-2370
+pmclivedate: 2022/12/01
+printpubdate: 2022 Dec
+pubdate: 2022 Sep 11
+sortdate: 2022/09/11 00:00
+source: Magn Reson Med
+title: ' NIfTI‐MRS: A standard data format for magnetic resonance spectroscopy'
+uid: '7613677'
+volume: '88'

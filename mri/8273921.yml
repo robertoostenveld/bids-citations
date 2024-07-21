@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '33762217'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.117975
+- idtype: pmcid
+  value: PMC8273921
+- idtype: MID
+  value: NIHMS1714819
+authors:
+- authtype: Author
+  name: Busch EL
+- authtype: Author
+  name: Slipski L
+- authtype: Author
+  name: Feilong M
+- authtype: Author
+  name: Guntupalli JS
+- authtype: Author
+  name: di Oleggio Castello MV
+- authtype: Author
+  name: Huckins JF
+- authtype: Author
+  name: Nastase SA
+- authtype: Author
+  name: Gobbini MI
+- authtype: Author
+  name: Wager TD
+- authtype: Author
+  name: Haxby JV
+epubdate: 2021 Mar 21
+fulljournalname: NeuroImage
+issue: ''
+pages: '117975'
+pmclivedate: 2021/07/12
+printpubdate: 2021 Jun
+pubdate: 2021 Mar 21
+sortdate: 2021/03/21 00:00
+source: Neuroimage
+title: 'Hybrid hyperalignment: A single high-dimensional model of shared information
+  embedded in cortical patterns of response and functional connectivity'
+uid: '8273921'
+volume: '233'

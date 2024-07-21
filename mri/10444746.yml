@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '37607929'
+- idtype: doi
+  value: 10.1038/s41597-023-02457-9
+- idtype: pmcid
+  value: PMC10444746
+authors:
+- authtype: Author
+  name: Liu CF
+- authtype: Author
+  name: Leigh R
+- authtype: Author
+  name: Johnson B
+- authtype: Author
+  name: Urrutia V
+- authtype: Author
+  name: Hsu J
+- authtype: Author
+  name: Xu X
+- authtype: Author
+  name: Li X
+- authtype: Author
+  name: Mori S
+- authtype: Author
+  name: Hillis AE
+- authtype: Author
+  name: Faria AV
+epubdate: 2023 Aug 22
+fulljournalname: Scientific Data
+issue: ''
+pages: '548'
+pmclivedate: 2023/08/24
+printpubdate: ''
+pubdate: 2023 Aug 22
+sortdate: 2023/08/22 00:00
+source: Sci Data
+title: A large public dataset of annotated clinical MRIs and metadata of patients
+  with acute stroke
+uid: '10444746'
+volume: '10'

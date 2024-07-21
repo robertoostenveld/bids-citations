@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '33177526'
+- idtype: doi
+  value: 10.1038/s41597-020-00735-4
+- idtype: pmcid
+  value: PMC7658985
+authors:
+- authtype: Author
+  name: Visconti di Oleggio Castello M
+- authtype: Author
+  name: Chauhan V
+- authtype: Author
+  name: Jiahui G
+- authtype: Author
+  name: Gobbini MI
+epubdate: 2020 Nov 11
+fulljournalname: Scientific Data
+issue: ''
+pages: '383'
+pmclivedate: 2020/11/17
+printpubdate: ''
+pubdate: 2020 Nov 11
+sortdate: 2020/11/11 00:00
+source: Sci Data
+title: An fMRI dataset in response to “The Grand Budapest Hotel”, a socially-rich,
+  naturalistic movie
+uid: '7658985'
+volume: '7'

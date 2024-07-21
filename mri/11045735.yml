@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '38664431'
+- idtype: doi
+  value: 10.1038/s41597-024-03267-3
+- idtype: pmcid
+  value: PMC11045735
+authors:
+- authtype: Author
+  name: Romascano D
+- authtype: Author
+  name: Piredda GF
+- authtype: Author
+  name: Caneschi S
+- authtype: Author
+  name: Hilbert T
+- authtype: Author
+  name: Corredor R
+- authtype: Author
+  name: Maréchal B
+- authtype: Author
+  name: Kober T
+- authtype: Author
+  name: Ledoux JB
+- authtype: Author
+  name: Fornari E
+- authtype: Author
+  name: Hagmann P
+- authtype: Author
+  name: Denervaud S
+epubdate: 2024 Apr 25
+fulljournalname: Scientific Data
+issue: ''
+pages: '429'
+pmclivedate: 2024/04/26
+printpubdate: ''
+pubdate: 2024 Apr 25
+sortdate: 2024/04/25 00:00
+source: Sci Data
+title: Normative volumes and relaxation times at 3T during brain development
+uid: '11045735'
+volume: '11'

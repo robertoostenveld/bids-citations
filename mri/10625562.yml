@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '37925503'
+- idtype: doi
+  value: 10.1038/s41597-023-02664-4
+- idtype: pmcid
+  value: PMC10625562
+authors:
+- authtype: Author
+  name: Racey C
+- authtype: Author
+  name: Kampoureli C
+- authtype: Author
+  name: Bowen-Hill O
+- authtype: Author
+  name: Bauer M
+- authtype: Author
+  name: Simpson I
+- authtype: Author
+  name: Rae C
+- authtype: Author
+  name: del Rio M
+- authtype: Author
+  name: Simner J
+- authtype: Author
+  name: Ward J
+epubdate: 2023 Nov 4
+fulljournalname: Scientific Data
+issue: ''
+pages: '766'
+pmclivedate: 2023/11/06
+printpubdate: ''
+pubdate: 2023 Nov 4
+sortdate: 2023/11/04 00:00
+source: Sci Data
+title: An Open Science MRI Database of over 100 Synaesthetic Brains and Accompanying
+  Deep Phenotypic Information
+uid: '10625562'
+volume: '10'

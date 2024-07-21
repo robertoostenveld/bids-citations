@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '36441743'
+- idtype: doi
+  value: 10.1002/mrm.29528
+- idtype: pmcid
+  value: PMC9910837
+- idtype: MID
+  value: NIHMS1846097
+authors:
+- authtype: Author
+  name: D’Astous A
+- authtype: Author
+  name: Cereza G
+- authtype: Author
+  name: Papp D
+- authtype: Author
+  name: Gilbert KM
+- authtype: Author
+  name: Stockmann JP
+- authtype: Author
+  name: Alonso-Ortiz E
+- authtype: Author
+  name: Cohen-Adad J
+epubdate: 2022 Nov 28
+fulljournalname: Magnetic resonance in medicine
+issue: '4'
+pages: 1401-1417
+pmclivedate: 2024/04/01
+printpubdate: 2023 Apr
+pubdate: 2022 Nov 28
+sortdate: 2022/11/28 00:00
+source: Magn Reson Med
+title: 'Shimming Toolbox: An open-source software toolbox for B0 and B1 shimming in
+  Magnetic Resonance Imaging'
+uid: '9910837'
+volume: '89'

@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '31050106'
+- idtype: doi
+  value: 10.1002/hbm.24603
+- idtype: pmcid
+  value: PMC6618324
+authors:
+- authtype: Author
+  name: Bowring A
+- authtype: Author
+  name: Maumet C
+- authtype: Author
+  name: Nichols TE
+epubdate: 2019 May 2
+fulljournalname: Human Brain Mapping
+issue: '11'
+pages: 3362-3384
+pmclivedate: 2019/07/22
+printpubdate: ''
+pubdate: 2019 May 2
+sortdate: 2019/05/02 00:00
+source: Hum Brain Mapp
+title: Exploring the impact of analysis software on task fMRI results
+uid: '6618324'
+volume: '40'

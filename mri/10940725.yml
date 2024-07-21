@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '38485930'
+- idtype: doi
+  value: 10.1038/s41398-024-02844-9
+- idtype: pmcid
+  value: PMC10940725
+authors:
+- authtype: Author
+  name: Mizzi S
+- authtype: Author
+  name: Pedersen M
+- authtype: Author
+  name: Rossell SL
+- authtype: Author
+  name: Rendell P
+- authtype: Author
+  name: Terrett G
+- authtype: Author
+  name: Heinrichs M
+- authtype: Author
+  name: Labuschagne I
+epubdate: 2024 Mar 14
+fulljournalname: Translational Psychiatry
+issue: ''
+pages: '147'
+pmclivedate: 2024/03/15
+printpubdate: ''
+pubdate: 2024 Mar 14
+sortdate: 2024/03/14 00:00
+source: Transl Psychiatry
+title: Resting-state amygdala subregion and precuneus connectivity provide evidence
+  for a dimensional approach to studying social anxiety disorder
+uid: '10940725'
+volume: '14'

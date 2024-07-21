@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '36409624'
+- idtype: doi
+  value: 10.1097/j.pain.0000000000002825
+- idtype: pmcid
+  value: PMC10184564
+authors:
+- authtype: Author
+  name: Zebhauser PT
+- authtype: Author
+  name: Hohn VD
+- authtype: Author
+  name: Ploner M
+epubdate: 2022 Nov 28
+fulljournalname: Pain
+issue: '6'
+pages: 1200-1221
+pmclivedate: 2023/05/16
+printpubdate: 2023 Jun
+pubdate: 2022 Nov 28
+sortdate: 2022/11/28 00:00
+source: Pain
+title: 'Resting-state electroencephalography and magnetoencephalography as biomarkers
+  of chronic pain: a systematic review'
+uid: '10184564'
+volume: '164'

@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '37810223'
+- idtype: doi
+  value: 10.1016/j.isci.2023.107965
+- idtype: pmcid
+  value: PMC10551894
+authors:
+- authtype: Author
+  name: Landelle C
+- authtype: Author
+  name: Caron-Guyon J
+- authtype: Author
+  name: Nazarian B
+- authtype: Author
+  name: Anton JL
+- authtype: Author
+  name: Sein J
+- authtype: Author
+  name: Pruvost L
+- authtype: Author
+  name: Amberg M
+- authtype: Author
+  name: Giraud F
+- authtype: Author
+  name: Félician O
+- authtype: Author
+  name: Danna J
+- authtype: Author
+  name: Kavounoudias A
+epubdate: 2023 Sep 20
+fulljournalname: iScience
+issue: '10'
+pages: '107965'
+pmclivedate: 2023/10/06
+printpubdate: ''
+pubdate: 2023 Sep 20
+sortdate: 2023/09/20 00:00
+source: iScience
+title: 'Beyond sense-specific processing: decoding texture in the brain from touch
+  and sonified movement'
+uid: '10551894'
+volume: '26'

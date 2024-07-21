@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '37404336'
+- idtype: doi
+  value: 10.3389/fninf.2023.1207721
+- idtype: pmcid
+  value: PMC10315678
+authors:
+- authtype: Author
+  name: Martin D
+- authtype: Author
+  name: Basodi S
+- authtype: Author
+  name: Panta S
+- authtype: Author
+  name: Rootes-Murdy K
+- authtype: Author
+  name: Prae P
+- authtype: Author
+  name: Sarwate AD
+- authtype: Author
+  name: Kelly R
+- authtype: Author
+  name: Romero J
+- authtype: Author
+  name: Baker BT
+- authtype: Author
+  name: Gazula H
+- authtype: Author
+  name: Bockholt J
+- authtype: Author
+  name: Turner JA
+- authtype: Author
+  name: Esper NB
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Plis S
+- authtype: Author
+  name: Calhoun VD
+epubdate: 2023 Jun 19
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1207721'
+pmclivedate: 2023/07/04
+printpubdate: ''
+pubdate: 2023 Jun 19
+sortdate: 2023/06/19 00:00
+source: Front Neuroinform
+title: 'Enhancing collaborative neuroimaging research: introducing COINSTAC Vaults
+  for federated analysis and reproducibility'
+uid: '10315678'
+volume: '17'

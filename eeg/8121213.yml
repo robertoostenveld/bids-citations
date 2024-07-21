@@ -1,0 +1,95 @@
+articleids:
+- idtype: pmid
+  value: '32975150'
+- idtype: doi
+  value: 10.1177/1550059420954054
+- idtype: pmcid
+  value: PMC8121213
+- idtype: MID
+  value: NIHMS1699922
+authors:
+- authtype: Author
+  name: Campanella S
+- authtype: Author
+  name: Arikan K
+- authtype: Author
+  name: Babiloni C
+- authtype: Author
+  name: Balconi M
+- authtype: Author
+  name: Bertollo M
+- authtype: Author
+  name: Betti V
+- authtype: Author
+  name: Bianchi L
+- authtype: Author
+  name: Brunovsky M
+- authtype: Author
+  name: Buttinelli C
+- authtype: Author
+  name: Comani S
+- authtype: Author
+  name: Di Lorenzo G
+- authtype: Author
+  name: Dumalin D
+- authtype: Author
+  name: Escera C
+- authtype: Author
+  name: Fallgatter A
+- authtype: Author
+  name: Fisher D
+- authtype: Author
+  name: Giordano GM
+- authtype: Author
+  name: Guntekin B
+- authtype: Author
+  name: Imperatori C
+- authtype: Author
+  name: Ishii R
+- authtype: Author
+  name: Kajosch H
+- authtype: Author
+  name: Kiang M
+- authtype: Author
+  name: López-Caneda E
+- authtype: Author
+  name: Missonnier P
+- authtype: Author
+  name: Mucci A
+- authtype: Author
+  name: Olbrich S
+- authtype: Author
+  name: Otte G
+- authtype: Author
+  name: Perrottelli A
+- authtype: Author
+  name: Pizzuti A
+- authtype: Author
+  name: Pinal D
+- authtype: Author
+  name: Salisbury D
+- authtype: Author
+  name: Tang Y
+- authtype: Author
+  name: Tisei P
+- authtype: Author
+  name: Wang J
+- authtype: Author
+  name: Winkler I
+- authtype: Author
+  name: Yuan J
+- authtype: Author
+  name: Pogarell O
+epubdate: 2020 Sep 25
+fulljournalname: Clinical EEG and neuroscience
+issue: '1'
+pages: 3-28
+pmclivedate: 2022/01/01
+printpubdate: 2021 Jan
+pubdate: 2020 Sep 25
+sortdate: 2020/09/25 00:00
+source: Clin EEG Neurosci
+title: Special Report on the Impact of the COVID-19 Pandemic on Clinical EEG and Research
+  and Consensus Recommendations for the Safe Use of EEG
+uid: '8121213'
+volume: '52'

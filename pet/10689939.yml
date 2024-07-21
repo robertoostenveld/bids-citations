@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '38045117'
+- idtype: doi
+  value: 10.1016/j.heliyon.2023.e22325
+- idtype: pmcid
+  value: PMC10689939
+authors:
+- authtype: Author
+  name: Siming L
+- authtype: Author
+  name: Abraha A
+epubdate: 2023 Nov 15
+fulljournalname: Heliyon
+issue: '11'
+pages: e22325
+pmclivedate: 2023/12/02
+printpubdate: ''
+pubdate: 2023 Nov 15
+sortdate: 2023/11/15 00:00
+source: Heliyon
+title: Natural science and engineering instructors’ knowledge and practice of brain-based
+  instruction in Ethiopian higher education institutions
+uid: '10689939'
+volume: '9'

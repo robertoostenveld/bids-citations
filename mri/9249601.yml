@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '35789905'
+- idtype: doi
+  value: 10.1016/j.dib.2022.108380
+- idtype: pmcid
+  value: PMC9249601
+authors:
+- authtype: Author
+  name: Zhang B
+- authtype: Author
+  name: Naya Y
+epubdate: 2022 Jun 14
+fulljournalname: Data in Brief
+issue: ''
+pages: '108380'
+pmclivedate: 2022/07/03
+printpubdate: ''
+pubdate: 2022 Jun 14
+sortdate: 2022/06/14 00:00
+source: Data Brief
+title: A dataset of human fMRI/MEG experiments with eye tracking for spatial memory
+  research using virtual reality
+uid: '9249601'
+volume: '43'

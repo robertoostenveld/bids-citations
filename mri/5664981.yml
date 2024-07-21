@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '29152222'
+- idtype: doi
+  value: 10.12688/f1000research.11964.1
+- idtype: pmcid
+  value: PMC5664981
+authors:
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Durnez J
+- authtype: Author
+  name: Poldrack RA
+epubdate: 2017 Sep 22
+fulljournalname: F1000Research
+issue: ''
+pages: '1262'
+pmclivedate: 2017/11/17
+printpubdate: ''
+pubdate: 2017 Sep 22
+sortdate: 2017/09/22 00:00
+source: F1000Res
+title: Preprocessed Consortium for Neuropsychiatric Phenomics dataset
+uid: '5664981'
+volume: '6'

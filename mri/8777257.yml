@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '35069166'
+- idtype: doi
+  value: 10.3389/fninf.2021.766697
+- idtype: pmcid
+  value: PMC8777257
+authors:
+- authtype: Author
+  name: Herbers P
+- authtype: Author
+  name: Calvo I
+- authtype: Author
+  name: Diaz-Pier S
+- authtype: Author
+  name: Robles OD
+- authtype: Author
+  name: Mata S
+- authtype: Author
+  name: Toharia P
+- authtype: Author
+  name: Pastor L
+- authtype: Author
+  name: Peyser A
+- authtype: Author
+  name: Morrison A
+- authtype: Author
+  name: Klijn W
+epubdate: 2022 Jan 7
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '766697'
+pmclivedate: 2022/01/22
+printpubdate: ''
+pubdate: 2022 Jan 7
+sortdate: 2022/01/07 00:00
+source: Front Neuroinform
+title: ConGen—A Simulator-Agnostic Visual Language for Definition and Generation of
+  Connectivity in Large and Multiscale Neural Networks
+uid: '8777257'
+volume: '15'

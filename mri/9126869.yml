@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '35606461'
+- idtype: doi
+  value: 10.1038/s41597-022-01354-x
+- idtype: pmcid
+  value: PMC9126869
+authors:
+- authtype: Author
+  name: Han HB
+- authtype: Author
+  name: Kim B
+- authtype: Author
+  name: Kim Y
+- authtype: Author
+  name: Jeong Y
+- authtype: Author
+  name: Choi JH
+epubdate: 2022 May 23
+fulljournalname: Scientific Data
+issue: ''
+pages: '225'
+pmclivedate: 2022/05/25
+printpubdate: ''
+pubdate: 2022 May 23
+sortdate: 2022/05/23 00:00
+source: Sci Data
+title: Nine-day continuous recording of EEG and 2-hour of high-density EEG under chronic
+  sleep restriction in mice
+uid: '9126869'
+volume: '9'

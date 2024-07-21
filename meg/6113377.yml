@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '30186107'
+- idtype: doi
+  value: 10.3389/fnins.2018.00587
+- idtype: pmcid
+  value: PMC6113377
+authors:
+- authtype: Author
+  name: Jobst C
+- authtype: Author
+  name: Ferrari P
+- authtype: Author
+  name: Isabella S
+- authtype: Author
+  name: Cheyne D
+epubdate: 2018 Aug 22
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '587'
+pmclivedate: 2018/09/05
+printpubdate: ''
+pubdate: 2018 Aug 22
+sortdate: 2018/08/22 00:00
+source: Front Neurosci
+title: 'BrainWave: A Matlab Toolbox for Beamformer Source Analysis of MEG Data'
+uid: '6113377'
+volume: '12'

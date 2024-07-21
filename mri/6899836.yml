@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '31219633'
+- idtype: doi
+  value: 10.1111/ejn.14492
+- idtype: pmcid
+  value: PMC6899836
+authors:
+- authtype: Author
+  name: Martinez-Saito M
+- authtype: Author
+  name: Konovalov R
+- authtype: Author
+  name: Piradov MA
+- authtype: Author
+  name: Shestakova A
+- authtype: Author
+  name: Gutkin B
+- authtype: Author
+  name: Klucharev V
+epubdate: 2019 Jul 29
+fulljournalname: The European Journal of Neuroscience
+issue: '8'
+pages: 3327-3348
+pmclivedate: 2019/12/19
+printpubdate: 2019 Oct
+pubdate: 2019 Jul 29
+sortdate: 2019/07/29 00:00
+source: Eur J Neurosci
+title: 'Action in auctions: neural and computational mechanisms of bidding behaviour'
+uid: '6899836'
+volume: '50'

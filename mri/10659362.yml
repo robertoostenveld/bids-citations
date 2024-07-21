@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '37986896'
+- idtype: doi
+  value: 10.1101/2023.11.07.565473
+- idtype: pmcid
+  value: PMC10659362
+authors:
+- authtype: Author
+  name: Sherafati A
+- authtype: Author
+  name: Bajracharya A
+- authtype: Author
+  name: Jones MS
+- authtype: Author
+  name: Speh E
+- authtype: Author
+  name: Munsi M
+- authtype: Author
+  name: Lin CH
+- authtype: Author
+  name: Fishell AK
+- authtype: Author
+  name: Hershey T
+- authtype: Author
+  name: Eggebrecht AT
+- authtype: Author
+  name: Culver JP
+- authtype: Author
+  name: Peelle JE
+epubdate: 2024 Jan 9
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.11.07.565473
+pmclivedate: 2023/11/20
+printpubdate: ''
+pubdate: 2024 Jan 9
+sortdate: 2024/01/09 00:00
+source: bioRxiv
+title: A high-density diffuse optical tomography dataset of naturalistic viewing
+uid: '10659362'
+volume: ''

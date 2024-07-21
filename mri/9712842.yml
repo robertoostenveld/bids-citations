@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '35922700'
+- idtype: doi
+  value: 10.1007/s10278-022-00679-8
+- idtype: pmcid
+  value: PMC9712842
+authors:
+- authtype: Author
+  name: Bao S
+- authtype: Author
+  name: Boyd BD
+- authtype: Author
+  name: Kanakaraj P
+- authtype: Author
+  name: Ramadass K
+- authtype: Author
+  name: Meyer FA
+- authtype: Author
+  name: Liu Y
+- authtype: Author
+  name: Duett WE
+- authtype: Author
+  name: Huo Y
+- authtype: Author
+  name: Lyu I
+- authtype: Author
+  name: Zald DH
+- authtype: Author
+  name: Smith SA
+- authtype: Author
+  name: Rogers BP
+- authtype: Author
+  name: Landman BA
+epubdate: 2022 Aug 3
+fulljournalname: Journal of Digital Imaging
+issue: '6'
+pages: 1576-1589
+pmclivedate: 2023/12/01
+printpubdate: 2022 Dec
+pubdate: 2022 Aug 3
+sortdate: 2022/08/03 00:00
+source: J Digit Imaging
+title: Integrating the BIDS Neuroimaging Data Format and Workflow Optimization for
+  Large-Scale Medical Image Analysis
+uid: '9712842'
+volume: '35'

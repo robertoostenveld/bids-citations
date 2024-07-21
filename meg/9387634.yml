@@ -1,0 +1,58 @@
+articleids:
+- idtype: pmid
+  value: '34508893'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.118543
+- idtype: pmcid
+  value: PMC9387634
+- idtype: MID
+  value: NIHMS1828958
+authors:
+- authtype: Author
+  name: Elam JS
+- authtype: Author
+  name: Glasser MF
+- authtype: Author
+  name: Harms MP
+- authtype: Author
+  name: Sotiropoulos SN
+- authtype: Author
+  name: Andersson JL
+- authtype: Author
+  name: Burgess GC
+- authtype: Author
+  name: Curtiss SW
+- authtype: Author
+  name: Oostenveld R
+- authtype: Author
+  name: Larson-Prior LJ
+- authtype: Author
+  name: Schoffelen JM
+- authtype: Author
+  name: Hodge MR
+- authtype: Author
+  name: Cler EA
+- authtype: Author
+  name: Marcus DM
+- authtype: Author
+  name: Barch DM
+- authtype: Author
+  name: Yacoub E
+- authtype: Author
+  name: Smith SM
+- authtype: Author
+  name: Ugurbil K
+- authtype: Author
+  name: Van Essen DC
+epubdate: 2021 Sep 8
+fulljournalname: NeuroImage
+issue: ''
+pages: '118543'
+pmclivedate: 2022/08/18
+printpubdate: 2021 Dec 1
+pubdate: 2021 Sep 8
+sortdate: 2021/09/08 00:00
+source: Neuroimage
+title: 'The Human Connectome Project: A Retrospective'
+uid: '9387634'
+volume: '244'

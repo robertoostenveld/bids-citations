@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '33741990'
+- idtype: doi
+  value: 10.1038/s41597-021-00870-6
+- idtype: pmcid
+  value: PMC7979787
+authors:
+- authtype: Author
+  name: Snoek L
+- authtype: Author
+  name: van der Miesen MM
+- authtype: Author
+  name: Beemsterboer T
+- authtype: Author
+  name: van der Leij A
+- authtype: Author
+  name: Eigenhuis A
+- authtype: Author
+  name: Steven Scholte H
+epubdate: 2021 Mar 19
+fulljournalname: Scientific Data
+issue: ''
+pages: '85'
+pmclivedate: 2021/04/12
+printpubdate: ''
+pubdate: 2021 Mar 19
+sortdate: 2021/03/19 00:00
+source: Sci Data
+title: The Amsterdam Open MRI Collection, a set of multimodal MRI datasets for individual
+  difference analyses
+uid: '7979787'
+volume: '8'

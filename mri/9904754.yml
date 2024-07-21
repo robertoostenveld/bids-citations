@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '36748915'
+- idtype: doi
+  value: 10.7554/eLife.84991
+- idtype: pmcid
+  value: PMC9904754
+authors:
+- authtype: Author
+  name: Urai AE
+- authtype: Author
+  name: Kelly C
+epubdate: 2023 Feb 7
+fulljournalname: eLife
+issue: ''
+pages: e84991
+pmclivedate: 2023/02/08
+printpubdate: ''
+pubdate: 2023 Feb 7
+sortdate: 2023/02/07 00:00
+source: eLife
+title: Rethinking academia in a time of climate crisis
+uid: '9904754'
+volume: '12'

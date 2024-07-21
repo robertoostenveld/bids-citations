@@ -1,0 +1,40 @@
+articleids:
+- idtype: pmid
+  value: '36623936'
+- idtype: doi
+  value: 10.1093/brain/awad007
+- idtype: pmcid
+  value: PMC10232272
+authors:
+- authtype: Author
+  name: Bernabei JM
+- authtype: Author
+  name: Li A
+- authtype: Author
+  name: Revell AY
+- authtype: Author
+  name: Smith RJ
+- authtype: Author
+  name: Gunnarsdottir KM
+- authtype: Author
+  name: Ong IZ
+- authtype: Author
+  name: Davis KA
+- authtype: Author
+  name: Sinha N
+- authtype: Author
+  name: Sarma S
+- authtype: Author
+  name: Litt B
+epubdate: 2023 Jan 10
+fulljournalname: Brain
+issue: '6'
+pages: 2248-2258
+pmclivedate: 2024/01/10
+printpubdate: ''
+pubdate: 2023 Jan 10
+sortdate: 2023/01/10 00:00
+source: Brain
+title: Quantitative approaches to guide epilepsy surgery from intracranial EEG
+uid: '10232272'
+volume: '146'

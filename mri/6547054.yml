@@ -1,0 +1,52 @@
+articleids:
+- idtype: pmid
+  value: '30677501'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2019.01.029
+- idtype: pmcid
+  value: PMC6547054
+authors:
+- authtype: Author
+  name: Tabelow K
+- authtype: Author
+  name: Balteau E
+- authtype: Author
+  name: Ashburner J
+- authtype: Author
+  name: Callaghan MF
+- authtype: Author
+  name: Draganski B
+- authtype: Author
+  name: Helms G
+- authtype: Author
+  name: Kherif F
+- authtype: Author
+  name: Leutritz T
+- authtype: Author
+  name: Lutti A
+- authtype: Author
+  name: Phillips C
+- authtype: Author
+  name: Reimer E
+- authtype: Author
+  name: Ruthotto L
+- authtype: Author
+  name: Seif M
+- authtype: Author
+  name: Weiskopf N
+- authtype: Author
+  name: Ziegler G
+- authtype: Author
+  name: Mohammadi S
+epubdate: ''
+fulljournalname: Neuroimage
+issue: ''
+pages: 191-210
+pmclivedate: 2019/07/01
+printpubdate: 2019 Jul 1
+pubdate: 2019 Jul 1
+sortdate: 2019/07/01 00:00
+source: Neuroimage
+title: hMRI – A toolbox for quantitative MRI in neuroscience and clinical research
+uid: '6547054'
+volume: '194'

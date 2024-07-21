@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '35361782'
+- idtype: doi
+  value: 10.1038/s41597-022-01171-2
+- idtype: pmcid
+  value: PMC8971509
+authors:
+- authtype: Author
+  name: Kliemann D
+- authtype: Author
+  name: Adolphs R
+- authtype: Author
+  name: Armstrong T
+- authtype: Author
+  name: Galdi P
+- authtype: Author
+  name: Kahn DA
+- authtype: Author
+  name: Rusch T
+- authtype: Author
+  name: Enkavi AZ
+- authtype: Author
+  name: Liang D
+- authtype: Author
+  name: Lograsso S
+- authtype: Author
+  name: Zhu W
+- authtype: Author
+  name: Yu R
+- authtype: Author
+  name: Nair R
+- authtype: Author
+  name: Paul LK
+- authtype: Author
+  name: Tyszka JM
+epubdate: 2022 Mar 31
+fulljournalname: Scientific Data
+issue: ''
+pages: '138'
+pmclivedate: 2022/04/20
+printpubdate: ''
+pubdate: 2022 Mar 31
+sortdate: 2022/03/31 00:00
+source: Sci Data
+title: Caltech Conte Center, a multimodal data resource for exploring social cognition
+  and decision-making
+uid: '8971509'
+volume: '9'

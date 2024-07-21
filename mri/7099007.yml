@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '32218482'
+- idtype: doi
+  value: 10.1038/s41598-020-62263-w
+- idtype: pmcid
+  value: PMC7099007
+authors:
+- authtype: Author
+  name: Kim Y
+- authtype: Author
+  name: Jiang X
+- authtype: Author
+  name: Giancardo L
+- authtype: Author
+  name: Pena D
+- authtype: Author
+  name: Bukhbinder AS
+- authtype: Author
+  name: Amran AY
+- authtype: Author
+  name: Schulz PE
+- authtype: CollectiveName
+  name: Alzheimer’s Disease Neuroimaging Initiative
+epubdate: 2020 Mar 26
+fulljournalname: Scientific Reports
+issue: ''
+pages: '5527'
+pmclivedate: 2020/03/30
+printpubdate: ''
+pubdate: 2020 Mar 26
+sortdate: 2020/03/26 00:00
+source: Sci Rep
+title: Multimodal Phenotyping of Alzheimer’s Disease with Longitudinal Magnetic Resonance
+  Imaging and Cognitive Function Data
+uid: '7099007'
+volume: '10'

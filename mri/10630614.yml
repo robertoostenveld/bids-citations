@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38020441'
+- idtype: doi
+  value: 10.1016/j.dib.2023.109669
+- idtype: pmcid
+  value: PMC10630614
+authors:
+- authtype: Author
+  name: Horta M
+- authtype: Author
+  name: Polk R
+- authtype: Author
+  name: Ebner NC
+epubdate: 2023 Oct 15
+fulljournalname: Data in Brief
+issue: ''
+pages: '109669'
+pmclivedate: 2023/10/15
+printpubdate: ''
+pubdate: 2023 Oct 15
+sortdate: 2023/10/15 00:00
+source: Data Brief
+title: 'Single dose intranasal oxytocin administration: Data from healthy younger
+  and older adults'
+uid: '10630614'
+volume: '51'

@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '31248918'
+- idtype: doi
+  value: 10.1136/bmjopen-2018-026152
+- idtype: pmcid
+  value: PMC6597644
+authors:
+- authtype: Author
+  name: Seretny M
+- authtype: Author
+  name: Murray SR
+- authtype: Author
+  name: Whitaker L
+- authtype: Author
+  name: Murnane J
+- authtype: Author
+  name: Whalley H
+- authtype: Author
+  name: Pernet C
+- authtype: Author
+  name: Horne AW
+epubdate: 2019 Jun 27
+fulljournalname: BMJ Open
+issue: '6'
+pages: e026152
+pmclivedate: 2019/07/18
+printpubdate: ''
+pubdate: 2019 Jun 27
+sortdate: 2019/06/27 00:00
+source: BMJ Open
+title: 'The use of brain functional magnetic resonance imaging to determine the mechanism
+  of action of gabapentin in managing chronic pelvic pain in women: a pilot study'
+uid: '6597644'
+volume: '9'

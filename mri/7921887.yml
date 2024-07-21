@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '33732435'
+- idtype: doi
+  value: 10.12688/f1000research.27621.1
+- idtype: pmcid
+  value: PMC7921887
+authors:
+- authtype: Author
+  name: Häusler CO
+- authtype: Author
+  name: Hanke M
+epubdate: 2021 Jan 28
+fulljournalname: F1000Research
+issue: ''
+pages: '54'
+pmclivedate: 2021/03/16
+printpubdate: ''
+pubdate: 2021 Jan 28
+sortdate: 2021/01/28 00:00
+source: F1000Res
+title: A studyforrest extension, an annotation of spoken language in the German dubbed
+  movie “Forrest Gump” and its audio-description
+uid: '7921887'
+volume: '10'

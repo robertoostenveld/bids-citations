@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '35137549'
+- idtype: doi
+  value: 10.1002/wcs.1589
+- idtype: pmcid
+  value: PMC9124684
+- idtype: MID
+  value: NIHMS1773569
+authors:
+- authtype: Author
+  name: Dennison JB
+- authtype: Author
+  name: Sazhin D
+- authtype: Author
+  name: Smith DV
+epubdate: 2022 Feb 8
+fulljournalname: Wiley interdisciplinary reviews. Cognitive science
+issue: '3'
+pages: e1589
+pmclivedate: 2023/05/01
+printpubdate: 2022 May
+pubdate: 2022 Feb 8
+sortdate: 2022/02/08 00:00
+source: Wiley Interdiscip Rev Cogn Sci
+title: 'Decision neuroscience and neuroeconomics: Recent progress and ongoing challenges'
+uid: '9124684'
+volume: '13'

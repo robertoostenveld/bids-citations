@@ -1,0 +1,71 @@
+articleids:
+- idtype: pmid
+  value: '34584100'
+- idtype: doi
+  value: 10.1038/s41597-021-01033-3
+- idtype: pmcid
+  value: PMC8479122
+authors:
+- authtype: Author
+  name: Nastase SA
+- authtype: Author
+  name: Liu YF
+- authtype: Author
+  name: Hillman H
+- authtype: Author
+  name: Zadbood A
+- authtype: Author
+  name: Hasenfratz L
+- authtype: Author
+  name: Keshavarzian N
+- authtype: Author
+  name: Chen J
+- authtype: Author
+  name: Honey CJ
+- authtype: Author
+  name: Yeshurun Y
+- authtype: Author
+  name: Regev M
+- authtype: Author
+  name: Nguyen M
+- authtype: Author
+  name: Chang CH
+- authtype: Author
+  name: Baldassano C
+- authtype: Author
+  name: Lositsky O
+- authtype: Author
+  name: Simony E
+- authtype: Author
+  name: Chow MA
+- authtype: Author
+  name: Leong YC
+- authtype: Author
+  name: Brooks PP
+- authtype: Author
+  name: Micciche E
+- authtype: Author
+  name: Choe G
+- authtype: Author
+  name: Goldstein A
+- authtype: Author
+  name: Vanderwal T
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Norman KA
+- authtype: Author
+  name: Hasson U
+epubdate: 2021 Sep 28
+fulljournalname: Scientific Data
+issue: ''
+pages: '250'
+pmclivedate: 2021/10/08
+printpubdate: ''
+pubdate: 2021 Sep 28
+sortdate: 2021/09/28 00:00
+source: Sci Data
+title: The “Narratives” fMRI dataset for evaluating models of naturalistic language
+  comprehension
+uid: '8479122'
+volume: '8'

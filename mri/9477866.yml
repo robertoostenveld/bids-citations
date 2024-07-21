@@ -1,0 +1,54 @@
+articleids:
+- idtype: pmid
+  value: '36109562'
+- idtype: doi
+  value: 10.1038/s41597-022-01682-y
+- idtype: pmcid
+  value: PMC9477866
+authors:
+- authtype: Author
+  name: Royer J
+- authtype: Author
+  name: Rodríguez-Cruces R
+- authtype: Author
+  name: Tavakol S
+- authtype: Author
+  name: Larivière S
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Li Q
+- authtype: Author
+  name: Vos de Wael R
+- authtype: Author
+  name: Paquola C
+- authtype: Author
+  name: Benkarim O
+- authtype: Author
+  name: Park BY
+- authtype: Author
+  name: Lowe AJ
+- authtype: Author
+  name: Margulies D
+- authtype: Author
+  name: Smallwood J
+- authtype: Author
+  name: Bernasconi A
+- authtype: Author
+  name: Bernasconi N
+- authtype: Author
+  name: Frauscher B
+- authtype: Author
+  name: Bernhardt BC
+epubdate: 2022 Sep 15
+fulljournalname: Scientific Data
+issue: ''
+pages: '569'
+pmclivedate: 2022/09/17
+printpubdate: ''
+pubdate: 2022 Sep 15
+sortdate: 2022/09/15 00:00
+source: Sci Data
+title: An Open MRI Dataset For Multiscale Neuroscience
+uid: '9477866'
+volume: '9'

@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '37351785'
+- idtype: doi
+  value: 10.3758/s13428-023-02098-1
+- idtype: pmcid
+  value: PMC10991010
+authors:
+- authtype: Author
+  name: Fink L
+- authtype: Author
+  name: Simola J
+- authtype: Author
+  name: Tavano A
+- authtype: Author
+  name: Lange E
+- authtype: Author
+  name: Wallot S
+- authtype: Author
+  name: Laeng B
+epubdate: 2023 Jun 22
+fulljournalname: Behavior Research Methods
+issue: '3'
+pages: 1376-1412
+pmclivedate: 2024/04/05
+printpubdate: '2024'
+pubdate: 2023 Jun 22
+sortdate: 2023/06/22 00:00
+source: Behav Res Methods
+title: From pre-processing to advanced dynamic modeling of pupil data
+uid: '10991010'
+volume: '56'

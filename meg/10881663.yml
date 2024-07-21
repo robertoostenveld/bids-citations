@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '38389984'
+- idtype: doi
+  value: 10.3389/fpsyt.2024.1304528
+- idtype: pmcid
+  value: PMC10881663
+authors:
+- authtype: Author
+  name: Oberman LM
+- authtype: Author
+  name: Francis SM
+- authtype: Author
+  name: Beynel L
+- authtype: Author
+  name: Hynd M
+- authtype: Author
+  name: Jaime M
+- authtype: Author
+  name: Robins PL
+- authtype: Author
+  name: Deng ZD
+- authtype: Author
+  name: Stout J
+- authtype: Author
+  name: van der Veen JW
+- authtype: Author
+  name: Lisanby SH
+epubdate: 2024 Feb 8
+fulljournalname: Frontiers in Psychiatry
+issue: ''
+pages: '1304528'
+pmclivedate: 2024/02/22
+printpubdate: ''
+pubdate: 2024 Feb 8
+sortdate: 2024/02/08 00:00
+source: Front Psychiatry
+title: Design and methodology for a proof of mechanism study of individualized neuronavigated
+  continuous Theta burst stimulation for auditory processing in adolescents with autism
+  spectrum disorder
+uid: '10881663'
+volume: '15'

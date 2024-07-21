@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '38676053'
+- idtype: doi
+  value: 10.3390/s24082437
+- idtype: pmcid
+  value: PMC11054421
+authors:
+- authtype: Author
+  name: Hernández-Mustieles MA
+- authtype: Author
+  name: Lima-Carmona YE
+- authtype: Author
+  name: Pacheco-Ramírez MA
+- authtype: Author
+  name: Mendoza-Armenta AA
+- authtype: Author
+  name: Romero-Gómez JE
+- authtype: Author
+  name: Cruz-Gómez CF
+- authtype: Author
+  name: Rodríguez-Alvarado DC
+- authtype: Author
+  name: Arceo A
+- authtype: Author
+  name: Cruz-Garza JG
+- authtype: Author
+  name: Ramírez-Moreno MA
+- authtype: Author
+  name: Lozoya-Santos JD
+epubdate: 2024 Apr 11
+fulljournalname: Sensors (Basel, Switzerland)
+issue: '8'
+pages: '2437'
+pmclivedate: 2024/04/28
+printpubdate: ''
+pubdate: 2024 Apr 11
+sortdate: 2024/04/11 00:00
+source: Sensors (Basel)
+title: 'Wearable Biosensor Technology in Education: A Systematic Review'
+uid: '11054421'
+volume: '24'

@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '30325347'
+- idtype: doi
+  value: 10.1038/sdata.2018.205
+- idtype: pmcid
+  value: PMC6190742
+authors:
+- authtype: Author
+  name: Forkel R
+- authtype: Author
+  name: List JM
+- authtype: Author
+  name: Greenhill SJ
+- authtype: Author
+  name: Rzymski C
+- authtype: Author
+  name: Bank S
+- authtype: Author
+  name: Cysouw M
+- authtype: Author
+  name: Hammarström H
+- authtype: Author
+  name: Haspelmath M
+- authtype: Author
+  name: Kaiping GA
+- authtype: Author
+  name: Gray RD
+epubdate: 2018 Oct 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '180205'
+pmclivedate: 2018/10/29
+printpubdate: ''
+pubdate: 2018 Oct 16
+sortdate: 2018/10/16 00:00
+source: Sci Data
+title: Cross-Linguistic Data Formats, advancing data sharing and re-use in comparative
+  linguistics
+uid: '6190742'
+volume: '5'

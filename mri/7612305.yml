@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '34687073'
+- idtype: doi
+  value: 10.1002/mrm.29048
+- idtype: pmcid
+  value: PMC7612305
+- idtype: MID
+  value: EMS140944
+authors:
+- authtype: Author
+  name: Stewart AW
+- authtype: Author
+  name: Robinson SD
+- authtype: Author
+  name: O’Brien K
+- authtype: Author
+  name: Jin J
+- authtype: Author
+  name: Widhalm G
+- authtype: Author
+  name: Hangel G
+- authtype: Author
+  name: Walls A
+- authtype: Author
+  name: Goodwin J
+- authtype: Author
+  name: Eckstein K
+- authtype: Author
+  name: Tourell M
+- authtype: Author
+  name: Morgan C
+- authtype: Author
+  name: Narayanan A
+- authtype: Author
+  name: Barth M
+- authtype: Author
+  name: Bollmann S
+epubdate: 2021 Oct 22
+fulljournalname: Magnetic resonance in medicine
+issue: '3'
+pages: 1289-1300
+pmclivedate: 2022/03/01
+printpubdate: 2022 Mar 1
+pubdate: 2021 Oct 22
+sortdate: 2021/10/22 00:00
+source: Magn Reson Med
+title: 'QSMxT: Robust masking and artifact reduction for quantitative susceptibility
+  mapping'
+uid: '7612305'
+volume: '87'

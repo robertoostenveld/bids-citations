@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '33741933'
+- idtype: doi
+  value: 10.1038/s41467-021-21970-2
+- idtype: pmcid
+  value: PMC7979874
+authors:
+- authtype: Author
+  name: Wittkuhn L
+- authtype: Author
+  name: Schuck NW
+epubdate: 2021 Mar 19
+fulljournalname: Nature Communications
+issue: ''
+pages: '1795'
+pmclivedate: 2021/04/16
+printpubdate: ''
+pubdate: 2021 Mar 19
+sortdate: 2021/03/19 00:00
+source: Nat Commun
+title: Dynamics of fMRI patterns reflect sub-second activation sequences and reveal
+  replay in human visual cortex
+uid: '7979874'
+volume: '12'

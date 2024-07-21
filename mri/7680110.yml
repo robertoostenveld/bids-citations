@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '33219267'
+- idtype: doi
+  value: 10.1038/s41598-020-77272-y
+- idtype: pmcid
+  value: PMC7680110
+authors:
+- authtype: Author
+  name: Van de Winckel A
+- authtype: Author
+  name: De Patre D
+- authtype: Author
+  name: Rigoni M
+- authtype: Author
+  name: Fiecas M
+- authtype: Author
+  name: Hendrickson TJ
+- authtype: Author
+  name: Larson M
+- authtype: Author
+  name: Jagadeesan BD
+- authtype: Author
+  name: Mueller BA
+- authtype: Author
+  name: Elvendahl W
+- authtype: Author
+  name: Streib C
+- authtype: Author
+  name: Ikramuddin F
+- authtype: Author
+  name: Lim KO
+epubdate: 2020 Nov 20
+fulljournalname: Scientific Reports
+issue: ''
+pages: '20278'
+pmclivedate: 2020/11/24
+printpubdate: ''
+pubdate: 2020 Nov 20
+sortdate: 2020/11/20 00:00
+source: Sci Rep
+title: Exploratory study of how Cognitive Multisensory Rehabilitation restores parietal
+  operculum connectivity and improves upper limb movements in chronic stroke
+uid: '7680110'
+volume: '10'

@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '34772996'
+- idtype: doi
+  value: 10.1038/s41598-021-01684-7
+- idtype: pmcid
+  value: PMC8589974
+authors:
+- authtype: Author
+  name: Hontelez S
+- authtype: Author
+  name: Stobernack T
+- authtype: Author
+  name: Pelsser LM
+- authtype: Author
+  name: van Baarlen P
+- authtype: Author
+  name: Frankena K
+- authtype: Author
+  name: Groefsema MM
+- authtype: Author
+  name: Kleerebezem M
+- authtype: Author
+  name: Rodrigues Pereira R
+- authtype: Author
+  name: Postma EM
+- authtype: Author
+  name: Smeets PA
+- authtype: Author
+  name: Stopyra MA
+- authtype: Author
+  name: Zwiers MP
+- authtype: Author
+  name: Aarts E
+epubdate: 2021 Nov 12
+fulljournalname: Scientific Reports
+issue: ''
+pages: '22205'
+pmclivedate: 2021/11/16
+printpubdate: ''
+pubdate: 2021 Nov 12
+sortdate: 2021/11/12 00:00
+source: Sci Rep
+title: 'Correlation between brain function and ADHD symptom changes in children with
+  ADHD following a few-foods diet: an open-label intervention trial'
+uid: '8589974'
+volume: '11'

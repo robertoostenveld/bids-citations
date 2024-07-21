@@ -1,0 +1,83 @@
+articleids:
+- idtype: pmid
+  value: '35839659'
+- idtype: doi
+  value: 10.1016/j.nicl.2022.103106
+- idtype: pmcid
+  value: PMC9421463
+authors:
+- authtype: Author
+  name: Lorenzini L
+- authtype: Author
+  name: Ingala S
+- authtype: Author
+  name: Wink AM
+- authtype: Author
+  name: Kuijer JP
+- authtype: Author
+  name: Wottschel V
+- authtype: Author
+  name: Dijsselhof M
+- authtype: Author
+  name: Sudre CH
+- authtype: Author
+  name: Haller S
+- authtype: Author
+  name: Molinuevo JL
+- authtype: Author
+  name: Gispert JD
+- authtype: Author
+  name: Cash DM
+- authtype: Author
+  name: Thomas DL
+- authtype: Author
+  name: Vos SB
+- authtype: Author
+  name: Prados F
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Wolz R
+- authtype: Author
+  name: Palombit A
+- authtype: Author
+  name: Schwarz AJ
+- authtype: Author
+  name: Chételat G
+- authtype: Author
+  name: Payoux P
+- authtype: Author
+  name: Di Perri C
+- authtype: Author
+  name: Wardlaw JM
+- authtype: Author
+  name: Frisoni GB
+- authtype: Author
+  name: Foley C
+- authtype: Author
+  name: Fox NC
+- authtype: Author
+  name: Ritchie C
+- authtype: Author
+  name: Pernet C
+- authtype: Author
+  name: Waldman A
+- authtype: Author
+  name: Barkhof F
+- authtype: Author
+  name: Mutsaerts HJ
+- authtype: CollectiveName
+  name: for the EPAD consortium
+epubdate: 2022 Jul 7
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '103106'
+pmclivedate: 2022/08/30
+printpubdate: ''
+pubdate: 2022 Jul 7
+sortdate: 2022/07/07 00:00
+source: Neuroimage Clin
+title: The Open-Access European Prevention of Alzheimer’s Dementia (EPAD) MRI dataset
+  and processing workflow
+uid: '9421463'
+volume: '35'

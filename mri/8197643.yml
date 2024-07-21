@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '33906899'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0241-21.2021
+- idtype: pmcid
+  value: PMC8197643
+authors:
+- authtype: Author
+  name: Pelletier G
+- authtype: Author
+  name: Aridan N
+- authtype: Author
+  name: Fellows LK
+- authtype: Author
+  name: Schonberg T
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '23'
+pages: 5056-5068
+pmclivedate: 2021/12/09
+printpubdate: 2021 Jun 9
+pubdate: 2021 Jun 9
+sortdate: 2021/06/09 00:00
+source: J Neurosci
+title: A Preferential Role for Ventromedial Prefrontal Cortex in Assessing “the Value
+  of the Whole” in Multiattribute Object Evaluation
+uid: '8197643'
+volume: '41'

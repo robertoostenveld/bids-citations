@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '31068770'
+- idtype: doi
+  value: 10.3389/fnins.2019.00300
+- idtype: pmcid
+  value: PMC6491835
+authors:
+- authtype: Author
+  name: Henson RN
+- authtype: Author
+  name: Abdulrahman H
+- authtype: Author
+  name: Flandin G
+- authtype: Author
+  name: Litvak V
+epubdate: 2019 Apr 24
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '300'
+pmclivedate: 2019/05/08
+printpubdate: ''
+pubdate: 2019 Apr 24
+sortdate: 2019/04/24 00:00
+source: Front Neurosci
+title: Multimodal Integration of M/EEG and f/MRI Data in SPM12
+uid: '6491835'
+volume: '13'

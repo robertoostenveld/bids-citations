@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '27799907'
+- idtype: doi
+  value: 10.3389/fninf.2016.00042
+- idtype: pmcid
+  value: PMC5065975
+authors:
+- authtype: Author
+  name: Bigdely-Shamlo N
+- authtype: Author
+  name: Cockfield J
+- authtype: Author
+  name: Makeig S
+- authtype: Author
+  name: Rognon T
+- authtype: Author
+  name: La Valle C
+- authtype: Author
+  name: Miyakoshi M
+- authtype: Author
+  name: Robbins KA
+epubdate: 2016 Oct 17
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '42'
+pmclivedate: 2016/10/31
+printpubdate: ''
+pubdate: 2016 Oct 17
+sortdate: 2016/10/17 00:00
+source: Front Neuroinform
+title: 'Hierarchical Event Descriptors (HED): Semi-Structured Tagging for Real-World
+  Events in Large-Scale EEG'
+uid: '5065975'
+volume: '10'

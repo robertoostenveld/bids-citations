@@ -1,0 +1,57 @@
+articleids:
+- idtype: pmid
+  value: '37811778'
+- idtype: doi
+  value: 10.1002/mrm.29869
+- idtype: pmcid
+  value: PMC10950546
+- idtype: MID
+  value: NIHMS1929156
+authors:
+- authtype: Author
+  name: Fan H
+- authtype: Author
+  name: Mutsaerts HJ
+- authtype: Author
+  name: Anazodo U
+- authtype: Author
+  name: Arteaga D
+- authtype: Author
+  name: Baas KP
+- authtype: Author
+  name: Buchanan C
+- authtype: Author
+  name: Camargo A
+- authtype: Author
+  name: Keil VC
+- authtype: Author
+  name: Lin Z
+- authtype: Author
+  name: Lindner T
+- authtype: Author
+  name: Hirschler L
+- authtype: Author
+  name: Hu J
+- authtype: Author
+  name: Padrela BE
+- authtype: Author
+  name: Taghvaei M
+- authtype: Author
+  name: Thomas DL
+- authtype: Author
+  name: Dolui S
+- authtype: Author
+  name: Petr J
+epubdate: 2023 Oct 9
+fulljournalname: Magnetic resonance in medicine
+issue: '5'
+pages: 1787-1802
+pmclivedate: ''
+printpubdate: 2024 May
+pubdate: 2023 Oct 9
+sortdate: 2023/10/09 00:00
+source: Magn Reson Med
+title: 'The ISMRM Open Science Initiative for Perfusion Imaging (OSIPI): ASL Pipeline
+  inventory'
+uid: '10950546'
+volume: '91'

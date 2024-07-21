@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '29405338'
+- idtype: doi
+  value: 10.1002/eat.22829
+- idtype: pmcid
+  value: PMC7449370
+- idtype: MID
+  value: NIHMS1584489
+authors:
+- authtype: Author
+  name: Frank GK
+- authtype: Author
+  name: Favaro A
+- authtype: Author
+  name: Marsh R
+- authtype: Author
+  name: Ehrlich S
+- authtype: Author
+  name: Lawson EA
+epubdate: 2018 Feb 5
+fulljournalname: The International journal of eating disorders
+issue: '3'
+pages: 250-261
+pmclivedate: 2020/08/26
+printpubdate: 2018 Mar
+pubdate: 2018 Feb 5
+sortdate: 2018/02/05 00:00
+source: Int J Eat Disord
+title: Toward valid and reliable brain imaging results in eating disorders
+uid: '7449370'
+volume: '51'

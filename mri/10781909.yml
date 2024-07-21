@@ -1,0 +1,61 @@
+articleids:
+- idtype: pmid
+  value: '38223689'
+- idtype: doi
+  value: 10.1007/s43657-022-00083-w
+- idtype: pmcid
+  value: PMC10781909
+authors:
+- authtype: Author
+  name: Wang C
+- authtype: Author
+  name: Shi Z
+- authtype: Author
+  name: Li Y
+- authtype: Author
+  name: Xia X
+- authtype: Author
+  name: Kuang X
+- authtype: Author
+  name: Qian S
+- authtype: Author
+  name: Xue L
+- authtype: Author
+  name: Lan L
+- authtype: Author
+  name: Wu Y
+- authtype: Author
+  name: Zhang N
+- authtype: Author
+  name: Tao J
+- authtype: Author
+  name: Hu X
+- authtype: Author
+  name: Cao W
+- authtype: Author
+  name: He N
+- authtype: Author
+  name: Guo Y
+- authtype: Author
+  name: Chen W
+- authtype: Author
+  name: Zhang J
+- authtype: Author
+  name: Luo J
+- authtype: Author
+  name: Wang H
+- authtype: Author
+  name: Tian M
+epubdate: 2023 Jan 5
+fulljournalname: Phenomics
+issue: '6'
+pages: 642-656
+pmclivedate: ''
+printpubdate: ''
+pubdate: 2023 Jan 5
+sortdate: 2023/01/05 00:00
+source: Phenomics
+title: Protocol for Brain Magnetic Resonance Imaging and Extraction of Imaging-Derived
+  Phenotypes from the China Phenobank Project
+uid: '10781909'
+volume: '3'

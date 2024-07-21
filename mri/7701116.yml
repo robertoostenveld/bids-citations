@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '33304261'
+- idtype: doi
+  value: 10.3389/fninf.2020.594799
+- idtype: pmcid
+  value: PMC7701116
+authors:
+- authtype: Author
+  name: Brossard C
+- authtype: Author
+  name: Montigon O
+- authtype: Author
+  name: Boux F
+- authtype: Author
+  name: Delphin A
+- authtype: Author
+  name: Christen T
+- authtype: Author
+  name: Barbier EL
+- authtype: Author
+  name: Lemasson B
+epubdate: 2020 Nov 16
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '594799'
+pmclivedate: 2020/12/09
+printpubdate: ''
+pubdate: 2020 Nov 16
+sortdate: 2020/11/16 00:00
+source: Front Neuroinform
+title: 'MP3: Medical Software for Processing Multi-Parametric Images Pipelines'
+uid: '7701116'
+volume: '14'

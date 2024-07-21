@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '38609484'
+- idtype: doi
+  value: 10.1038/s44184-022-00006-7
+- idtype: pmcid
+  value: PMC10955890
+authors:
+- authtype: Author
+  name: Shany O
+- authtype: Author
+  name: Gurevitch G
+- authtype: Author
+  name: Gilam G
+- authtype: Author
+  name: Dunsky N
+- authtype: Author
+  name: Reznik Balter S
+- authtype: Author
+  name: Greental A
+- authtype: Author
+  name: Nutkevitch N
+- authtype: Author
+  name: Eldar E
+- authtype: Author
+  name: Hendler T
+epubdate: 2022 Jul 8
+fulljournalname: NPJ Mental Health Research
+issue: ''
+pages: '6'
+pmclivedate: 2024/04/09
+printpubdate: ''
+pubdate: 2022 Jul 8
+sortdate: 2022/07/08 00:00
+source: Npj Ment Health Res
+title: A corticostriatal pathway mediating self-efficacy enhancement
+uid: '10955890'
+volume: '1'

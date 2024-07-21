@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '38566510'
+- idtype: doi
+  value: 10.1093/cercor/bhae123
+- idtype: pmcid
+  value: PMC10987970
+authors:
+- authtype: Author
+  name: Schneider JM
+- authtype: Author
+  name: Scott TL
+- authtype: Author
+  name: Legault J
+- authtype: Author
+  name: Qi Z
+epubdate: 2024 Apr 2
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '4'
+pages: bhae123
+pmclivedate: ''
+printpubdate: ''
+pubdate: 2024 Apr 2
+sortdate: 2024/04/02 00:00
+source: Cereb Cortex
+title: Limited but specific engagement of the mature language network during linguistic
+  statistical learning
+uid: '10987970'
+volume: '34'

@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '36240768'
+- idtype: doi
+  value: 10.1016/j.neuron.2022.09.019
+- idtype: pmcid
+  value: PMC9768795
+- idtype: MID
+  value: NIHMS1837511
+authors:
+- authtype: Author
+  name: Miller JA
+- authtype: Author
+  name: Tambini A
+- authtype: Author
+  name: Kiyonaga A
+- authtype: Author
+  name: D’Esposito M
+epubdate: 2022 Oct 13
+fulljournalname: Neuron
+issue: '22'
+pages: 3805-3819.e6
+pmclivedate: 2023/11/16
+printpubdate: 2022 Nov 16
+pubdate: 2022 Oct 13
+sortdate: 2022/10/13 00:00
+source: Neuron
+title: Long-term learning transforms prefrontal cortex representations during working
+  memory
+uid: '9768795'
+volume: '110'

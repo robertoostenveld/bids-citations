@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '28360851'
+- idtype: doi
+  value: 10.3389/fninf.2017.00018
+- idtype: pmcid
+  value: PMC5352661
+authors:
+- authtype: Author
+  name: Grigis A
+- authtype: Author
+  name: Goyard D
+- authtype: Author
+  name: Cherbonnier R
+- authtype: Author
+  name: Gareau T
+- authtype: Author
+  name: Papadopoulos Orfanos D
+- authtype: Author
+  name: Chauvat N
+- authtype: Author
+  name: Di Mascio A
+- authtype: Author
+  name: Schumann G
+- authtype: Author
+  name: Spooren W
+- authtype: Author
+  name: Murphy D
+- authtype: Author
+  name: Frouin V
+epubdate: 2017 Mar 16
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '18'
+pmclivedate: 2017/03/30
+printpubdate: ''
+pubdate: 2017 Mar 16
+sortdate: 2017/03/16 00:00
+source: Front Neuroinform
+title: Neuroimaging, Genetics, and Clinical Data Sharing in Python Using the CubicWeb
+  Framework
+uid: '5352661'
+volume: '11'

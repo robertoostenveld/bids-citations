@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '34848298'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.118766
+- idtype: pmcid
+  value: PMC8925904
+- idtype: MID
+  value: NIHMS1770954
+authors:
+- authtype: Author
+  name: Robbins K
+- authtype: Author
+  name: Truong D
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Delorme A
+- authtype: Author
+  name: Makeig S
+epubdate: 2021 Nov 27
+fulljournalname: NeuroImage
+issue: ''
+pages: '118766'
+pmclivedate: 2022/03/16
+printpubdate: 2021 Dec 15
+pubdate: 2021 Nov 27
+sortdate: 2021/11/27 00:00
+source: Neuroimage
+title: Capturing the nature of events and event context using hierarchical event descriptors
+  (HED)
+uid: '8925904'
+volume: '245'

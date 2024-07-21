@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '38869373'
+- idtype: doi
+  value: 10.1167/jov.24.6.10
+- idtype: pmcid
+  value: PMC11185268
+authors:
+- authtype: Author
+  name: Thielen J
+- authtype: Author
+  name: van Leeuwen TM
+- authtype: Author
+  name: Hazenberg SJ
+- authtype: Author
+  name: Wester AZ
+- authtype: Author
+  name: de Lange FP
+- authtype: Author
+  name: van Lier R
+epubdate: 2024 Jun 13
+fulljournalname: Journal of Vision
+issue: '6'
+pages: '10'
+pmclivedate: 2024/06/18
+printpubdate: ''
+pubdate: 2024 Jun 13
+sortdate: 2024/06/13 00:00
+source: J Vis
+title: 'Amodal completion across the brain: The impact of structure and knowledge'
+uid: '11185268'
+volume: '24'

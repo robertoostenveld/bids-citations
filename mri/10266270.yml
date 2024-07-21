@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '36958618'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2023.120038
+- idtype: pmcid
+  value: PMC10266270
+- idtype: MID
+  value: NIHMS1891316
+authors:
+- authtype: Author
+  name: Zvolanek KM
+- authtype: Author
+  name: Moia S
+- authtype: Author
+  name: Dean JN
+- authtype: Author
+  name: Stickland RC
+- authtype: Author
+  name: Caballero-Gaudes C
+- authtype: Author
+  name: Bright MG
+epubdate: 2023 Mar 22
+fulljournalname: NeuroImage
+issue: ''
+pages: '120038'
+pmclivedate: 2023/06/14
+printpubdate: 2023 May 15
+pubdate: 2023 Mar 22
+sortdate: 2023/03/22 00:00
+source: Neuroimage
+title: Comparing end-tidal CO2, respiration volume per time (RVT), and average gray
+  matter signal for mapping cerebrovascular reactivity amplitude and delay with breath-hold
+  task BOLD fMRI
+uid: '10266270'
+volume: '272'

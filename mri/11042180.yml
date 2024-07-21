@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '38659957'
+- idtype: doi
+  value: 10.1101/2024.04.11.589111
+- idtype: pmcid
+  value: PMC11042180
+authors:
+- authtype: Author
+  name: Woodry R
+- authtype: Author
+  name: Curtis CE
+- authtype: Author
+  name: Winawer J
+epubdate: 2024 Apr 15
+fulljournalname: bioRxiv
+issue: ''
+pages: 2024.04.11.589111
+pmclivedate: 2024/04/25
+printpubdate: ''
+pubdate: 2024 Apr 15
+sortdate: 2024/04/15 00:00
+source: bioRxiv
+title: Feedback scales the spatial tuning of cortical responses during visual memory
+uid: '11042180'
+volume: ''

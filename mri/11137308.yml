@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '38818032'
+- idtype: doi
+  value: 10.3389/fnhum.2024.1382959
+- idtype: pmcid
+  value: PMC11137308
+authors:
+- authtype: Author
+  name: Papin LJ
+- authtype: Author
+  name: Esche M
+- authtype: Author
+  name: Scanlon JE
+- authtype: Author
+  name: Jacobsen NS
+- authtype: Author
+  name: Debener S
+epubdate: 2024 May 16
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '1382959'
+pmclivedate: 2024/05/30
+printpubdate: ''
+pubdate: 2024 May 16
+sortdate: 2024/05/16 00:00
+source: Front Hum Neurosci
+title: Investigating cognitive-motor effects during slacklining using mobile EEG
+uid: '11137308'
+volume: '18'

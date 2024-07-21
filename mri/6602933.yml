@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '31263104'
+- idtype: doi
+  value: 10.1038/s41597-019-0113-7
+- idtype: pmcid
+  value: PMC6602933
+authors:
+- authtype: Author
+  name: Botvinik-Nezer R
+- authtype: Author
+  name: Iwanir R
+- authtype: Author
+  name: Holzmeister F
+- authtype: Author
+  name: Huber J
+- authtype: Author
+  name: Johannesson M
+- authtype: Author
+  name: Kirchler M
+- authtype: Author
+  name: Dreber A
+- authtype: Author
+  name: Camerer CF
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Schonberg T
+epubdate: 2019 Jul 1
+fulljournalname: Scientific Data
+issue: ''
+pages: '106'
+pmclivedate: 2019/07/02
+printpubdate: ''
+pubdate: 2019 Jul 1
+sortdate: 2019/07/01 00:00
+source: Sci Data
+title: fMRI data of mixed gambles from the Neuroimaging Analysis Replication and Prediction
+  Study
+uid: '6602933'
+volume: '6'

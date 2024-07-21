@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '31408106'
+- idtype: doi
+  value: 10.1093/cercor/bhz132
+- idtype: pmcid
+  value: PMC7132905
+authors:
+- authtype: Author
+  name: Botvinik-Nezer R
+- authtype: Author
+  name: Salomon T
+- authtype: Author
+  name: Schonberg T
+epubdate: 2019 Aug 13
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '3'
+pages: 858-874
+pmclivedate: 2020/04/09
+printpubdate: 2020 Mar
+pubdate: 2019 Aug 13
+sortdate: 2019/08/13 00:00
+source: Cereb Cortex
+title: Enhanced Bottom-Up and Reduced Top-Down fMRI Activity Is Related to Long-Lasting
+  Nonreinforced Behavioral Change
+uid: '7132905'
+volume: '30'

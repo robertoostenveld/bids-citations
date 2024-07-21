@@ -1,0 +1,63 @@
+articleids:
+- idtype: pmid
+  value: '37274750'
+- idtype: doi
+  value: 10.3389/fninf.2023.1158378
+- idtype: pmcid
+  value: PMC10233014
+authors:
+- authtype: Author
+  name: Behan B
+- authtype: Author
+  name: Jeanson F
+- authtype: Author
+  name: Cheema H
+- authtype: Author
+  name: Eng D
+- authtype: Author
+  name: Khimji F
+- authtype: Author
+  name: Vaccarino AL
+- authtype: Author
+  name: Gee T
+- authtype: Author
+  name: Evans SG
+- authtype: Author
+  name: MacPhee FC
+- authtype: Author
+  name: Dong F
+- authtype: Author
+  name: Shahnazari S
+- authtype: Author
+  name: Sparks A
+- authtype: Author
+  name: Martens E
+- authtype: Author
+  name: Lasalandra B
+- authtype: Author
+  name: Arnott SR
+- authtype: Author
+  name: Strother SC
+- authtype: Author
+  name: Javadi M
+- authtype: Author
+  name: Dharsee M
+- authtype: Author
+  name: Evans KR
+- authtype: Author
+  name: Nylen K
+- authtype: Author
+  name: Mikkelsen T
+epubdate: 2023 May 18
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1158378'
+pmclivedate: 2023/06/02
+printpubdate: ''
+pubdate: 2023 May 18
+sortdate: 2023/05/18 00:00
+source: Front Neuroinform
+title: 'FAIR in action: Brain-CODE - A neuroscience data sharing platform to accelerate
+  brain research'
+uid: '10233014'
+volume: '17'

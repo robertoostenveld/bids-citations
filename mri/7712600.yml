@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '33293909'
+- idtype: doi
+  value: 10.1007/s40846-020-00582-z
+- idtype: pmcid
+  value: PMC7712600
+authors:
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Booth T
+- authtype: Author
+  name: Borovečki F
+- authtype: Author
+  name: Emblem KE
+- authtype: Author
+  name: Figueiredo P
+- authtype: Author
+  name: Hirschler L
+- authtype: Author
+  name: Jančálek R
+- authtype: Author
+  name: Keil VC
+- authtype: Author
+  name: Maumet C
+- authtype: Author
+  name: Özsunar Y
+- authtype: Author
+  name: Pernet C
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Pinto J
+- authtype: Author
+  name: Smits M
+- authtype: Author
+  name: Warnert EA
+epubdate: 2020 Dec 3
+fulljournalname: Journal of Medical and Biological Engineering
+issue: '2'
+pages: 115-125
+pmclivedate: 2020/12/04
+printpubdate: '2021'
+pubdate: 2020 Dec 3
+sortdate: 2020/12/03 00:00
+source: J Med Biol Eng
+title: 'GliMR: Cross-Border Collaborations to Promote Advanced MRI Biomarkers for
+  Glioma'
+uid: '7712600'
+volume: '41'

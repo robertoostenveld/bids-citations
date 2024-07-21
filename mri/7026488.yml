@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '32116629'
+- idtype: doi
+  value: 10.3389/fninf.2020.00005
+- idtype: pmcid
+  value: PMC7026488
+authors:
+- authtype: Author
+  name: Ioanas HI
+- authtype: Author
+  name: Marks M
+- authtype: Author
+  name: Garin CM
+- authtype: Author
+  name: Dhenain M
+- authtype: Author
+  name: Yanik MF
+- authtype: Author
+  name: Rudin M
+epubdate: 2020 Feb 11
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '5'
+pmclivedate: 2020/02/28
+printpubdate: ''
+pubdate: 2020 Feb 11
+sortdate: 2020/02/11 00:00
+source: Front Neuroinform
+title: An Automated Open-Source Workflow for Standards-Compliant Integration of Small
+  Animal Magnetic Resonance Imaging Data
+uid: '7026488'
+volume: '14'

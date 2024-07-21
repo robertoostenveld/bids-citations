@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '37699009'
+- idtype: doi
+  value: 10.1093/bioinformatics/btad568
+- idtype: pmcid
+  value: PMC10562951
+authors:
+- authtype: Author
+  name: Nadtochiy A
+- authtype: Author
+  name: Luu P
+- authtype: Author
+  name: Fraser SE
+- authtype: Author
+  name: Truong TV
+epubdate: 2023 Sep 12
+fulljournalname: Bioinformatics
+issue: '9'
+pages: btad568
+pmclivedate: 2023/10/11
+printpubdate: ''
+pubdate: 2023 Sep 12
+sortdate: 2023/09/12 00:00
+source: Bioinformatics
+title: 'VoDEx: a Python library for time annotation and management of volumetric functional
+  imaging data'
+uid: '10562951'
+volume: '39'

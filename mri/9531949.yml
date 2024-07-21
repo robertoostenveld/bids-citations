@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '36193886'
+- idtype: doi
+  value: 10.7554/eLife.78362
+- idtype: pmcid
+  value: PMC9531949
+authors:
+- authtype: Author
+  name: Rübel O
+- authtype: Author
+  name: Tritt A
+- authtype: Author
+  name: Ly R
+- authtype: Author
+  name: Dichter BK
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Niu L
+- authtype: Author
+  name: Baker P
+- authtype: Author
+  name: Soltesz I
+- authtype: Author
+  name: Ng L
+- authtype: Author
+  name: Svoboda K
+- authtype: Author
+  name: Frank L
+- authtype: Author
+  name: Bouchard KE
+epubdate: 2022 Oct 4
+fulljournalname: eLife
+issue: ''
+pages: e78362
+pmclivedate: 2022/10/05
+printpubdate: ''
+pubdate: 2022 Oct 4
+sortdate: 2022/10/04 00:00
+source: eLife
+title: The Neurodata Without Borders ecosystem for neurophysiological data science
+uid: '9531949'
+volume: '11'

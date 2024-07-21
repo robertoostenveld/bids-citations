@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '30956880'
+- idtype: doi
+  value: 10.1007/s13534-018-00093-6
+- idtype: pmcid
+  value: PMC6431319
+authors:
+- authtype: Author
+  name: Casson AJ
+epubdate: 2019 Jan 4
+fulljournalname: Biomedical Engineering Letters
+issue: '1'
+pages: 53-71
+pmclivedate: 2020/01/04
+printpubdate: ''
+pubdate: 2019 Jan 4
+sortdate: 2019/01/04 00:00
+source: Biomed Eng Lett
+title: Wearable EEG and beyond
+uid: '6431319'
+volume: '9'

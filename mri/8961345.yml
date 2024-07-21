@@ -1,0 +1,56 @@
+articleids:
+- idtype: pmid
+  value: '35285810'
+- idtype: doi
+  value: 10.2196/32352
+- idtype: pmcid
+  value: PMC8961345
+authors:
+- authtype: Author
+  name: Gajewski PD
+- authtype: Author
+  name: Getzmann S
+- authtype: Author
+  name: Bröde P
+- authtype: Author
+  name: Burke M
+- authtype: Author
+  name: Cadenas C
+- authtype: Author
+  name: Capellino S
+- authtype: Author
+  name: Claus M
+- authtype: Author
+  name: Genç E
+- authtype: Author
+  name: Golka K
+- authtype: Author
+  name: Hengstler JG
+- authtype: Author
+  name: Kleinsorge T
+- authtype: Author
+  name: Marchan R
+- authtype: Author
+  name: Nitsche MA
+- authtype: Author
+  name: Reinders J
+- authtype: Author
+  name: van Thriel C
+- authtype: Author
+  name: Watzl C
+- authtype: Author
+  name: Wascher E
+epubdate: 2022 Mar 14
+fulljournalname: JMIR Research Protocols
+issue: '3'
+pages: e32352
+pmclivedate: 2022/03/30
+printpubdate: ''
+pubdate: 2022 Mar 14
+sortdate: 2022/03/14 00:00
+source: JMIR Res Protoc
+title: 'Impact of Biological and Lifestyle Factors on Cognitive Aging and Work Ability
+  in the Dortmund Vital Study: Protocol of an Interdisciplinary, Cross-sectional,
+  and Longitudinal Study'
+uid: '8961345'
+volume: '11'

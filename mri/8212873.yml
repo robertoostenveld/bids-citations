@@ -1,0 +1,57 @@
+articleids:
+- idtype: pmid
+  value: '34143875'
+- idtype: doi
+  value: 10.1093/gigascience/giab043
+- idtype: pmcid
+  value: PMC8212873
+authors:
+- authtype: Author
+  name: Averta G
+- authtype: Author
+  name: Barontini F
+- authtype: Author
+  name: Catrambone V
+- authtype: Author
+  name: Haddadin S
+- authtype: Author
+  name: Handjaras G
+- authtype: Author
+  name: Held JP
+- authtype: Author
+  name: Hu T
+- authtype: Author
+  name: Jakubowitz E
+- authtype: Author
+  name: Kanzler CM
+- authtype: Author
+  name: Kühn J
+- authtype: Author
+  name: Lambercy O
+- authtype: Author
+  name: Leo A
+- authtype: Author
+  name: Obermeier A
+- authtype: Author
+  name: Ricciardi E
+- authtype: Author
+  name: Schwarz A
+- authtype: Author
+  name: Valenza G
+- authtype: Author
+  name: Bicchi A
+- authtype: Author
+  name: Bianchi M
+epubdate: 2021 Jun 18
+fulljournalname: GigaScience
+issue: '6'
+pages: giab043
+pmclivedate: 2021/06/21
+printpubdate: ''
+pubdate: 2021 Jun 18
+sortdate: 2021/06/18 00:00
+source: Gigascience
+title: 'U-Limb: A multi-modal, multi-center database on arm motion control in healthy
+  and post-stroke conditions'
+uid: '8212873'
+volume: '10'

@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '36325430'
+- idtype: doi
+  value: 10.3389/fnhum.2022.995534
+- idtype: pmcid
+  value: PMC9619053
+authors:
+- authtype: Author
+  name: Bel-Bahar TS
+- authtype: Author
+  name: Khan AA
+- authtype: Author
+  name: Shaik RB
+- authtype: Author
+  name: Parvaz MA
+epubdate: 2022 Oct 17
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '995534'
+pmclivedate: 2022/11/01
+printpubdate: ''
+pubdate: 2022 Oct 17
+sortdate: 2022/10/17 00:00
+source: Front Hum Neurosci
+title: A scoping review of electroencephalographic (EEG) markers for tracking neurophysiological
+  changes and predicting outcomes in substance use disorder treatment
+uid: '9619053'
+volume: '16'

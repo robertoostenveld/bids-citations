@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '36328066'
+- idtype: doi
+  value: 10.1016/j.brainres.2022.148143
+- idtype: pmcid
+  value: PMC10657642
+- idtype: MID
+  value: NIHMS1930260
+authors:
+- authtype: Author
+  name: Ricupero S
+- authtype: Author
+  name: Carpenter CM
+- authtype: Author
+  name: Steinkrauss AC
+- authtype: Author
+  name: Gerver CR
+- authtype: Author
+  name: Chamberlain JD
+- authtype: Author
+  name: Monkman RG
+- authtype: Author
+  name: Overman AA
+- authtype: Author
+  name: Dennis NA
+epubdate: 2022 Nov 1
+fulljournalname: Brain research
+issue: ''
+pages: '148143'
+pmclivedate: 2023/11/19
+printpubdate: 2023 Jan 1
+pubdate: 2022 Nov 1
+sortdate: 2022/11/01 00:00
+source: Brain Res
+title: Neural distinctiveness and reinstatement of hippocampal representations support
+  unitization for associations
+uid: '10657642'
+volume: '1798'

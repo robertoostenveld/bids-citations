@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38332362'
+- idtype: doi
+  value: 10.1186/s41747-023-00415-z
+- idtype: pmcid
+  value: PMC10853141
+authors:
+- authtype: Author
+  name: Wulms N
+- authtype: Author
+  name: Kugel H
+- authtype: Author
+  name: Cnyrim C
+- authtype: Author
+  name: Tenberge A
+- authtype: Author
+  name: Schwindt W
+- authtype: Author
+  name: Dannlowski U
+- authtype: Author
+  name: Berger K
+- authtype: Author
+  name: Sundermann B
+- authtype: Author
+  name: Minnerup H
+epubdate: 2024 Feb 9
+fulljournalname: European Radiology Experimental
+issue: ''
+pages: '16'
+pmclivedate: 2024/02/09
+printpubdate: ''
+pubdate: 2024 Feb 9
+sortdate: 2024/02/09 00:00
+source: Eur Radiol Exp
+title: 'Cerebral MRI in a prospective cohort study on depression and atherosclerosis:
+  the BiDirect sample, processing pipelines, and analysis tools'
+uid: '10853141'
+volume: '8'

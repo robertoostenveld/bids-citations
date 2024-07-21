@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '34054451'
+- idtype: doi
+  value: 10.3389/fninf.2021.676603
+- idtype: pmcid
+  value: PMC8158807
+authors:
+- authtype: Author
+  name: Dojat M
+- authtype: Author
+  name: Bjaalie JG
+- authtype: Author
+  name: Barbier EL
+epubdate: 2021 May 13
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '676603'
+pmclivedate: 2021/05/28
+printpubdate: ''
+pubdate: 2021 May 13
+sortdate: 2021/05/13 00:00
+source: Front Neuroinform
+title: 'Editorial: APPNING: Animal Population Imaging'
+uid: '8158807'
+volume: '15'

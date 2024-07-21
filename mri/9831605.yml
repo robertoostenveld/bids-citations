@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '36519725'
+- idtype: doi
+  value: 10.7554/eLife.77945
+- idtype: pmcid
+  value: PMC9831605
+authors:
+- authtype: Author
+  name: DeKraker J
+- authtype: Author
+  name: Haast RA
+- authtype: Author
+  name: Yousif MD
+- authtype: Author
+  name: Karat B
+- authtype: Author
+  name: Lau JC
+- authtype: Author
+  name: Köhler S
+- authtype: Author
+  name: Khan AR
+epubdate: 2022 Dec 15
+fulljournalname: eLife
+issue: ''
+pages: e77945
+pmclivedate: 2023/01/11
+printpubdate: ''
+pubdate: 2022 Dec 15
+sortdate: 2022/12/15 00:00
+source: eLife
+title: Automated hippocampal unfolding for morphometry and subfield segmentation with
+  HippUnfold
+uid: '9831605'
+volume: '11'

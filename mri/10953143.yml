@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '38504179'
+- idtype: doi
+  value: 10.1186/s12880-024-01242-3
+- idtype: pmcid
+  value: PMC10953143
+authors:
+- authtype: Author
+  name: Bottani S
+- authtype: Author
+  name: Thibeau-Sutre E
+- authtype: Author
+  name: Maire A
+- authtype: Author
+  name: Ströer S
+- authtype: Author
+  name: Dormont D
+- authtype: Author
+  name: Colliot O
+- authtype: Author
+  name: Burgos N
+- authtype: CollectiveName
+  name: APPRIMAGE Study Group
+epubdate: 2024 Mar 20
+fulljournalname: BMC Medical Imaging
+issue: ''
+pages: '67'
+pmclivedate: 2024/03/20
+printpubdate: ''
+pubdate: 2024 Mar 20
+sortdate: 2024/03/20 00:00
+source: BMC Med Imaging
+title: Contrast-enhanced to non-contrast-enhanced image translation to exploit a clinical
+  data warehouse of T1-weighted brain MRI
+uid: '10953143'
+volume: '24'

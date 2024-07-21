@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38897936'
+- idtype: doi
+  value: 10.2463/mrms.rev.2023-0174
+- idtype: pmcid
+  value: PMC11234949
+authors:
+- authtype: Author
+  name: Karakuzu A
+- authtype: Author
+  name: Boudreau M
+- authtype: Author
+  name: Stikov N
+epubdate: 2024 Jun 19
+fulljournalname: Magnetic Resonance in Medical Sciences
+issue: '3'
+pages: 252-267
+pmclivedate: 2024/07/11
+printpubdate: ''
+pubdate: 2024 Jun 19
+sortdate: 2024/06/19 00:00
+source: Magn Reson Med Sci
+title: 'Reproducible Research Practices in Magnetic Resonance Neuroimaging: A Review
+  Informed by Advanced Language Models'
+uid: '11234949'
+volume: '23'

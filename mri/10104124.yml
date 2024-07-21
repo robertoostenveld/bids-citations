@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '37066263'
+- idtype: doi
+  value: 10.1101/2023.04.06.535935
+- idtype: pmcid
+  value: PMC10104124
+authors:
+- authtype: Author
+  name: Tambini A
+- authtype: Author
+  name: Miller J
+- authtype: Author
+  name: Ehlert L
+- authtype: Author
+  name: Kiyonaga A
+- authtype: Author
+  name: D’Esposito M
+epubdate: 2023 Apr 7
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.04.06.535935
+pmclivedate: 2023/04/15
+printpubdate: ''
+pubdate: 2023 Apr 7
+sortdate: 2023/04/07 00:00
+source: bioRxiv
+title: Structured memory representations develop at multiple time scales in hippocampal-cortical
+  networks
+uid: '10104124'
+volume: ''

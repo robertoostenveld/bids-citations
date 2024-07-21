@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '38951528'
+- idtype: doi
+  value: 10.1038/s41531-024-00731-0
+- idtype: pmcid
+  value: PMC11217278
+authors:
+- authtype: Author
+  name: Alushaj E
+- authtype: Author
+  name: Hemachandra D
+- authtype: Author
+  name: Ganjavi H
+- authtype: Author
+  name: Seergobin KN
+- authtype: Author
+  name: Sharma M
+- authtype: Author
+  name: Kashgari A
+- authtype: Author
+  name: Barr J
+- authtype: Author
+  name: Reisman W
+- authtype: Author
+  name: Khan AR
+- authtype: Author
+  name: MacDonald PA
+epubdate: 2024 Jun 29
+fulljournalname: NPJ Parkinson's Disease
+issue: ''
+pages: '128'
+pmclivedate: 2024/07/02
+printpubdate: ''
+pubdate: 2024 Jun 29
+sortdate: 2024/06/29 00:00
+source: NPJ Parkinsons Dis
+title: Increased mean diffusivity of the caudal motor SNc identifies patients with
+  REM sleep behaviour disorder and Parkinson’s disease
+uid: '11217278'
+volume: '10'

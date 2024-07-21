@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '37794076'
+- idtype: doi
+  value: 10.1038/s41597-023-02583-4
+- idtype: pmcid
+  value: PMC10551001
+authors:
+- authtype: Author
+  name: Wulms N
+- authtype: Author
+  name: Eppe S
+- authtype: Author
+  name: Dehghan-Nayyeri M
+- authtype: Author
+  name: Streeter AJ
+- authtype: Author
+  name: Bonberg N
+- authtype: Author
+  name: Berger K
+- authtype: Author
+  name: Sundermann B
+- authtype: Author
+  name: Minnerup H
+epubdate: 2023 Oct 4
+fulljournalname: Scientific Data
+issue: ''
+pages: '673'
+pmclivedate: 2023/10/06
+printpubdate: ''
+pubdate: 2023 Oct 4
+sortdate: 2023/10/04 00:00
+source: Sci Data
+title: The R package for DICOM to brain imaging data structure conversion
+uid: '10551001'
+volume: '10'

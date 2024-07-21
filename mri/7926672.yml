@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '33672259'
+- idtype: doi
+  value: 10.3390/jcm10040892
+- idtype: pmcid
+  value: PMC7926672
+authors:
+- authtype: Author
+  name: Ost K
+- authtype: Author
+  name: Jacobs WB
+- authtype: Author
+  name: Evaniew N
+- authtype: Author
+  name: Cohen-Adad J
+- authtype: Author
+  name: Anderson D
+- authtype: Author
+  name: Cadotte DW
+epubdate: 2021 Feb 23
+fulljournalname: Journal of Clinical Medicine
+issue: '4'
+pages: '892'
+pmclivedate: 2021/03/04
+printpubdate: ''
+pubdate: 2021 Feb 23
+sortdate: 2021/02/23 00:00
+source: J Clin Med
+title: Spinal Cord Morphology in Degenerative Cervical Myelopathy Patients; Assessing
+  Key Morphological Characteristics Using Machine Vision Tools
+uid: '7926672'
+volume: '10'

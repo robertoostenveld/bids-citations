@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '37536971'
+- idtype: doi
+  value: 10.1136/bmjopen-2023-072094
+- idtype: pmcid
+  value: PMC10401246
+authors:
+- authtype: Author
+  name: Crook-Rumsey M
+- authtype: Author
+  name: Daniels SJ
+- authtype: Author
+  name: Abulikemu S
+- authtype: Author
+  name: Lai H
+- authtype: Author
+  name: Rapeaux A
+- authtype: Author
+  name: Hadjipanayi C
+- authtype: Author
+  name: Soreq E
+- authtype: Author
+  name: Li LM
+- authtype: Author
+  name: Bashford J
+- authtype: Author
+  name: Jeyasingh-Jacob J
+- authtype: Author
+  name: Gruia DC
+- authtype: Author
+  name: Lambert D
+- authtype: Author
+  name: Weil R
+- authtype: Author
+  name: Hampshire A
+- authtype: Author
+  name: Sharp DJ
+- authtype: Author
+  name: Haar S
+epubdate: 2023 Aug 3
+fulljournalname: BMJ Open
+issue: '8'
+pages: e072094
+pmclivedate: 2023/08/05
+printpubdate: ''
+pubdate: 2023 Aug 3
+sortdate: 2023/08/03 00:00
+source: BMJ Open
+title: 'Multicohort cross-sectional study of cognitive and behavioural digital biomarkers
+  in neurodegeneration: the Living Lab Study protocol'
+uid: '10401246'
+volume: '13'

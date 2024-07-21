@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '37533796'
+- idtype: doi
+  value: 10.3389/fninf.2023.1174156
+- idtype: pmcid
+  value: PMC10392125
+authors:
+- authtype: Author
+  name: Queder N
+- authtype: Author
+  name: Tien VB
+- authtype: Author
+  name: Abraham SA
+- authtype: Author
+  name: Urchs SG
+- authtype: Author
+  name: Helmer KG
+- authtype: Author
+  name: Chaplin D
+- authtype: Author
+  name: van Erp TG
+- authtype: Author
+  name: Kennedy DN
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Grethe JS
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Keator DB
+epubdate: 2023 Jul 18
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1174156'
+pmclivedate: 2023/08/02
+printpubdate: ''
+pubdate: 2023 Jul 18
+sortdate: 2023/07/18 00:00
+source: Front Neuroinform
+title: 'NIDM-Terms: community-based terminology management for improved neuroimaging
+  dataset descriptions and query'
+uid: '10392125'
+volume: '17'

@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '34101274'
+- idtype: doi
+  value: 10.1111/jon.12899
+- idtype: pmcid
+  value: PMC8440351
+- idtype: MID
+  value: NIHMS1709887
+authors:
+- authtype: Author
+  name: Guler S
+- authtype: Author
+  name: Cohen AL
+- authtype: Author
+  name: Afacan O
+- authtype: Author
+  name: Warfield SK
+epubdate: 2021 Jun 8
+fulljournalname: 'Journal of neuroimaging : official journal of the American Society
+  of Neuroimaging'
+issue: '5'
+pages: 947-955
+pmclivedate: 2022/09/01
+printpubdate: 2021 Sep
+pubdate: 2021 Jun 8
+sortdate: 2021/06/08 00:00
+source: J Neuroimaging
+title: Matched feedback during fMRI neurofeedback differentially activates reward-related
+  circuits in active and sham groups
+uid: '8440351'
+volume: '31'

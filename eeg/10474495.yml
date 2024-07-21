@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '37632989'
+- idtype: doi
+  value: 10.1016/j.nicl.2023.103500
+- idtype: pmcid
+  value: PMC10474495
+authors:
+- authtype: Author
+  name: Heitmann H
+- authtype: Author
+  name: Zebhauser PT
+- authtype: Author
+  name: Hohn VD
+- authtype: Author
+  name: Henningsen P
+- authtype: Author
+  name: Ploner M
+epubdate: 2023 Aug 18
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '103500'
+pmclivedate: 2023/09/03
+printpubdate: ''
+pubdate: 2023 Aug 18
+sortdate: 2023/08/18 00:00
+source: Neuroimage Clin
+title: Resting-state EEG and MEG biomarkers of pathological fatigue – A transdiagnostic
+  systematic review
+uid: '10474495'
+volume: '39'

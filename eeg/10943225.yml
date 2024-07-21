@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38491229'
+- idtype: doi
+  value: 10.1038/s41598-024-56633-x
+- idtype: pmcid
+  value: PMC10943225
+authors:
+- authtype: Author
+  name: Farahzadi Y
+- authtype: Author
+  name: Alldredge C
+- authtype: Author
+  name: Kekecs Z
+epubdate: 2024 Mar 15
+fulljournalname: Scientific Reports
+issue: ''
+pages: '6329'
+pmclivedate: 2024/03/16
+printpubdate: ''
+pubdate: 2024 Mar 15
+sortdate: 2024/03/15 00:00
+source: Sci Rep
+title: Gamma power and beta envelope correlation are potential neural predictors of
+  deep hypnosis
+uid: '10943225'
+volume: '14'

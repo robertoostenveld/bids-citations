@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '35102154'
+- idtype: doi
+  value: 10.1038/s41597-022-01125-8
+- idtype: pmcid
+  value: PMC8803828
+authors:
+- authtype: Author
+  name: Woolnough O
+- authtype: Author
+  name: Kadipasaoglu CM
+- authtype: Author
+  name: Conner CR
+- authtype: Author
+  name: Forseth KJ
+- authtype: Author
+  name: Rollo PS
+- authtype: Author
+  name: Rollo MJ
+- authtype: Author
+  name: Baboyan VG
+- authtype: Author
+  name: Tandon N
+epubdate: 2022 Jan 31
+fulljournalname: Scientific Data
+issue: ''
+pages: '28'
+pmclivedate: 2022/02/07
+printpubdate: ''
+pubdate: 2022 Jan 31
+sortdate: 2022/01/31 00:00
+source: Sci Data
+title: Dataset of human intracranial recordings during famous landmark identification
+uid: '8803828'
+volume: '9'

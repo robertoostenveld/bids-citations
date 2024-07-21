@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '38846339'
+- idtype: doi
+  value: 10.3389/fninf.2024.1292667
+- idtype: pmcid
+  value: PMC11153828
+authors:
+- authtype: Author
+  name: Makeig S
+- authtype: Author
+  name: Robbins K
+epubdate: 2024 May 23
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1292667'
+pmclivedate: 2024/06/06
+printpubdate: ''
+pubdate: 2024 May 23
+sortdate: 2024/05/23 00:00
+source: Front Neuroinform
+title: Events in context—The HED framework for the study of brain, experience and
+  behavior
+uid: '11153828'
+volume: '18'

@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38646998'
+- idtype: doi
+  value: 10.1002/hbm.26662
+- idtype: pmcid
+  value: PMC11033921
+authors:
+- authtype: Author
+  name: Radwan AM
+- authtype: Author
+  name: Emsell L
+- authtype: Author
+  name: Vansteelandt K
+- authtype: Author
+  name: Cleeren E
+- authtype: Author
+  name: Peeters R
+- authtype: Author
+  name: De Vleeschouwer S
+- authtype: Author
+  name: Theys T
+- authtype: Author
+  name: Dupont P
+- authtype: Author
+  name: Sunaert S
+epubdate: 2024 Apr 22
+fulljournalname: Human Brain Mapping
+issue: '6'
+pages: e26662
+pmclivedate: 2024/04/23
+printpubdate: ''
+pubdate: 2024 Apr 22
+sortdate: 2024/04/22 00:00
+source: Hum Brain Mapp
+title: Comparative validation of automated presurgical tractography based on constrained
+  spherical deconvolution and diffusion tensor imaging with direct electrical stimulation
+uid: '11033921'
+volume: '45'

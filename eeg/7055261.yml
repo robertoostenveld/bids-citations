@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '32132545'
+- idtype: doi
+  value: 10.1038/s41597-020-0415-9
+- idtype: pmcid
+  value: PMC7055261
+authors:
+- authtype: Author
+  name: Chandravadia N
+- authtype: Author
+  name: Liang D
+- authtype: Author
+  name: Schjetnan AG
+- authtype: Author
+  name: Carlson A
+- authtype: Author
+  name: Faraut M
+- authtype: Author
+  name: Chung JM
+- authtype: Author
+  name: Reed CM
+- authtype: Author
+  name: Dichter B
+- authtype: Author
+  name: Maoz U
+- authtype: Author
+  name: Kalia SK
+- authtype: Author
+  name: Valiante TA
+- authtype: Author
+  name: Mamelak AN
+- authtype: Author
+  name: Rutishauser U
+epubdate: 2020 Mar 4
+fulljournalname: Scientific Data
+issue: ''
+pages: '78'
+pmclivedate: 2020/03/19
+printpubdate: ''
+pubdate: 2020 Mar 4
+sortdate: 2020/03/04 00:00
+source: Sci Data
+title: A NWB-based dataset and processing pipeline of human single-neuron activity
+  during a declarative memory task
+uid: '7055261'
+volume: '7'

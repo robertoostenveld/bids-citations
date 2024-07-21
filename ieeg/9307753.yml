@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '35869138'
+- idtype: doi
+  value: 10.1038/s41597-022-01542-9
+- idtype: pmcid
+  value: PMC9307753
+authors:
+- authtype: Author
+  name: Verwoert M
+- authtype: Author
+  name: Ottenhoff MC
+- authtype: Author
+  name: Goulis S
+- authtype: Author
+  name: Colon AJ
+- authtype: Author
+  name: Wagner L
+- authtype: Author
+  name: Tousseyn S
+- authtype: Author
+  name: van Dijk JP
+- authtype: Author
+  name: Kubben PL
+- authtype: Author
+  name: Herff C
+epubdate: 2022 Jul 22
+fulljournalname: Scientific Data
+issue: ''
+pages: '434'
+pmclivedate: 2022/07/24
+printpubdate: ''
+pubdate: 2022 Jul 22
+sortdate: 2022/07/22 00:00
+source: Sci Data
+title: Dataset of Speech Production in intracranial Electroencephalography
+uid: '9307753'
+volume: '9'

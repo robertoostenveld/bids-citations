@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '34483871'
+- idtype: doi
+  value: 10.3389/fninf.2021.689675
+- idtype: pmcid
+  value: PMC8415107
+authors:
+- authtype: Author
+  name: Routier A
+- authtype: Author
+  name: Burgos N
+- authtype: Author
+  name: Díaz M
+- authtype: Author
+  name: Bacci M
+- authtype: Author
+  name: Bottani S
+- authtype: Author
+  name: El-Rifai O
+- authtype: Author
+  name: Fontanella S
+- authtype: Author
+  name: Gori P
+- authtype: Author
+  name: Guillon J
+- authtype: Author
+  name: Guyot A
+- authtype: Author
+  name: Hassanaly R
+- authtype: Author
+  name: Jacquemont T
+- authtype: Author
+  name: Lu P
+- authtype: Author
+  name: Marcoux A
+- authtype: Author
+  name: Moreau T
+- authtype: Author
+  name: Samper-González J
+- authtype: Author
+  name: Teichmann M
+- authtype: Author
+  name: Thibeau-Sutre E
+- authtype: Author
+  name: Vaillant G
+- authtype: Author
+  name: Wen J
+- authtype: Author
+  name: Wild A
+- authtype: Author
+  name: Habert MO
+- authtype: Author
+  name: Durrleman S
+- authtype: Author
+  name: Colliot O
+epubdate: 2021 Aug 13
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '689675'
+pmclivedate: 2021/09/04
+printpubdate: ''
+pubdate: 2021 Aug 13
+sortdate: 2021/08/13 00:00
+source: Front Neuroinform
+title: 'Clinica: An Open-Source Software Platform for Reproducible Clinical Neuroscience
+  Studies'
+uid: '8415107'
+volume: '15'

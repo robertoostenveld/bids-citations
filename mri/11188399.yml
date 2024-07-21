@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '38903905'
+- idtype: doi
+  value: 10.3389/fnrgo.2024.1411305
+- idtype: pmcid
+  value: PMC11188399
+authors:
+- authtype: Author
+  name: Gehrke L
+- authtype: Author
+  name: Terfurth L
+- authtype: Author
+  name: Akman S
+- authtype: Author
+  name: Gramann K
+epubdate: 2024 Jun 5
+fulljournalname: Frontiers in Neuroergonomics
+issue: ''
+pages: '1411305'
+pmclivedate: 2024/06/20
+printpubdate: ''
+pubdate: 2024 Jun 5
+sortdate: 2024/06/05 00:00
+source: Front Neuroergon
+title: 'Visuo-haptic prediction errors: a multimodal dataset (EEG, motion) in BIDS
+  format indexing mismatches in haptic interaction'
+uid: '11188399'
+volume: '5'

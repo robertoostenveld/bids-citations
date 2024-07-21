@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '36253426'
+- idtype: doi
+  value: 10.1038/s41597-022-01694-8
+- idtype: pmcid
+  value: PMC9576686
+authors:
+- authtype: Author
+  name: Nárai Á
+- authtype: Author
+  name: Hermann P
+- authtype: Author
+  name: Auer T
+- authtype: Author
+  name: Kemenczky P
+- authtype: Author
+  name: Szalma J
+- authtype: Author
+  name: Homolya I
+- authtype: Author
+  name: Somogyi E
+- authtype: Author
+  name: Vakli P
+- authtype: Author
+  name: Weiss B
+- authtype: Author
+  name: Vidnyánszky Z
+epubdate: 2022 Oct 17
+fulljournalname: Scientific Data
+issue: ''
+pages: '630'
+pmclivedate: 2022/10/19
+printpubdate: ''
+pubdate: 2022 Oct 17
+sortdate: 2022/10/17 00:00
+source: Sci Data
+title: Movement-related artefacts (MR-ART) dataset of matched motion-corrupted and
+  clean structural MRI brain scans
+uid: '9576686'
+volume: '9'

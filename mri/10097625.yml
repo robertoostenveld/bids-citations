@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '37045891'
+- idtype: doi
+  value: 10.1038/s41598-023-32924-7
+- idtype: pmcid
+  value: PMC10097625
+authors:
+- authtype: Author
+  name: Lerma-Usabiaga G
+- authtype: Author
+  name: Liu M
+- authtype: Author
+  name: Paz-Alonso PM
+- authtype: Author
+  name: Wandell BA
+epubdate: 2023 Apr 12
+fulljournalname: Scientific Reports
+issue: ''
+pages: '6010'
+pmclivedate: 2023/04/14
+printpubdate: ''
+pubdate: 2023 Apr 12
+sortdate: 2023/04/12 00:00
+source: Sci Rep
+title: Reproducible Tract Profiles 2 (RTP2) suite, from diffusion MRI acquisition
+  to clinical practice and research
+uid: '10097625'
+volume: '13'

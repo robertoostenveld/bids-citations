@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '38148152'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0735-23.2023
+- idtype: pmcid
+  value: PMC10866091
+authors:
+- authtype: Author
+  name: Busch EL
+- authtype: Author
+  name: Rapuano KM
+- authtype: Author
+  name: Anderson KM
+- authtype: Author
+  name: Rosenberg MD
+- authtype: Author
+  name: Watts R
+- authtype: Author
+  name: Casey BJ
+- authtype: Author
+  name: Haxby JV
+- authtype: Author
+  name: Feilong M
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '6'
+pages: e0735232023
+pmclivedate: ''
+printpubdate: 2024 Feb 7
+pubdate: 2024 Feb 7
+sortdate: 2024/02/07 00:00
+source: J Neurosci
+title: Dissociation of Reliability, Heritability, and Predictivity in Coarse- and
+  Fine-Scale Functional Connectomes during Development
+uid: '10866091'
+volume: '44'

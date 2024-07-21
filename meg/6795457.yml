@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '31584933'
+- idtype: doi
+  value: 10.1371/journal.pbio.3000479
+- idtype: pmcid
+  value: PMC6795457
+authors:
+- authtype: Author
+  name: Little S
+- authtype: Author
+  name: Bonaiuto J
+- authtype: Author
+  name: Barnes G
+- authtype: Author
+  name: Bestmann S
+epubdate: 2019 Oct 4
+fulljournalname: PLoS Biology
+issue: '10'
+pages: e3000479
+pmclivedate: 2019/10/19
+printpubdate: ''
+pubdate: 2019 Oct 4
+sortdate: 2019/10/04 00:00
+source: PLoS Biol
+title: Human motor cortical beta bursts relate to movement planning and response errors
+uid: '6795457'
+volume: '17'

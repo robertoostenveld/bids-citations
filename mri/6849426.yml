@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '31722288'
+- idtype: doi
+  value: 10.1016/j.nicl.2019.102055
+- idtype: pmcid
+  value: PMC6849426
+authors:
+- authtype: Author
+  name: Puzniak RJ
+- authtype: Author
+  name: Ahmadi K
+- authtype: Author
+  name: Kaufmann J
+- authtype: Author
+  name: Gouws A
+- authtype: Author
+  name: Morland AB
+- authtype: Author
+  name: Pestilli F
+- authtype: Author
+  name: Hoffmann MB
+epubdate: 2019 Nov 1
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '102055'
+pmclivedate: 2019/11/15
+printpubdate: ''
+pubdate: 2019 Nov 1
+sortdate: 2019/11/01 00:00
+source: Neuroimage Clin
+title: Quantifying nerve decussation abnormalities in the optic chiasm
+uid: '6849426'
+volume: '24'

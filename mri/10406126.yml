@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '37554248'
+- idtype: doi
+  value: 10.3389/fninf.2023.1216443
+- idtype: pmcid
+  value: PMC10406126
+authors:
+- authtype: Author
+  name: Sahoo SS
+- authtype: Author
+  name: Turner MD
+- authtype: Author
+  name: Wang L
+- authtype: Author
+  name: Ambite JL
+- authtype: Author
+  name: Appaji A
+- authtype: Author
+  name: Rajasekar A
+- authtype: Author
+  name: Lander HM
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Turner JA
+epubdate: 2023 Jul 24
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1216443'
+pmclivedate: 2023/08/08
+printpubdate: ''
+pubdate: 2023 Jul 24
+sortdate: 2023/07/24 00:00
+source: Front Neuroinform
+title: 'NeuroBridge ontology: computable provenance metadata to give the long tail
+  of neuroimaging data a FAIR chance for secondary use'
+uid: '10406126'
+volume: '17'

@@ -1,0 +1,149 @@
+articleids:
+- idtype: pmid
+  value: '38605111'
+- idtype: doi
+  value: 10.1038/s41592-024-02237-2
+- idtype: pmcid
+  value: PMC11093740
+authors:
+- authtype: Author
+  name: Hayashi S
+- authtype: Author
+  name: Caron BA
+- authtype: Author
+  name: Heinsfeld AS
+- authtype: Author
+  name: Vinci-Booher S
+- authtype: Author
+  name: McPherson B
+- authtype: Author
+  name: Bullock DN
+- authtype: Author
+  name: Bertò G
+- authtype: Author
+  name: Niso G
+- authtype: Author
+  name: Hanekamp S
+- authtype: Author
+  name: Levitas D
+- authtype: Author
+  name: Ray K
+- authtype: Author
+  name: MacKenzie A
+- authtype: Author
+  name: Avesani P
+- authtype: Author
+  name: Kitchell L
+- authtype: Author
+  name: Leong JK
+- authtype: Author
+  name: Nascimento-Silva F
+- authtype: Author
+  name: Koudoro S
+- authtype: Author
+  name: Willis H
+- authtype: Author
+  name: Jolly JK
+- authtype: Author
+  name: Pisner D
+- authtype: Author
+  name: Zuidema TR
+- authtype: Author
+  name: Kurzawski JW
+- authtype: Author
+  name: Mikellidou K
+- authtype: Author
+  name: Bussalb A
+- authtype: Author
+  name: Chaumon M
+- authtype: Author
+  name: George N
+- authtype: Author
+  name: Rorden C
+- authtype: Author
+  name: Victory C
+- authtype: Author
+  name: Bhatia D
+- authtype: Author
+  name: Aydogan DB
+- authtype: Author
+  name: Yeh FC
+- authtype: Author
+  name: Delogu F
+- authtype: Author
+  name: Guaje J
+- authtype: Author
+  name: Veraart J
+- authtype: Author
+  name: Fischer J
+- authtype: Author
+  name: Faskowitz J
+- authtype: Author
+  name: Fabrega R
+- authtype: Author
+  name: Hunt D
+- authtype: Author
+  name: McKee S
+- authtype: Author
+  name: Brown ST
+- authtype: Author
+  name: Heyman S
+- authtype: Author
+  name: Iacovella V
+- authtype: Author
+  name: Mejia AF
+- authtype: Author
+  name: Marinazzo D
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Olivetti E
+- authtype: Author
+  name: Hanson JL
+- authtype: Author
+  name: Garyfallidis E
+- authtype: Author
+  name: Stanzione D
+- authtype: Author
+  name: Carson J
+- authtype: Author
+  name: Henschel R
+- authtype: Author
+  name: Hancock DY
+- authtype: Author
+  name: Stewart CA
+- authtype: Author
+  name: Schnyer D
+- authtype: Author
+  name: Eke DO
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Bollmann S
+- authtype: Author
+  name: Stewart A
+- authtype: Author
+  name: Bridge H
+- authtype: Author
+  name: Sani I
+- authtype: Author
+  name: Freiwald WA
+- authtype: Author
+  name: Puce A
+- authtype: Author
+  name: Port NL
+- authtype: Author
+  name: Pestilli F
+epubdate: 2024 Apr 11
+fulljournalname: Nature Methods
+issue: '5'
+pages: 809-813
+pmclivedate: 2024/05/16
+printpubdate: '2024'
+pubdate: 2024 Apr 11
+sortdate: 2024/04/11 00:00
+source: Nat Methods
+title: 'brainlife.io: a decentralized and open-source cloud platform to support neuroscience
+  research'
+uid: '11093740'
+volume: '21'

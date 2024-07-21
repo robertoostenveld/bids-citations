@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '35254424'
+- idtype: doi
+  value: 10.1093/gigascience/giac015
+- idtype: pmcid
+  value: PMC8900497
+authors:
+- authtype: Author
+  name: Dzianok P
+- authtype: Author
+  name: Antonova I
+- authtype: Author
+  name: Wojciechowski J
+- authtype: Author
+  name: Dreszer J
+- authtype: Author
+  name: Kublik E
+epubdate: 2022 Mar 7
+fulljournalname: GigaScience
+issue: ''
+pages: giac015
+pmclivedate: 2022/03/08
+printpubdate: ''
+pubdate: 2022 Mar 7
+sortdate: 2022/03/07 00:00
+source: Gigascience
+title: 'The Nencki-Symfonia electroencephalography/event-related potential dataset:
+  Multiple cognitive tasks and resting-state data collected in a sample of healthy
+  adults'
+uid: '8900497'
+volume: '11'

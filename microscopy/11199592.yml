@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '38918523'
+- idtype: doi
+  value: 10.1038/s41598-024-65092-3
+- idtype: pmcid
+  value: PMC11199592
+authors:
+- authtype: Author
+  name: Checcucci C
+- authtype: Author
+  name: Wicinski B
+- authtype: Author
+  name: Mazzamuto G
+- authtype: Author
+  name: Scardigli M
+- authtype: Author
+  name: Ramazzotti J
+- authtype: Author
+  name: Brady N
+- authtype: Author
+  name: Pavone FS
+- authtype: Author
+  name: Hof PR
+- authtype: Author
+  name: Costantini I
+- authtype: Author
+  name: Frasconi P
+epubdate: 2024 Jun 25
+fulljournalname: Scientific Reports
+issue: ''
+pages: '14629'
+pmclivedate: 2024/06/26
+printpubdate: ''
+pubdate: 2024 Jun 25
+sortdate: 2024/06/25 00:00
+source: Sci Rep
+title: 'Deep learning-based localization algorithms on fluorescence human brain 3D
+  reconstruction: a comparative study using stereology as a reference'
+uid: '11199592'
+volume: '14'

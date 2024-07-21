@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '37555182'
+- idtype: doi
+  value: 10.3389/fnimg.2022.974927
+- idtype: pmcid
+  value: PMC10406196
+authors:
+- authtype: Author
+  name: Palenciano AF
+- authtype: Author
+  name: Senoussi M
+- authtype: Author
+  name: Formica S
+- authtype: Author
+  name: González-García C
+epubdate: 2023 Jan 9
+fulljournalname: Frontiers in Neuroimaging
+issue: ''
+pages: '974927'
+pmclivedate: 2023/08/08
+printpubdate: ''
+pubdate: 2023 Jan 9
+sortdate: 2023/01/09 00:00
+source: Front Neuroimaging
+title: 'Canonical template tracking: Measuring the activation state of specific neural
+  representations'
+uid: '10406196'
+volume: '1'

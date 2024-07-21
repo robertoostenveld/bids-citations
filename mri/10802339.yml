@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38260463'
+- idtype: doi
+  value: 10.1101/2024.01.04.574135
+- idtype: pmcid
+  value: PMC10802339
+authors:
+- authtype: Author
+  name: Pauley C
+- authtype: Author
+  name: Zeithamova D
+- authtype: Author
+  name: Sander MC
+epubdate: 2024 May 8
+fulljournalname: bioRxiv
+issue: ''
+pages: 2024.01.04.574135
+pmclivedate: 2024/01/23
+printpubdate: ''
+pubdate: 2024 May 8
+sortdate: 2024/05/08 00:00
+source: bioRxiv
+title: Age differences in functional connectivity track dedifferentiation of category
+  representations
+uid: '10802339'
+volume: ''

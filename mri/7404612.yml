@@ -1,0 +1,76 @@
+articleids:
+- idtype: pmid
+  value: '32514178'
+- idtype: doi
+  value: 10.1038/s41596-020-0327-3
+- idtype: pmcid
+  value: PMC7404612
+- idtype: MID
+  value: NIHMS1604184
+authors:
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Ciric R
+- authtype: Author
+  name: Finc K
+- authtype: Author
+  name: Blair RW
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Moodie CA
+- authtype: Author
+  name: Kent JD
+- authtype: Author
+  name: Goncalves M
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Gomez DE
+- authtype: Author
+  name: Ye Z
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Valabregue R
+- authtype: Author
+  name: Amlien IK
+- authtype: Author
+  name: Liem F
+- authtype: Author
+  name: Jacoby N
+- authtype: Author
+  name: Stojić H
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Urchs S
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: De La Vega A
+- authtype: Author
+  name: Yarkoni T
+- authtype: Author
+  name: Wright J
+- authtype: Author
+  name: Thompson WH
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Gorgolewski KJ
+epubdate: 2020 Jun 8
+fulljournalname: Nature protocols
+issue: '7'
+pages: 2186-2202
+pmclivedate: 2021/07/01
+printpubdate: 2020 Jul
+pubdate: 2020 Jun 8
+sortdate: 2020/06/08 00:00
+source: Nat Protoc
+title: Analysis of task-based functional MRI data preprocessed with fMRIPrep
+uid: '7404612'
+volume: '15'

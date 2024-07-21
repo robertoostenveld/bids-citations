@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '29186161'
+- idtype: doi
+  value: 10.1371/journal.pone.0188511
+- idtype: pmcid
+  value: PMC5706697
+authors:
+- authtype: Author
+  name: Sochat VV
+- authtype: Author
+  name: Prybol CJ
+- authtype: Author
+  name: Kurtzer GM
+epubdate: 2017 Nov 29
+fulljournalname: PLoS ONE
+issue: '11'
+pages: e0188511
+pmclivedate: 2017/12/08
+printpubdate: ''
+pubdate: 2017 Nov 29
+sortdate: 2017/11/29 00:00
+source: PLoS One
+title: 'Enhancing reproducibility in scientific computing: Metrics and registry for
+  Singularity containers'
+uid: '5706697'
+volume: '12'

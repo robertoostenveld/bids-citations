@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '36456786'
+- idtype: doi
+  value: 10.1038/s41592-022-01681-2
+- idtype: pmcid
+  value: PMC9718663
+authors:
+- authtype: Author
+  name: Ciric R
+- authtype: Author
+  name: Thompson WH
+- authtype: Author
+  name: Lorenz R
+- authtype: Author
+  name: Goncalves M
+- authtype: Author
+  name: MacNicol EE
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Esteban O
+epubdate: 2022 Dec 1
+fulljournalname: Nature Methods
+issue: '12'
+pages: 1568-1571
+pmclivedate: 2022/12/04
+printpubdate: '2022'
+pubdate: 2022 Dec 1
+sortdate: 2022/12/01 00:00
+source: Nat Methods
+title: 'TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models'
+uid: '9718663'
+volume: '19'

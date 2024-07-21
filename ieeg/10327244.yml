@@ -1,0 +1,68 @@
+articleids:
+- idtype: pmid
+  value: '37426452'
+- idtype: pmcid
+  value: PMC10327244
+authors:
+- authtype: Author
+  name: Subash P
+- authtype: Author
+  name: Gray A
+- authtype: Author
+  name: Boswell M
+- authtype: Author
+  name: Cohen SL
+- authtype: Author
+  name: Garner R
+- authtype: Author
+  name: Salehi S
+- authtype: Author
+  name: Fisher C
+- authtype: Author
+  name: Hobel S
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Halchenko Y
+- authtype: Author
+  name: Dichter B
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Markiewicz C
+- authtype: Author
+  name: Hermes D
+- authtype: Author
+  name: Delorme A
+- authtype: Author
+  name: Makeig S
+- authtype: Author
+  name: Behan B
+- authtype: Author
+  name: Sparks A
+- authtype: Author
+  name: Arnott SR
+- authtype: Author
+  name: Wang Z
+- authtype: Author
+  name: Magnotti J
+- authtype: Author
+  name: Beauchamp MS
+- authtype: Author
+  name: Pouratian N
+- authtype: Author
+  name: Toga AW
+- authtype: Author
+  name: Duncan D
+epubdate: 2023 Aug 30
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2306.15041v2
+pmclivedate: 2023/07/08
+printpubdate: ''
+pubdate: 2023 Aug 30
+sortdate: 2023/08/30 00:00
+source: ArXiv
+title: A Comparison of Neuroelectrophysiology Databases
+uid: '10327244'
+volume: ''

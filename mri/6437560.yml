@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '30949024'
+- idtype: doi
+  value: 10.3389/fnins.2019.00248
+- idtype: pmcid
+  value: PMC6437560
+authors:
+- authtype: Author
+  name: Huckins JF
+- authtype: Author
+  name: daSilva AW
+- authtype: Author
+  name: Wang R
+- authtype: Author
+  name: Wang W
+- authtype: Author
+  name: Hedlund EL
+- authtype: Author
+  name: Murphy EI
+- authtype: Author
+  name: Lopez RB
+- authtype: Author
+  name: Rogers C
+- authtype: Author
+  name: Holtzheimer PE
+- authtype: Author
+  name: Kelley WM
+- authtype: Author
+  name: Heatherton TF
+- authtype: Author
+  name: Wagner DD
+- authtype: Author
+  name: Haxby JV
+- authtype: Author
+  name: Campbell AT
+epubdate: 2019 Mar 21
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '248'
+pmclivedate: 2019/04/04
+printpubdate: ''
+pubdate: 2019 Mar 21
+sortdate: 2019/03/21 00:00
+source: Front Neurosci
+title: Fusing Mobile Phone Sensing and Brain Imaging to Assess Depression in College
+  Students
+uid: '6437560'
+volume: '13'

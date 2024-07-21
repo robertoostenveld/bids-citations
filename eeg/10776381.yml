@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '38204455'
+- idtype: doi
+  value: 10.1016/j.csbj.2023.12.006
+- idtype: pmcid
+  value: PMC10776381
+authors:
+- authtype: Author
+  name: Lemoine É
+- authtype: Author
+  name: Neves Briard J
+- authtype: Author
+  name: Rioux B
+- authtype: Author
+  name: Gharbi O
+- authtype: Author
+  name: Podbielski R
+- authtype: Author
+  name: Nauche B
+- authtype: Author
+  name: Toffa D
+- authtype: Author
+  name: Keezer M
+- authtype: Author
+  name: Lesage F
+- authtype: Author
+  name: Nguyen DK
+- authtype: Author
+  name: Bou Assi E
+epubdate: 2023 Dec 10
+fulljournalname: Computational and Structural Biotechnology Journal
+issue: ''
+pages: 66-86
+pmclivedate: 2024/01/10
+printpubdate: ''
+pubdate: 2023 Dec 10
+sortdate: 2023/12/10 00:00
+source: Comput Struct Biotechnol J
+title: 'Computer-assisted analysis of routine EEG to identify hidden biomarkers of
+  epilepsy: A systematic review'
+uid: '10776381'
+volume: '24'

@@ -1,0 +1,56 @@
+articleids:
+- idtype: pmid
+  value: '36865371'
+- idtype: doi
+  value: 10.12688/wellcomeopenres.17731.1
+- idtype: pmcid
+  value: PMC9971644
+authors:
+- authtype: Author
+  name: Meijboom R
+- authtype: Author
+  name: Wiseman SJ
+- authtype: Author
+  name: York EN
+- authtype: Author
+  name: Bastin ME
+- authtype: Author
+  name: Valdés Hernández MD
+- authtype: Author
+  name: Thrippleton MJ
+- authtype: Author
+  name: Mollison D
+- authtype: Author
+  name: White N
+- authtype: Author
+  name: Kampaite A
+- authtype: Author
+  name: Ng Kee Kwong K
+- authtype: Author
+  name: Rodriguez Gonzalez D
+- authtype: Author
+  name: Job D
+- authtype: Author
+  name: Weaver C
+- authtype: Author
+  name: Kearns PK
+- authtype: Author
+  name: Connick P
+- authtype: Author
+  name: Chandran S
+- authtype: Author
+  name: Waldman AD
+epubdate: 2022 Mar 16
+fulljournalname: Wellcome Open Research
+issue: ''
+pages: '94'
+pmclivedate: 2023/03/01
+printpubdate: ''
+pubdate: 2022 Mar 16
+sortdate: 2022/03/16 00:00
+source: Wellcome Open Res
+title: 'Rationale and design of the brain magnetic resonance imaging protocol for
+  FutureMS: a longitudinal multi-centre study of newly diagnosed patients with relapsing-remitting
+  multiple sclerosis in Scotland'
+uid: '9971644'
+volume: '7'

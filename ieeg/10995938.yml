@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '37944519'
+- idtype: doi
+  value: 10.1016/j.neuron.2023.09.029
+- idtype: pmcid
+  value: PMC10995938
+- idtype: MID
+  value: NIHMS1972997
+authors:
+- authtype: Author
+  name: Rahimzadeh V
+- authtype: Author
+  name: Jones KM
+- authtype: Author
+  name: Majumder MA
+- authtype: Author
+  name: Kahana MJ
+- authtype: Author
+  name: Rutishauser U
+- authtype: Author
+  name: Williams ZM
+- authtype: Author
+  name: Cash SS
+- authtype: Author
+  name: Paulk AC
+- authtype: Author
+  name: Zheng J
+- authtype: Author
+  name: Beauchamp MS
+- authtype: Author
+  name: Collinger JL
+- authtype: Author
+  name: Pouratian N
+- authtype: Author
+  name: McGuire AL
+- authtype: Author
+  name: Sheth SA
+epubdate: 2023 Nov 8
+fulljournalname: Neuron
+issue: '23'
+pages: 3710-3715
+pmclivedate: 2024/04/05
+printpubdate: 2023 Dec 6
+pubdate: 2023 Nov 8
+sortdate: 2023/11/08 00:00
+source: Neuron
+title: Benefits of sharing neurophysiology data from the BRAIN Initiative Research
+  Opportunities in Humans Consortium
+uid: '10995938'
+volume: '111'

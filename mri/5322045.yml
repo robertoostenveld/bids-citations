@@ -1,0 +1,111 @@
+articleids:
+- idtype: pmid
+  value: '27836708'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2016.10.048
+- idtype: pmcid
+  value: PMC5322045
+- idtype: MID
+  value: NIHMS832964
+authors:
+- authtype: Author
+  name: McDonald AR
+- authtype: Author
+  name: Muraskin J
+- authtype: Author
+  name: Van Dam NT
+- authtype: Author
+  name: Froehlich C
+- authtype: Author
+  name: Puccio B
+- authtype: Author
+  name: Pellman J
+- authtype: Author
+  name: Bauer CC
+- authtype: Author
+  name: Akeyson A
+- authtype: Author
+  name: Breland MM
+- authtype: Author
+  name: Calhoun VD
+- authtype: Author
+  name: Carter S
+- authtype: Author
+  name: Chang TP
+- authtype: Author
+  name: Gessner C
+- authtype: Author
+  name: Gianonne A
+- authtype: Author
+  name: Giavasis S
+- authtype: Author
+  name: Glass J
+- authtype: Author
+  name: Homan S
+- authtype: Author
+  name: King M
+- authtype: Author
+  name: Kramer M
+- authtype: Author
+  name: Landis D
+- authtype: Author
+  name: Lieval A
+- authtype: Author
+  name: Lisinski J
+- authtype: Author
+  name: Mackay-Brandt A
+- authtype: Author
+  name: Miller B
+- authtype: Author
+  name: Panek L
+- authtype: Author
+  name: Reed H
+- authtype: Author
+  name: Santiago C
+- authtype: Author
+  name: Schoell E
+- authtype: Author
+  name: Sinnig R
+- authtype: Author
+  name: Sital M
+- authtype: Author
+  name: Taverna E
+- authtype: Author
+  name: Tobe R
+- authtype: Author
+  name: Trautman K
+- authtype: Author
+  name: Varghese B
+- authtype: Author
+  name: Walden L
+- authtype: Author
+  name: Wang R
+- authtype: Author
+  name: Waters AB
+- authtype: Author
+  name: Wood D
+- authtype: Author
+  name: Castellanos FX
+- authtype: Author
+  name: Leventhal B
+- authtype: Author
+  name: Colcombe SJ
+- authtype: Author
+  name: LaConte S
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Craddock RC
+epubdate: 2016 Nov 9
+fulljournalname: NeuroImage
+issue: ''
+pages: 157-170
+pmclivedate: 2018/02/01
+printpubdate: 2017 Feb 1
+pubdate: 2016 Nov 9
+sortdate: 2016/11/09 00:00
+source: Neuroimage
+title: The Real-time fMRI Neurofeedback Based Stratification of Default Network Regulation
+  Neuroimaging Data Repository
+uid: '5322045'
+volume: '146'

@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '30011302'
+- idtype: doi
+  value: 10.1371/journal.pone.0200562
+- idtype: pmcid
+  value: PMC6047789
+authors:
+- authtype: Author
+  name: Borghi JA
+- authtype: Author
+  name: Van Gulick AE
+epubdate: 2018 Jul 16
+fulljournalname: PLoS ONE
+issue: '7'
+pages: e0200562
+pmclivedate: 2018/07/26
+printpubdate: ''
+pubdate: 2018 Jul 16
+sortdate: 2018/07/16 00:00
+source: PLoS One
+title: 'Data management and sharing in neuroimaging: Practices and perceptions of
+  MRI researchers'
+uid: '6047789'
+volume: '13'

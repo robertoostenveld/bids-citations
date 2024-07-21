@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '34593686'
+- idtype: doi
+  value: 10.1097/AUD.0000000000001128
+- idtype: pmcid
+  value: PMC8881303
+- idtype: MID
+  value: NIHMS1733681
+authors:
+- authtype: Author
+  name: Polonenko MJ
+- authtype: Author
+  name: Maddox RK
+epubdate: 2021 Sep 28
+fulljournalname: Ear and hearing
+issue: '2'
+pages: 646-658
+pmclivedate: 2023/03/01
+printpubdate: 2022 Mar-Apr
+pubdate: 2021 Sep 28
+sortdate: 2021/09/28 00:00
+source: Ear Hear
+title: Optimizing Parameters for Using the Parallel Auditory Brainstem Response (pABR)
+  to Quickly Estimate Hearing Thresholds
+uid: '8881303'
+volume: '43'

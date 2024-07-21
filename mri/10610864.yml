@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '37888737'
+- idtype: doi
+  value: 10.3390/tomography9050145
+- idtype: pmcid
+  value: PMC10610864
+authors:
+- authtype: Author
+  name: Larobina M
+epubdate: 2023 Oct 6
+fulljournalname: Tomography
+issue: '5'
+pages: 1829-1838
+pmclivedate: 2023/10/28
+printpubdate: ''
+pubdate: 2023 Oct 6
+sortdate: 2023/10/06 00:00
+source: Tomography
+title: Thirty Years of the DICOM Standard
+uid: '10610864'
+volume: '9'

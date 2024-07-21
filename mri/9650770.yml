@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '36367313'
+- idtype: doi
+  value: 10.1093/database/baac096
+- idtype: pmcid
+  value: PMC9650770
+authors:
+- authtype: Author
+  name: Delorme A
+- authtype: Author
+  name: Truong D
+- authtype: Author
+  name: Youn C
+- authtype: Author
+  name: Sivagnanam S
+- authtype: Author
+  name: Stirm C
+- authtype: Author
+  name: Yoshimoto K
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Majumdar A
+- authtype: Author
+  name: Makeig S
+epubdate: 2022 Nov 11
+fulljournalname: 'Database: The Journal of Biological Databases and Curation'
+issue: ''
+pages: baac096
+pmclivedate: 2022/11/14
+printpubdate: ''
+pubdate: 2022 Nov 11
+sortdate: 2022/11/11 00:00
+source: Database (Oxford)
+title: 'NEMAR: an open access data, tools and compute resource operating on neuroelectromagnetic
+  data'
+uid: '9650770'
+volume: '2022'

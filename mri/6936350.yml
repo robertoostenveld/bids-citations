@@ -1,0 +1,46 @@
+articleids:
+- idtype: pmid
+  value: '31822612'
+- idtype: doi
+  value: 10.1073/pnas.1910481116
+- idtype: pmcid
+  value: PMC6936350
+authors:
+- authtype: Author
+  name: Meyer HC
+- authtype: Author
+  name: Odriozola P
+- authtype: Author
+  name: Cohodes EM
+- authtype: Author
+  name: Mandell JD
+- authtype: Author
+  name: Li A
+- authtype: Author
+  name: Yang R
+- authtype: Author
+  name: Hall BS
+- authtype: Author
+  name: Haberman JT
+- authtype: Author
+  name: Zacharek SJ
+- authtype: Author
+  name: Liston C
+- authtype: Author
+  name: Lee FS
+- authtype: Author
+  name: Gee DG
+epubdate: 2019 Dec 10
+fulljournalname: Proceedings of the National Academy of Sciences of the United States
+  of America
+issue: '52'
+pages: 26970-26979
+pmclivedate: 2020/06/10
+printpubdate: 2019 Dec 26
+pubdate: 2019 Dec 10
+sortdate: 2019/12/10 00:00
+source: Proc Natl Acad Sci U S A
+title: Ventral hippocampus interacts with prelimbic cortex during inhibition of threat
+  response via learned safety in both mice and humans
+uid: '6936350'
+volume: '116'

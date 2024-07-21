@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '35128001'
+- idtype: doi
+  value: 10.1016/j.dib.2022.107839
+- idtype: pmcid
+  value: PMC8800012
+authors:
+- authtype: Author
+  name: Lahijanian M
+- authtype: Author
+  name: Sedghizadeh MJ
+- authtype: Author
+  name: Aghajan H
+- authtype: Author
+  name: Vahabi Z
+epubdate: 2022 Jan 19
+fulljournalname: Data in Brief
+issue: ''
+pages: '107839'
+pmclivedate: 2022/02/03
+printpubdate: ''
+pubdate: 2022 Jan 19
+sortdate: 2022/01/19 00:00
+source: Data Brief
+title: 'Non-invasive auditory brain stimulation for gamma-band entrainment in dementia
+  patients: An EEG dataset'
+uid: '8800012'
+volume: '41'

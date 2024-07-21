@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '35452807'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119195
+- idtype: pmcid
+  value: PMC9470242
+- idtype: MID
+  value: NIHMS1812867
+authors:
+- authtype: Author
+  name: Matheson GJ
+- authtype: Author
+  name: Ogden RT
+epubdate: 2022 Apr 19
+fulljournalname: NeuroImage
+issue: ''
+pages: '119195'
+pmclivedate: 2022/09/13
+printpubdate: 2022 Aug 1
+pubdate: 2022 Apr 19
+sortdate: 2022/04/19 00:00
+source: Neuroimage
+title: Simultaneous multifactor Bayesian analysis (SiMBA) of PET time activity curve
+  data
+uid: '9470242'
+volume: '256'

@@ -1,0 +1,50 @@
+articleids:
+- idtype: pmid
+  value: '29962111'
+- idtype: doi
+  value: 10.1002/hbm.24229
+- idtype: pmcid
+  value: PMC6175127
+authors:
+- authtype: Author
+  name: Benjamin CF
+- authtype: Author
+  name: Dhingra I
+- authtype: Author
+  name: Li AX
+- authtype: Author
+  name: Blumenfeld H
+- authtype: Author
+  name: Alkawadri R
+- authtype: Author
+  name: Bickel S
+- authtype: Author
+  name: Helmstaedter C
+- authtype: Author
+  name: Meletti S
+- authtype: Author
+  name: Bronen RA
+- authtype: Author
+  name: Warfield SK
+- authtype: Author
+  name: Peters JM
+- authtype: Author
+  name: Reutens D
+- authtype: Author
+  name: Połczyńska MM
+- authtype: Author
+  name: Hirsch LJ
+- authtype: Author
+  name: Spencer DD
+epubdate: 2018 Jul 1
+fulljournalname: Human Brain Mapping
+issue: '10'
+pages: 4032-4042
+pmclivedate: 2018/10/15
+printpubdate: ''
+pubdate: 2018 Jul 1
+sortdate: 2018/07/01 00:00
+source: Hum Brain Mapp
+title: 'Presurgical language fMRI: Technical practices in epilepsy surgical planning'
+uid: '6175127'
+volume: '39'

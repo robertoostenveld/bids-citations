@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '31729115'
+- idtype: doi
+  value: 10.1002/hbm.24859
+- idtype: pmcid
+  value: PMC7268020
+authors:
+- authtype: Author
+  name: Salomon T
+- authtype: Author
+  name: Botvinik‐Nezer R
+- authtype: Author
+  name: Oren S
+- authtype: Author
+  name: Schonberg T
+epubdate: 2019 Nov 15
+fulljournalname: Human Brain Mapping
+issue: '4'
+pages: 1043-1060
+pmclivedate: 2020/06/12
+printpubdate: ''
+pubdate: 2019 Nov 15
+sortdate: 2019/11/15 00:00
+source: Hum Brain Mapp
+title: Enhanced striatal and prefrontal activity is associated with individual differences
+  in nonreinforced preference change for faces
+uid: '7268020'
+volume: '41'

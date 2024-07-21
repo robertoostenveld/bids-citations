@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '30835258'
+- idtype: doi
+  value: 10.1038/sdata.2019.40
+- idtype: pmcid
+  value: PMC6400102
+authors:
+- authtype: Author
+  name: Suárez-Pellicioni M
+- authtype: Author
+  name: Lytle M
+- authtype: Author
+  name: Younger JW
+- authtype: Author
+  name: Booth JR
+epubdate: 2019 Mar 5
+fulljournalname: Scientific Data
+issue: ''
+pages: '190040'
+pmclivedate: 2019/03/06
+printpubdate: ''
+pubdate: 2019 Mar 5
+sortdate: 2019/03/05 00:00
+source: Sci Data
+title: A longitudinal neuroimaging dataset on arithmetic processing in school children
+uid: '6400102'
+volume: '6'

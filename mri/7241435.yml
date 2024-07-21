@@ -1,0 +1,52 @@
+articleids:
+- idtype: pmid
+  value: '32440654'
+- idtype: doi
+  value: 10.1007/s42113-019-00062-x
+- idtype: pmcid
+  value: PMC7241435
+- idtype: MID
+  value: NIHMS1541062
+authors:
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Feingold F
+- authtype: Author
+  name: Frank MJ
+- authtype: Author
+  name: Gleeson P
+- authtype: Author
+  name: de Hollander G
+- authtype: Author
+  name: Huys QJ
+- authtype: Author
+  name: Love BC
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Moran R
+- authtype: Author
+  name: Ritter P
+- authtype: Author
+  name: Rogers TT
+- authtype: Author
+  name: Turner BM
+- authtype: Author
+  name: Yarkoni T
+- authtype: Author
+  name: Zhan M
+- authtype: Author
+  name: Cohen JD
+epubdate: 2019 Oct 7
+fulljournalname: Computational brain & behavior
+issue: 3-4
+pages: 229-232
+pmclivedate: 2020/12/01
+printpubdate: 2019 Dec
+pubdate: 2019 Oct 7
+sortdate: 2019/10/07 00:00
+source: Comput Brain Behav
+title: The importance of standards for sharing of computational models and data
+uid: '7241435'
+volume: '2'

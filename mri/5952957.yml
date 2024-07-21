@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '29718213'
+- idtype: doi
+  value: 10.1093/gigascience/giy023
+- idtype: pmcid
+  value: PMC5952957
+authors:
+- authtype: Author
+  name: Sochat V
+epubdate: 2018 Mar 13
+fulljournalname: GigaScience
+issue: '5'
+pages: giy023
+pmclivedate: 2018/05/18
+printpubdate: ''
+pubdate: 2018 Mar 13
+sortdate: 2018/03/13 00:00
+source: Gigascience
+title: The Scientific Filesystem
+uid: '5952957'
+volume: '7'

@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '37929645'
+- idtype: doi
+  value: 10.1002/mrm.29906
+- idtype: pmcid
+  value: PMC10962600
+authors:
+- authtype: Author
+  name: Shalom ES
+- authtype: Author
+  name: Khan A
+- authtype: Author
+  name: Van Loo S
+- authtype: Author
+  name: Sourbron SP
+epubdate: 2023 Nov 6
+fulljournalname: Magnetic Resonance in Medicine
+issue: '3'
+pages: 1136-1148
+pmclivedate: 2024/03/25
+printpubdate: 2024 Mar
+pubdate: 2023 Nov 6
+sortdate: 2023/11/06 00:00
+source: Magn Reson Med
+title: Current status in spatiotemporal analysis of contrast‐based perfusion MRI
+uid: '10962600'
+volume: '91'

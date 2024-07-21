@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '37964746'
+- idtype: doi
+  value: 10.1152/jn.00091.2023
+- idtype: pmcid
+  value: PMC10994643
+authors:
+- authtype: Author
+  name: Studnicki A
+- authtype: Author
+  name: Seidler RD
+- authtype: Author
+  name: Ferris DP
+epubdate: 2023 Nov 15
+fulljournalname: Journal of Neurophysiology
+issue: '6'
+pages: 1444-1456
+pmclivedate: ''
+printpubdate: 2023 Dec 1
+pubdate: 2023 Nov 15
+sortdate: 2023/11/15 00:00
+source: J Neurophysiol
+title: A table tennis serve versus rally hit elicits differential hemispheric electrocortical
+  power fluctuations
+uid: '10994643'
+volume: '130'

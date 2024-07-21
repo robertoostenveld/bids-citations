@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '38469671'
+- idtype: doi
+  value: 10.1002/mrm.30062
+- idtype: pmcid
+  value: PMC11055665
+- idtype: MID
+  value: NIHMS1965715
+authors:
+- authtype: Author
+  name: Liu Q
+- authtype: Author
+  name: Ning L
+- authtype: Author
+  name: Shaik IA
+- authtype: Author
+  name: Liao C
+- authtype: Author
+  name: Gagoski B
+- authtype: Author
+  name: Bilgic B
+- authtype: Author
+  name: Grissom W
+- authtype: Author
+  name: Nielsen JF
+- authtype: Author
+  name: Zaitsev M
+- authtype: Author
+  name: Rathi Y
+epubdate: 2024 Mar 12
+fulljournalname: Magnetic resonance in medicine
+issue: '1'
+pages: 246-256
+pmclivedate: ''
+printpubdate: 2024 Jul
+pubdate: 2024 Mar 12
+sortdate: 2024/03/12 00:00
+source: Magn Reson Med
+title: Reduced Cross-scanner Variability Using Vendor-agnostic Sequences for Single-shell
+  Diffusion MRI
+uid: '11055665'
+volume: '92'

@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '34773436'
+- idtype: doi
+  value: 10.1002/hbm.25713
+- idtype: pmcid
+  value: PMC8764489
+authors:
+- authtype: Author
+  name: Bowring A
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Maumet C
+epubdate: 2021 Nov 13
+fulljournalname: Human Brain Mapping
+issue: '3'
+pages: 1112-1128
+pmclivedate: 2022/01/21
+printpubdate: ''
+pubdate: 2021 Nov 13
+sortdate: 2021/11/13 00:00
+source: Hum Brain Mapp
+title: Isolating the sources of pipeline‐variability in group‐level task‐fMRI results
+uid: '8764489'
+volume: '43'

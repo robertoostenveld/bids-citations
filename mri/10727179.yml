@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '37903593'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0663-23.2023
+- idtype: pmcid
+  value: PMC10727179
+authors:
+- authtype: Author
+  name: Crestol A
+- authtype: Author
+  name: Rajagopal S
+- authtype: Author
+  name: Lissaman R
+- authtype: Author
+  name: LaPlume AA
+- authtype: Author
+  name: Pasvanis S
+- authtype: Author
+  name: Olsen RK
+- authtype: Author
+  name: Einstein G
+- authtype: Author
+  name: Jacobs EG
+- authtype: Author
+  name: Rajah MN
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '50'
+pages: 8756-8768
+pmclivedate: 2024/06/13
+printpubdate: 2023 Dec 13
+pubdate: 2023 Dec 13
+sortdate: 2023/12/13 00:00
+source: J Neurosci
+title: Menopause Status and Within-Group Differences in Chronological Age Affect the
+  Functional Neural Correlates of Spatial Context Memory in Middle-Aged Females
+uid: '10727179'
+volume: '43'

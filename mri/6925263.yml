@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '31862878'
+- idtype: doi
+  value: 10.1038/s41597-019-0338-5
+- idtype: pmcid
+  value: PMC6925263
+authors:
+- authtype: Author
+  name: Lytle MN
+- authtype: Author
+  name: McNorgan C
+- authtype: Author
+  name: Booth JR
+epubdate: 2019 Dec 20
+fulljournalname: Scientific Data
+issue: ''
+pages: '329'
+pmclivedate: 2019/12/27
+printpubdate: ''
+pubdate: 2019 Dec 20
+sortdate: 2019/12/20 00:00
+source: Sci Data
+title: A longitudinal neuroimaging dataset on multisensory lexical processing in school-aged
+  children
+uid: '6925263'
+volume: '6'

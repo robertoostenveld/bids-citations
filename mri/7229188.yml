@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '32415206'
+- idtype: doi
+  value: 10.1038/s41467-020-15631-z
+- idtype: pmcid
+  value: PMC7229188
+authors:
+- authtype: Author
+  name: Finc K
+- authtype: Author
+  name: Bonna K
+- authtype: Author
+  name: He X
+- authtype: Author
+  name: Lydon-Staley DM
+- authtype: Author
+  name: Kühn S
+- authtype: Author
+  name: Duch W
+- authtype: Author
+  name: Bassett DS
+epubdate: 2020 May 15
+fulljournalname: Nature Communications
+issue: ''
+pages: '2435'
+pmclivedate: 2020/06/05
+printpubdate: ''
+pubdate: 2020 May 15
+sortdate: 2020/05/15 00:00
+source: Nat Commun
+title: Dynamic reconfiguration of functional brain networks during working memory
+  training
+uid: '7229188'
+volume: '11'

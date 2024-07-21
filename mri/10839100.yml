@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38317650'
+- idtype: doi
+  value: 10.3389/fnhum.2024.1304311
+- idtype: pmcid
+  value: PMC10839100
+authors:
+- authtype: Author
+  name: Kueper N
+- authtype: Author
+  name: Chari K
+- authtype: Author
+  name: Bütefür J
+- authtype: Author
+  name: Habenicht J
+- authtype: Author
+  name: Rossol T
+- authtype: Author
+  name: Kim SK
+- authtype: Author
+  name: Tabie M
+- authtype: Author
+  name: Kirchner F
+- authtype: Author
+  name: Kirchner EA
+epubdate: 2024 Jan 22
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '1304311'
+pmclivedate: 2024/02/05
+printpubdate: ''
+pubdate: 2024 Jan 22
+sortdate: 2024/01/22 00:00
+source: Front Hum Neurosci
+title: EEG and EMG dataset for the detection of errors introduced by an active orthosis
+  device
+uid: '10839100'
+volume: '18'

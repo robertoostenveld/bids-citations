@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '30890927'
+- idtype: doi
+  value: 10.3389/fninf.2019.00012
+- idtype: pmcid
+  value: PMC6411646
+authors:
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Brown ST
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: Evans AC
+epubdate: 2019 Mar 5
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '12'
+pmclivedate: 2019/03/19
+printpubdate: ''
+pubdate: 2019 Mar 5
+sortdate: 2019/03/05 00:00
+source: Front Neuroinform
+title: A Serverless Tool for Platform Agnostic Computational Experiment Management
+uid: '6411646'
+volume: '13'

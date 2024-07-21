@@ -1,0 +1,57 @@
+articleids:
+- idtype: pmid
+  value: '32848689'
+- idtype: doi
+  value: 10.3389/fninf.2020.00033
+- idtype: pmcid
+  value: PMC7427620
+authors:
+- authtype: Author
+  name: Bosch-Bayard J
+- authtype: Author
+  name: Aubert-Vazquez E
+- authtype: Author
+  name: Brown ST
+- authtype: Author
+  name: Rogers C
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: Scaria L
+- authtype: Author
+  name: Galan-Garcia L
+- authtype: Author
+  name: Bringas-Vega ML
+- authtype: Author
+  name: Virues-Alba T
+- authtype: Author
+  name: Taheri A
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Madjar C
+- authtype: Author
+  name: Mohaddes Z
+- authtype: Author
+  name: MacIntyre L
+- authtype: CollectiveName
+  name: CHBMP
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Valdes-Sosa PA
+epubdate: 2020 Aug 7
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '33'
+pmclivedate: 2020/08/25
+printpubdate: ''
+pubdate: 2020 Aug 7
+sortdate: 2020/08/07 00:00
+source: Front Neuroinform
+title: 'A Quantitative EEG Toolbox for the MNI Neuroinformatics Ecosystem: Normative
+  SPM of EEG Source Spectra'
+uid: '7427620'
+volume: '14'

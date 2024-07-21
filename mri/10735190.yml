@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38127869'
+- idtype: doi
+  value: 10.1371/journal.pone.0291576
+- idtype: pmcid
+  value: PMC10735190
+authors:
+- authtype: Author
+  name: Khanam F
+- authtype: Author
+  name: Ahmad M
+- authtype: Author
+  name: Hossain AB
+epubdate: 2023 Dec 21
+fulljournalname: PLOS ONE
+issue: '12'
+pages: e0291576
+pmclivedate: 2023/12/21
+printpubdate: ''
+pubdate: 2023 Dec 21
+sortdate: 2023/12/21 00:00
+source: PLoS One
+title: Investigation of the neural correlation with task performance and its effect
+  on cognitive load level classification
+uid: '10735190'
+volume: '18'

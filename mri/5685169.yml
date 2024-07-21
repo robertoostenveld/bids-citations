@@ -1,0 +1,52 @@
+articleids:
+- idtype: pmid
+  value: '28230846'
+- idtype: doi
+  value: 10.1038/nn.4500
+- idtype: pmcid
+  value: PMC5685169
+- idtype: MID
+  value: NIHMS876813
+authors:
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Eickhoff SB
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Kriegeskorte N
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Proal E
+- authtype: Author
+  name: Thirion B
+- authtype: Author
+  name: Van Essen DC
+- authtype: Author
+  name: White T
+- authtype: Author
+  name: Yeo BT
+epubdate: ''
+fulljournalname: Nature neuroscience
+issue: '3'
+pages: 299-303
+pmclivedate: 2018/02/23
+printpubdate: 2017 Feb 23
+pubdate: 2017 Feb 23
+sortdate: 2017/02/23 00:00
+source: Nat Neurosci
+title: Best practices in data analysis and sharing in neuroimaging using MRI
+uid: '5685169'
+volume: '20'

@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '35402436'
+- idtype: doi
+  value: 10.3389/fmed.2022.771982
+- idtype: pmcid
+  value: PMC8987112
+authors:
+- authtype: Author
+  name: Ren W
+- authtype: Author
+  name: Ji B
+- authtype: Author
+  name: Guan Y
+- authtype: Author
+  name: Cao L
+- authtype: Author
+  name: Ni R
+epubdate: 2022 Mar 24
+fulljournalname: Frontiers in Medicine
+issue: ''
+pages: '771982'
+pmclivedate: 2022/04/08
+printpubdate: ''
+pubdate: 2022 Mar 24
+sortdate: 2022/03/24 00:00
+source: Front Med (Lausanne)
+title: 'Recent Technical Advances in Accelerating the Clinical Translation of Small
+  Animal Brain Imaging: Hybrid Imaging, Deep Learning, and Transcriptomics'
+uid: '8987112'
+volume: '9'

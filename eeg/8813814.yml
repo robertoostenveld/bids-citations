@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '33779888'
+- idtype: doi
+  value: 10.1007/s10548-021-00828-2
+- idtype: pmcid
+  value: PMC8813814
+authors:
+- authtype: Author
+  name: Glomb K
+- authtype: Author
+  name: Cabral J
+- authtype: Author
+  name: Cattani A
+- authtype: Author
+  name: Mazzoni A
+- authtype: Author
+  name: Raj A
+- authtype: Author
+  name: Franceschiello B
+epubdate: 2021 Mar 29
+fulljournalname: Brain Topography
+issue: '1'
+pages: 142-161
+pmclivedate: 2022/02/23
+printpubdate: '2022'
+pubdate: 2021 Mar 29
+sortdate: 2021/03/29 00:00
+source: Brain Topogr
+title: Computational Models in Electroencephalography
+uid: '8813814'
+volume: '35'

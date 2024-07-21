@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '38905233'
+- idtype: doi
+  value: 10.1371/journal.pone.0306006
+- idtype: pmcid
+  value: PMC11192316
+authors:
+- authtype: Author
+  name: Jansen MG
+- authtype: Author
+  name: Zwiers MP
+- authtype: Author
+  name: Marques JP
+- authtype: Author
+  name: Chan KS
+- authtype: Author
+  name: Amelink JS
+- authtype: Author
+  name: Altgassen M
+- authtype: Author
+  name: Oosterman JM
+- authtype: Author
+  name: Norris DG
+epubdate: 2024 Jun 21
+fulljournalname: PLOS ONE
+issue: '6'
+pages: e0306006
+pmclivedate: 2024/06/21
+printpubdate: ''
+pubdate: 2024 Jun 21
+sortdate: 2024/06/21 00:00
+source: PLoS One
+title: 'The Advanced BRain Imaging on ageing and Memory (ABRIM) data collection: Study
+  design, data processing, and rationale'
+uid: '11192316'
+volume: '19'

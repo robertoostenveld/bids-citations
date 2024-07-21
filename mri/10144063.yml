@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '36610682'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2023.119862
+- idtype: pmcid
+  value: PMC10144063
+- idtype: MID
+  value: NIHMS1890284
+authors:
+- authtype: Author
+  name: Neudorfer C
+- authtype: Author
+  name: Butenko K
+- authtype: Author
+  name: Oxenford S
+- authtype: Author
+  name: Rajamani N
+- authtype: Author
+  name: Achtzehn J
+- authtype: Author
+  name: Goede L
+- authtype: Author
+  name: Hollunder B
+- authtype: Author
+  name: Ríos AS
+- authtype: Author
+  name: Hart L
+- authtype: Author
+  name: Tasserie J
+- authtype: Author
+  name: Fernando KB
+- authtype: Author
+  name: Nguyen TA
+- authtype: Author
+  name: Al-Fatly B
+- authtype: Author
+  name: Vissani M
+- authtype: Author
+  name: Fox M
+- authtype: Author
+  name: Richardson RM
+- authtype: Author
+  name: van Rienen U
+- authtype: Author
+  name: Kühn AA
+- authtype: Author
+  name: Husch AD
+- authtype: Author
+  name: Opri E
+- authtype: Author
+  name: Dembek T
+- authtype: Author
+  name: Li N
+- authtype: Author
+  name: Horn A
+epubdate: 2023 Jan 5
+fulljournalname: NeuroImage
+issue: ''
+pages: '119862'
+pmclivedate: 2023/04/28
+printpubdate: 2023 Mar
+pubdate: 2023 Jan 5
+sortdate: 2023/01/05 00:00
+source: Neuroimage
+title: 'Lead-DBS v3.0: Mapping Deep Brain Stimulation Effects to Local Anatomy and
+  Global Networks'
+uid: '10144063'
+volume: '268'

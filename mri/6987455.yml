@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '32038217'
+- idtype: doi
+  value: 10.3389/fninf.2019.00078
+- idtype: pmcid
+  value: PMC6987455
+authors:
+- authtype: Author
+  name: Mandino F
+- authtype: Author
+  name: Cerri DH
+- authtype: Author
+  name: Garin CM
+- authtype: Author
+  name: Straathof M
+- authtype: Author
+  name: van Tilborg GA
+- authtype: Author
+  name: Chakravarty MM
+- authtype: Author
+  name: Dhenain M
+- authtype: Author
+  name: Dijkhuizen RM
+- authtype: Author
+  name: Gozzi A
+- authtype: Author
+  name: Hess A
+- authtype: Author
+  name: Keilholz SD
+- authtype: Author
+  name: Lerch JP
+- authtype: Author
+  name: Shih YY
+- authtype: Author
+  name: Grandjean J
+epubdate: 2020 Jan 22
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '78'
+pmclivedate: 2020/02/07
+printpubdate: ''
+pubdate: 2020 Jan 22
+sortdate: 2020/01/22 00:00
+source: Front Neuroinform
+title: 'Animal Functional Magnetic Resonance Imaging: Trends and Path Toward Standardization'
+uid: '6987455'
+volume: '13'

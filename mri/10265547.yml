@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '35231632'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119029
+- idtype: pmcid
+  value: PMC10265547
+- idtype: MID
+  value: NIHMS1901143
+authors:
+- authtype: Author
+  name: Radwan AM
+- authtype: Author
+  name: Sunaert S
+- authtype: Author
+  name: Schilling K
+- authtype: Author
+  name: Descoteaux M
+- authtype: Author
+  name: Landman BA
+- authtype: Author
+  name: Vandenbulcke M
+- authtype: Author
+  name: Theys T
+- authtype: Author
+  name: Dupont P
+- authtype: Author
+  name: Emsell L
+epubdate: 2022 Feb 26
+fulljournalname: NeuroImage
+issue: ''
+pages: '119029'
+pmclivedate: 2023/06/14
+printpubdate: 2022 Jul 1
+pubdate: 2022 Feb 26
+sortdate: 2022/02/26 00:00
+source: Neuroimage
+title: An atlas of white matter anatomy, its variability, and reproducibility based
+  on constrained spherical deconvolution of diffusion MRI
+uid: '10265547'
+volume: '254'

@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '34711849'
+- idtype: doi
+  value: 10.1038/s41597-021-01064-w
+- idtype: pmcid
+  value: PMC8553833
+authors:
+- authtype: Author
+  name: Shapey J
+- authtype: Author
+  name: Kujawa A
+- authtype: Author
+  name: Dorent R
+- authtype: Author
+  name: Wang G
+- authtype: Author
+  name: Dimitriadis A
+- authtype: Author
+  name: Grishchuk D
+- authtype: Author
+  name: Paddick I
+- authtype: Author
+  name: Kitchen N
+- authtype: Author
+  name: Bradford R
+- authtype: Author
+  name: Saeed SR
+- authtype: Author
+  name: Bisdas S
+- authtype: Author
+  name: Ourselin S
+- authtype: Author
+  name: Vercauteren T
+epubdate: 2021 Oct 28
+fulljournalname: Scientific Data
+issue: ''
+pages: '286'
+pmclivedate: 2021/10/29
+printpubdate: ''
+pubdate: 2021 Oct 28
+sortdate: 2021/10/28 00:00
+source: Sci Data
+title: Segmentation of vestibular schwannoma from MRI, an open annotated dataset and
+  baseline algorithm
+uid: '8553833'
+volume: '8'

@@ -1,0 +1,64 @@
+articleids:
+- idtype: pmid
+  value: '37023632'
+- idtype: doi
+  value: 10.1016/j.dcn.2023.101234
+- idtype: pmcid
+  value: PMC10106483
+authors:
+- authtype: Author
+  name: Montez DF
+- authtype: Author
+  name: Van AN
+- authtype: Author
+  name: Miller RL
+- authtype: Author
+  name: Seider NA
+- authtype: Author
+  name: Marek S
+- authtype: Author
+  name: Zheng A
+- authtype: Author
+  name: Newbold DJ
+- authtype: Author
+  name: Scheidter K
+- authtype: Author
+  name: Feczko E
+- authtype: Author
+  name: Perrone AJ
+- authtype: Author
+  name: Miranda-Dominguez O
+- authtype: Author
+  name: Earl EA
+- authtype: Author
+  name: Kay BP
+- authtype: Author
+  name: Jha AK
+- authtype: Author
+  name: Sotiras A
+- authtype: Author
+  name: Laumann TO
+- authtype: Author
+  name: Greene DJ
+- authtype: Author
+  name: Gordon EM
+- authtype: Author
+  name: Tisdall MD
+- authtype: Author
+  name: van der Kouwe A
+- authtype: Author
+  name: Fair DA
+- authtype: Author
+  name: Dosenbach NU
+epubdate: 2023 Mar 24
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101234'
+pmclivedate: 2023/04/18
+printpubdate: ''
+pubdate: 2023 Mar 24
+sortdate: 2023/03/24 00:00
+source: Dev Cogn Neurosci
+title: Using synthetic MR images for distortion correction
+uid: '10106483'
+volume: '60'

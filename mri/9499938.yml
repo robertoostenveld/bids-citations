@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '36138036'
+- idtype: doi
+  value: 10.1038/s41597-022-01677-9
+- idtype: pmcid
+  value: PMC9499938
+authors:
+- authtype: Author
+  name: Balducci T
+- authtype: Author
+  name: Rasgado-Toledo J
+- authtype: Author
+  name: Valencia A
+- authtype: Author
+  name: van Tol MJ
+- authtype: Author
+  name: Aleman A
+- authtype: Author
+  name: Garza-Villarreal EA
+epubdate: 2022 Sep 22
+fulljournalname: Scientific Data
+issue: ''
+pages: '581'
+pmclivedate: 2022/09/24
+printpubdate: ''
+pubdate: 2022 Sep 22
+sortdate: 2022/09/22 00:00
+source: Sci Data
+title: A behavioral and brain imaging dataset with focus on emotion regulation of
+  women with fibromyalgia
+uid: '9499938'
+volume: '9'

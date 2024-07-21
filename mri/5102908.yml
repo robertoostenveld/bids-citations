@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '27891073'
+- idtype: doi
+  value: 10.3389/fnins.2016.00515
+- idtype: pmcid
+  value: PMC5102908
+authors:
+- authtype: Author
+  name: Soares JM
+- authtype: Author
+  name: Magalhães R
+- authtype: Author
+  name: Moreira PS
+- authtype: Author
+  name: Sousa A
+- authtype: Author
+  name: Ganz E
+- authtype: Author
+  name: Sampaio A
+- authtype: Author
+  name: Alves V
+- authtype: Author
+  name: Marques P
+- authtype: Author
+  name: Sousa N
+epubdate: 2016 Nov 10
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '515'
+pmclivedate: 2016/11/25
+printpubdate: ''
+pubdate: 2016 Nov 10
+sortdate: 2016/11/10 00:00
+source: Front Neurosci
+title: A Hitchhiker's Guide to Functional Magnetic Resonance Imaging
+uid: '5102908'
+volume: '10'

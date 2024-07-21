@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '36715307'
+- idtype: doi
+  value: 10.1002/hbm.26219
+- idtype: pmcid
+  value: PMC10028649
+authors:
+- authtype: Author
+  name: Shi L
+- authtype: Author
+  name: Liu C
+- authtype: Author
+  name: Peng X
+- authtype: Author
+  name: Cao Y
+- authtype: Author
+  name: Levy DA
+- authtype: Author
+  name: Xue G
+epubdate: 2023 Jan 30
+fulljournalname: Human Brain Mapping
+issue: '6'
+pages: 2418-2435
+pmclivedate: 2023/03/22
+printpubdate: ''
+pubdate: 2023 Jan 30
+sortdate: 2023/01/30 00:00
+source: Hum Brain Mapp
+title: The neural representations underlying asymmetric cross‐modal prediction of
+  words
+uid: '10028649'
+volume: '44'

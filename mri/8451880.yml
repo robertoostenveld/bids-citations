@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '33146413'
+- idtype: doi
+  value: 10.1002/dev.22055
+- idtype: pmcid
+  value: PMC8451880
+authors:
+- authtype: Author
+  name: Lotz AM
+- authtype: Author
+  name: Verhees MW
+- authtype: Author
+  name: Horstman LI
+- authtype: Author
+  name: Riem MM
+- authtype: Author
+  name: van IJzendoorn MH
+- authtype: Author
+  name: Bakermans‐Kranenburg MJ
+- authtype: Author
+  name: Buisman RS
+epubdate: 2020 Nov 4
+fulljournalname: Developmental Psychobiology
+issue: '5'
+pages: 1358-1369
+pmclivedate: 2021/09/27
+printpubdate: 2021 Jul
+pubdate: 2020 Nov 4
+sortdate: 2020/11/04 00:00
+source: Dev Psychobiol
+title: Exploring the hormonal and neural correlates of paternal protective behavior
+  to their infants
+uid: '8451880'
+volume: '63'

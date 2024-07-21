@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '37369643'
+- idtype: doi
+  value: 10.1038/s41597-023-02325-6
+- idtype: pmcid
+  value: PMC10300118
+authors:
+- authtype: Author
+  name: Zhou M
+- authtype: Author
+  name: Gong Z
+- authtype: Author
+  name: Dai Y
+- authtype: Author
+  name: Wen Y
+- authtype: Author
+  name: Liu Y
+- authtype: Author
+  name: Zhen Z
+epubdate: 2023 Jun 27
+fulljournalname: Scientific Data
+issue: ''
+pages: '415'
+pmclivedate: 2023/06/29
+printpubdate: ''
+pubdate: 2023 Jun 27
+sortdate: 2023/06/27 00:00
+source: Sci Data
+title: A large-scale fMRI dataset for human action recognition
+uid: '10300118'
+volume: '10'

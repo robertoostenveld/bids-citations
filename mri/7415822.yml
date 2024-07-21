@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '32793772'
+- idtype: doi
+  value: 10.1016/j.dib.2020.106043
+- idtype: pmcid
+  value: PMC7415822
+authors:
+- authtype: Author
+  name: Shaw TB
+- authtype: Author
+  name: York A
+- authtype: Author
+  name: Barth M
+- authtype: Author
+  name: Bollmann S
+epubdate: 2020 Jul 20
+fulljournalname: Data in Brief
+issue: ''
+pages: '106043'
+pmclivedate: 2020/08/12
+printpubdate: ''
+pubdate: 2020 Jul 20
+sortdate: 2020/07/20 00:00
+source: Data Brief
+title: Towards Optimising MRI Characterisation of Tissue (TOMCAT) Dataset including
+  all Longitudinal Automatic Segmentation of Hippocampal Subfields (LASHiS) data
+uid: '7415822'
+volume: '32'

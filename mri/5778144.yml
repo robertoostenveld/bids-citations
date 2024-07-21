@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '29403344'
+- idtype: doi
+  value: 10.3389/fnins.2017.00745
+- idtype: pmcid
+  value: PMC5778144
+authors:
+- authtype: Author
+  name: Bossier H
+- authtype: Author
+  name: Seurinck R
+- authtype: Author
+  name: Kühn S
+- authtype: Author
+  name: Banaschewski T
+- authtype: Author
+  name: Barker GJ
+- authtype: Author
+  name: Bokde AL
+- authtype: Author
+  name: Martinot JL
+- authtype: Author
+  name: Lemaitre H
+- authtype: Author
+  name: Paus T
+- authtype: Author
+  name: Millenet S
+- authtype: Author
+  name: Moerkerke B
+epubdate: 2018 Jan 18
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '745'
+pmclivedate: 2018/02/05
+printpubdate: ''
+pubdate: 2018 Jan 18
+sortdate: 2018/01/18 00:00
+source: Front Neurosci
+title: The Influence of Study-Level Inference Models and Study Set Size on Coordinate-Based
+  fMRI Meta-Analyses
+uid: '5778144'
+volume: '11'

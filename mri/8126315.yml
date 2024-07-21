@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '33986061'
+- idtype: doi
+  value: 10.1136/bmjopen-2020-046460
+- idtype: pmcid
+  value: PMC8126315
+authors:
+- authtype: Author
+  name: Gozt AK
+- authtype: Author
+  name: Hellewell SC
+- authtype: Author
+  name: Thorne J
+- authtype: Author
+  name: Thomas E
+- authtype: Author
+  name: Buhagiar F
+- authtype: Author
+  name: Markovic S
+- authtype: Author
+  name: Van Houselt A
+- authtype: Author
+  name: Ring A
+- authtype: Author
+  name: Arendts G
+- authtype: Author
+  name: Smedley B
+- authtype: Author
+  name: Van Schalkwyk S
+- authtype: Author
+  name: Brooks P
+- authtype: Author
+  name: Iliff J
+- authtype: Author
+  name: Celenza A
+- authtype: Author
+  name: Mukherjee A
+- authtype: Author
+  name: Xu D
+- authtype: Author
+  name: Robinson S
+- authtype: Author
+  name: Honeybul S
+- authtype: Author
+  name: Cowen G
+- authtype: Author
+  name: Licari M
+- authtype: Author
+  name: Bynevelt M
+- authtype: Author
+  name: Pestell CF
+- authtype: Author
+  name: Fatovich D
+- authtype: Author
+  name: Fitzgerald M
+epubdate: 2021 May 13
+fulljournalname: BMJ Open
+issue: '5'
+pages: e046460
+pmclivedate: 2021/05/26
+printpubdate: ''
+pubdate: 2021 May 13
+sortdate: 2021/05/13 00:00
+source: BMJ Open
+title: 'Predicting outcome following mild traumatic brain injury: protocol for the
+  longitudinal, prospective, observational Concussion Recovery (CREST) cohort study'
+uid: '8126315'
+volume: '11'

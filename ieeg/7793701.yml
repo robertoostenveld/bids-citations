@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '33424563'
+- idtype: doi
+  value: 10.3389/fnhum.2020.578687
+- idtype: pmcid
+  value: PMC7793701
+authors:
+- authtype: Author
+  name: Zuk P
+- authtype: Author
+  name: Sanchez CE
+- authtype: Author
+  name: Kostick K
+- authtype: Author
+  name: Torgerson L
+- authtype: Author
+  name: Muñoz KA
+- authtype: Author
+  name: Hsu R
+- authtype: Author
+  name: Kalwani L
+- authtype: Author
+  name: Sierra-Mercado D
+- authtype: Author
+  name: Robinson JO
+- authtype: Author
+  name: Outram S
+- authtype: Author
+  name: Koenig BA
+- authtype: Author
+  name: Pereira S
+- authtype: Author
+  name: McGuire AL
+- authtype: Author
+  name: Lázaro-Muñoz G
+epubdate: 2020 Dec 17
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '578687'
+pmclivedate: 2021/01/09
+printpubdate: ''
+pubdate: 2020 Dec 17
+sortdate: 2020/12/17 00:00
+source: Front Hum Neurosci
+title: Researcher Perspectives on Data Sharing in Deep Brain Stimulation
+uid: '7793701'
+volume: '14'

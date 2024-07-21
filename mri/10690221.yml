@@ -1,0 +1,60 @@
+articleids:
+- idtype: pmid
+  value: '38045258'
+- idtype: doi
+  value: 10.1101/2023.11.20.567926
+- idtype: pmcid
+  value: PMC10690221
+authors:
+- authtype: Author
+  name: Mehta K
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Madison T
+- authtype: Author
+  name: Adebimpe A
+- authtype: Author
+  name: Bassett DS
+- authtype: Author
+  name: Bertolero M
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Covitz S
+- authtype: Author
+  name: Houghton A
+- authtype: Author
+  name: Keller AS
+- authtype: Author
+  name: Luo A
+- authtype: Author
+  name: Miranda-Dominguez O
+- authtype: Author
+  name: Nelson SM
+- authtype: Author
+  name: Shafiei G
+- authtype: Author
+  name: Shanmugan S
+- authtype: Author
+  name: Shinohara RT
+- authtype: Author
+  name: Sydnor VJ
+- authtype: Author
+  name: Feczko E
+- authtype: Author
+  name: Fair DA
+- authtype: Author
+  name: Satterthwaite TD
+epubdate: 2023 Nov 21
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.11.20.567926
+pmclivedate: 2023/12/02
+printpubdate: ''
+pubdate: 2023 Nov 21
+sortdate: 2023/11/21 00:00
+source: bioRxiv
+title: 'XCP-D: A Robust Pipeline for the post-processing of fMRI data'
+uid: '10690221'
+volume: ''

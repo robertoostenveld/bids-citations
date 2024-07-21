@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '33907199'
+- idtype: doi
+  value: 10.1038/s41598-021-87564-6
+- idtype: pmcid
+  value: PMC8079440
+authors:
+- authtype: Author
+  name: Tustison NJ
+- authtype: Author
+  name: Cook PA
+- authtype: Author
+  name: Holbrook AJ
+- authtype: Author
+  name: Johnson HJ
+- authtype: Author
+  name: Muschelli J
+- authtype: Author
+  name: Devenyi GA
+- authtype: Author
+  name: Duda JT
+- authtype: Author
+  name: Das SR
+- authtype: Author
+  name: Cullen NC
+- authtype: Author
+  name: Gillen DL
+- authtype: Author
+  name: Yassa MA
+- authtype: Author
+  name: Stone JR
+- authtype: Author
+  name: Gee JC
+- authtype: Author
+  name: Avants BB
+epubdate: 2021 Apr 27
+fulljournalname: Scientific Reports
+issue: ''
+pages: '9068'
+pmclivedate: 2021/04/28
+printpubdate: ''
+pubdate: 2021 Apr 27
+sortdate: 2021/04/27 00:00
+source: Sci Rep
+title: The ANTsX ecosystem for quantitative biological and medical imaging
+uid: '8079440'
+volume: '11'

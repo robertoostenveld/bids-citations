@@ -1,0 +1,40 @@
+articleids:
+- idtype: pmid
+  value: '36040302'
+- idtype: doi
+  value: 10.7554/eLife.79277
+- idtype: pmcid
+  value: PMC9489206
+authors:
+- authtype: Author
+  name: de la Vega A
+- authtype: Author
+  name: Rocca R
+- authtype: Author
+  name: Blair RW
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Mentch J
+- authtype: Author
+  name: Kent JD
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Yarkoni T
+epubdate: 2022 Aug 30
+fulljournalname: eLife
+issue: ''
+pages: e79277
+pmclivedate: 2022/09/21
+printpubdate: ''
+pubdate: 2022 Aug 30
+sortdate: 2022/08/30 00:00
+source: eLife
+title: Neuroscout, a unified platform for generalizable and reproducible fMRI research
+uid: '9489206'
+volume: '11'

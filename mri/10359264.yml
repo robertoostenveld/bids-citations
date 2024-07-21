@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '37474522'
+- idtype: doi
+  value: 10.1038/s41597-023-02386-7
+- idtype: pmcid
+  value: PMC10359264
+authors:
+- authtype: Author
+  name: Schuch F
+- authtype: Author
+  name: Walger L
+- authtype: Author
+  name: Schmitz M
+- authtype: Author
+  name: David B
+- authtype: Author
+  name: Bauer T
+- authtype: Author
+  name: Harms A
+- authtype: Author
+  name: Fischbach L
+- authtype: Author
+  name: Schulte F
+- authtype: Author
+  name: Schidlowski M
+- authtype: Author
+  name: Reiter J
+- authtype: Author
+  name: Bitzer F
+- authtype: Author
+  name: von Wrede R
+- authtype: Author
+  name: Rácz A
+- authtype: Author
+  name: Baumgartner T
+- authtype: Author
+  name: Borger V
+- authtype: Author
+  name: Schneider M
+- authtype: Author
+  name: Flender A
+- authtype: Author
+  name: Becker A
+- authtype: Author
+  name: Vatter H
+- authtype: Author
+  name: Weber B
+- authtype: Author
+  name: Specht-Riemenschneider L
+- authtype: Author
+  name: Radbruch A
+- authtype: Author
+  name: Surges R
+- authtype: Author
+  name: Rüber T
+epubdate: 2023 Jul 20
+fulljournalname: Scientific Data
+issue: ''
+pages: '475'
+pmclivedate: 2023/07/22
+printpubdate: ''
+pubdate: 2023 Jul 20
+sortdate: 2023/07/20 00:00
+source: Sci Data
+title: An open presurgery MRI dataset of people with epilepsy and focal cortical dysplasia
+  type II
+uid: '10359264'
+volume: '10'

@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '37658206'
+- idtype: doi
+  value: 10.1038/s41598-023-41613-4
+- idtype: pmcid
+  value: PMC10474019
+authors:
+- authtype: Author
+  name: Veillette JP
+- authtype: Author
+  name: Heald SL
+- authtype: Author
+  name: Wittenbrink B
+- authtype: Author
+  name: Reis KS
+- authtype: Author
+  name: Nusbaum HC
+epubdate: 2023 Sep 1
+fulljournalname: Scientific Reports
+issue: ''
+pages: '14340'
+pmclivedate: 2023/09/03
+printpubdate: ''
+pubdate: 2023 Sep 1
+sortdate: 2023/09/01 00:00
+source: Sci Rep
+title: Single-trial visually evoked potentials predict both individual choice and
+  market outcomes
+uid: '10474019'
+volume: '13'

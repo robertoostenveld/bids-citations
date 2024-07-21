@@ -1,0 +1,62 @@
+articleids:
+- idtype: pmid
+  value: '33368868'
+- idtype: doi
+  value: 10.1002/hbm.25189
+- idtype: pmcid
+  value: PMC7856658
+authors:
+- authtype: Author
+  name: Pinho AL
+- authtype: Author
+  name: Amadon A
+- authtype: Author
+  name: Fabre M
+- authtype: Author
+  name: Dohmatob E
+- authtype: Author
+  name: Denghien I
+- authtype: Author
+  name: Torre JJ
+- authtype: Author
+  name: Ginisty C
+- authtype: Author
+  name: Becuwe‐Desmidt S
+- authtype: Author
+  name: Roger S
+- authtype: Author
+  name: Laurier L
+- authtype: Author
+  name: Joly‐Testault V
+- authtype: Author
+  name: Médiouni‐Cloarec G
+- authtype: Author
+  name: Doublé C
+- authtype: Author
+  name: Martins B
+- authtype: Author
+  name: Pinel P
+- authtype: Author
+  name: Eger E
+- authtype: Author
+  name: Varoquaux G
+- authtype: Author
+  name: Pallier C
+- authtype: Author
+  name: Dehaene S
+- authtype: Author
+  name: Hertz‐Pannier L
+- authtype: Author
+  name: Thirion B
+epubdate: 2020 Dec 24
+fulljournalname: Human Brain Mapping
+issue: '4'
+pages: 841-870
+pmclivedate: 2021/02/05
+printpubdate: ''
+pubdate: 2020 Dec 24
+sortdate: 2020/12/24 00:00
+source: Hum Brain Mapp
+title: Subject‐specific segregation of functional territories based on deep phenotyping
+uid: '7856658'
+volume: '42'

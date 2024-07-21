@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '38365977'
+- idtype: doi
+  value: 10.1038/s41597-024-03029-1
+- idtype: pmcid
+  value: PMC10873379
+authors:
+- authtype: Author
+  name: Keles U
+- authtype: Author
+  name: Dubois J
+- authtype: Author
+  name: Le KJ
+- authtype: Author
+  name: Tyszka JM
+- authtype: Author
+  name: Kahn DA
+- authtype: Author
+  name: Reed CM
+- authtype: Author
+  name: Chung JM
+- authtype: Author
+  name: Mamelak AN
+- authtype: Author
+  name: Adolphs R
+- authtype: Author
+  name: Rutishauser U
+epubdate: 2024 Feb 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '214'
+pmclivedate: 2024/02/17
+printpubdate: ''
+pubdate: 2024 Feb 16
+sortdate: 2024/02/16 00:00
+source: Sci Data
+title: Multimodal single-neuron, intracranial EEG, and fMRI brain responses during
+  movie watching in human patients
+uid: '10873379'
+volume: '11'

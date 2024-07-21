@@ -1,0 +1,203 @@
+articleids:
+- idtype: pmid
+  value: '34400655'
+- idtype: doi
+  value: 10.1038/s41597-021-00941-8
+- idtype: pmcid
+  value: PMC8368310
+authors:
+- authtype: Author
+  name: Cohen-Adad J
+- authtype: Author
+  name: Alonso-Ortiz E
+- authtype: Author
+  name: Abramovic M
+- authtype: Author
+  name: Arneitz C
+- authtype: Author
+  name: Atcheson N
+- authtype: Author
+  name: Barlow L
+- authtype: Author
+  name: Barry RL
+- authtype: Author
+  name: Barth M
+- authtype: Author
+  name: Battiston M
+- authtype: Author
+  name: Büchel C
+- authtype: Author
+  name: Budde M
+- authtype: Author
+  name: Callot V
+- authtype: Author
+  name: Combes AJ
+- authtype: Author
+  name: De Leener B
+- authtype: Author
+  name: Descoteaux M
+- authtype: Author
+  name: de Sousa PL
+- authtype: Author
+  name: Dostál M
+- authtype: Author
+  name: Doyon J
+- authtype: Author
+  name: Dvorak A
+- authtype: Author
+  name: Eippert F
+- authtype: Author
+  name: Epperson KR
+- authtype: Author
+  name: Epperson KS
+- authtype: Author
+  name: Freund P
+- authtype: Author
+  name: Finsterbusch J
+- authtype: Author
+  name: Foias A
+- authtype: Author
+  name: Fratini M
+- authtype: Author
+  name: Fukunaga I
+- authtype: Author
+  name: Gandini Wheeler-Kingshott CA
+- authtype: Author
+  name: Germani G
+- authtype: Author
+  name: Gilbert G
+- authtype: Author
+  name: Giove F
+- authtype: Author
+  name: Gros C
+- authtype: Author
+  name: Grussu F
+- authtype: Author
+  name: Hagiwara A
+- authtype: Author
+  name: Henry PG
+- authtype: Author
+  name: Horák T
+- authtype: Author
+  name: Hori M
+- authtype: Author
+  name: Joers J
+- authtype: Author
+  name: Kamiya K
+- authtype: Author
+  name: Karbasforoushan H
+- authtype: Author
+  name: Keřkovský M
+- authtype: Author
+  name: Khatibi A
+- authtype: Author
+  name: Kim JW
+- authtype: Author
+  name: Kinany N
+- authtype: Author
+  name: Kitzler HH
+- authtype: Author
+  name: Kolind S
+- authtype: Author
+  name: Kong Y
+- authtype: Author
+  name: Kudlička P
+- authtype: Author
+  name: Kuntke P
+- authtype: Author
+  name: Kurniawan ND
+- authtype: Author
+  name: Kusmia S
+- authtype: Author
+  name: Labounek R
+- authtype: Author
+  name: Laganà MM
+- authtype: Author
+  name: Laule C
+- authtype: Author
+  name: Law CS
+- authtype: Author
+  name: Lenglet C
+- authtype: Author
+  name: Leutritz T
+- authtype: Author
+  name: Liu Y
+- authtype: Author
+  name: Llufriu S
+- authtype: Author
+  name: Mackey S
+- authtype: Author
+  name: Martinez-Heras E
+- authtype: Author
+  name: Mattera L
+- authtype: Author
+  name: Nestrasil I
+- authtype: Author
+  name: O’Grady KP
+- authtype: Author
+  name: Papinutto N
+- authtype: Author
+  name: Papp D
+- authtype: Author
+  name: Pareto D
+- authtype: Author
+  name: Parrish TB
+- authtype: Author
+  name: Pichiecchio A
+- authtype: Author
+  name: Prados F
+- authtype: Author
+  name: Rovira À
+- authtype: Author
+  name: Ruitenberg MJ
+- authtype: Author
+  name: Samson RS
+- authtype: Author
+  name: Savini G
+- authtype: Author
+  name: Seif M
+- authtype: Author
+  name: Seifert AC
+- authtype: Author
+  name: Smith AK
+- authtype: Author
+  name: Smith SA
+- authtype: Author
+  name: Smith ZA
+- authtype: Author
+  name: Solana E
+- authtype: Author
+  name: Suzuki Y
+- authtype: Author
+  name: Tackley G
+- authtype: Author
+  name: Tinnermann A
+- authtype: Author
+  name: Valošek J
+- authtype: Author
+  name: Van De Ville D
+- authtype: Author
+  name: Yiannakas MC
+- authtype: Author
+  name: Weber II KA
+- authtype: Author
+  name: Weiskopf N
+- authtype: Author
+  name: Wise RG
+- authtype: Author
+  name: Wyss PO
+- authtype: Author
+  name: Xu J
+epubdate: 2021 Aug 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '219'
+pmclivedate: 2021/08/31
+printpubdate: ''
+pubdate: 2021 Aug 16
+sortdate: 2021/08/16 00:00
+source: Sci Data
+title: Open-access quantitative MRI data of the spinal cord and reproducibility across
+  participants, sites and manufacturers
+uid: '8368310'
+volume: '8'

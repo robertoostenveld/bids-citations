@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '35962573'
+- idtype: doi
+  value: 10.1002/brb3.2695
+- idtype: pmcid
+  value: PMC9480896
+authors:
+- authtype: Author
+  name: Manelis A
+- authtype: Author
+  name: Halchenko Y
+- authtype: Author
+  name: Satz S
+- authtype: Author
+  name: Ragozzino R
+- authtype: Author
+  name: Iyengar S
+- authtype: Author
+  name: Swartz H
+- authtype: Author
+  name: Levine M
+epubdate: 2022 Aug 12
+fulljournalname: Brain and Behavior
+issue: '9'
+pages: e2695
+pmclivedate: 2022/09/28
+printpubdate: ''
+pubdate: 2022 Aug 12
+sortdate: 2022/08/12 00:00
+source: Brain Behav
+title: The interaction between depression diagnosis and BMI is related to altered
+  activation pattern in the right inferior frontal gyrus and anterior cingulate cortex
+  during food anticipation
+uid: '9480896'
+volume: '12'

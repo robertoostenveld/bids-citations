@@ -1,0 +1,197 @@
+articleids:
+- idtype: pmid
+  value: '32596977'
+- idtype: doi
+  value: 10.1002/hbm.25096
+- idtype: pmcid
+  value: PMC8675407
+authors:
+- authtype: Author
+  name: Zugman A
+- authtype: Author
+  name: Harrewijn A
+- authtype: Author
+  name: Cardinale EM
+- authtype: Author
+  name: Zwiebel H
+- authtype: Author
+  name: Freitag GF
+- authtype: Author
+  name: Werwath KE
+- authtype: Author
+  name: Bas‐Hoogendam JM
+- authtype: Author
+  name: Groenewold NA
+- authtype: Author
+  name: Aghajani M
+- authtype: Author
+  name: Hilbert K
+- authtype: Author
+  name: Cardoner N
+- authtype: Author
+  name: Porta‐Casteràs D
+- authtype: Author
+  name: Gosnell S
+- authtype: Author
+  name: Salas R
+- authtype: Author
+  name: Blair KS
+- authtype: Author
+  name: Blair JR
+- authtype: Author
+  name: Hammoud MZ
+- authtype: Author
+  name: Milad M
+- authtype: Author
+  name: Burkhouse K
+- authtype: Author
+  name: Phan KL
+- authtype: Author
+  name: Schroeder HK
+- authtype: Author
+  name: Strawn JR
+- authtype: Author
+  name: Beesdo‐Baum K
+- authtype: Author
+  name: Thomopoulos SI
+- authtype: Author
+  name: Grabe HJ
+- authtype: Author
+  name: Van der Auwera S
+- authtype: Author
+  name: Wittfeld K
+- authtype: Author
+  name: Nielsen JA
+- authtype: Author
+  name: Buckner R
+- authtype: Author
+  name: Smoller JW
+- authtype: Author
+  name: Mwangi B
+- authtype: Author
+  name: Soares JC
+- authtype: Author
+  name: Wu M
+- authtype: Author
+  name: Zunta‐Soares GB
+- authtype: Author
+  name: Jackowski AP
+- authtype: Author
+  name: Pan PM
+- authtype: Author
+  name: Salum GA
+- authtype: Author
+  name: Assaf M
+- authtype: Author
+  name: Diefenbach GJ
+- authtype: Author
+  name: Brambilla P
+- authtype: Author
+  name: Maggioni E
+- authtype: Author
+  name: Hofmann D
+- authtype: Author
+  name: Straube T
+- authtype: Author
+  name: Andreescu C
+- authtype: Author
+  name: Berta R
+- authtype: Author
+  name: Tamburo E
+- authtype: Author
+  name: Price R
+- authtype: Author
+  name: Manfro GG
+- authtype: Author
+  name: Critchley HD
+- authtype: Author
+  name: Makovac E
+- authtype: Author
+  name: Mancini M
+- authtype: Author
+  name: Meeten F
+- authtype: Author
+  name: Ottaviani C
+- authtype: Author
+  name: Agosta F
+- authtype: Author
+  name: Canu E
+- authtype: Author
+  name: Cividini C
+- authtype: Author
+  name: Filippi M
+- authtype: Author
+  name: Kostić M
+- authtype: Author
+  name: Munjiza A
+- authtype: Author
+  name: Filippi CA
+- authtype: Author
+  name: Leibenluft E
+- authtype: Author
+  name: Alberton BA
+- authtype: Author
+  name: Balderston NL
+- authtype: Author
+  name: Ernst M
+- authtype: Author
+  name: Grillon C
+- authtype: Author
+  name: Mujica‐Parodi LR
+- authtype: Author
+  name: van Nieuwenhuizen H
+- authtype: Author
+  name: Fonzo GA
+- authtype: Author
+  name: Paulus MP
+- authtype: Author
+  name: Stein MB
+- authtype: Author
+  name: Gur RE
+- authtype: Author
+  name: Gur RC
+- authtype: Author
+  name: Kaczkurkin AN
+- authtype: Author
+  name: Larsen B
+- authtype: Author
+  name: Satterthwaite TD
+- authtype: Author
+  name: Harper J
+- authtype: Author
+  name: Myers M
+- authtype: Author
+  name: Perino MT
+- authtype: Author
+  name: Yu Q
+- authtype: Author
+  name: Sylvester CM
+- authtype: Author
+  name: Veltman DJ
+- authtype: Author
+  name: Lueken U
+- authtype: Author
+  name: Van der Wee NJ
+- authtype: Author
+  name: Stein DJ
+- authtype: Author
+  name: Jahanshad N
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: Pine DS
+- authtype: Author
+  name: Winkler AM
+epubdate: 2020 Jun 29
+fulljournalname: Human Brain Mapping
+issue: '1'
+pages: 255-277
+pmclivedate: 2021/12/27
+printpubdate: ''
+pubdate: 2020 Jun 29
+sortdate: 2020/06/29 00:00
+source: Hum Brain Mapp
+title: ' Mega‐analysis methods in ENIGMA: The experience of the generalized anxiety
+  disorder working group'
+uid: '8675407'
+volume: '43'

@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '36105538'
+- idtype: doi
+  value: 10.3389/fdata.2022.988084
+- idtype: pmcid
+  value: PMC9464934
+authors:
+- authtype: Author
+  name: Bush KA
+- authtype: Author
+  name: Calvert ML
+- authtype: Author
+  name: Kilts CD
+epubdate: 2022 Aug 29
+fulljournalname: Frontiers in Big Data
+issue: ''
+pages: '988084'
+pmclivedate: 2022/09/13
+printpubdate: ''
+pubdate: 2022 Aug 29
+sortdate: 2022/08/29 00:00
+source: Front Big Data
+title: 'Lessons learned: A neuroimaging research center''s transition to open and
+  reproducible science'
+uid: '9464934'
+volume: '5'

@@ -1,0 +1,61 @@
+articleids:
+- idtype: pmid
+  value: '37645999'
+- idtype: doi
+  value: 10.1101/2023.08.16.552472
+- idtype: pmcid
+  value: PMC10461987
+authors:
+- authtype: Author
+  name: Zhao C
+- authtype: Author
+  name: Jarecka D
+- authtype: Author
+  name: Covitz S
+- authtype: Author
+  name: Chen Y
+- authtype: Author
+  name: Eickhoff SB
+- authtype: Author
+  name: Fair DA
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Hendrickson TJ
+- authtype: Author
+  name: Hoffstaedter F
+- authtype: Author
+  name: Houghton A
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Macdonald A
+- authtype: Author
+  name: Mehta K
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Satterthwaite TD
+epubdate: 2023 Aug 18
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.08.16.552472
+pmclivedate: 2023/08/29
+printpubdate: ''
+pubdate: 2023 Aug 18
+sortdate: 2023/08/18 00:00
+source: bioRxiv
+title: A reproducible and generalizable software workflow for analysis of large-scale
+  neuroimaging data collections using BIDS Apps
+uid: '10461987'
+volume: ''

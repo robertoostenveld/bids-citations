@@ -1,0 +1,57 @@
+articleids:
+- idtype: pmid
+  value: '35701428'
+- idtype: doi
+  value: 10.1038/s41597-022-01329-y
+- idtype: pmcid
+  value: PMC9197863
+authors:
+- authtype: Author
+  name: Tobe RH
+- authtype: Author
+  name: MacKay-Brandt A
+- authtype: Author
+  name: Lim R
+- authtype: Author
+  name: Kramer M
+- authtype: Author
+  name: Breland MM
+- authtype: Author
+  name: Tu L
+- authtype: Author
+  name: Tian Y
+- authtype: Author
+  name: Trautman KD
+- authtype: Author
+  name: Hu C
+- authtype: Author
+  name: Sangoi R
+- authtype: Author
+  name: Alexander L
+- authtype: Author
+  name: Gabbay V
+- authtype: Author
+  name: Castellanos FX
+- authtype: Author
+  name: Leventhal BL
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Colcombe SJ
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Milham MP
+epubdate: 2022 Jun 14
+fulljournalname: Scientific Data
+issue: ''
+pages: '300'
+pmclivedate: 2022/06/16
+printpubdate: ''
+pubdate: 2022 Jun 14
+sortdate: 2022/06/14 00:00
+source: Sci Data
+title: A longitudinal resource for studying connectome development and its psychiatric
+  associations during childhood
+uid: '9197863'
+volume: '9'

@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '37052655'
+- idtype: doi
+  value: 10.1007/s00418-023-02191-8
+- idtype: pmcid
+  value: PMC10492738
+authors:
+- authtype: Author
+  name: Poger D
+- authtype: Author
+  name: Yen L
+- authtype: Author
+  name: Braet F
+epubdate: 2023 Apr 13
+fulljournalname: Histochemistry and Cell Biology
+issue: '3'
+pages: 169-192
+pmclivedate: 2023/09/11
+printpubdate: '2023'
+pubdate: 2023 Apr 13
+sortdate: 2023/04/13 00:00
+source: Histochem Cell Biol
+title: 'Big data in contemporary electron microscopy: challenges and opportunities
+  in data transfer, compute and management'
+uid: '10492738'
+volume: '160'

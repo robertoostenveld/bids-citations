@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '36575327'
+- idtype: doi
+  value: 10.1007/s10548-022-00935-8
+- idtype: pmcid
+  value: PMC10014671
+authors:
+- authtype: Author
+  name: Notter MP
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Da Costa S
+- authtype: Author
+  name: Gulban OF
+- authtype: Author
+  name: Isik AI
+- authtype: Author
+  name: Gaglianese A
+- authtype: Author
+  name: Murray MM
+epubdate: 2022 Dec 27
+fulljournalname: Brain Topography
+issue: '2'
+pages: 172-191
+pmclivedate: 2023/03/16
+printpubdate: '2023'
+pubdate: 2022 Dec 27
+sortdate: 2022/12/27 00:00
+source: Brain Topogr
+title: 'fMRIflows: A Consortium of Fully Automatic Univariate and Multivariate fMRI
+  Processing Pipelines'
+uid: '10014671'
+volume: '36'

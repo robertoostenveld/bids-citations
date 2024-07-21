@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '32561769'
+- idtype: doi
+  value: 10.1038/s41597-020-0535-2
+- idtype: pmcid
+  value: PMC7305171
+authors:
+- authtype: Author
+  name: Ma X
+- authtype: Author
+  name: Qiu S
+- authtype: Author
+  name: He H
+epubdate: 2020 Jun 19
+fulljournalname: Scientific Data
+issue: ''
+pages: '191'
+pmclivedate: 2020/06/22
+printpubdate: ''
+pubdate: 2020 Jun 19
+sortdate: 2020/06/19 00:00
+source: Sci Data
+title: Multi-channel EEG recording during motor imagery of different joints from the
+  same limb
+uid: '7305171'
+volume: '7'

@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '32541806'
+- idtype: doi
+  value: 10.1038/s41597-020-0507-6
+- idtype: pmcid
+  value: PMC7295758
+authors:
+- authtype: Author
+  name: Daly I
+- authtype: Author
+  name: Nicolaou N
+- authtype: Author
+  name: Williams D
+- authtype: Author
+  name: Hwang F
+- authtype: Author
+  name: Kirke A
+- authtype: Author
+  name: Miranda E
+- authtype: Author
+  name: Nasuto SJ
+epubdate: 2020 Jun 15
+fulljournalname: Scientific Data
+issue: ''
+pages: '177'
+pmclivedate: 2020/06/19
+printpubdate: ''
+pubdate: 2020 Jun 15
+sortdate: 2020/06/15 00:00
+source: Sci Data
+title: Neural and physiological data from participants listening to affective music
+uid: '7295758'
+volume: '7'

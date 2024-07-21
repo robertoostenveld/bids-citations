@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '35095452'
+- idtype: doi
+  value: 10.3389/fninf.2021.770608
+- idtype: pmcid
+  value: PMC8792932
+authors:
+- authtype: Author
+  name: Zwiers MP
+- authtype: Author
+  name: Moia S
+- authtype: Author
+  name: Oostenveld R
+epubdate: 2022 Jan 13
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '770608'
+pmclivedate: 2022/01/28
+printpubdate: ''
+pubdate: 2022 Jan 13
+sortdate: 2022/01/13 00:00
+source: Front Neuroinform
+title: 'BIDScoin: A User-Friendly Application to Convert Source Data to Brain Imaging
+  Data Structure'
+uid: '8792932'
+volume: '15'

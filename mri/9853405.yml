@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '35878565'
+- idtype: doi
+  value: 10.1016/j.neurobiolaging.2022.06.008
+- idtype: pmcid
+  value: PMC9853405
+- idtype: MID
+  value: NIHMS1861086
+authors:
+- authtype: Author
+  name: Vieira BH
+- authtype: Author
+  name: Liem F
+- authtype: Author
+  name: Dadi K
+- authtype: Author
+  name: Engemann DA
+- authtype: Author
+  name: Gramfort A
+- authtype: Author
+  name: Bellec P
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Damoiseaux JS
+- authtype: Author
+  name: Steele CJ
+- authtype: Author
+  name: Yarkoni T
+- authtype: Author
+  name: Langer N
+- authtype: Author
+  name: Margulies DS
+- authtype: Author
+  name: Varoquaux G
+epubdate: 2022 Jun 28
+fulljournalname: Neurobiology of aging
+issue: ''
+pages: 55-65
+pmclivedate: 2023/01/20
+printpubdate: 2022 Oct
+pubdate: 2022 Jun 28
+sortdate: 2022/06/28 00:00
+source: Neurobiol Aging
+title: Predicting future cognitive decline from non-brain and multimodal brain imaging
+  data in healthy and pathological aging
+uid: '9853405'
+volume: '118'

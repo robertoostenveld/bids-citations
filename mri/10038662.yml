@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '36847339'
+- idtype: doi
+  value: 10.7554/eLife.82580
+- idtype: pmcid
+  value: PMC10038662
+authors:
+- authtype: Author
+  name: Hebart MN
+- authtype: Author
+  name: Contier O
+- authtype: Author
+  name: Teichmann L
+- authtype: Author
+  name: Rockter AH
+- authtype: Author
+  name: Zheng CY
+- authtype: Author
+  name: Kidder A
+- authtype: Author
+  name: Corriveau A
+- authtype: Author
+  name: Vaziri-Pashkam M
+- authtype: Author
+  name: Baker CI
+epubdate: 2023 Feb 27
+fulljournalname: eLife
+issue: ''
+pages: e82580
+pmclivedate: 2023/03/25
+printpubdate: ''
+pubdate: 2023 Feb 27
+sortdate: 2023/02/27 00:00
+source: eLife
+title: THINGS-data, a multimodal collection of large-scale datasets for investigating
+  object representations in human brain and behavior
+uid: '10038662'
+volume: '12'

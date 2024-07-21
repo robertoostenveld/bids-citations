@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '37876299'
+- idtype: doi
+  value: 10.1002/mrm.29815
+- idtype: pmcid
+  value: PMC10950547
+- idtype: MID
+  value: NIHMS1918061
+authors:
+- authtype: Author
+  name: Suzuki Y
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Dai W
+- authtype: Author
+  name: Dolui S
+- authtype: Author
+  name: Fernández-Seara M
+- authtype: Author
+  name: Lindner T
+- authtype: Author
+  name: Mutsaerts HJ
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Shao X
+- authtype: Author
+  name: Taso M
+- authtype: Author
+  name: Thomas DL
+- authtype: CollectiveName
+  name: ISMRM Perfusion Study Group
+epubdate: 2023 Oct 24
+fulljournalname: Magnetic resonance in medicine
+issue: '5'
+pages: 1743-1760
+pmclivedate: ''
+printpubdate: 2024 May
+pubdate: 2023 Oct 24
+sortdate: 2023/10/24 00:00
+source: Magn Reson Med
+title: 'ASL Lexicon and Reporting Recommendations: a consensus report from the ISMRM
+  Open Science Initiative for Perfusion Imaging (OSIPI)'
+uid: '10950547'
+volume: '91'

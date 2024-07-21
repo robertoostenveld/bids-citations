@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '36845436'
+- idtype: doi
+  value: 10.3389/fnins.2023.1139400
+- idtype: pmcid
+  value: PMC9946448
+authors:
+- authtype: Author
+  name: De Luca A
+- authtype: Author
+  name: Schilling KG
+- authtype: Author
+  name: Ianus A
+epubdate: 2023 Feb 8
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '1139400'
+pmclivedate: 2023/02/23
+printpubdate: ''
+pubdate: 2023 Feb 8
+sortdate: 2023/02/08 00:00
+source: Front Neurosci
+title: 'Editorial: Is two better than one? Exploring tissue microstructure with multi-modal
+  imaging: Quantitative MRI and beyond'
+uid: '9946448'
+volume: '17'

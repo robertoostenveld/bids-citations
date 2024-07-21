@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '33134440'
+- idtype: doi
+  value: 10.1016/j.dib.2020.106405
+- idtype: pmcid
+  value: PMC7585047
+authors:
+- authtype: Author
+  name: Lytle MN
+- authtype: Author
+  name: Prado J
+- authtype: Author
+  name: Booth JR
+epubdate: 2020 Oct 14
+fulljournalname: Data in Brief
+issue: ''
+pages: '106405'
+pmclivedate: 2020/10/30
+printpubdate: ''
+pubdate: 2020 Oct 14
+sortdate: 2020/10/14 00:00
+source: Data Brief
+title: A neuroimaging dataset of deductive reasoning in school-aged children
+uid: '7585047'
+volume: '33'

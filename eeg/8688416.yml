@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '34930915'
+- idtype: doi
+  value: 10.1038/s41597-021-01094-4
+- idtype: pmcid
+  value: PMC8688416
+authors:
+- authtype: Author
+  name: Lee YE
+- authtype: Author
+  name: Shin GH
+- authtype: Author
+  name: Lee M
+- authtype: Author
+  name: Lee SW
+epubdate: 2021 Dec 20
+fulljournalname: Scientific Data
+issue: ''
+pages: '315'
+pmclivedate: 2022/01/04
+printpubdate: ''
+pubdate: 2021 Dec 20
+sortdate: 2021/12/20 00:00
+source: Sci Data
+title: Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while
+  standing, walking, and running
+uid: '8688416'
+volume: '8'

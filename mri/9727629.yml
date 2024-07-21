@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '36506797'
+- idtype: doi
+  value: 10.1016/j.dib.2022.108788
+- idtype: pmcid
+  value: PMC9727629
+authors:
+- authtype: Author
+  name: Lee H
+- authtype: Author
+  name: Chen J
+- authtype: Author
+  name: Hasson U
+epubdate: 2022 Nov 29
+fulljournalname: Data in Brief
+issue: ''
+pages: '108788'
+pmclivedate: 2022/12/08
+printpubdate: ''
+pubdate: 2022 Nov 29
+sortdate: 2022/11/29 00:00
+source: Data Brief
+title: A functional neuroimaging dataset acquired during naturalistic movie watching
+  and narrated recall of a series of short cinematic films
+uid: '9727629'
+volume: '46'

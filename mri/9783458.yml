@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '36196782'
+- idtype: doi
+  value: 10.1002/hbm.26081
+- idtype: pmcid
+  value: PMC9783458
+authors:
+- authtype: Author
+  name: Fazal Z
+- authtype: Author
+  name: Gomez DE
+- authtype: Author
+  name: Llera A
+- authtype: Author
+  name: Marques JP
+- authtype: Author
+  name: Beck T
+- authtype: Author
+  name: Poser BA
+- authtype: Author
+  name: Norris DG
+epubdate: 2022 Oct 5
+fulljournalname: Human Brain Mapping
+issue: '1'
+pages: 82-93
+pmclivedate: 2022/12/27
+printpubdate: ''
+pubdate: 2022 Oct 5
+sortdate: 2022/10/05 00:00
+source: Hum Brain Mapp
+title: 'A comparison of multiband and multiband multiecho gradient‐echo EPI for task
+  fMRI at 3 T '
+uid: '9783458'
+volume: '44'

@@ -1,0 +1,50 @@
+articleids:
+- idtype: pmid
+  value: '28542156'
+- idtype: doi
+  value: 10.1038/nn.4550
+- idtype: pmcid
+  value: PMC6386137
+- idtype: MID
+  value: EMS81911
+authors:
+- authtype: Author
+  name: Eglen SJ
+- authtype: Author
+  name: Marwick B
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Sufi S
+- authtype: Author
+  name: Gleeson P
+- authtype: Author
+  name: Silver RA
+- authtype: Author
+  name: Davison AP
+- authtype: Author
+  name: Lanyon L
+- authtype: Author
+  name: Abrams M
+- authtype: Author
+  name: Wachtler T
+- authtype: Author
+  name: Willshaw DJ
+- authtype: Author
+  name: Pouzat C
+- authtype: Author
+  name: Poline JB
+epubdate: ''
+fulljournalname: Nature neuroscience
+issue: '6'
+pages: 770-773
+pmclivedate: 2019/02/22
+printpubdate: 2017 May 25
+pubdate: 2017 May 25
+sortdate: 2017/05/25 00:00
+source: Nat Neurosci
+title: Towards standard practices for sharing computer code and programs in neuroscience
+uid: '6386137'
+volume: '20'

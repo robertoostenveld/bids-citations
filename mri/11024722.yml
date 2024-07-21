@@ -1,0 +1,52 @@
+articleids:
+- idtype: pmid
+  value: '37386112'
+- idtype: doi
+  value: 10.1038/s41562-023-01647-0
+- idtype: pmcid
+  value: PMC11024722
+- idtype: MID
+  value: NIHMS1983225
+authors:
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Clucas J
+- authtype: Author
+  name: Feczko E
+- authtype: Author
+  name: Goncalves M
+- authtype: Author
+  name: Jarecka D
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Hermosillo R
+- authtype: Author
+  name: Li X
+- authtype: Author
+  name: Miranda-Dominguez O
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Satterthwaite TD
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Fair D
+epubdate: ''
+fulljournalname: Nature human behaviour
+issue: '7'
+pages: 1027-1028
+pmclivedate: 2024/04/18
+printpubdate: 2023 Jul
+pubdate: 2023 Jul
+sortdate: 2023/07/01 00:00
+source: Nat Hum Behav
+title: Align with the NMIND consortium for better neuroimaging
+uid: '11024722'
+volume: '7'

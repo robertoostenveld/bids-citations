@@ -1,0 +1,73 @@
+articleids:
+- idtype: pmid
+  value: '35488054'
+- idtype: doi
+  value: 10.1007/s00406-022-01411-x
+- idtype: pmcid
+  value: PMC9508005
+authors:
+- authtype: Author
+  name: Roell L
+- authtype: Author
+  name: Maurus I
+- authtype: Author
+  name: Keeser D
+- authtype: Author
+  name: Karali T
+- authtype: Author
+  name: Papazov B
+- authtype: Author
+  name: Hasan A
+- authtype: Author
+  name: Schmitt A
+- authtype: Author
+  name: Papazova I
+- authtype: Author
+  name: Lembeck M
+- authtype: Author
+  name: Hirjak D
+- authtype: Author
+  name: Sykorova E
+- authtype: Author
+  name: Thieme CE
+- authtype: Author
+  name: Muenz S
+- authtype: Author
+  name: Seitz V
+- authtype: Author
+  name: Greska D
+- authtype: Author
+  name: Campana M
+- authtype: Author
+  name: Wagner E
+- authtype: Author
+  name: Loehrs L
+- authtype: Author
+  name: Stoecklein S
+- authtype: Author
+  name: Ertl-Wagner B
+- authtype: Author
+  name: Poemsl J
+- authtype: Author
+  name: Roeh A
+- authtype: Author
+  name: Malchow B
+- authtype: Author
+  name: Keller-Varady K
+- authtype: Author
+  name: Meyer-Lindenberg A
+- authtype: Author
+  name: Falkai P
+epubdate: 2022 Apr 30
+fulljournalname: European Archives of Psychiatry and Clinical Neuroscience
+issue: '7'
+pages: 1253-1272
+pmclivedate: 2022/09/25
+printpubdate: '2022'
+pubdate: 2022 Apr 30
+sortdate: 2022/04/30 00:00
+source: Eur Arch Psychiatry Clin Neurosci
+title: Association between aerobic fitness and the functional connectome in patients
+  with schizophrenia
+uid: '9508005'
+volume: '272'

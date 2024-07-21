@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38645773'
+- idtype: doi
+  value: 10.3389/fradi.2024.1283392
+- idtype: pmcid
+  value: PMC11026619
+authors:
+- authtype: Author
+  name: Aiskovich M
+- authtype: Author
+  name: Castro E
+- authtype: Author
+  name: Reinen JM
+- authtype: Author
+  name: Fadnavis S
+- authtype: Author
+  name: Mehta A
+- authtype: Author
+  name: Li H
+- authtype: Author
+  name: Dhurandhar A
+- authtype: Author
+  name: Cecchi GA
+- authtype: Author
+  name: Polosecki P
+epubdate: 2024 Apr 5
+fulljournalname: Frontiers in Radiology
+issue: ''
+pages: '1283392'
+pmclivedate: 2024/04/19
+printpubdate: ''
+pubdate: 2024 Apr 5
+sortdate: 2024/04/05 00:00
+source: Front Radiol
+title: 'Fusion of biomedical imaging studies for increased sample size and diversity:
+  a case study of brain MRI'
+uid: '11026619'
+volume: '4'

@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '30347281'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2018.10.051
+- idtype: pmcid
+  value: PMC6289638
+- idtype: MID
+  value: NIHMS1511474
+authors:
+- authtype: Author
+  name: Aridan N
+- authtype: Author
+  name: Malecek NJ
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Schonberg T
+epubdate: 2018 Oct 19
+fulljournalname: NeuroImage
+issue: ''
+pages: 446-454
+pmclivedate: 2020/01/15
+printpubdate: 2019 Jan 15
+pubdate: 2018 Oct 19
+sortdate: 2018/10/19 00:00
+source: Neuroimage
+title: Neural correlates of effort-based valuation with prospective choices
+uid: '6289638'
+volume: '185'

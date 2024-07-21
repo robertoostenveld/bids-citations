@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '32677751'
+- idtype: doi
+  value: 10.1002/hbm.25137
+- idtype: pmcid
+  value: PMC7555067
+authors:
+- authtype: Author
+  name: Lau JC
+- authtype: Author
+  name: Xiao Y
+- authtype: Author
+  name: Haast RA
+- authtype: Author
+  name: Gilmore G
+- authtype: Author
+  name: Uludağ K
+- authtype: Author
+  name: MacDougall KW
+- authtype: Author
+  name: Menon RS
+- authtype: Author
+  name: Parrent AG
+- authtype: Author
+  name: Peters TM
+- authtype: Author
+  name: Khan AR
+epubdate: 2020 Jul 17
+fulljournalname: Human Brain Mapping
+issue: '16'
+pages: 4500-4517
+pmclivedate: 2020/10/19
+printpubdate: ''
+pubdate: 2020 Jul 17
+sortdate: 2020/07/17 00:00
+source: Hum Brain Mapp
+title: Direct visualization and characterization of the human zona incerta and surrounding
+  structures
+uid: '7555067'
+volume: '41'

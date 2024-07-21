@@ -1,0 +1,105 @@
+articleids:
+- idtype: pmid
+  value: '36303070'
+- idtype: doi
+  value: 10.1038/s41593-022-01186-3
+- idtype: pmcid
+  value: PMC9630096
+authors:
+- authtype: Author
+  name: Hansen JY
+- authtype: Author
+  name: Shafiei G
+- authtype: Author
+  name: Markello RD
+- authtype: Author
+  name: Smart K
+- authtype: Author
+  name: Cox SM
+- authtype: Author
+  name: Nørgaard M
+- authtype: Author
+  name: Beliveau V
+- authtype: Author
+  name: Wu Y
+- authtype: Author
+  name: Gallezot JD
+- authtype: Author
+  name: Aumont É
+- authtype: Author
+  name: Servaes S
+- authtype: Author
+  name: Scala SG
+- authtype: Author
+  name: DuBois JM
+- authtype: Author
+  name: Wainstein G
+- authtype: Author
+  name: Bezgin G
+- authtype: Author
+  name: Funck T
+- authtype: Author
+  name: Schmitz TW
+- authtype: Author
+  name: Spreng RN
+- authtype: Author
+  name: Galovic M
+- authtype: Author
+  name: Koepp MJ
+- authtype: Author
+  name: Duncan JS
+- authtype: Author
+  name: Coles JP
+- authtype: Author
+  name: Fryer TD
+- authtype: Author
+  name: Aigbirhio FI
+- authtype: Author
+  name: McGinnity CJ
+- authtype: Author
+  name: Hammers A
+- authtype: Author
+  name: Soucy JP
+- authtype: Author
+  name: Baillet S
+- authtype: Author
+  name: Guimond S
+- authtype: Author
+  name: Hietala J
+- authtype: Author
+  name: Bedard MA
+- authtype: Author
+  name: Leyton M
+- authtype: Author
+  name: Kobayashi E
+- authtype: Author
+  name: Rosa-Neto P
+- authtype: Author
+  name: Ganz M
+- authtype: Author
+  name: Knudsen GM
+- authtype: Author
+  name: Palomero-Gallagher N
+- authtype: Author
+  name: Shine JM
+- authtype: Author
+  name: Carson RE
+- authtype: Author
+  name: Tuominen L
+- authtype: Author
+  name: Dagher A
+- authtype: Author
+  name: Misic B
+epubdate: 2022 Oct 27
+fulljournalname: Nature Neuroscience
+issue: '11'
+pages: 1569-1581
+pmclivedate: 2022/11/04
+printpubdate: '2022'
+pubdate: 2022 Oct 27
+sortdate: 2022/10/27 00:00
+source: Nat Neurosci
+title: Mapping neurotransmitter systems to the structural and functional organization
+  of the human neocortex
+uid: '9630096'
+volume: '25'

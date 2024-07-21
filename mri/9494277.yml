@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '35580808'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119295
+- idtype: pmcid
+  value: PMC9494277
+- idtype: MID
+  value: NIHMS1835679
+authors:
+- authtype: Author
+  name: Wallace G
+- authtype: Author
+  name: Polcyn S
+- authtype: Author
+  name: Brooks PP
+- authtype: Author
+  name: Mennen A
+- authtype: Author
+  name: Zhao K
+- authtype: Author
+  name: Scotti PS
+- authtype: Author
+  name: Michelmann S
+- authtype: Author
+  name: Li K
+- authtype: Author
+  name: Turk-Browne NB
+- authtype: Author
+  name: Cohen JD
+- authtype: Author
+  name: Norman KA
+epubdate: 2022 May 14
+fulljournalname: NeuroImage
+issue: ''
+pages: '119295'
+pmclivedate: 2022/09/22
+printpubdate: 2022 Aug 15
+pubdate: 2022 May 14
+sortdate: 2022/05/14 00:00
+source: Neuroimage
+title: 'RT-Cloud: A Cloud-based Software Framework to Simplify and Standardize Real-Time
+  fMRI'
+uid: '9494277'
+volume: '257'

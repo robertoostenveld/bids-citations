@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '31784528'
+- idtype: doi
+  value: 10.1038/s41597-019-0303-3
+- idtype: pmcid
+  value: PMC6884625
+authors:
+- authtype: Author
+  name: Liu X
+- authtype: Author
+  name: Zhen Z
+- authtype: Author
+  name: Yang A
+- authtype: Author
+  name: Bai H
+- authtype: Author
+  name: Liu J
+epubdate: 2019 Nov 29
+fulljournalname: Scientific Data
+issue: ''
+pages: '295'
+pmclivedate: 2019/12/06
+printpubdate: ''
+pubdate: 2019 Nov 29
+sortdate: 2019/11/29 00:00
+source: Sci Data
+title: A manually denoised audio-visual movie watching fMRI dataset for the studyforrest
+  project
+uid: '6884625'
+volume: '6'

@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '30963844'
+- idtype: doi
+  value: 10.1098/rspb.2018.2733
+- idtype: pmcid
+  value: PMC6408898
+authors:
+- authtype: Author
+  name: Schneider CL
+- authtype: Author
+  name: Prentiss EK
+- authtype: Author
+  name: Busza A
+- authtype: Author
+  name: Matmati K
+- authtype: Author
+  name: Matmati N
+- authtype: Author
+  name: Williams ZR
+- authtype: Author
+  name: Sahin B
+- authtype: Author
+  name: Mahon BZ
+epubdate: 2019 Feb 27
+fulljournalname: 'Proceedings of the Royal Society B: Biological Sciences'
+issue: '1897'
+pages: '20182733'
+pmclivedate: 2019/03/19
+printpubdate: 2019 Feb 27
+pubdate: 2019 Feb 27
+sortdate: 2019/02/27 00:00
+source: Proc Biol Sci
+title: Survival of retinal ganglion cells after damage to the occipital lobe in humans
+  is activity dependent
+uid: '6408898'
+volume: '286'

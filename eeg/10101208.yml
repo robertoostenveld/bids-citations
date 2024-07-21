@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '37063105'
+- idtype: doi
+  value: 10.3389/fnhum.2023.1134869
+- idtype: pmcid
+  value: PMC10101208
+authors:
+- authtype: Author
+  name: Gwon D
+- authtype: Author
+  name: Won K
+- authtype: Author
+  name: Song M
+- authtype: Author
+  name: Nam CS
+- authtype: Author
+  name: Jun SC
+- authtype: Author
+  name: Ahn M
+epubdate: 2023 Mar 30
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '1134869'
+pmclivedate: 2023/04/14
+printpubdate: ''
+pubdate: 2023 Mar 30
+sortdate: 2023/03/30 00:00
+source: Front Hum Neurosci
+title: Review of public motor imagery and execution datasets in brain-computer interfaces
+uid: '10101208'
+volume: '17'

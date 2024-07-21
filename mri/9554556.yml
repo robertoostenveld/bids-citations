@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '36246393'
+- idtype: doi
+  value: 10.3389/fninf.2022.949926
+- idtype: pmcid
+  value: PMC9554556
+authors:
+- authtype: Author
+  name: Bahathiq RA
+- authtype: Author
+  name: Banjar H
+- authtype: Author
+  name: Bamaga AK
+- authtype: Author
+  name: Jarraya SK
+epubdate: 2022 Sep 28
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '949926'
+pmclivedate: 2022/10/13
+printpubdate: ''
+pubdate: 2022 Sep 28
+sortdate: 2022/09/28 00:00
+source: Front Neuroinform
+title: 'Machine learning for autism spectrum disorder diagnosis using structural magnetic
+  resonance imaging: Promising but challenging'
+uid: '9554556'
+volume: '16'

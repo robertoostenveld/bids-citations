@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '35495048'
+- idtype: doi
+  value: 10.3389/fnins.2022.854471
+- idtype: pmcid
+  value: PMC9043239
+authors:
+- authtype: Author
+  name: Delorme A
+- authtype: Author
+  name: Oostenveld R
+- authtype: Author
+  name: Tadel F
+- authtype: Author
+  name: Gramfort A
+- authtype: Author
+  name: Nagarajan S
+- authtype: Author
+  name: Litvak V
+epubdate: 2022 Apr 13
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '854471'
+pmclivedate: 2022/04/28
+printpubdate: ''
+pubdate: 2022 Apr 13
+sortdate: 2022/04/13 00:00
+source: Front Neurosci
+title: 'Editorial: From Raw MEG/EEG to Publication: How to Perform MEG/EEG Group Analysis
+  With Free Academic Software'
+uid: '9043239'
+volume: '16'

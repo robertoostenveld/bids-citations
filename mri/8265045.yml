@@ -1,0 +1,62 @@
+articleids:
+- idtype: pmid
+  value: '34248680'
+- idtype: doi
+  value: 10.3389/fphys.2021.693735
+- idtype: pmcid
+  value: PMC8265045
+authors:
+- authtype: Author
+  name: Osanlouy M
+- authtype: Author
+  name: Bandrowski A
+- authtype: Author
+  name: de Bono B
+- authtype: Author
+  name: Brooks D
+- authtype: Author
+  name: Cassarà AM
+- authtype: Author
+  name: Christie R
+- authtype: Author
+  name: Ebrahimi N
+- authtype: Author
+  name: Gillespie T
+- authtype: Author
+  name: Grethe JS
+- authtype: Author
+  name: Guercio LA
+- authtype: Author
+  name: Heal M
+- authtype: Author
+  name: Lin M
+- authtype: Author
+  name: Kuster N
+- authtype: Author
+  name: Martone ME
+- authtype: Author
+  name: Neufeld E
+- authtype: Author
+  name: Nickerson DP
+- authtype: Author
+  name: Soltani EG
+- authtype: Author
+  name: Tappan S
+- authtype: Author
+  name: Wagenaar JB
+- authtype: Author
+  name: Zhuang K
+- authtype: Author
+  name: Hunter PJ
+epubdate: 2021 Jun 24
+fulljournalname: Frontiers in Physiology
+issue: ''
+pages: '693735'
+pmclivedate: 2021/07/09
+printpubdate: ''
+pubdate: 2021 Jun 24
+sortdate: 2021/06/24 00:00
+source: Front Physiol
+title: 'The SPARC DRC: Building a Resource for the Autonomic Nervous System Community'
+uid: '8265045'
+volume: '12'

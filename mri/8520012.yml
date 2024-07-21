@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '34654823'
+- idtype: doi
+  value: 10.1038/s41597-021-01042-2
+- idtype: pmcid
+  value: PMC8520012
+authors:
+- authtype: Author
+  name: Jamadar SD
+- authtype: Author
+  name: Zhong S
+- authtype: Author
+  name: Carey A
+- authtype: Author
+  name: McIntyre R
+- authtype: Author
+  name: Ward PG
+- authtype: Author
+  name: Fornito A
+- authtype: Author
+  name: Premaratne M
+- authtype: Author
+  name: Jon Shah N
+- authtype: Author
+  name: O’Brien K
+- authtype: Author
+  name: Stäb D
+- authtype: Author
+  name: Chen Z
+- authtype: Author
+  name: Egan GF
+epubdate: 2021 Oct 15
+fulljournalname: Scientific Data
+issue: ''
+pages: '267'
+pmclivedate: 2021/10/29
+printpubdate: ''
+pubdate: 2021 Oct 15
+sortdate: 2021/10/15 00:00
+source: Sci Data
+title: Task-evoked simultaneous FDG-PET and fMRI data for measurement of neural metabolism
+  in the human visual cortex
+uid: '8520012'
+volume: '8'

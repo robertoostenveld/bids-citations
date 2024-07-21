@@ -1,0 +1,63 @@
+articleids:
+- idtype: pmid
+  value: '34149484'
+- idtype: doi
+  value: 10.3389/fpsyt.2021.680811
+- idtype: pmcid
+  value: PMC8206497
+authors:
+- authtype: Author
+  name: Frässle S
+- authtype: Author
+  name: Aponte EA
+- authtype: Author
+  name: Bollmann S
+- authtype: Author
+  name: Brodersen KH
+- authtype: Author
+  name: Do CT
+- authtype: Author
+  name: Harrison OK
+- authtype: Author
+  name: Harrison SJ
+- authtype: Author
+  name: Heinzle J
+- authtype: Author
+  name: Iglesias S
+- authtype: Author
+  name: Kasper L
+- authtype: Author
+  name: Lomakina EI
+- authtype: Author
+  name: Mathys C
+- authtype: Author
+  name: Müller-Schrader M
+- authtype: Author
+  name: Pereira I
+- authtype: Author
+  name: Petzschner FH
+- authtype: Author
+  name: Raman S
+- authtype: Author
+  name: Schöbi D
+- authtype: Author
+  name: Toussaint B
+- authtype: Author
+  name: Weber LA
+- authtype: Author
+  name: Yao Y
+- authtype: Author
+  name: Stephan KE
+epubdate: 2021 Jun 2
+fulljournalname: Frontiers in Psychiatry
+issue: ''
+pages: '680811'
+pmclivedate: 2021/06/17
+printpubdate: ''
+pubdate: 2021 Jun 2
+sortdate: 2021/06/02 00:00
+source: Front Psychiatry
+title: 'TAPAS: An Open-Source Software Package for Translational Neuromodeling and
+  Computational Psychiatry'
+uid: '8206497'
+volume: '12'

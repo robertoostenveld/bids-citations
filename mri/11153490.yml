@@ -1,0 +1,73 @@
+articleids:
+- idtype: pmid
+  value: '38839770'
+- idtype: doi
+  value: 10.1038/s41597-024-03390-1
+- idtype: pmcid
+  value: PMC11153490
+authors:
+- authtype: Author
+  name: Pinho AL
+- authtype: Author
+  name: Richard H
+- authtype: Author
+  name: Ponce AF
+- authtype: Author
+  name: Eickenberg M
+- authtype: Author
+  name: Amadon A
+- authtype: Author
+  name: Dohmatob E
+- authtype: Author
+  name: Denghien I
+- authtype: Author
+  name: Torre JJ
+- authtype: Author
+  name: Shankar S
+- authtype: Author
+  name: Aggarwal H
+- authtype: Author
+  name: Thual A
+- authtype: Author
+  name: Chapalain T
+- authtype: Author
+  name: Ginisty C
+- authtype: Author
+  name: Becuwe-Desmidt S
+- authtype: Author
+  name: Roger S
+- authtype: Author
+  name: Lecomte Y
+- authtype: Author
+  name: Berland V
+- authtype: Author
+  name: Laurier L
+- authtype: Author
+  name: Joly-Testault V
+- authtype: Author
+  name: Médiouni-Cloarec G
+- authtype: Author
+  name: Doublé C
+- authtype: Author
+  name: Martins B
+- authtype: Author
+  name: Varoquaux G
+- authtype: Author
+  name: Dehaene S
+- authtype: Author
+  name: Hertz-Pannier L
+- authtype: Author
+  name: Thirion B
+epubdate: 2024 Jun 5
+fulljournalname: Scientific Data
+issue: ''
+pages: '590'
+pmclivedate: 2024/06/06
+printpubdate: ''
+pubdate: 2024 Jun 5
+sortdate: 2024/06/05 00:00
+source: Sci Data
+title: Individual Brain Charting dataset extension, third release for movie watching
+  and retinotopy data
+uid: '11153490'
+volume: '11'

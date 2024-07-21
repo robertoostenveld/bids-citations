@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '36270100'
+- idtype: doi
+  value: 10.1016/j.dcn.2022.101163
+- idtype: pmcid
+  value: PMC9586850
+authors:
+- authtype: Author
+  name: Puglia MH
+- authtype: Author
+  name: Slobin JS
+- authtype: Author
+  name: Williams CL
+epubdate: 2022 Oct 17
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101163'
+pmclivedate: 2022/10/23
+printpubdate: ''
+pubdate: 2022 Oct 17
+sortdate: 2022/10/17 00:00
+source: Dev Cogn Neurosci
+title: 'The automated preprocessing pipe-line for the estimation of scale-wise entropy
+  from EEG data (APPLESEED): Development and validation for use in pediatric populations'
+uid: '9586850'
+volume: '58'

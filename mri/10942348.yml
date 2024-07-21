@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '38496633'
+- idtype: doi
+  value: 10.1101/2024.03.04.583291
+- idtype: pmcid
+  value: PMC10942348
+authors:
+- authtype: Author
+  name: Capogna E
+- authtype: Author
+  name: Sørensen Ø
+- authtype: Author
+  name: Watne LO
+- authtype: Author
+  name: Roe J
+- authtype: Author
+  name: Strømstad M
+- authtype: Author
+  name: Idland AV
+- authtype: Author
+  name: Halaas NB
+- authtype: Author
+  name: Blennow K
+- authtype: Author
+  name: Zetterberg H
+- authtype: Author
+  name: Walhovd KB
+- authtype: Author
+  name: Fjell AM
+- authtype: Author
+  name: Vidal-Piñeiro D
+epubdate: 2024 Mar 7
+fulljournalname: bioRxiv
+issue: ''
+pages: 2024.03.04.583291
+pmclivedate: 2024/03/16
+printpubdate: ''
+pubdate: 2024 Mar 7
+sortdate: 2024/03/07 00:00
+source: bioRxiv
+title: Subtypes of brain change in aging and their associations with cognition and
+  Alzheimer’s disease biomarkers
+uid: '10942348'
+volume: ''

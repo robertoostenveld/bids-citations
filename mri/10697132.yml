@@ -1,0 +1,54 @@
+articleids:
+- idtype: pmid
+  value: '36070839'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119612
+- idtype: pmcid
+  value: PMC10697132
+- idtype: MID
+  value: NIHMS1943204
+authors:
+- authtype: Author
+  name: Cruces RR
+- authtype: Author
+  name: Royer J
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Larivière S
+- authtype: Author
+  name: Vos de Wael R
+- authtype: Author
+  name: Paquola C
+- authtype: Author
+  name: Benkarim O
+- authtype: Author
+  name: Park BY
+- authtype: Author
+  name: Degré-Pelletier J
+- authtype: Author
+  name: Nelson MC
+- authtype: Author
+  name: DeKraker J
+- authtype: Author
+  name: Leppert IR
+- authtype: Author
+  name: Tardif C
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Concha L
+- authtype: Author
+  name: Bernhardt BC
+epubdate: 2022 Sep 5
+fulljournalname: NeuroImage
+issue: ''
+pages: '119612'
+pmclivedate: 2023/12/05
+printpubdate: 2022 Nov
+pubdate: 2022 Sep 5
+sortdate: 2022/09/05 00:00
+source: Neuroimage
+title: 'Micapipe: A pipeline for multimodal neuroimaging and connectome analysis'
+uid: '10697132'
+volume: '263'

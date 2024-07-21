@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '36395014'
+- idtype: doi
+  value: 10.1037/bne0000534
+- idtype: pmcid
+  value: PMC9884515
+- idtype: MID
+  value: NIHMS1864542
+authors:
+- authtype: Author
+  name: Holt-Gosselin B
+- authtype: Author
+  name: Cohodes EM
+- authtype: Author
+  name: McCauley S
+- authtype: Author
+  name: Foster JC
+- authtype: Author
+  name: Odriozola P
+- authtype: Author
+  name: Zacharek SJ
+- authtype: Author
+  name: Kribakaran S
+- authtype: Author
+  name: Haberman JT
+- authtype: Author
+  name: Hodges HR
+- authtype: Author
+  name: Gee DG
+epubdate: ''
+fulljournalname: Behavioral neuroscience
+issue: '6'
+pages: 528-540
+pmclivedate: 2023/12/01
+printpubdate: 2022 Dec
+pubdate: 2022 Dec
+sortdate: 2022/12/01 00:00
+source: Behav Neurosci
+title: 'Lack of robust associations between pre-pandemic coping strategies and frontolimbic
+  circuitry with depression and anxiety symptoms during the COVID-19 pandemic: a preregistered
+  longitudinal study'
+uid: '9884515'
+volume: '136'

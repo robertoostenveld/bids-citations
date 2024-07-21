@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '31194693'
+- idtype: doi
+  value: 10.1515/revneuro-2018-0096
+- idtype: pmcid
+  value: PMC8572130
+- idtype: MID
+  value: NIHMS1744427
+authors:
+- authtype: Author
+  name: Oschwald J
+- authtype: Author
+  name: Guye S
+- authtype: Author
+  name: Liem F
+- authtype: Author
+  name: Rast P
+- authtype: Author
+  name: Willis S
+- authtype: Author
+  name: Röcke C
+- authtype: Author
+  name: Jäncke L
+- authtype: Author
+  name: Martin M
+- authtype: Author
+  name: Mérillat S
+epubdate: ''
+fulljournalname: Reviews in the neurosciences
+issue: '1'
+pages: 1-57
+pmclivedate: 2021/11/07
+printpubdate: 2019 Dec 18
+pubdate: 2019 Dec 18
+sortdate: 2019/12/18 00:00
+source: Rev Neurosci
+title: 'Brain structure and cognitive ability in healthy aging: a review on longitudinal
+  correlated change'
+uid: '8572130'
+volume: '31'

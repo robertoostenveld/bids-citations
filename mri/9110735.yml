@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '35577825'
+- idtype: doi
+  value: 10.1038/s41597-022-01334-1
+- idtype: pmcid
+  value: PMC9110735
+authors:
+- authtype: Author
+  name: Sandström M
+- authtype: Author
+  name: Abrams M
+- authtype: Author
+  name: Bjaalie JG
+- authtype: Author
+  name: Hicks M
+- authtype: Author
+  name: Kennedy DN
+- authtype: Author
+  name: Kumar A
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Roy PK
+- authtype: Author
+  name: Tiesinga P
+- authtype: Author
+  name: Wachtler T
+- authtype: Author
+  name: Goscinski WJ
+epubdate: 2022 May 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '212'
+pmclivedate: 2022/05/18
+printpubdate: ''
+pubdate: 2022 May 16
+sortdate: 2022/05/16 00:00
+source: Sci Data
+title: Recommendations for repositories and scientific gateways from a neuroscience
+  perspective
+uid: '9110735'
+volume: '9'

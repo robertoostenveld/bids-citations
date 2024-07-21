@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '37715920'
+- idtype: doi
+  value: 10.1007/s12264-023-01112-y
+- idtype: pmcid
+  value: PMC10661546
+authors:
+- authtype: Author
+  name: Jiang T
+- authtype: Author
+  name: Gong H
+- authtype: Author
+  name: Yuan J
+epubdate: 2023 Sep 16
+fulljournalname: Neuroscience Bulletin
+issue: '12'
+pages: 1840-1858
+pmclivedate: 2023/09/16
+printpubdate: ''
+pubdate: 2023 Sep 16
+sortdate: 2023/09/16 00:00
+source: Neurosci Bull
+title: 'Whole-brain Optical Imaging: A Powerful Tool for Precise Brain Mapping at
+  the Mesoscopic Level'
+uid: '10661546'
+volume: '39'

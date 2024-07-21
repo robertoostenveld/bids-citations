@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '37206154'
+- idtype: doi
+  value: 10.1016/j.ynpai.2023.100129
+- idtype: pmcid
+  value: PMC10189552
+authors:
+- authtype: Author
+  name: Palmer KL
+- authtype: Author
+  name: Shivgulam ME
+- authtype: Author
+  name: Champod AS
+- authtype: Author
+  name: Wilson BC
+- authtype: Author
+  name: O'Brien MW
+- authtype: Author
+  name: Bray NW
+epubdate: 2023 Apr 20
+fulljournalname: Neurobiology of Pain
+issue: ''
+pages: '100129'
+pmclivedate: 2023/05/18
+printpubdate: ''
+pubdate: 2023 Apr 20
+sortdate: 2023/04/20 00:00
+source: Neurobiol Pain
+title: 'Exercise training augments brain function and reduces pain perception in adults
+  with chronic pain: A systematic review of intervention studies'
+uid: '10189552'
+volume: '13'

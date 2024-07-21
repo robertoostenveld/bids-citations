@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38951520'
+- idtype: doi
+  value: 10.1038/s41467-024-49173-5
+- idtype: pmcid
+  value: PMC11217339
+authors:
+- authtype: Author
+  name: Kumar S
+- authtype: Author
+  name: Sumers TR
+- authtype: Author
+  name: Yamakoshi T
+- authtype: Author
+  name: Goldstein A
+- authtype: Author
+  name: Hasson U
+- authtype: Author
+  name: Norman KA
+- authtype: Author
+  name: Griffiths TL
+- authtype: Author
+  name: Hawkins RD
+- authtype: Author
+  name: Nastase SA
+epubdate: 2024 Jun 29
+fulljournalname: Nature Communications
+issue: ''
+pages: '5523'
+pmclivedate: 2024/07/02
+printpubdate: ''
+pubdate: 2024 Jun 29
+sortdate: 2024/06/29 00:00
+source: Nat Commun
+title: Shared functional specialization in transformer-based language models and the
+  human brain
+uid: '11217339'
+volume: '15'

@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '35715429'
+- idtype: doi
+  value: 10.1038/s41597-022-01414-2
+- idtype: pmcid
+  value: PMC9206021
+authors:
+- authtype: Author
+  name: Pavlov YG
+- authtype: Author
+  name: Kasanov D
+- authtype: Author
+  name: Kosachenko AI
+- authtype: Author
+  name: Kotyusov AI
+- authtype: Author
+  name: Busch NA
+epubdate: 2022 Jun 17
+fulljournalname: Scientific Data
+issue: ''
+pages: '325'
+pmclivedate: 2022/06/19
+printpubdate: ''
+pubdate: 2022 Jun 17
+sortdate: 2022/06/17 00:00
+source: Sci Data
+title: Pupillometry and electroencephalography in the digit span task
+uid: '9206021'
+volume: '9'

@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '34974250'
+- idtype: doi
+  value: 10.1016/j.dcn.2021.101055
+- idtype: pmcid
+  value: PMC8733260
+authors:
+- authtype: Author
+  name: Korom M
+- authtype: Author
+  name: Camacho MC
+- authtype: Author
+  name: Filippi CA
+- authtype: Author
+  name: Licandro R
+- authtype: Author
+  name: Moore LA
+- authtype: Author
+  name: Dufford A
+- authtype: Author
+  name: Zöllei L
+- authtype: Author
+  name: Graham AM
+- authtype: Author
+  name: Spann M
+- authtype: Author
+  name: Howell B
+- authtype: CollectiveName
+  name: FIT’NG
+- authtype: Author
+  name: Shultz S
+- authtype: Author
+  name: Scheinost D
+epubdate: 2021 Dec 27
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101055'
+pmclivedate: 2022/01/11
+printpubdate: ''
+pubdate: 2021 Dec 27
+sortdate: 2021/12/27 00:00
+source: Dev Cogn Neurosci
+title: 'Dear reviewers: Responses to common reviewer critiques about infant neuroimaging
+  studies'
+uid: '8733260'
+volume: '53'

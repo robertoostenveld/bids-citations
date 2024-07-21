@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '36595445'
+- idtype: doi
+  value: 10.1037/met0000547
+- idtype: pmcid
+  value: PMC10694848
+- idtype: MID
+  value: NIHMS1946468
+authors:
+- authtype: Author
+  name: Strand JF
+epubdate: 2023 Jan 2
+fulljournalname: Psychological methods
+issue: ''
+pages: 10.1037/met0000547
+pmclivedate: 2024/07/02
+printpubdate: ''
+pubdate: 2023 Jan 2
+sortdate: 2023/01/02 00:00
+source: Psychol Methods
+title: 'Error Tight: Exercises for Lab Groups to Prevent Research Mistakes'
+uid: '10694848'
+volume: ''

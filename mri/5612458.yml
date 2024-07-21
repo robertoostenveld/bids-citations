@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '28945803'
+- idtype: doi
+  value: 10.1371/journal.pone.0184661
+- idtype: pmcid
+  value: PMC5612458
+authors:
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Birman D
+- authtype: Author
+  name: Schaer M
+- authtype: Author
+  name: Koyejo OO
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Gorgolewski KJ
+epubdate: 2017 Sep 25
+fulljournalname: PLoS ONE
+issue: '9'
+pages: e0184661
+pmclivedate: 2017/10/09
+printpubdate: ''
+pubdate: 2017 Sep 25
+sortdate: 2017/09/25 00:00
+source: PLoS One
+title: 'MRIQC: Advancing the automatic prediction of image quality in MRI from unseen
+  sites'
+uid: '5612458'
+volume: '12'

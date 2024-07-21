@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '30015807'
+- idtype: doi
+  value: 10.1038/sdata.2018.134
+- idtype: pmcid
+  value: PMC6049036
+authors:
+- authtype: Author
+  name: Wei D
+- authtype: Author
+  name: Zhuang K
+- authtype: Author
+  name: Ai L
+- authtype: Author
+  name: Chen Q
+- authtype: Author
+  name: Yang W
+- authtype: Author
+  name: Liu W
+- authtype: Author
+  name: Wang K
+- authtype: Author
+  name: Sun J
+- authtype: Author
+  name: Qiu J
+epubdate: 2018 Jul 17
+fulljournalname: Scientific Data
+issue: ''
+pages: '180134'
+pmclivedate: 2018/07/24
+printpubdate: ''
+pubdate: 2018 Jul 17
+sortdate: 2018/07/17 00:00
+source: Sci Data
+title: Structural and functional brain scans from the cross-sectional Southwest University
+  adult lifespan dataset
+uid: '6049036'
+volume: '5'

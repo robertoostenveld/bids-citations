@@ -1,0 +1,248 @@
+articleids:
+- idtype: pmid
+  value: '37744469'
+- idtype: pmcid
+  value: PMC10516110
+authors:
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Ashar YK
+- authtype: Author
+  name: Auer T
+- authtype: Author
+  name: Baillet S
+- authtype: Author
+  name: Bansal S
+- authtype: Author
+  name: Beltrachini L
+- authtype: Author
+  name: Benar CG
+- authtype: Author
+  name: Bertazzoli G
+- authtype: Author
+  name: Bhogawar S
+- authtype: Author
+  name: Blair RW
+- authtype: Author
+  name: Bortoletto M
+- authtype: Author
+  name: Boudreau M
+- authtype: Author
+  name: Brooks TL
+- authtype: Author
+  name: Calhoun VD
+- authtype: Author
+  name: Castelli FM
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Cohen AL
+- authtype: Author
+  name: Cohen-Adad J
+- authtype: Author
+  name: D’Ambrosio S
+- authtype: Author
+  name: de Hollander G
+- authtype: Author
+  name: de la Iglesia-Vayá M
+- authtype: Author
+  name: de la Vega A
+- authtype: Author
+  name: Delorme A
+- authtype: Author
+  name: Devinsky O
+- authtype: Author
+  name: Draschkow D
+- authtype: Author
+  name: Duff EP
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Earl E
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Feingold FW
+- authtype: Author
+  name: Flandin G
+- authtype: Author
+  name: Galassi A
+- authtype: Author
+  name: Gallitto G
+- authtype: Author
+  name: Ganz M
+- authtype: Author
+  name: Gau R
+- authtype: Author
+  name: Gholam J
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Giacomel A
+- authtype: Author
+  name: Gillman AG
+- authtype: Author
+  name: Gleeson P
+- authtype: Author
+  name: Gramfort A
+- authtype: Author
+  name: Guay S
+- authtype: Author
+  name: Guidali G
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Handwerker DA
+- authtype: Author
+  name: Hardcastle N
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Hermes D
+- authtype: Author
+  name: Honey CJ
+- authtype: Author
+  name: Innis RB
+- authtype: Author
+  name: Ioanas HI
+- authtype: Author
+  name: Jahn A
+- authtype: Author
+  name: Karakuzu A
+- authtype: Author
+  name: Keator DB
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Kincses B
+- authtype: Author
+  name: Laird AR
+- authtype: Author
+  name: Lau JC
+- authtype: Author
+  name: Lazari A
+- authtype: Author
+  name: Legarreta JH
+- authtype: Author
+  name: Li A
+- authtype: Author
+  name: Li X
+- authtype: Author
+  name: Love BC
+- authtype: Author
+  name: Lu H
+- authtype: Author
+  name: Marcantoni E
+- authtype: Author
+  name: Maumet C
+- authtype: Author
+  name: Mazzamuto G
+- authtype: Author
+  name: Meisler SL
+- authtype: Author
+  name: Mikkelsen M
+- authtype: Author
+  name: Mutsaerts H
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Nikolaidis A
+- authtype: Author
+  name: Nilsonne G
+- authtype: Author
+  name: Niso G
+- authtype: Author
+  name: Norgaard M
+- authtype: Author
+  name: Okell TW
+- authtype: Author
+  name: Oostenveld R
+- authtype: Author
+  name: Ort E
+- authtype: Author
+  name: Park PJ
+- authtype: Author
+  name: Pawlik M
+- authtype: Author
+  name: Pernet CR
+- authtype: Author
+  name: Pestilli F
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Phillips C
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Pollonini L
+- authtype: Author
+  name: Raamana PR
+- authtype: Author
+  name: Ritter P
+- authtype: Author
+  name: Rizzo G
+- authtype: Author
+  name: Robbins KA
+- authtype: Author
+  name: Rockhill AP
+- authtype: Author
+  name: Rogers C
+- authtype: Author
+  name: Rokem A
+- authtype: Author
+  name: Rorden C
+- authtype: Author
+  name: Routier A
+- authtype: Author
+  name: Saborit-Torres JM
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Schirner M
+- authtype: Author
+  name: Smith RE
+- authtype: Author
+  name: Spisak T
+- authtype: Author
+  name: Sprenger J
+- authtype: Author
+  name: Swann NC
+- authtype: Author
+  name: Szinte M
+- authtype: Author
+  name: Takerkart S
+- authtype: Author
+  name: Thirion B
+- authtype: Author
+  name: Thomas AG
+- authtype: Author
+  name: Torabian S
+- authtype: Author
+  name: Varoquaux G
+- authtype: Author
+  name: Voytek B
+- authtype: Author
+  name: Welzel J
+- authtype: Author
+  name: Wilson M
+- authtype: Author
+  name: Yarkoni T
+- authtype: Author
+  name: Gorgolewski KJ
+epubdate: 2024 Jan 9
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2309.05768v2
+pmclivedate: 2023/09/23
+printpubdate: ''
+pubdate: 2024 Jan 9
+sortdate: 2024/01/09 00:00
+source: ArXiv
+title: The Past, Present, and Future of the Brain Imaging Data Structure (BIDS)
+uid: '10516110'
+volume: ''

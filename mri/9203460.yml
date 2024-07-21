@@ -1,0 +1,147 @@
+articleids:
+- idtype: pmid
+  value: '35710678'
+- idtype: doi
+  value: 10.1038/s41597-022-01401-7
+- idtype: pmcid
+  value: PMC9203460
+authors:
+- authtype: Author
+  name: Liew SL
+- authtype: Author
+  name: Lo BP
+- authtype: Author
+  name: Donnelly MR
+- authtype: Author
+  name: Zavaliangos-Petropulu A
+- authtype: Author
+  name: Jeong JN
+- authtype: Author
+  name: Barisano G
+- authtype: Author
+  name: Hutton A
+- authtype: Author
+  name: Simon JP
+- authtype: Author
+  name: Juliano JM
+- authtype: Author
+  name: Suri A
+- authtype: Author
+  name: Wang Z
+- authtype: Author
+  name: Abdullah A
+- authtype: Author
+  name: Kim J
+- authtype: Author
+  name: Ard T
+- authtype: Author
+  name: Banaj N
+- authtype: Author
+  name: Borich MR
+- authtype: Author
+  name: Boyd LA
+- authtype: Author
+  name: Brodtmann A
+- authtype: Author
+  name: Buetefisch CM
+- authtype: Author
+  name: Cao L
+- authtype: Author
+  name: Cassidy JM
+- authtype: Author
+  name: Ciullo V
+- authtype: Author
+  name: Conforto AB
+- authtype: Author
+  name: Cramer SC
+- authtype: Author
+  name: Dacosta-Aguayo R
+- authtype: Author
+  name: de la Rosa E
+- authtype: Author
+  name: Domin M
+- authtype: Author
+  name: Dula AN
+- authtype: Author
+  name: Feng W
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Geranmayeh F
+- authtype: Author
+  name: Gramfort A
+- authtype: Author
+  name: Gregory CM
+- authtype: Author
+  name: Hanlon CA
+- authtype: Author
+  name: Hordacre BG
+- authtype: Author
+  name: Kautz SA
+- authtype: Author
+  name: Khlif MS
+- authtype: Author
+  name: Kim H
+- authtype: Author
+  name: Kirschke JS
+- authtype: Author
+  name: Liu J
+- authtype: Author
+  name: Lotze M
+- authtype: Author
+  name: MacIntosh BJ
+- authtype: Author
+  name: Mataró M
+- authtype: Author
+  name: Mohamed FB
+- authtype: Author
+  name: Nordvik JE
+- authtype: Author
+  name: Park G
+- authtype: Author
+  name: Pienta A
+- authtype: Author
+  name: Piras F
+- authtype: Author
+  name: Redman SM
+- authtype: Author
+  name: Revill KP
+- authtype: Author
+  name: Reyes M
+- authtype: Author
+  name: Robertson AD
+- authtype: Author
+  name: Seo NJ
+- authtype: Author
+  name: Soekadar SR
+- authtype: Author
+  name: Spalletta G
+- authtype: Author
+  name: Sweet A
+- authtype: Author
+  name: Telenczuk M
+- authtype: Author
+  name: Thielman G
+- authtype: Author
+  name: Westlye LT
+- authtype: Author
+  name: Winstein CJ
+- authtype: Author
+  name: Wittenberg GF
+- authtype: Author
+  name: Wong KA
+- authtype: Author
+  name: Yu C
+epubdate: 2022 Jun 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '320'
+pmclivedate: 2022/06/18
+printpubdate: ''
+pubdate: 2022 Jun 16
+sortdate: 2022/06/16 00:00
+source: Sci Data
+title: A large, curated, open-source stroke neuroimaging dataset to improve lesion
+  segmentation algorithms
+uid: '9203460'
+volume: '9'

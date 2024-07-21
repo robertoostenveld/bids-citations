@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '35305030'
+- idtype: doi
+  value: 10.1002/hbm.25829
+- idtype: pmcid
+  value: PMC9120555
+authors:
+- authtype: Author
+  name: Waller L
+- authtype: Author
+  name: Erk S
+- authtype: Author
+  name: Pozzi E
+- authtype: Author
+  name: Toenders YJ
+- authtype: Author
+  name: Haswell CC
+- authtype: Author
+  name: Büttner M
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: Schmaal L
+- authtype: Author
+  name: Morey RA
+- authtype: Author
+  name: Walter H
+- authtype: Author
+  name: Veer IM
+epubdate: 2022 Mar 19
+fulljournalname: Human Brain Mapping
+issue: '9'
+pages: 2727-2742
+pmclivedate: 2022/05/21
+printpubdate: ''
+pubdate: 2022 Mar 19
+sortdate: 2022/03/19 00:00
+source: Hum Brain Mapp
+title: ' ENIGMA HALFpipe: Interactive, reproducible, and efficient analysis for resting‐state
+  and task‐based fMRI data'
+uid: '9120555'
+volume: '43'

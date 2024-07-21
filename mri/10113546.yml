@@ -1,0 +1,58 @@
+articleids:
+- idtype: pmid
+  value: '37090033'
+- idtype: doi
+  value: 10.3389/fninf.2023.1104508
+- idtype: pmcid
+  value: PMC10113546
+authors:
+- authtype: Author
+  name: Ji JL
+- authtype: Author
+  name: Demšar J
+- authtype: Author
+  name: Fonteneau C
+- authtype: Author
+  name: Tamayo Z
+- authtype: Author
+  name: Pan L
+- authtype: Author
+  name: Kraljič A
+- authtype: Author
+  name: Matkovič A
+- authtype: Author
+  name: Purg N
+- authtype: Author
+  name: Helmer M
+- authtype: Author
+  name: Warrington S
+- authtype: Author
+  name: Winkler A
+- authtype: Author
+  name: Zerbi V
+- authtype: Author
+  name: Coalson TS
+- authtype: Author
+  name: Glasser MF
+- authtype: Author
+  name: Harms MP
+- authtype: Author
+  name: Sotiropoulos SN
+- authtype: Author
+  name: Murray JD
+- authtype: Author
+  name: Anticevic A
+- authtype: Author
+  name: Repovš G
+epubdate: 2023 Apr 5
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1104508'
+pmclivedate: 2023/04/20
+printpubdate: ''
+pubdate: 2023 Apr 5
+sortdate: 2023/04/05 00:00
+source: Front Neuroinform
+title: QuNex—An integrative platform for reproducible neuroimaging analytics
+uid: '10113546'
+volume: '17'

@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '33288916'
+- idtype: doi
+  value: 10.1038/s41562-020-01005-4
+- idtype: pmcid
+  value: PMC7992920
+- idtype: MID
+  value: NIHMS1676904
+authors:
+- authtype: Author
+  name: Horien C
+- authtype: Author
+  name: Noble S
+- authtype: Author
+  name: Greene AS
+- authtype: Author
+  name: Lee K
+- authtype: Author
+  name: Barron DS
+- authtype: Author
+  name: Gao S
+- authtype: Author
+  name: O’Connor D
+- authtype: Author
+  name: Salehi M
+- authtype: Author
+  name: Dadashkarimi J
+- authtype: Author
+  name: Shen X
+- authtype: Author
+  name: Lake EM
+- authtype: Author
+  name: Constable RT
+- authtype: Author
+  name: Scheinost D
+epubdate: 2020 Dec 7
+fulljournalname: Nature human behaviour
+issue: '2'
+pages: 185-193
+pmclivedate: 2021/03/25
+printpubdate: 2021 Feb
+pubdate: 2020 Dec 7
+sortdate: 2020/12/07 00:00
+source: Nat Hum Behav
+title: A hitchhiker′s guide to working with large, open-source neuroimaging datasets
+uid: '7992920'
+volume: '5'

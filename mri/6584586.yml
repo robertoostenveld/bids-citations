@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '30565026'
+- idtype: doi
+  value: 10.1007/s12021-018-9410-0
+- idtype: pmcid
+  value: PMC6584586
+authors:
+- authtype: Author
+  name: Anderson RJ
+- authtype: Author
+  name: Cook JJ
+- authtype: Author
+  name: Delpratt N
+- authtype: Author
+  name: Nouls JC
+- authtype: Author
+  name: Gu B
+- authtype: Author
+  name: McNamara JO
+- authtype: Author
+  name: Avants BB
+- authtype: Author
+  name: Johnson GA
+- authtype: Author
+  name: Badea A
+epubdate: 2018 Dec 19
+fulljournalname: Neuroinformatics
+issue: '3'
+pages: 451-472
+pmclivedate: 2019/07/01
+printpubdate: '2019'
+pubdate: 2018 Dec 19
+sortdate: 2018/12/19 00:00
+source: Neuroinformatics
+title: Small Animal Multivariate Brain Analysis (SAMBA) – a High Throughput Pipeline
+  with a Validation Framework
+uid: '6584586'
+volume: '17'

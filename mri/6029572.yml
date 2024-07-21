@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '29969115'
+- idtype: doi
+  value: 10.1038/sdata.2018.112
+- idtype: pmcid
+  value: PMC6029572
+authors:
+- authtype: Author
+  name: Goren N
+- authtype: Author
+  name: Avery J
+- authtype: Author
+  name: Dowrick T
+- authtype: Author
+  name: Mackle E
+- authtype: Author
+  name: Witkowska-Wrobel A
+- authtype: Author
+  name: Werring D
+- authtype: Author
+  name: Holder D
+epubdate: 2018 Jul 3
+fulljournalname: Scientific Data
+issue: ''
+pages: '180112'
+pmclivedate: 2018/07/06
+printpubdate: ''
+pubdate: 2018 Jul 3
+sortdate: 2018/07/03 00:00
+source: Sci Data
+title: Multi-frequency electrical impedance tomography and neuroimaging data in stroke
+  patients
+uid: '6029572'
+volume: '5'

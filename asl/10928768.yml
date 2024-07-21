@@ -1,0 +1,108 @@
+articleids:
+- idtype: pmid
+  value: '38458785'
+- idtype: doi
+  value: 10.1136/bmjopen-2023-081635
+- idtype: pmcid
+  value: PMC10928768
+authors:
+- authtype: Author
+  name: Padrela B
+- authtype: Author
+  name: Mahroo A
+- authtype: Author
+  name: Tee M
+- authtype: Author
+  name: Sneve MH
+- authtype: Author
+  name: Moyaert P
+- authtype: Author
+  name: Geier O
+- authtype: Author
+  name: Kuijer JP
+- authtype: Author
+  name: Beun S
+- authtype: Author
+  name: Nordhøy W
+- authtype: Author
+  name: Zhu YD
+- authtype: Author
+  name: Buck MA
+- authtype: Author
+  name: Hoinkiss DC
+- authtype: Author
+  name: Konstandin S
+- authtype: Author
+  name: Huber J
+- authtype: Author
+  name: Wiersinga J
+- authtype: Author
+  name: Rikken R
+- authtype: Author
+  name: de Leeuw D
+- authtype: Author
+  name: Grydeland H
+- authtype: Author
+  name: Tippett L
+- authtype: Author
+  name: Cawston EE
+- authtype: Author
+  name: Ozturk-Isik E
+- authtype: Author
+  name: Linn J
+- authtype: Author
+  name: Brandt M
+- authtype: Author
+  name: Tijms BM
+- authtype: Author
+  name: van de Giessen EM
+- authtype: Author
+  name: Muller M
+- authtype: Author
+  name: Fjell A
+- authtype: Author
+  name: Walhovd K
+- authtype: Author
+  name: Bjørnerud A
+- authtype: Author
+  name: Pålhaugen L
+- authtype: Author
+  name: Selnes P
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Achten E
+- authtype: Author
+  name: Anazodo U
+- authtype: Author
+  name: Barkhof F
+- authtype: Author
+  name: Hilal S
+- authtype: Author
+  name: Fladby T
+- authtype: Author
+  name: Eickel K
+- authtype: Author
+  name: Morgan C
+- authtype: Author
+  name: Thomas DL
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Günther M
+- authtype: Author
+  name: Mutsaerts HJ
+epubdate: 2024 Mar 8
+fulljournalname: BMJ Open
+issue: '3'
+pages: e081635
+pmclivedate: 2024/03/12
+printpubdate: ''
+pubdate: 2024 Mar 8
+sortdate: 2024/03/08 00:00
+source: BMJ Open
+title: 'Developing blood-brain barrier arterial spin labelling as a non-invasive early
+  biomarker of Alzheimer’s disease (DEBBIE-AD): a prospective observational multicohort
+  study protocol'
+uid: '10928768'
+volume: '14'

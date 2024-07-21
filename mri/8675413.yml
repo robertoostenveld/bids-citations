@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '32621651'
+- idtype: doi
+  value: 10.1002/hbm.25120
+- idtype: pmcid
+  value: PMC8675413
+authors:
+- authtype: Author
+  name: White T
+- authtype: Author
+  name: Blok E
+- authtype: Author
+  name: Calhoun VD
+epubdate: 2020 Jul 4
+fulljournalname: Human Brain Mapping
+issue: '1'
+pages: 278-291
+pmclivedate: 2021/12/27
+printpubdate: ''
+pubdate: 2020 Jul 4
+sortdate: 2020/07/04 00:00
+source: Hum Brain Mapp
+title: 'Data sharing and privacy issues in neuroimaging research: Opportunities, obstacles,
+  challenges, and monsters under the bed'
+uid: '8675413'
+volume: '43'

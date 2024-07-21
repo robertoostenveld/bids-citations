@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '28196374'
+- idtype: doi
+  value: 10.1167/17.2.4
+- idtype: pmcid
+  value: PMC5317208
+authors:
+- authtype: Author
+  name: Rokem A
+- authtype: Author
+  name: Takemura H
+- authtype: Author
+  name: Bock AS
+- authtype: Author
+  name: Scherf KS
+- authtype: Author
+  name: Behrmann M
+- authtype: Author
+  name: Wandell BA
+- authtype: Author
+  name: Fine I
+- authtype: Author
+  name: Bridge H
+- authtype: Author
+  name: Pestilli F
+epubdate: 2017 Feb 14
+fulljournalname: Journal of Vision
+issue: '2'
+pages: '4'
+pmclivedate: 2017/02/21
+printpubdate: ''
+pubdate: 2017 Feb 14
+sortdate: 2017/02/14 00:00
+source: J Vis
+title: 'The visual white matter: The application of diffusion MRI and fiber tractography
+  to vision science'
+uid: '5317208'
+volume: '17'

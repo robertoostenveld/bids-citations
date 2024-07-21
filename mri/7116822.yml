@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '33280161'
+- idtype: doi
+  value: 10.1002/mrm.28630
+- idtype: pmcid
+  value: PMC7116822
+authors:
+- authtype: Author
+  name: Clarke WT
+- authtype: Author
+  name: Stagg CJ
+- authtype: Author
+  name: Jbabdi S
+epubdate: 2020 Dec 6
+fulljournalname: Magnetic Resonance in Medicine
+issue: '6'
+pages: 2950-2964
+pmclivedate: 2021/03/24
+printpubdate: 2021 Jun
+pubdate: 2020 Dec 6
+sortdate: 2020/12/06 00:00
+source: Magn Reson Med
+title: 'FSL‐MRS: An end‐to‐end spectroscopy analysis package'
+uid: '7116822'
+volume: '85'

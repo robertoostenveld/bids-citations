@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '35165308'
+- idtype: doi
+  value: 10.1038/s41597-022-01147-2
+- idtype: pmcid
+  value: PMC8844234
+authors:
+- authtype: Author
+  name: Nieto N
+- authtype: Author
+  name: Peterson V
+- authtype: Author
+  name: Rufiner HL
+- authtype: Author
+  name: Kamienkowski JE
+- authtype: Author
+  name: Spies R
+epubdate: 2022 Feb 14
+fulljournalname: Scientific Data
+issue: ''
+pages: '52'
+pmclivedate: 2022/03/02
+printpubdate: ''
+pubdate: 2022 Feb 14
+sortdate: 2022/02/14 00:00
+source: Sci Data
+title: Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition
+uid: '8844234'
+volume: '9'

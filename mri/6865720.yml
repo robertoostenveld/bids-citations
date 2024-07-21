@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '31175816'
+- idtype: doi
+  value: 10.1002/hbm.24693
+- idtype: pmcid
+  value: PMC6865720
+authors:
+- authtype: Author
+  name: Lau JC
+- authtype: Author
+  name: Parrent AG
+- authtype: Author
+  name: Demarco J
+- authtype: Author
+  name: Gupta G
+- authtype: Author
+  name: Kai J
+- authtype: Author
+  name: Stanley OW
+- authtype: Author
+  name: Kuehn T
+- authtype: Author
+  name: Park PJ
+- authtype: Author
+  name: Ferko K
+- authtype: Author
+  name: Khan AR
+- authtype: Author
+  name: Peters TM
+epubdate: 2019 Jun 7
+fulljournalname: Human Brain Mapping
+issue: '14'
+pages: 4163-4179
+pmclivedate: 2020/06/12
+printpubdate: ''
+pubdate: 2019 Jun 7
+sortdate: 2019/06/07 00:00
+source: Hum Brain Mapp
+title: A framework for evaluating correspondence between brain images using anatomical
+  fiducials
+uid: '6865720'
+volume: '40'

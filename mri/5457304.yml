@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '28230848'
+- idtype: doi
+  value: 10.1038/nn.4499
+- idtype: pmcid
+  value: PMC5457304
+- idtype: MID
+  value: NIHMS863150
+authors:
+- authtype: Author
+  name: Cohen JD
+- authtype: Author
+  name: Daw N
+- authtype: Author
+  name: Engelhardt B
+- authtype: Author
+  name: Hasson U
+- authtype: Author
+  name: Li K
+- authtype: Author
+  name: Niv Y
+- authtype: Author
+  name: Norman KA
+- authtype: Author
+  name: Pillow J
+- authtype: Author
+  name: Ramadge PJ
+- authtype: Author
+  name: Turk-Browne NB
+- authtype: Author
+  name: Willke TL
+epubdate: ''
+fulljournalname: Nature neuroscience
+issue: '3'
+pages: 304-313
+pmclivedate: 2017/08/23
+printpubdate: 2017 Feb 23
+pubdate: 2017 Feb 23
+sortdate: 2017/02/23 00:00
+source: Nat Neurosci
+title: Computational approaches to fMRI analysis
+uid: '5457304'
+volume: '20'

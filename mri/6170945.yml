@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '30319381'
+- idtype: doi
+  value: 10.3389/fnhum.2018.00386
+- idtype: pmcid
+  value: PMC6170945
+authors:
+- authtype: Author
+  name: Parada FJ
+epubdate: 2018 Sep 27
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '386'
+pmclivedate: 2018/10/12
+printpubdate: ''
+pubdate: 2018 Sep 27
+sortdate: 2018/09/27 00:00
+source: Front Hum Neurosci
+title: 'Understanding Natural Cognition in Everyday Settings: 3 Pressing Challenges'
+uid: '6170945'
+volume: '12'

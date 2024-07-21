@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35701162'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0325-22.2022
+- idtype: pmcid
+  value: PMC9302458
+authors:
+- authtype: Author
+  name: Fujimoto A
+- authtype: Author
+  name: Elorette C
+- authtype: Author
+  name: Fredericks JM
+- authtype: Author
+  name: Fujimoto SH
+- authtype: Author
+  name: Fleysher L
+- authtype: Author
+  name: Rudebeck PH
+- authtype: Author
+  name: Russ BE
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '29'
+pages: 5705-5716
+pmclivedate: 2023/01/20
+printpubdate: 2022 Jul 20
+pubdate: 2022 Jul 20
+sortdate: 2022/07/20 00:00
+source: J Neurosci
+title: Resting-State fMRI-Based Screening of Deschloroclozapine in Rhesus Macaques
+  Predicts Dosage-Dependent Behavioral Effects
+uid: '9302458'
+volume: '42'

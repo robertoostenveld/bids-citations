@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '32759965'
+- idtype: doi
+  value: 10.1038/s41597-020-00595-y
+- idtype: pmcid
+  value: PMC7406507
+authors:
+- authtype: Author
+  name: Thompson WH
+- authtype: Author
+  name: Nair R
+- authtype: Author
+  name: Oya H
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Shine JM
+- authtype: Author
+  name: Petkov CI
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Howard M
+- authtype: Author
+  name: Adolphs R
+epubdate: 2020 Aug 5
+fulljournalname: Scientific Data
+issue: ''
+pages: '258'
+pmclivedate: 2020/08/13
+printpubdate: ''
+pubdate: 2020 Aug 5
+sortdate: 2020/08/05 00:00
+source: Sci Data
+title: A data resource from concurrent intracranial stimulation and functional MRI
+  of the human brain
+uid: '7406507'
+volume: '7'

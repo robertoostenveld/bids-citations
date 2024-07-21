@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '36435343'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119768
+- idtype: pmcid
+  value: PMC7615107
+- idtype: MID
+  value: EMS185002
+authors:
+- authtype: Author
+  name: Parekh P
+- authtype: Author
+  name: Bhalerao GV
+- authtype: CollectiveName
+  name: 'Accelerator Program for Discovery in Brain disorders using Stem cells (ADBS)
+    Consortium ViswanathBijuB1RaoNaren P.NP1NarayanaswamyJanardhanan C.JC1SivakumarPalanimuthu
+    T.PT1KandasamyArunA1KesavanMuralidharanM1MehtaUrvakhsh MeherwanUM1MukherjeeOdityO2PurushottamMeeraM1MehtaBhupeshB1KandavelThennarasuT1BinukumarB.B1SainiJitenderJ1JayarajanDeepakD1ShyamsundarA.A1MoirangthemSydneyS1KumarK.G.
+    VijayKG1MahadevanJayantJ1HollaBharathB1ThirthalliJagadishaJ1GangadharBangalore
+    N.BN1MurthyPratimaP1PanickerMitradas M.MM3BhallaUpinder S.US3ChattarjiSumantraS3BenegalVivekV1VargheseMathewM1ReddyJanardhan
+    Y.C.JY1RaghuPadinjatP3RaoMahendraM3JainSanjeevS '
+- authtype: Author
+  name: John JP
+- authtype: Author
+  name: Venkatasubramanian G
+epubdate: 2022 Nov 24
+fulljournalname: NeuroImage
+issue: ''
+pages: '119768'
+pmclivedate: 2023/09/19
+printpubdate: 2022 Dec 1
+pubdate: 2022 Nov 24
+sortdate: 2022/11/24 00:00
+source: Neuroimage
+title: Sample size requirement for achieving multisite harmonization using structural
+  brain MRI features
+uid: '7615107'
+volume: '264'

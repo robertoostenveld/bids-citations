@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '32523031'
+- idtype: doi
+  value: 10.1038/s41597-020-0498-3
+- idtype: pmcid
+  value: PMC7287136
+authors:
+- authtype: Author
+  name: Lioi G
+- authtype: Author
+  name: Cury C
+- authtype: Author
+  name: Perronnet L
+- authtype: Author
+  name: Mano M
+- authtype: Author
+  name: Bannier E
+- authtype: Author
+  name: Lécuyer A
+- authtype: Author
+  name: Barillot C
+epubdate: 2020 Jun 10
+fulljournalname: Scientific Data
+issue: ''
+pages: '173'
+pmclivedate: 2020/06/19
+printpubdate: ''
+pubdate: 2020 Jun 10
+sortdate: 2020/06/10 00:00
+source: Sci Data
+title: Simultaneous EEG-fMRI during a neurofeedback task, a brain imaging dataset
+  for multimodal data integration
+uid: '7287136'
+volume: '7'

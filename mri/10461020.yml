@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '37644962'
+- idtype: doi
+  value: 10.3389/fnagi.2023.1207707
+- idtype: pmcid
+  value: PMC10461020
+authors:
+- authtype: Author
+  name: Manelis A
+- authtype: Author
+  name: Hu H
+- authtype: Author
+  name: Miceli R
+- authtype: Author
+  name: Satz S
+- authtype: Author
+  name: Schwalbe M
+epubdate: 2023 Aug 14
+fulljournalname: Frontiers in Aging Neuroscience
+issue: ''
+pages: '1207707'
+pmclivedate: 2023/08/29
+printpubdate: ''
+pubdate: 2023 Aug 14
+sortdate: 2023/08/14 00:00
+source: Front Aging Neurosci
+title: Neural correlates of the sound facilitation effect in the modified Simon task
+  in older adults
+uid: '10461020'
+volume: '15'

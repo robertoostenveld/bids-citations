@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '37498129'
+- idtype: doi
+  value: 10.1093/gigascience/giad052
+- idtype: pmcid
+  value: PMC10373112
+authors:
+- authtype: Author
+  name: Nieminen M
+- authtype: Author
+  name: Stolpe O
+- authtype: Author
+  name: Kuhring M
+- authtype: Author
+  name: Weiner J III
+- authtype: Author
+  name: Pett P
+- authtype: Author
+  name: Beule D
+- authtype: Author
+  name: Holtgrewe M
+epubdate: 2023 Jul 27
+fulljournalname: GigaScience
+issue: ''
+pages: giad052
+pmclivedate: 2023/07/28
+printpubdate: ''
+pubdate: 2023 Jul 27
+sortdate: 2023/07/27 00:00
+source: Gigascience
+title: 'SODAR: managing multiomics study data and metadata'
+uid: '10373112'
+volume: '12'

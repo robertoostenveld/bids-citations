@@ -1,0 +1,80 @@
+articleids:
+- idtype: pmid
+  value: '34462444'
+- idtype: doi
+  value: 10.1038/s41597-021-01004-8
+- idtype: pmcid
+  value: PMC8405782
+authors:
+- authtype: Author
+  name: Tanaka SC
+- authtype: Author
+  name: Yamashita A
+- authtype: Author
+  name: Yahata N
+- authtype: Author
+  name: Itahashi T
+- authtype: Author
+  name: Lisi G
+- authtype: Author
+  name: Yamada T
+- authtype: Author
+  name: Ichikawa N
+- authtype: Author
+  name: Takamura M
+- authtype: Author
+  name: Yoshihara Y
+- authtype: Author
+  name: Kunimatsu A
+- authtype: Author
+  name: Okada N
+- authtype: Author
+  name: Hashimoto R
+- authtype: Author
+  name: Okada G
+- authtype: Author
+  name: Sakai Y
+- authtype: Author
+  name: Morimoto J
+- authtype: Author
+  name: Narumoto J
+- authtype: Author
+  name: Shimada Y
+- authtype: Author
+  name: Mano H
+- authtype: Author
+  name: Yoshida W
+- authtype: Author
+  name: Seymour B
+- authtype: Author
+  name: Shimizu T
+- authtype: Author
+  name: Hosomi K
+- authtype: Author
+  name: Saitoh Y
+- authtype: Author
+  name: Kasai K
+- authtype: Author
+  name: Kato N
+- authtype: Author
+  name: Takahashi H
+- authtype: Author
+  name: Okamoto Y
+- authtype: Author
+  name: Yamashita O
+- authtype: Author
+  name: Kawato M
+- authtype: Author
+  name: Imamizu H
+epubdate: 2021 Aug 30
+fulljournalname: Scientific Data
+issue: ''
+pages: '227'
+pmclivedate: 2021/09/16
+printpubdate: ''
+pubdate: 2021 Aug 30
+sortdate: 2021/08/30 00:00
+source: Sci Data
+title: A multi-site, multi-disorder resting-state magnetic resonance image database
+uid: '8405782'
+volume: '8'

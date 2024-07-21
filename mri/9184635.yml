@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '35680932'
+- idtype: doi
+  value: 10.1038/s41597-022-01413-3
+- idtype: pmcid
+  value: PMC9184635
+authors:
+- authtype: Author
+  name: Gao P
+- authtype: Author
+  name: Dong HM
+- authtype: Author
+  name: Liu SM
+- authtype: Author
+  name: Fan XR
+- authtype: Author
+  name: Jiang C
+- authtype: Author
+  name: Wang YS
+- authtype: Author
+  name: Margulies D
+- authtype: Author
+  name: Li HF
+- authtype: Author
+  name: Zuo XN
+epubdate: 2022 Jun 9
+fulljournalname: Scientific Data
+issue: ''
+pages: '286'
+pmclivedate: 2022/06/11
+printpubdate: ''
+pubdate: 2022 Jun 9
+sortdate: 2022/06/09 00:00
+source: Sci Data
+title: A Chinese multi-modal neuroimaging data release for increasing diversity of
+  human brain mapping
+uid: '9184635'
+volume: '9'

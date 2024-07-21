@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '37608563'
+- idtype: doi
+  value: 10.1002/hbm.26459
+- idtype: pmcid
+  value: PMC10543358
+authors:
+- authtype: Author
+  name: Heij J
+- authtype: Author
+  name: Raimondo L
+- authtype: Author
+  name: Siero JC
+- authtype: Author
+  name: Dumoulin SO
+- authtype: Author
+  name: van der Zwaag W
+- authtype: Author
+  name: Knapen T
+epubdate: 2023 Aug 22
+fulljournalname: Human Brain Mapping
+issue: '16'
+pages: 5471-5484
+pmclivedate: 2023/10/03
+printpubdate: ''
+pubdate: 2023 Aug 22
+sortdate: 2023/08/22 00:00
+source: Hum Brain Mapp
+title: 'A selection and targeting framework of cortical locations for line‐scanning
+  fMRI '
+uid: '10543358'
+volume: '44'

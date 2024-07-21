@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '37001298'
+- idtype: doi
+  value: 10.1016/j.pscychresns.2023.111636
+- idtype: pmcid
+  value: PMC10133183
+- idtype: MID
+  value: NIHMS1887766
+authors:
+- authtype: Author
+  name: Yao B
+- authtype: Author
+  name: Gu P
+- authtype: Author
+  name: Lasagna CA
+- authtype: Author
+  name: Peltier S
+- authtype: Author
+  name: Taylor SF
+- authtype: Author
+  name: Tso IF
+- authtype: Author
+  name: Thakkar KN
+epubdate: 2023 Mar 28
+fulljournalname: Psychiatry research. Neuroimaging
+issue: ''
+pages: '111636'
+pmclivedate: 2024/06/01
+printpubdate: 2023 Jun
+pubdate: 2023 Mar 28
+sortdate: 2023/03/28 00:00
+source: Psychiatry Res Neuroimaging
+title: Structural connectivity of an interoception network in schizophrenia
+uid: '10133183'
+volume: '331'

@@ -1,0 +1,57 @@
+articleids:
+- idtype: pmid
+  value: '34846691'
+- idtype: doi
+  value: 10.1007/s12021-021-09559-y
+- idtype: pmcid
+  value: PMC9149142
+authors:
+- authtype: Author
+  name: Turner JA
+- authtype: Author
+  name: Calhoun VD
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: Jahanshad N
+- authtype: Author
+  name: Ching CR
+- authtype: Author
+  name: Thomopoulos SI
+- authtype: Author
+  name: Verner E
+- authtype: Author
+  name: Strauss GP
+- authtype: Author
+  name: Ahmed AO
+- authtype: Author
+  name: Turner MD
+- authtype: Author
+  name: Basodi S
+- authtype: Author
+  name: Ford JM
+- authtype: Author
+  name: Mathalon DH
+- authtype: Author
+  name: Preda A
+- authtype: Author
+  name: Belger A
+- authtype: Author
+  name: Mueller BA
+- authtype: Author
+  name: Lim KO
+- authtype: Author
+  name: van Erp TG
+epubdate: 2021 Nov 30
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 261-275
+pmclivedate: 2022/10/08
+printpubdate: '2022'
+pubdate: 2021 Nov 30
+sortdate: 2021/11/30 00:00
+source: Neuroinformatics
+title: 'ENIGMA + COINSTAC: Improving Findability, Accessibility, Interoperability,
+  and Re-usability'
+uid: '9149142'
+volume: '20'

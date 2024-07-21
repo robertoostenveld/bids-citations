@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '33130229'
+- idtype: doi
+  value: 10.1016/j.pneurobio.2020.101936
+- idtype: pmcid
+  value: PMC8200286
+- idtype: MID
+  value: NIHMS1648536
+authors:
+- authtype: Author
+  name: Bollmann S
+- authtype: Author
+  name: Barth M
+epubdate: 2020 Oct 23
+fulljournalname: Progress in neurobiology
+issue: ''
+pages: '101936'
+pmclivedate: 2021/12/21
+printpubdate: 2021 Dec
+pubdate: 2020 Oct 23
+sortdate: 2020/10/23 00:00
+source: Prog Neurobiol
+title: New acquisition techniques and their prospects for the achievable resolution
+  of fMRI
+uid: '8200286'
+volume: '207'

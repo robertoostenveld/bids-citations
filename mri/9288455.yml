@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35842416'
+- idtype: doi
+  value: 10.1038/s41597-022-01538-5
+- idtype: pmcid
+  value: PMC9288455
+authors:
+- authtype: Author
+  name: Chen K
+- authtype: Author
+  name: Wang R
+- authtype: Author
+  name: Huang J
+- authtype: Author
+  name: Gao F
+- authtype: Author
+  name: Yuan Z
+- authtype: Author
+  name: Qi Y
+- authtype: Author
+  name: Wu H
+epubdate: 2022 Jul 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '416'
+pmclivedate: 2022/07/18
+printpubdate: ''
+pubdate: 2022 Jul 16
+sortdate: 2022/07/16 00:00
+source: Sci Data
+title: A resource for assessing dynamic binary choices in the adult brain using EEG
+  and mouse-tracking
+uid: '9288455'
+volume: '9'

@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '31924769'
+- idtype: doi
+  value: 10.1038/s41467-019-13785-z
+- idtype: pmcid
+  value: PMC6954277
+authors:
+- authtype: Author
+  name: Spisak T
+- authtype: Author
+  name: Kincses B
+- authtype: Author
+  name: Schlitt F
+- authtype: Author
+  name: Zunhammer M
+- authtype: Author
+  name: Schmidt-Wilcke T
+- authtype: Author
+  name: Kincses ZT
+- authtype: Author
+  name: Bingel U
+epubdate: 2020 Jan 10
+fulljournalname: Nature Communications
+issue: ''
+pages: '187'
+pmclivedate: 2020/01/13
+printpubdate: ''
+pubdate: 2020 Jan 10
+sortdate: 2020/01/10 00:00
+source: Nat Commun
+title: Pain-free resting-state functional brain connectivity predicts individual pain
+  sensitivity
+uid: '6954277'
+volume: '11'

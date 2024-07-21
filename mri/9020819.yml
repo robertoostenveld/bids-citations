@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '35311645'
+- idtype: doi
+  value: 10.7554/eLife.66884
+- idtype: pmcid
+  value: PMC9020819
+authors:
+- authtype: Author
+  name: Ferko KM
+- authtype: Author
+  name: Blumenthal A
+- authtype: Author
+  name: Martin CB
+- authtype: Author
+  name: Proklova D
+- authtype: Author
+  name: Minos AN
+- authtype: Author
+  name: Saksida LM
+- authtype: Author
+  name: Bussey TJ
+- authtype: Author
+  name: Khan AR
+- authtype: Author
+  name: Köhler S
+epubdate: 2022 Mar 21
+fulljournalname: eLife
+issue: ''
+pages: e66884
+pmclivedate: 2022/04/21
+printpubdate: ''
+pubdate: 2022 Mar 21
+sortdate: 2022/03/21 00:00
+source: eLife
+title: Activity in perirhinal and entorhinal cortex predicts perceived visual similarities
+  among category exemplars with highest precision
+uid: '9020819'
+volume: '11'

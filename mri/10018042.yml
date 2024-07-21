@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '36936634'
+- idtype: doi
+  value: 10.1016/j.dib.2023.109018
+- idtype: pmcid
+  value: PMC10018042
+authors:
+- authtype: Author
+  name: Soch J
+- authtype: Author
+  name: Görgen K
+- authtype: Author
+  name: Heinzle J
+- authtype: Author
+  name: Haynes JD
+epubdate: 2023 Mar 1
+fulljournalname: Data in Brief
+issue: ''
+pages: '109018'
+pmclivedate: 2023/03/17
+printpubdate: ''
+pubdate: 2023 Mar 1
+sortdate: 2023/03/01 00:00
+source: Data Brief
+title: A tightly controlled fMRI dataset for receptive field mapping in human visual
+  cortex
+uid: '10018042'
+volume: '47'

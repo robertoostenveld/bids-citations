@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '37064534'
+- idtype: pmcid
+  value: PMC10104195
+authors:
+- authtype: Author
+  name: Mischler G
+- authtype: Author
+  name: Raghavan V
+- authtype: Author
+  name: Keshishian M
+- authtype: Author
+  name: Mesgarani N
+epubdate: 2023 Apr 4
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2304.01799v1
+pmclivedate: 2023/04/15
+printpubdate: ''
+pubdate: 2023 Apr 4
+sortdate: 2023/04/04 00:00
+source: ArXiv
+title: 'naplib-python: Neural Acoustic Data Processing and Analysis Tools in Python'
+uid: '10104195'
+volume: ''

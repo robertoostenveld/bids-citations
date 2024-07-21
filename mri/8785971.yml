@@ -1,0 +1,46 @@
+articleids:
+- idtype: pmid
+  value: '35079748'
+- idtype: doi
+  value: 10.52294/e6198273-b8e3-4b63-babb-6e6b0da10669
+- idtype: pmcid
+  value: PMC8785971
+- idtype: MID
+  value: NIHMS1737034
+authors:
+- authtype: Author
+  name: Kruper J
+- authtype: Author
+  name: Yeatman JD
+- authtype: Author
+  name: Richie-Halford A
+- authtype: Author
+  name: Bloom D
+- authtype: Author
+  name: Grotheer M
+- authtype: Author
+  name: Caffarra S
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Karipidis II
+- authtype: Author
+  name: Roy E
+- authtype: Author
+  name: Chandio BQ
+- authtype: Author
+  name: Garyfallidis E
+- authtype: Author
+  name: Rokem A
+epubdate: 2021 Nov 17
+fulljournalname: Aperture neuro
+issue: '1'
+pages: 10.52294/e6198273-b8e3-4b63-babb-6e6b0da10669
+pmclivedate: 2022/01/24
+printpubdate: '2021'
+pubdate: 2021 Nov 17
+sortdate: 2021/11/17 00:00
+source: Apert Neuro
+title: Evaluating the Reliability of Human Brain White Matter Tractometry
+uid: '8785971'
+volume: '1'

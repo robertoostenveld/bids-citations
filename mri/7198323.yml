@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '31704292'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2019.116330
+- idtype: pmcid
+  value: PMC7198323
+- idtype: MID
+  value: NIHMS1543544
+authors:
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Poline JB
+epubdate: 2019 Nov 5
+fulljournalname: NeuroImage
+issue: ''
+pages: '116330'
+pmclivedate: 2021/08/01
+printpubdate: 2020 Aug 1
+pubdate: 2019 Nov 5
+sortdate: 2019/11/05 00:00
+source: Neuroimage
+title: 'Nature abhors a paywall: How open science can realize the potential of naturalistic
+  stimuli'
+uid: '7198323'
+volume: '216'

@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '30618699'
+- idtype: doi
+  value: 10.3389/fninf.2018.00094
+- idtype: pmcid
+  value: PMC6296445
+authors:
+- authtype: Author
+  name: Marcoux A
+- authtype: Author
+  name: Burgos N
+- authtype: Author
+  name: Bertrand A
+- authtype: Author
+  name: Teichmann M
+- authtype: Author
+  name: Routier A
+- authtype: Author
+  name: Wen J
+- authtype: Author
+  name: Samper-González J
+- authtype: Author
+  name: Bottani S
+- authtype: Author
+  name: Durrleman S
+- authtype: Author
+  name: Habert MO
+- authtype: Author
+  name: Colliot O
+- authtype: CollectiveName
+  name: for the Alzheimer's Disease Neuroimaging Initiative
+epubdate: 2018 Dec 10
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '94'
+pmclivedate: 2019/01/07
+printpubdate: ''
+pubdate: 2018 Dec 10
+sortdate: 2018/12/10 00:00
+source: Front Neuroinform
+title: An Automated Pipeline for the Analysis of PET Data on the Cortical Surface
+uid: '6296445'
+volume: '12'

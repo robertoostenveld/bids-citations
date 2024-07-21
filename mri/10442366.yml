@@ -1,0 +1,159 @@
+articleids:
+- idtype: pmid
+  value: '37604823'
+- idtype: doi
+  value: 10.1038/s41597-023-02377-8
+- idtype: pmcid
+  value: PMC10442366
+authors:
+- authtype: Author
+  name: Fan XR
+- authtype: Author
+  name: Wang YS
+- authtype: Author
+  name: Chang D
+- authtype: Author
+  name: Yang N
+- authtype: Author
+  name: Rong MJ
+- authtype: Author
+  name: Zhang Z
+- authtype: Author
+  name: He Y
+- authtype: Author
+  name: Hou X
+- authtype: Author
+  name: Zhou Q
+- authtype: Author
+  name: Gong ZQ
+- authtype: Author
+  name: Cao LZ
+- authtype: Author
+  name: Dong HM
+- authtype: Author
+  name: Nie JJ
+- authtype: Author
+  name: Chen LZ
+- authtype: Author
+  name: Zhang Q
+- authtype: Author
+  name: Zhang JX
+- authtype: Author
+  name: Zhang L
+- authtype: Author
+  name: Li HJ
+- authtype: Author
+  name: Bao M
+- authtype: Author
+  name: Chen A
+- authtype: Author
+  name: Chen J
+- authtype: Author
+  name: Chen X
+- authtype: Author
+  name: Ding J
+- authtype: Author
+  name: Dong X
+- authtype: Author
+  name: Du Y
+- authtype: Author
+  name: Feng C
+- authtype: Author
+  name: Feng T
+- authtype: Author
+  name: Fu X
+- authtype: Author
+  name: Ge LK
+- authtype: Author
+  name: Hong B
+- authtype: Author
+  name: Hu X
+- authtype: Author
+  name: Huang W
+- authtype: Author
+  name: Jiang C
+- authtype: Author
+  name: Li L
+- authtype: Author
+  name: Li Q
+- authtype: Author
+  name: Li S
+- authtype: Author
+  name: Liu X
+- authtype: Author
+  name: Mo F
+- authtype: Author
+  name: Qiu J
+- authtype: Author
+  name: Su XQ
+- authtype: Author
+  name: Wei GX
+- authtype: Author
+  name: Wu Y
+- authtype: Author
+  name: Xia H
+- authtype: Author
+  name: Yan CG
+- authtype: Author
+  name: Yan ZX
+- authtype: Author
+  name: Yang X
+- authtype: Author
+  name: Zhang W
+- authtype: Author
+  name: Zhao K
+- authtype: Author
+  name: Zhu L
+- authtype: CollectiveName
+  name: for the Chinese Color Nest Consortium (CCNC)ZuoXi-NianXN1234718ZhuXing-TingXT2HouXiao-HuiXH7WangYin-ShanYS13WangPingP1ZhangYi-WenYW2SuiDan-YangDY20XuTingT21YangZhiZ24JiangLiliL24FengTing-YongTY11ChenAntaoA11ZhaoKeK24ZhouYuanY24ZhuoYanY12ZuoZhentaoZ12KeLiL1WangFeiF22CastellanosF.
+    XavierFX23MilhamMichael PeterMP2124ZangYu-FengYF25
+- authtype: CollectiveName
+  name: for the Lifespan Brain Chart Consortium (LBCC)AdamsonChrisC2627AdlerSophieS28Alexander-BlochAaron
+    F.AF293031AnagnostouEvdokiaE3233AndersonKevin M.KM34Areces-GonzalezArioskyA3536AstleDuncan
+    E.DE37AuyeungBonnieB3839AyubMuhammadM4041BallGarethG2642Baron-CohenSimonS3943BeareRichardR2627BedfordSaashi
+    A.SA39BenegalVivekV44BethlehemRichard A. I.RA3945BeyerFraukeF46Bin BaeJongJ47BlangeroJohnJ48CábezManuel
+    BlesaMB49BoardmanJames P.JP49BorzageMatthewM50Bosch-BayardJorge F.JF5152BourkeNiallN5354BullmoreEdward
+    T.ET55CalhounVince D.VD56ChakravartyMallar M.MM5257ChenChristinaC58ChertavianCaseyC31ChetelatGaëlG59ChongYap
+    S.YS6061CorvinAidenA62CostantinoManuelaM6364CourchesneEricE6566CrivelloFabriceF67CropleyVanessa
+    L.VL68CrosbieJenniferJ69CrossleyNicolasN7071DelarueMarionM59DelormeRichardR7273DesrivieresSylvaneS74DevenyiGabrielG7576Di
+    BiaseMaria A.MA6877DolanRayR787980DonaldKirsten A.KA8182DonohoeGaryG83DunlopKatharineK84EdwardsAnthony
+    D.AD858687ElisonJed T.JT88EllisCameron T.CT3489ElmanJeremy A.JA90EylerLisaL9192FairDamien
+    A.DA88FletcherPaul C.PC9394FonagyPeterP9596FranzCarol E.CE97Galan-GarciaLidiceL98GholipourAliA99GieddJayJ100101GilmoreJohn
+    H.JH102GlahnDavid C.DC103104GoodyerIan M.IM55GrantP. E.PE105GroenewoldNynke A.NA82106GunningFaith
+    M.FM107GurRaquel E.RE2931GurRuben C.RC29108HammillChristopher F.CF69109HanssonOskarO110111HeddenTreyT112113HeinzAndreasA114HensonRichard
+    N.RN37115HeuerKatjaK116HoareJacquelineJ117HollaBharathB118119HolmesAvram J.AJ120HuangHaoH121ImKihoK122123IpserJonathanJ124JackClifford
+    R.JrCR125JackowskiAndrea P.AP126127JiaTianyeT128129130JonesDavid T.DT131132JonesPeter
+    B.PB55133KahnRene S.RS134135KarlssonHasseH136137KarlssonLinneaL136137KawashimaRyutaR138KelleyElizabeth
+    A.EA139KernSilkeS140141KimKi-WoongKW142143144145KitzbichlerManfred G.MG55KremenWilliam
+    S.WS90LalondeFrançoisF146LandeauBrigitteB59LerchJasonJ147148149LewisJohn D.JD150LiJiaoJ151LiaoWeiW151Paz-LinaresDeirelD35152ListonConorC153LombardoMichael
+    V.MV39154LvJingleiJ68155MallardTravis T.TT156MathiasSamuel R.SR103MarcelisMachteldM157158MazoyerBernardB67159McGuirePhilipP160MeaneyMichael
+    J.MJ161162MechelliAndreaA160MisicBratislavB163MorganSarah E.SE55164165MothersillDavidD166167168OrtinauCynthiaC169OssenkoppeleRikR170171OuyangMinhuiM121PalaniyappanLenaL172PalyLeoL59PanPedro
+    M.PM173174PantelisChristosC175176177ParkMin Tae M.MT178PausTomasT179180PausovaZdenkaZ69181BinetteAlexa
+    PichetAP182183PierceKarenK184QianXingX185QiuAnqiA186RaznahanArminA146RittmanTimothyT187RodrigueAmandaA103RollinsCaitlin
+    K.CK188189Romero-GarciaRafaelR55190RonanLisaL55RosenbergMonica D.MD191RowitchDavid
+    H.DH192SalumGiovanni A.GA193194SatterthwaiteTheodore D.TD29195SchaareH. LinaHL196197SchacharRussell
+    J.RJ69SchöllMichaelM198199200SchultzAaron P.AP104201202SeidlitzJakobJ293031SharpDavidD53203ShinoharaRussell
+    T.RT58204SkoogIngmarI140141SmyserChristopher D.CD205SperlingReisa A.RA104201206SteinDan
+    J.DJ207StolicynAleksA208SucklingJohnJ55209SullivanGemmaG49ThyreauBenjaminB138ToroRobertoR116210TrautNicolasN211212TsvetanovKamen
+    A.KA187213Turk-BrowneNicholas B.NB34214TuulariJetro J.JJ215216217TzourioChristopheC218Vachon-PresseauÉtienneÉ219220221Valdes-SosaMitchell
+    J.MJ98Valdes-SosaPedro A.PA222223ValkSofie L.SL224van AmelsvoortThereseT225VandekarSimon
+    N.SN226227VasungLanaL228VértesPetra E.PE55165VictoriaLindsay W.LW107VilleneuveSylviaS182183229VillringerArnoA46230VogelJacob
+    W.JW29195WagstylKonradK231WarfieldSimon K.SK99WarrierVarunV55WestmanEricE232WestwaterMargaret
+    L.ML55WhalleyHeather C.HC208233WhiteSimon R.SR55234WitteA. VeronicaAV46230235YeoB.
+    T. ThomasBT236237238239YunHyuk JinHJ240ZaleskyAndrewA241ZarHeather J.HJ106242ZettergrenAnnaA140ZhouJuan
+    H.JH185236243ZiauddeenHishamH55244245ZugmanAndreA174246247
+- authtype: Author
+  name: Zuo XN
+epubdate: 2023 Aug 21
+fulljournalname: Scientific Data
+issue: ''
+pages: '545'
+pmclivedate: 2023/08/23
+printpubdate: ''
+pubdate: 2023 Aug 21
+sortdate: 2023/08/21 00:00
+source: Sci Data
+title: A longitudinal resource for population neuroscience of school-age children
+  and adolescents in China
+uid: '10442366'
+volume: '10'

@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '38649689'
+- idtype: doi
+  value: 10.1038/s41597-024-03242-y
+- idtype: pmcid
+  value: PMC11035677
+authors:
+- authtype: Author
+  name: Angeles-Valdez D
+- authtype: Author
+  name: Rasgado-Toledo J
+- authtype: Author
+  name: Villicaña V
+- authtype: Author
+  name: Davalos-Guzman A
+- authtype: Author
+  name: Almanza C
+- authtype: Author
+  name: Fajardo-Valdez A
+- authtype: Author
+  name: Alcala-Lozano R
+- authtype: Author
+  name: Garza-Villarreal EA
+epubdate: 2024 Apr 22
+fulljournalname: Scientific Data
+issue: ''
+pages: '408'
+pmclivedate: 2024/04/23
+printpubdate: ''
+pubdate: 2024 Apr 22
+sortdate: 2024/04/22 00:00
+source: Sci Data
+title: 'The Mexican dataset of a repetitive transcranial magnetic stimulation clinical
+  trial on cocaine use disorder patients: SUDMEX TMS'
+uid: '11035677'
+volume: '11'

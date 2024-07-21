@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '31956678'
+- idtype: doi
+  value: 10.1016/j.dib.2019.105091
+- idtype: pmcid
+  value: PMC6957861
+authors:
+- authtype: Author
+  name: Lytle MN
+- authtype: Author
+  name: Bitan T
+- authtype: Author
+  name: Booth JR
+epubdate: 2020 Jan 3
+fulljournalname: Data in Brief
+issue: ''
+pages: '105091'
+pmclivedate: 2020/01/17
+printpubdate: ''
+pubdate: 2020 Jan 3
+sortdate: 2020/01/03 00:00
+source: Data Brief
+title: A neuroimaging dataset on orthographic, phonological and semantic word processing
+  in school-aged children
+uid: '6957861'
+volume: '28'

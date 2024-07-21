@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '37409010'
+- idtype: doi
+  value: 10.3389/fnagi.2023.1191991
+- idtype: pmcid
+  value: PMC10318340
+authors:
+- authtype: Author
+  name: Tsai CL
+- authtype: Author
+  name: Chou KH
+- authtype: Author
+  name: Lee PL
+- authtype: Author
+  name: Liang CS
+- authtype: Author
+  name: Kuo CY
+- authtype: Author
+  name: Lin GY
+- authtype: Author
+  name: Lin YK
+- authtype: Author
+  name: Hsu YC
+- authtype: Author
+  name: Ko CA
+- authtype: Author
+  name: Yang FC
+- authtype: Author
+  name: Lin CP
+epubdate: 2023 Jun 20
+fulljournalname: Frontiers in Aging Neuroscience
+issue: ''
+pages: '1191991'
+pmclivedate: 2023/07/05
+printpubdate: ''
+pubdate: 2023 Jun 20
+sortdate: 2023/06/20 00:00
+source: Front Aging Neurosci
+title: Shared alterations in hippocampal structural covariance in subjective cognitive
+  decline and migraine
+uid: '10318340'
+volume: '15'

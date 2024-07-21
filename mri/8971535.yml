@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '35361781'
+- idtype: doi
+  value: 10.1038/s41597-022-01251-3
+- idtype: pmcid
+  value: PMC8971535
+authors:
+- authtype: Author
+  name: Angeles-Valdez D
+- authtype: Author
+  name: Rasgado-Toledo J
+- authtype: Author
+  name: Issa-Garcia V
+- authtype: Author
+  name: Balducci T
+- authtype: Author
+  name: Villicaña V
+- authtype: Author
+  name: Valencia A
+- authtype: Author
+  name: Gonzalez-Olvera JJ
+- authtype: Author
+  name: Reyes-Zamorano E
+- authtype: Author
+  name: Garza-Villarreal EA
+epubdate: 2022 Mar 31
+fulljournalname: Scientific Data
+issue: ''
+pages: '133'
+pmclivedate: 2022/04/20
+printpubdate: ''
+pubdate: 2022 Mar 31
+sortdate: 2022/03/31 00:00
+source: Sci Data
+title: 'The Mexican magnetic resonance imaging dataset of patients with cocaine use
+  disorder: SUDMEX CONN'
+uid: '8971535'
+volume: '9'

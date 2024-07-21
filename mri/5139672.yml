@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '27922632'
+- idtype: doi
+  value: 10.1038/sdata.2016.110
+- idtype: pmcid
+  value: PMC5139672
+authors:
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Congdon E
+- authtype: Author
+  name: Triplett W
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Karlsgodt KH
+- authtype: Author
+  name: Mumford JA
+- authtype: Author
+  name: Sabb FW
+- authtype: Author
+  name: Freimer NB
+- authtype: Author
+  name: London ED
+- authtype: Author
+  name: Cannon TD
+- authtype: Author
+  name: Bilder RM
+epubdate: 2016 Dec 6
+fulljournalname: Scientific Data
+issue: ''
+pages: '160110'
+pmclivedate: 2016/12/08
+printpubdate: ''
+pubdate: 2016 Dec 6
+sortdate: 2016/12/06 00:00
+source: Sci Data
+title: A phenome-wide examination of neural and cognitive function
+uid: '5139672'
+volume: '3'

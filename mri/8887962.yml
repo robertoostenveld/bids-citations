@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '35242020'
+- idtype: doi
+  value: 10.3389/fninf.2022.823056
+- idtype: pmcid
+  value: PMC8887962
+authors:
+- authtype: Author
+  name: Garcia S
+- authtype: Author
+  name: Sprenger J
+- authtype: Author
+  name: Holtzman T
+- authtype: Author
+  name: Buccino AP
+epubdate: 2022 Feb 15
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '823056'
+pmclivedate: 2022/03/02
+printpubdate: ''
+pubdate: 2022 Feb 15
+sortdate: 2022/02/15 00:00
+source: Front Neuroinform
+title: 'ProbeInterface: A Unified Framework for Probe Handling in Extracellular Electrophysiology'
+uid: '8887962'
+volume: '16'

@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '35217206'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119030
+- idtype: pmcid
+  value: PMC9048130
+- idtype: MID
+  value: NIHMS1788539
+authors:
+- authtype: Author
+  name: Schaeffer DJ
+- authtype: Author
+  name: Klassen LM
+- authtype: Author
+  name: Hori Y
+- authtype: Author
+  name: Tian X
+- authtype: Author
+  name: Szczupak D
+- authtype: Author
+  name: Yen CC
+- authtype: Author
+  name: Cléry JC
+- authtype: Author
+  name: Gilbert KM
+- authtype: Author
+  name: Gati JS
+- authtype: Author
+  name: Menon RS
+- authtype: Author
+  name: Liu C
+- authtype: Author
+  name: Everling S
+- authtype: Author
+  name: Silva AC
+epubdate: 2022 Feb 22
+fulljournalname: NeuroImage
+issue: ''
+pages: '119030'
+pmclivedate: 2023/05/15
+printpubdate: 2022 May 15
+pubdate: 2022 Feb 22
+sortdate: 2022/02/22 00:00
+source: Neuroimage
+title: An Open Access Resource for Functional Brain Connectivity from Fully Awake
+  Marmosets
+uid: '9048130'
+volume: '252'

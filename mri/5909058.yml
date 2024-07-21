@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '29706879'
+- idtype: doi
+  value: 10.3389/fninf.2018.00016
+- idtype: pmcid
+  value: PMC5909058
+authors:
+- authtype: Author
+  name: Dragly SA
+- authtype: Author
+  name: Hobbi Mobarhan M
+- authtype: Author
+  name: Lepperød ME
+- authtype: Author
+  name: Tennøe S
+- authtype: Author
+  name: Fyhn M
+- authtype: Author
+  name: Hafting T
+- authtype: Author
+  name: Malthe-Sørenssen A
+epubdate: 2018 Apr 13
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '16'
+pmclivedate: 2018/04/27
+printpubdate: ''
+pubdate: 2018 Apr 13
+sortdate: 2018/04/13 00:00
+source: Front Neuroinform
+title: 'Experimental Directory Structure (Exdir): An Alternative to HDF5 Without Introducing
+  a New File Format'
+uid: '5909058'
+volume: '12'

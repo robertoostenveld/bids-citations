@@ -1,0 +1,440 @@
+articleids:
+- idtype: pmid
+  value: '36973511'
+- idtype: doi
+  value: 10.1038/s41593-023-01286-8
+- idtype: pmcid
+  value: PMC10493189
+- idtype: MID
+  value: NIHMS1920810
+authors:
+- authtype: Author
+  name: Grandjean J
+- authtype: Author
+  name: Desrosiers-Gregoire G
+- authtype: Author
+  name: Anckaerts C
+- authtype: Author
+  name: Angeles-Valdez D
+- authtype: Author
+  name: Ayad F
+- authtype: Author
+  name: Barrière DA
+- authtype: Author
+  name: Blockx I
+- authtype: Author
+  name: Bortel A
+- authtype: Author
+  name: Broadwater M
+- authtype: Author
+  name: Cardoso BM
+- authtype: Author
+  name: Célestine M
+- authtype: Author
+  name: Chavez-Negrete JE
+- authtype: Author
+  name: Choi S
+- authtype: Author
+  name: Christiaen E
+- authtype: Author
+  name: Clavijo P
+- authtype: Author
+  name: Colon-Perez L
+- authtype: Author
+  name: Cramer S
+- authtype: Author
+  name: Daniele T
+- authtype: Author
+  name: Dempsey E
+- authtype: Author
+  name: Diao Y
+- authtype: Author
+  name: Doelemeyer A
+- authtype: Author
+  name: Dopfel D
+- authtype: Author
+  name: Dvořáková L
+- authtype: Author
+  name: Falfán-Melgoza C
+- authtype: Author
+  name: Fernandes FF
+- authtype: Author
+  name: Fowler CF
+- authtype: Author
+  name: Fuentes-Ibañez A
+- authtype: Author
+  name: Garin CM
+- authtype: Author
+  name: Gelderman E
+- authtype: Author
+  name: Golden CE
+- authtype: Author
+  name: Guo CC
+- authtype: Author
+  name: Henckens MJ
+- authtype: Author
+  name: Hennessy LA
+- authtype: Author
+  name: Herman P
+- authtype: Author
+  name: Hofwijks N
+- authtype: Author
+  name: Horien C
+- authtype: Author
+  name: Ionescu TM
+- authtype: Author
+  name: Jones J
+- authtype: Author
+  name: Kaesser J
+- authtype: Author
+  name: Kim E
+- authtype: Author
+  name: Lambers H
+- authtype: Author
+  name: Lazari A
+- authtype: Author
+  name: Lee SH
+- authtype: Author
+  name: Lillywhite A
+- authtype: Author
+  name: Liu Y
+- authtype: Author
+  name: Liu YY
+- authtype: Author
+  name: López-Castro A
+- authtype: Author
+  name: López-Gil X
+- authtype: Author
+  name: Ma Z
+- authtype: Author
+  name: MacNicol E
+- authtype: Author
+  name: Madularu D
+- authtype: Author
+  name: Mandino F
+- authtype: Author
+  name: Marciano S
+- authtype: Author
+  name: McAuslan MJ
+- authtype: Author
+  name: McCunn P
+- authtype: Author
+  name: McIntosh A
+- authtype: Author
+  name: Meng X
+- authtype: Author
+  name: Meyer-Baese L
+- authtype: Author
+  name: Missault S
+- authtype: Author
+  name: Moro F
+- authtype: Author
+  name: Naessens DM
+- authtype: Author
+  name: Nava-Gomez LJ
+- authtype: Author
+  name: Nonaka H
+- authtype: Author
+  name: Ortiz JJ
+- authtype: Author
+  name: Paasonen J
+- authtype: Author
+  name: Peeters LM
+- authtype: Author
+  name: Pereira M
+- authtype: Author
+  name: Perez PD
+- authtype: Author
+  name: Pompilus M
+- authtype: Author
+  name: Prior M
+- authtype: Author
+  name: Rakhmatullin R
+- authtype: Author
+  name: Reimann HM
+- authtype: Author
+  name: Reinwald J
+- authtype: Author
+  name: Del Rio RT
+- authtype: Author
+  name: Rivera-Olvera A
+- authtype: Author
+  name: Ruiz-Pérez D
+- authtype: Author
+  name: Russo G
+- authtype: Author
+  name: Rutten TJ
+- authtype: Author
+  name: Ryoke R
+- authtype: Author
+  name: Sack M
+- authtype: Author
+  name: Salvan P
+- authtype: Author
+  name: Sanganahalli BG
+- authtype: Author
+  name: Schroeter A
+- authtype: Author
+  name: Seewoo BJ
+- authtype: Author
+  name: Selingue E
+- authtype: Author
+  name: Seuwen A
+- authtype: Author
+  name: Shi B
+- authtype: Author
+  name: Sirmpilatze N
+- authtype: Author
+  name: Smith JA
+- authtype: Author
+  name: Smith C
+- authtype: Author
+  name: Sobczak F
+- authtype: Author
+  name: Stenroos PJ
+- authtype: Author
+  name: Straathof M
+- authtype: Author
+  name: Strobelt S
+- authtype: Author
+  name: Sumiyoshi A
+- authtype: Author
+  name: Takahashi K
+- authtype: Author
+  name: Torres-García ME
+- authtype: Author
+  name: Tudela R
+- authtype: Author
+  name: van den Berg M
+- authtype: Author
+  name: van der Marel K
+- authtype: Author
+  name: van Hout AT
+- authtype: Author
+  name: Vertullo R
+- authtype: Author
+  name: Vidal B
+- authtype: Author
+  name: Vrooman RM
+- authtype: Author
+  name: Wang VX
+- authtype: Author
+  name: Wank I
+- authtype: Author
+  name: Watson DJ
+- authtype: Author
+  name: Yin T
+- authtype: Author
+  name: Zhang Y
+- authtype: Author
+  name: Zurbruegg S
+- authtype: Author
+  name: Achard S
+- authtype: Author
+  name: Alcauter S
+- authtype: Author
+  name: Auer DP
+- authtype: Author
+  name: Barbier EL
+- authtype: Author
+  name: Baudewig J
+- authtype: Author
+  name: Beckmann CF
+- authtype: Author
+  name: Beckmann N
+- authtype: Author
+  name: Becq GJ
+- authtype: Author
+  name: Blezer EL
+- authtype: Author
+  name: Bolbos R
+- authtype: Author
+  name: Boretius S
+- authtype: Author
+  name: Bouvard S
+- authtype: Author
+  name: Budinger E
+- authtype: Author
+  name: Buxbaum JD
+- authtype: Author
+  name: Cash D
+- authtype: Author
+  name: Chapman V
+- authtype: Author
+  name: Chuang KH
+- authtype: Author
+  name: Ciobanu L
+- authtype: Author
+  name: Coolen BF
+- authtype: Author
+  name: Dalley JW
+- authtype: Author
+  name: Dhenain M
+- authtype: Author
+  name: Dijkhuizen RM
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Faber C
+- authtype: Author
+  name: Febo M
+- authtype: Author
+  name: Feindel KW
+- authtype: Author
+  name: Forloni G
+- authtype: Author
+  name: Fouquet J
+- authtype: Author
+  name: Garza-Villarreal EA
+- authtype: Author
+  name: Gass N
+- authtype: Author
+  name: Glennon JC
+- authtype: Author
+  name: Gozzi A
+- authtype: Author
+  name: Gröhn O
+- authtype: Author
+  name: Harkin A
+- authtype: Author
+  name: Heerschap A
+- authtype: Author
+  name: Helluy X
+- authtype: Author
+  name: Herfert K
+- authtype: Author
+  name: Heuser A
+- authtype: Author
+  name: Homberg JR
+- authtype: Author
+  name: Houwing DJ
+- authtype: Author
+  name: Hyder F
+- authtype: Author
+  name: Ielacqua GD
+- authtype: Author
+  name: Jelescu IO
+- authtype: Author
+  name: Johansen-Berg H
+- authtype: Author
+  name: Kaneko G
+- authtype: Author
+  name: Kawashima R
+- authtype: Author
+  name: Keilholz SD
+- authtype: Author
+  name: Keliris GA
+- authtype: Author
+  name: Kelly C
+- authtype: Author
+  name: Kerskens C
+- authtype: Author
+  name: Khokhar JY
+- authtype: Author
+  name: Kind PC
+- authtype: Author
+  name: Langlois JB
+- authtype: Author
+  name: Lerch JP
+- authtype: Author
+  name: López-Hidalgo MA
+- authtype: Author
+  name: Manahan-Vaughan D
+- authtype: Author
+  name: Marchand F
+- authtype: Author
+  name: Mars RB
+- authtype: Author
+  name: Marsella G
+- authtype: Author
+  name: Micotti E
+- authtype: Author
+  name: Muñoz-Moreno E
+- authtype: Author
+  name: Near J
+- authtype: Author
+  name: Niendorf T
+- authtype: Author
+  name: Otte WM
+- authtype: Author
+  name: Pais-Roldán P
+- authtype: Author
+  name: Pan WJ
+- authtype: Author
+  name: Prado-Alcalá RA
+- authtype: Author
+  name: Quirarte GL
+- authtype: Author
+  name: Rodger J
+- authtype: Author
+  name: Rosenow T
+- authtype: Author
+  name: Sampaio-Baptista C
+- authtype: Author
+  name: Sartorius A
+- authtype: Author
+  name: Sawiak SJ
+- authtype: Author
+  name: Scheenen TW
+- authtype: Author
+  name: Shemesh N
+- authtype: Author
+  name: Ian Shih YY
+- authtype: Author
+  name: Shmuel A
+- authtype: Author
+  name: Soria G
+- authtype: Author
+  name: Stoop R
+- authtype: Author
+  name: Thompson GJ
+- authtype: Author
+  name: Till SM
+- authtype: Author
+  name: Todd N
+- authtype: Author
+  name: Van Der Linden A
+- authtype: Author
+  name: van der Toorn A
+- authtype: Author
+  name: van Tilborg GA
+- authtype: Author
+  name: Vanhove C
+- authtype: Author
+  name: Veltien A
+- authtype: Author
+  name: Verhoye M
+- authtype: Author
+  name: Wachsmuth L
+- authtype: Author
+  name: Weber-Fahr W
+- authtype: Author
+  name: Wenk P
+- authtype: Author
+  name: Yu X
+- authtype: Author
+  name: Zerbi V
+- authtype: Author
+  name: Zhang N
+- authtype: Author
+  name: Zhang BB
+- authtype: Author
+  name: Zimmer L
+- authtype: Author
+  name: Devenyi GA
+- authtype: Author
+  name: Chakravarty MM
+- authtype: Author
+  name: Hess A
+epubdate: 2023 Mar 27
+fulljournalname: Nature neuroscience
+issue: '4'
+pages: 673-681
+pmclivedate: 2023/09/10
+printpubdate: 2023 Apr
+pubdate: 2023 Mar 27
+sortdate: 2023/03/27 00:00
+source: Nat Neurosci
+title: A consensus protocol for functional connectivity analysis in the rat brain
+uid: '10493189'
+volume: '26'

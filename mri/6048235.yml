@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '30042652'
+- idtype: doi
+  value: 10.3389/fnins.2018.00437
+- idtype: pmcid
+  value: PMC6048235
+authors:
+- authtype: Author
+  name: Van Uden CE
+- authtype: Author
+  name: Nastase SA
+- authtype: Author
+  name: Connolly AC
+- authtype: Author
+  name: Feilong M
+- authtype: Author
+  name: Hansen I
+- authtype: Author
+  name: Gobbini MI
+- authtype: Author
+  name: Haxby JV
+epubdate: 2018 Jul 10
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '437'
+pmclivedate: 2018/07/24
+printpubdate: ''
+pubdate: 2018 Jul 10
+sortdate: 2018/07/10 00:00
+source: Front Neurosci
+title: Modeling Semantic Encoding in a Common Neural Representational Space
+uid: '6048235'
+volume: '12'

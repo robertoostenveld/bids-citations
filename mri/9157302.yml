@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '34581398'
+- idtype: doi
+  value: 10.1093/cercor/bhab331
+- idtype: pmcid
+  value: PMC9157302
+authors:
+- authtype: Author
+  name: Ness HT
+- authtype: Author
+  name: Folvik L
+- authtype: Author
+  name: Sneve MH
+- authtype: Author
+  name: Vidal-Piñeiro D
+- authtype: Author
+  name: Raud L
+- authtype: Author
+  name: Geier OM
+- authtype: Author
+  name: Nyberg L
+- authtype: Author
+  name: Walhovd KB
+- authtype: Author
+  name: Fjell AM
+epubdate: 2021 Sep 28
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '11'
+pages: 2358-2372
+pmclivedate: 2022/06/05
+printpubdate: ''
+pubdate: 2021 Sep 28
+sortdate: 2021/09/28 00:00
+source: Cereb Cortex
+title: Reduced Hippocampal-Striatal Interactions during Formation of Durable Episodic
+  Memories in Aging
+uid: '9157302'
+volume: '32'

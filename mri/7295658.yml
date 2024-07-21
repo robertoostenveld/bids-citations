@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '32315894'
+- idtype: doi
+  value: 10.1016/j.nutres.2020.02.013
+- idtype: pmcid
+  value: PMC7295658
+- idtype: MID
+  value: NIHMS1570362
+authors:
+- authtype: Author
+  name: Zhang X
+- authtype: Author
+  name: Melrose AJ
+- authtype: Author
+  name: De Santis O
+- authtype: Author
+  name: Luo S
+- authtype: Author
+  name: Page KA
+- authtype: Author
+  name: Hsu E
+- authtype: Author
+  name: Monterosso JR
+epubdate: 2020 Mar 2
+fulljournalname: Nutrition research (New York, N.Y.)
+issue: ''
+pages: 43-53
+pmclivedate: 2021/05/01
+printpubdate: 2020 May
+pubdate: 2020 Mar 2
+sortdate: 2020/03/02 00:00
+source: Nutr Res
+title: Fasting may increase incentive signaling for non-food rewards
+uid: '7295658'
+volume: '77'

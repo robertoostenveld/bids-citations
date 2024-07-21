@@ -1,0 +1,67 @@
+articleids:
+- idtype: pmid
+  value: '33506383'
+- idtype: doi
+  value: 10.1007/s12021-020-09509-0
+- idtype: pmcid
+  value: PMC9036053
+authors:
+- authtype: Author
+  name: Abrams MB
+- authtype: Author
+  name: Bjaalie JG
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Egan GF
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Goscinski WJ
+- authtype: Author
+  name: Grethe JS
+- authtype: Author
+  name: Kotaleski JH
+- authtype: Author
+  name: Ho ET
+- authtype: Author
+  name: Kennedy DN
+- authtype: Author
+  name: Lanyon LJ
+- authtype: Author
+  name: Leergaard TB
+- authtype: Author
+  name: Mayberg HS
+- authtype: Author
+  name: Milanesi L
+- authtype: Author
+  name: Mouček R
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Roy PK
+- authtype: Author
+  name: Strother SC
+- authtype: Author
+  name: Tang TB
+- authtype: Author
+  name: Tiesinga P
+- authtype: Author
+  name: Wachtler T
+- authtype: Author
+  name: Wójcik DK
+- authtype: Author
+  name: Martone ME
+epubdate: 2021 Jan 27
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 25-36
+pmclivedate: 2022/07/27
+printpubdate: '2022'
+pubdate: 2021 Jan 27
+sortdate: 2021/01/27 00:00
+source: Neuroinformatics
+title: 'A Standards Organization for Open and FAIR Neuroscience: the International
+  Neuroinformatics Coordinating Facility'
+uid: '9036053'
+volume: '20'

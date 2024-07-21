@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '34298081'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.118415
+- idtype: pmcid
+  value: PMC8958982
+- idtype: MID
+  value: NIHMS1779622
+authors:
+- authtype: Author
+  name: Tang R
+- authtype: Author
+  name: Etzel JA
+- authtype: Author
+  name: Kizhner A
+- authtype: Author
+  name: Braver TS
+epubdate: 2021 Jul 20
+fulljournalname: NeuroImage
+issue: ''
+pages: '118415'
+pmclivedate: 2022/11/01
+printpubdate: 2021 Nov 1
+pubdate: 2021 Jul 20
+sortdate: 2021/07/20 00:00
+source: Neuroimage
+title: Frontoparietal pattern similarity analyses of cognitive control in monozygotic
+  twins
+uid: '8958982'
+volume: '241'

@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '30048447'
+- idtype: doi
+  value: 10.1371/journal.pbio.2006022
+- idtype: pmcid
+  value: PMC6095603
+authors:
+- authtype: Author
+  name: Toelch U
+- authtype: Author
+  name: Ostwald D
+epubdate: 2018 Jul 26
+fulljournalname: PLoS Biology
+issue: '7'
+pages: e2006022
+pmclivedate: 2018/08/30
+printpubdate: ''
+pubdate: 2018 Jul 26
+sortdate: 2018/07/26 00:00
+source: PLoS Biol
+title: Digital open science—Teaching digital tools for reproducible and transparent
+  research
+uid: '6095603'
+volume: '16'

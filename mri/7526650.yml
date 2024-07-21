@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '33041776'
+- idtype: doi
+  value: 10.3389/fninf.2020.00027
+- idtype: pmcid
+  value: PMC7526650
+authors:
+- authtype: Author
+  name: Ježek P
+- authtype: Author
+  name: Teeters JL
+- authtype: Author
+  name: Sommer FT
+epubdate: 2020 Sep 11
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '27'
+pmclivedate: 2020/10/09
+printpubdate: ''
+pubdate: 2020 Sep 11
+sortdate: 2020/09/11 00:00
+source: Front Neuroinform
+title: 'NWB Query Engines: Tools to Search Data Stored in Neurodata Without Borders
+  Format'
+uid: '7526650'
+volume: '14'

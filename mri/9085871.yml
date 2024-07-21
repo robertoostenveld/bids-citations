@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '35534454'
+- idtype: doi
+  value: 10.1038/s41467-022-29886-1
+- idtype: pmcid
+  value: PMC9085871
+authors:
+- authtype: Author
+  name: Valk SL
+- authtype: Author
+  name: Xu T
+- authtype: Author
+  name: Paquola C
+- authtype: Author
+  name: Park BY
+- authtype: Author
+  name: Bethlehem RA
+- authtype: Author
+  name: Vos de Wael R
+- authtype: Author
+  name: Royer J
+- authtype: Author
+  name: Masouleh SK
+- authtype: Author
+  name: Bayrak Ş
+- authtype: Author
+  name: Kochunov P
+- authtype: Author
+  name: Yeo BT
+- authtype: Author
+  name: Margulies D
+- authtype: Author
+  name: Smallwood J
+- authtype: Author
+  name: Eickhoff SB
+- authtype: Author
+  name: Bernhardt BC
+epubdate: 2022 May 9
+fulljournalname: Nature Communications
+issue: ''
+pages: '2341'
+pmclivedate: 2022/05/11
+printpubdate: ''
+pubdate: 2022 May 9
+sortdate: 2022/05/09 00:00
+source: Nat Commun
+title: Genetic and phylogenetic uncoupling of structure and function in human transmodal
+  cortex
+uid: '9085871'
+volume: '13'

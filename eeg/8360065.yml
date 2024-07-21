@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '33955195'
+- idtype: doi
+  value: 10.1002/aur.2518
+- idtype: pmcid
+  value: PMC8360065
+authors:
+- authtype: Author
+  name: Huberty S
+- authtype: Author
+  name: Carter Leno V
+- authtype: Author
+  name: van Noordt SJ
+- authtype: Author
+  name: Bedford R
+- authtype: Author
+  name: Pickles A
+- authtype: Author
+  name: Desjardins JA
+- authtype: Author
+  name: Webb SJ
+- authtype: CollectiveName
+  name: The BASIS Team
+- authtype: Author
+  name: Elsabbagh M
+epubdate: 2021 May 6
+fulljournalname: Autism Research
+issue: '7'
+pages: 1390-1403
+pmclivedate: 2021/08/17
+printpubdate: 2021 Jul
+pubdate: 2021 May 6
+sortdate: 2021/05/06 00:00
+source: Autism Res
+title: Association between spectral electroencephalography power and autism risk and
+  diagnosis in early development
+uid: '8360065'
+volume: '14'

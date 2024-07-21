@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '35621994'
+- idtype: doi
+  value: 10.7554/eLife.75126
+- idtype: pmcid
+  value: PMC9142148
+authors:
+- authtype: Author
+  name: Merk T
+- authtype: Author
+  name: Peterson V
+- authtype: Author
+  name: Lipski WJ
+- authtype: Author
+  name: Blankertz B
+- authtype: Author
+  name: Turner RS
+- authtype: Author
+  name: Li N
+- authtype: Author
+  name: Horn A
+- authtype: Author
+  name: Richardson RM
+- authtype: Author
+  name: Neumann WJ
+epubdate: 2022 May 27
+fulljournalname: eLife
+issue: ''
+pages: e75126
+pmclivedate: 2022/05/28
+printpubdate: ''
+pubdate: 2022 May 27
+sortdate: 2022/05/27 00:00
+source: eLife
+title: Electrocorticography is superior to subthalamic local field potentials for
+  movement decoding in Parkinson’s disease
+uid: '9142148'
+volume: '11'

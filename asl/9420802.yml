@@ -1,0 +1,62 @@
+articleids:
+- idtype: pmid
+  value: '35983963'
+- idtype: doi
+  value: 10.1002/mrm.29381
+- idtype: pmcid
+  value: PMC9420802
+authors:
+- authtype: Author
+  name: Hernandez‐Garcia L
+- authtype: Author
+  name: Aramendía‐Vidaurreta V
+- authtype: Author
+  name: Bolar DS
+- authtype: Author
+  name: Dai W
+- authtype: Author
+  name: Fernández‐Seara MA
+- authtype: Author
+  name: Guo J
+- authtype: Author
+  name: Madhuranthakam AJ
+- authtype: Author
+  name: Mutsaerts H
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Qin Q
+- authtype: Author
+  name: Schollenberger J
+- authtype: Author
+  name: Suzuki Y
+- authtype: Author
+  name: Taso M
+- authtype: Author
+  name: Thomas DL
+- authtype: Author
+  name: van Osch MJ
+- authtype: Author
+  name: Woods J
+- authtype: Author
+  name: Zhao MY
+- authtype: Author
+  name: Yan L
+- authtype: Author
+  name: Wang Z
+- authtype: Author
+  name: Zhao L
+- authtype: Author
+  name: Okell TW
+epubdate: 2022 Aug 19
+fulljournalname: Magnetic Resonance in Medicine
+issue: '5'
+pages: 2021-2042
+pmclivedate: 2022/10/14
+printpubdate: 2022 Nov
+pubdate: 2022 Aug 19
+sortdate: 2022/08/19 00:00
+source: Magn Reson Med
+title: 'Recent Technical Developments in ASL: A Review of the State of the Art'
+uid: '9420802'
+volume: '88'

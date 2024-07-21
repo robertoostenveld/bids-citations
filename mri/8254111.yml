@@ -1,0 +1,73 @@
+articleids:
+- idtype: pmid
+  value: '34192666'
+- idtype: doi
+  value: 10.1016/j.nicl.2021.102733
+- idtype: pmcid
+  value: PMC8254111
+authors:
+- authtype: Author
+  name: Tremblay-Mercier J
+- authtype: Author
+  name: Madjar C
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Pichet Binette A
+- authtype: Author
+  name: Dyke SO
+- authtype: Author
+  name: Étienne P
+- authtype: Author
+  name: Lafaille-Magnan ME
+- authtype: Author
+  name: Remz J
+- authtype: Author
+  name: Bellec P
+- authtype: Author
+  name: Louis Collins D
+- authtype: Author
+  name: Natasha Rajah M
+- authtype: Author
+  name: Bohbot V
+- authtype: Author
+  name: Leoutsakos JM
+- authtype: Author
+  name: Iturria-Medina Y
+- authtype: Author
+  name: Kat J
+- authtype: Author
+  name: Hoge RD
+- authtype: Author
+  name: Gauthier S
+- authtype: Author
+  name: Tardif CL
+- authtype: Author
+  name: Mallar Chakravarty M
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Rosa-Neto P
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Villeneuve S
+- authtype: Author
+  name: Poirier J
+- authtype: Author
+  name: Breitner JC
+- authtype: CollectiveName
+  name: the PREVENT-AD Research Group
+epubdate: 2021 Jun 17
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '102733'
+pmclivedate: 2021/07/12
+printpubdate: ''
+pubdate: 2021 Jun 17
+sortdate: 2021/06/17 00:00
+source: Neuroimage Clin
+title: Open science datasets from PREVENT-AD, a longitudinal cohort of pre-symptomatic
+  Alzheimer’s disease
+uid: '8254111'
+volume: '31'

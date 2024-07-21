@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '37612327'
+- idtype: doi
+  value: 10.1038/s41597-023-02471-x
+- idtype: pmcid
+  value: PMC10447576
+authors:
+- authtype: Author
+  name: Gong Z
+- authtype: Author
+  name: Zhou M
+- authtype: Author
+  name: Dai Y
+- authtype: Author
+  name: Wen Y
+- authtype: Author
+  name: Liu Y
+- authtype: Author
+  name: Zhen Z
+epubdate: 2023 Aug 23
+fulljournalname: Scientific Data
+issue: ''
+pages: '559'
+pmclivedate: 2023/08/25
+printpubdate: ''
+pubdate: 2023 Aug 23
+sortdate: 2023/08/23 00:00
+source: Sci Data
+title: A large-scale fMRI dataset for the visual processing of naturalistic scenes
+uid: '10447576'
+volume: '10'

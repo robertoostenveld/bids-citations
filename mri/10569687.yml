@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '37841811'
+- idtype: doi
+  value: 10.3389/fninf.2023.1251023
+- idtype: pmcid
+  value: PMC10569687
+authors:
+- authtype: Author
+  name: Valevicius D
+- authtype: Author
+  name: Beck N
+- authtype: Author
+  name: Kasper L
+- authtype: Author
+  name: Boroday S
+- authtype: Author
+  name: Bayer J
+- authtype: Author
+  name: Rioux P
+- authtype: Author
+  name: Caron B
+- authtype: Author
+  name: Adalat R
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Khalili-Mahani N
+epubdate: 2023 Sep 27
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1251023'
+pmclivedate: 2023/10/13
+printpubdate: ''
+pubdate: 2023 Sep 27
+sortdate: 2023/09/27 00:00
+source: Front Neuroinform
+title: 'Web-based processing of physiological noise in fMRI: addition of the PhysIO
+  toolbox to CBRAIN'
+uid: '10569687'
+volume: '17'

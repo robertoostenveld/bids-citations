@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '38479843'
+- idtype: doi
+  value: 10.2463/mrms.rev.2023-0159
+- idtype: pmcid
+  value: PMC11234946
+authors:
+- authtype: Author
+  name: Valošek J
+- authtype: Author
+  name: Cohen-Adad J
+epubdate: 2024 Mar 12
+fulljournalname: Magnetic Resonance in Medical Sciences
+issue: '3'
+pages: 307-315
+pmclivedate: 2024/07/11
+printpubdate: ''
+pubdate: 2024 Mar 12
+sortdate: 2024/03/12 00:00
+source: Magn Reson Med Sci
+title: Reproducible Spinal Cord Quantitative MRI Analysis with the Spinal Cord Toolbox
+uid: '11234946'
+volume: '23'

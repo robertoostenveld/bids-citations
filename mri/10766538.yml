@@ -1,0 +1,55 @@
+articleids:
+- idtype: pmid
+  value: '37996697'
+- idtype: doi
+  value: 10.1038/s41684-023-01289-9
+- idtype: pmcid
+  value: PMC10766538
+authors:
+- authtype: Author
+  name: Chalet L
+- authtype: Author
+  name: Debatisse J
+- authtype: Author
+  name: Wateau O
+- authtype: Author
+  name: Boutelier T
+- authtype: Author
+  name: Wiart M
+- authtype: Author
+  name: Costes N
+- authtype: Author
+  name: Mérida I
+- authtype: Author
+  name: Redouté J
+- authtype: Author
+  name: Langlois JB
+- authtype: Author
+  name: Lancelot S
+- authtype: Author
+  name: Léon C
+- authtype: Author
+  name: Cho TH
+- authtype: Author
+  name: Mechtouff L
+- authtype: Author
+  name: Eker OF
+- authtype: Author
+  name: Nighoghossian N
+- authtype: Author
+  name: Canet-Soulas E
+- authtype: Author
+  name: Becker G
+epubdate: 2023 Nov 23
+fulljournalname: Lab Animal
+issue: '1'
+pages: 13-17
+pmclivedate: 2024/01/06
+printpubdate: '2024'
+pubdate: 2023 Nov 23
+sortdate: 2023/11/23 00:00
+source: Lab Anim (NY)
+title: The PREMISE database of 20 Macaca fascicularis PET/MRI brain images available
+  for research
+uid: '10766538'
+volume: '53'

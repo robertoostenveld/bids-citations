@@ -1,0 +1,64 @@
+articleids:
+- idtype: pmid
+  value: '33442557'
+- idtype: doi
+  value: 10.1117/1.NPh.8.1.012101
+- idtype: pmcid
+  value: PMC7793571
+authors:
+- authtype: Author
+  name: Yücel MA
+- authtype: Author
+  name: Lühmann AV
+- authtype: Author
+  name: Scholkmann F
+- authtype: Author
+  name: Gervain J
+- authtype: Author
+  name: Dan I
+- authtype: Author
+  name: Ayaz H
+- authtype: Author
+  name: Boas D
+- authtype: Author
+  name: Cooper RJ
+- authtype: Author
+  name: Culver J
+- authtype: Author
+  name: Elwell CE
+- authtype: Author
+  name: Eggebrecht A
+- authtype: Author
+  name: Franceschini MA
+- authtype: Author
+  name: Grova C
+- authtype: Author
+  name: Homae F
+- authtype: Author
+  name: Lesage F
+- authtype: Author
+  name: Obrig H
+- authtype: Author
+  name: Tachtsidis I
+- authtype: Author
+  name: Tak S
+- authtype: Author
+  name: Tong Y
+- authtype: Author
+  name: Torricelli A
+- authtype: Author
+  name: Wabnitz H
+- authtype: Author
+  name: Wolf M
+epubdate: 2021 Jan 7
+fulljournalname: Neurophotonics
+issue: '1'
+pages: '012101'
+pmclivedate: 2021/01/12
+printpubdate: 2021 Jan
+pubdate: 2021 Jan 7
+sortdate: 2021/01/07 00:00
+source: Neurophotonics
+title: Best practices for fNIRS publications
+uid: '7793571'
+volume: '8'

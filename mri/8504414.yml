@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '33993794'
+- idtype: doi
+  value: 10.1177/0271678X211015101
+- idtype: pmcid
+  value: PMC8504414
+authors:
+- authtype: Author
+  name: Veronese M
+- authtype: Author
+  name: Rizzo G
+- authtype: Author
+  name: Belzunce M
+- authtype: Author
+  name: Schubert J
+- authtype: Author
+  name: Searle G
+- authtype: Author
+  name: Whittington A
+- authtype: Author
+  name: Mansur A
+- authtype: Author
+  name: Dunn J
+- authtype: Author
+  name: Reader A
+- authtype: Author
+  name: Gunn RN
+- authtype: CollectiveName
+  name: and the Grand Challenge Participants#
+epubdate: 2021 May 17
+fulljournalname: Journal of Cerebral Blood Flow & Metabolism
+issue: '10'
+pages: 2778-2796
+pmclivedate: 2021/10/12
+printpubdate: 2021 Oct
+pubdate: 2021 May 17
+sortdate: 2021/05/17 00:00
+source: J Cereb Blood Flow Metab
+title: 'Reproducibility of findings in modern PET neuroimaging: insight from the NRM2018
+  grand challenge'
+uid: '8504414'
+volume: '41'

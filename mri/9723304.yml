@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '36451357'
+- idtype: doi
+  value: 10.1016/j.nicl.2022.103252
+- idtype: pmcid
+  value: PMC9723304
+authors:
+- authtype: Author
+  name: Vanden Bulcke C
+- authtype: Author
+  name: Wynen M
+- authtype: Author
+  name: Detobel J
+- authtype: Author
+  name: La Rosa F
+- authtype: Author
+  name: Absinta M
+- authtype: Author
+  name: Dricot L
+- authtype: Author
+  name: Macq B
+- authtype: Author
+  name: Bach Cuadra M
+- authtype: Author
+  name: Maggi P
+epubdate: 2022 Nov 4
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '103252'
+pmclivedate: 2022/12/07
+printpubdate: ''
+pubdate: 2022 Nov 4
+sortdate: 2022/11/04 00:00
+source: Neuroimage Clin
+title: 'BMAT: An open-source BIDS managing and analysis tool'
+uid: '9723304'
+volume: '36'

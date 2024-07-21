@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '34021244'
+- idtype: doi
+  value: 10.1038/s42003-021-02133-x
+- idtype: pmcid
+  value: PMC8140107
+authors:
+- authtype: Author
+  name: Iturria-Medina Y
+- authtype: Author
+  name: Carbonell F
+- authtype: Author
+  name: Assadi A
+- authtype: Author
+  name: Adewale Q
+- authtype: Author
+  name: Khan AF
+- authtype: Author
+  name: Baumeister TR
+- authtype: Author
+  name: Sanchez-Rodriguez L
+epubdate: 2021 May 21
+fulljournalname: Communications Biology
+issue: ''
+pages: '614'
+pmclivedate: 2021/06/03
+printpubdate: ''
+pubdate: 2021 May 21
+sortdate: 2021/05/21 00:00
+source: Commun Biol
+title: Integrating molecular, histopathological, neuroimaging and clinical neuroscience
+  data with NeuroPM-box
+uid: '8140107'
+volume: '4'

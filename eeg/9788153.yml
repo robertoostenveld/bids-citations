@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35687668'
+- idtype: doi
+  value: 10.1111/psyp.14117
+- idtype: pmcid
+  value: PMC9788153
+authors:
+- authtype: Author
+  name: Wiens S
+- authtype: Author
+  name: Eklund R
+- authtype: Author
+  name: Szychowska M
+- authtype: Author
+  name: Miloff A
+- authtype: Author
+  name: Cosme D
+- authtype: Author
+  name: Pierzchajlo S
+- authtype: Author
+  name: Carlbring P
+epubdate: 2022 Jun 10
+fulljournalname: Psychophysiology
+issue: '12'
+pages: e14117
+pmclivedate: 2022/12/28
+printpubdate: 2022 Dec
+pubdate: 2022 Jun 10
+sortdate: 2022/06/10 00:00
+source: Psychophysiology
+title: Electrophysiological correlates of in vivo and virtual reality exposure therapy
+  in spider phobia
+uid: '9788153'
+volume: '59'

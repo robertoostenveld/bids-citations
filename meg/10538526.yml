@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '37771949'
+- idtype: doi
+  value: 10.1016/j.simpa.2023.100541
+- idtype: pmcid
+  value: PMC10538526
+- idtype: MID
+  value: NIHMS1932296
+authors:
+- authtype: Author
+  name: Mischler G
+- authtype: Author
+  name: Raghavan V
+- authtype: Author
+  name: Keshishian M
+- authtype: Author
+  name: Mesgarani N
+epubdate: 2023 Jul 7
+fulljournalname: Software impacts
+issue: ''
+pages: '100541'
+pmclivedate: 2023/09/28
+printpubdate: 2023 Sep
+pubdate: 2023 Jul 7
+sortdate: 2023/07/07 00:00
+source: Softw Impacts
+title: 'naplib-python: Neural acoustic data processing and analysis tools in python'
+uid: '10538526'
+volume: '17'

@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '33328946'
+- idtype: doi
+  value: 10.3389/fncom.2020.580632
+- idtype: pmcid
+  value: PMC7734148
+authors:
+- authtype: Author
+  name: Chen X
+- authtype: Author
+  name: Zhou M
+- authtype: Author
+  name: Gong Z
+- authtype: Author
+  name: Xu W
+- authtype: Author
+  name: Liu X
+- authtype: Author
+  name: Huang T
+- authtype: Author
+  name: Zhen Z
+- authtype: Author
+  name: Liu J
+epubdate: 2020 Nov 30
+fulljournalname: Frontiers in Computational Neuroscience
+issue: ''
+pages: '580632'
+pmclivedate: 2020/12/15
+printpubdate: ''
+pubdate: 2020 Nov 30
+sortdate: 2020/11/30 00:00
+source: Front Comput Neurosci
+title: 'DNNBrain: A Unifying Toolbox for Mapping Deep Neural Networks and Brains'
+uid: '7734148'
+volume: '14'

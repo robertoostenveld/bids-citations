@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '39019877'
+- idtype: doi
+  value: 10.1038/s41597-024-03624-2
+- idtype: pmcid
+  value: PMC11255335
+authors:
+- authtype: Author
+  name: Li Y
+- authtype: Author
+  name: Zhang W
+- authtype: Author
+  name: Wu Y
+- authtype: Author
+  name: Yin L
+- authtype: Author
+  name: Zhu C
+- authtype: Author
+  name: Chen Y
+- authtype: Author
+  name: Cetin-Karayumak S
+- authtype: Author
+  name: Cho KI
+- authtype: Author
+  name: Zekelman LR
+- authtype: Author
+  name: Rushmore J
+- authtype: Author
+  name: Rathi Y
+- authtype: Author
+  name: Makris N
+- authtype: Author
+  name: O’Donnell LJ
+- authtype: Author
+  name: Zhang F
+epubdate: 2024 Jul 17
+fulljournalname: Scientific Data
+issue: ''
+pages: '787'
+pmclivedate: 2024/07/18
+printpubdate: ''
+pubdate: 2024 Jul 17
+sortdate: 2024/07/17 00:00
+source: Sci Data
+title: A diffusion MRI tractography atlas for concurrent white matter mapping across
+  Eastern and Western populations
+uid: '11255335'
+volume: '11'

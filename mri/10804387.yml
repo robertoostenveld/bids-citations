@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '38201379'
+- idtype: doi
+  value: 10.3390/diagnostics14010070
+- idtype: pmcid
+  value: PMC10804387
+authors:
+- authtype: Author
+  name: Na S
+- authtype: Author
+  name: Ko Y
+- authtype: Author
+  name: Ham SJ
+- authtype: Author
+  name: Sung YS
+- authtype: Author
+  name: Kim MH
+- authtype: Author
+  name: Shin Y
+- authtype: Author
+  name: Jung SC
+- authtype: Author
+  name: Ju C
+- authtype: Author
+  name: Kim BS
+- authtype: Author
+  name: Yoon K
+- authtype: Author
+  name: Kim KW
+epubdate: 2023 Dec 27
+fulljournalname: Diagnostics
+issue: '1'
+pages: '70'
+pmclivedate: 2024/01/23
+printpubdate: ''
+pubdate: 2023 Dec 27
+sortdate: 2023/12/27 00:00
+source: Diagnostics (Basel)
+title: Sequence-Type Classification of Brain MRI for Acute Stroke Using a Self-Supervised
+  Machine Learning Algorithm
+uid: '10804387'
+volume: '14'

@@ -1,0 +1,67 @@
+articleids:
+- idtype: pmid
+  value: '36002623'
+- idtype: doi
+  value: 10.3758/s13428-022-01906-4
+- idtype: pmcid
+  value: PMC9950292
+- idtype: MID
+  value: NIHMS1832419
+authors:
+- authtype: Author
+  name: Zettersten M
+- authtype: Author
+  name: Yurovsky D
+- authtype: Author
+  name: Xu TL
+- authtype: Author
+  name: Uner S
+- authtype: Author
+  name: Tsui AS
+- authtype: Author
+  name: Schneider RM
+- authtype: Author
+  name: Saleh AN
+- authtype: Author
+  name: Meylan SC
+- authtype: Author
+  name: Marchman VA
+- authtype: Author
+  name: Mankewitz J
+- authtype: Author
+  name: MacDonald K
+- authtype: Author
+  name: Long B
+- authtype: Author
+  name: Lewis M
+- authtype: Author
+  name: Kachergis G
+- authtype: Author
+  name: Handa K
+- authtype: Author
+  name: deMayo B
+- authtype: Author
+  name: Carstensen A
+- authtype: Author
+  name: Braginsky M
+- authtype: Author
+  name: Boyce V
+- authtype: Author
+  name: Bhatt NS
+- authtype: Author
+  name: Bergey CA
+- authtype: Author
+  name: Frank MC
+epubdate: 2022 Aug 24
+fulljournalname: Behavior research methods
+issue: '5'
+pages: 2485-2500
+pmclivedate: ''
+printpubdate: 2023 Aug
+pubdate: 2022 Aug 24
+sortdate: 2022/08/24 00:00
+source: Behav Res Methods
+title: 'Peekbank: An open, large-scale repository for developmental eye-tracking data
+  of children’s word recognition'
+uid: '9950292'
+volume: '55'

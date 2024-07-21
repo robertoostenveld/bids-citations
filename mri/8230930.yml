@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '34162645'
+- idtype: doi
+  value: 10.1136/bmjopen-2020-045969
+- idtype: pmcid
+  value: PMC8230930
+authors:
+- authtype: Author
+  name: Schmidt K
+- authtype: Author
+  name: Kleine-Borgmann J
+- authtype: Author
+  name: Holle-Lee D
+- authtype: Author
+  name: Gaul C
+- authtype: Author
+  name: Bingel U
+epubdate: 2021 Jun 23
+fulljournalname: BMJ Open
+issue: '6'
+pages: e045969
+pmclivedate: 2021/07/09
+printpubdate: ''
+pubdate: 2021 Jun 23
+sortdate: 2021/06/23 00:00
+source: BMJ Open
+title: 'Impact of a 12-week open-label placebo treatment on headache days in episodic
+  and chronic migraine: a study protocol for a parallel-group, multicentre, randomised
+  controlled trial'
+uid: '8230930'
+volume: '11'

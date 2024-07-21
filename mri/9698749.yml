@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '36280262'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.1107-22.2022
+- idtype: pmcid
+  value: PMC9698749
+authors:
+- authtype: Author
+  name: Ferrari A
+- authtype: Author
+  name: Richter D
+- authtype: Author
+  name: de Lange FP
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '47'
+pages: 8855-8869
+pmclivedate: 2023/05/23
+printpubdate: 2022 Nov 23
+pubdate: 2022 Nov 23
+sortdate: 2022/11/23 00:00
+source: J Neurosci
+title: Updating Contextual Sensory Expectations for Adaptive Behavior
+uid: '9698749'
+volume: '42'

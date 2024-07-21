@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '37537279'
+- idtype: doi
+  value: 10.1007/s00429-023-02682-3
+- idtype: pmcid
+  value: PMC10471696
+authors:
+- authtype: Author
+  name: Byrne H
+- authtype: Author
+  name: Josev EK
+- authtype: Author
+  name: Knight SJ
+- authtype: Author
+  name: Scheinberg A
+- authtype: Author
+  name: Rowe K
+- authtype: Author
+  name: Lubitz L
+- authtype: Author
+  name: Seal ML
+epubdate: 2023 Aug 3
+fulljournalname: Brain Structure & Function
+issue: '7'
+pages: 1741-1754
+pmclivedate: 2023/09/02
+printpubdate: '2023'
+pubdate: 2023 Aug 3
+sortdate: 2023/08/03 00:00
+source: Brain Struct Funct
+title: 'Hypothalamus volumes in adolescent Myalgic Encephalomyelitis/Chronic Fatigue
+  Syndrome (ME/CFS): impact of self-reported fatigue and illness duration'
+uid: '10471696'
+volume: '228'

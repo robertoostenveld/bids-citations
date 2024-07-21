@@ -1,0 +1,40 @@
+articleids:
+- idtype: pmid
+  value: '32454142'
+- idtype: doi
+  value: 10.1016/j.physbeh.2020.112962
+- idtype: pmcid
+  value: PMC7425041
+- idtype: MID
+  value: NIHMS1601613
+authors:
+- authtype: Author
+  name: Sadler JR
+- authtype: Author
+  name: Shearrer GE
+- authtype: Author
+  name: Acosta NT
+- authtype: Author
+  name: Papantoni A
+- authtype: Author
+  name: Cohen JR
+- authtype: Author
+  name: Small DM
+- authtype: Author
+  name: Park SQ
+- authtype: Author
+  name: Gordon-Larsen P
+- authtype: Author
+  name: Burger KS
+epubdate: 2020 May 23
+fulljournalname: Physiology & behavior
+issue: ''
+pages: '112962'
+pmclivedate: 2021/09/01
+printpubdate: 2020 Sep 1
+pubdate: 2020 May 23
+sortdate: 2020/05/23 00:00
+source: Physiol Behav
+title: Network organization during probabilistic learning via taste outcomes
+uid: '7425041'
+volume: '223'

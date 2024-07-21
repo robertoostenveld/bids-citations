@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '36759619'
+- idtype: doi
+  value: 10.1038/s41597-023-01972-z
+- idtype: pmcid
+  value: PMC9911697
+authors:
+- authtype: Author
+  name: Duncan D
+- authtype: Author
+  name: Garner R
+- authtype: Author
+  name: Brinkerhoff S
+- authtype: Author
+  name: Walker HC
+- authtype: Author
+  name: Pouratian N
+- authtype: Author
+  name: Toga AW
+epubdate: 2023 Feb 9
+fulljournalname: Scientific Data
+issue: ''
+pages: '83'
+pmclivedate: 2023/02/11
+printpubdate: ''
+pubdate: 2023 Feb 9
+sortdate: 2023/02/09 00:00
+source: Sci Data
+title: Data Archive for the BRAIN Initiative (DABI)
+uid: '9911697'
+volume: '10'

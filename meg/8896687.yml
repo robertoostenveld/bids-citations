@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '35252739'
+- idtype: doi
+  value: 10.21105/joss.02674
+- idtype: pmcid
+  value: PMC8896687
+- idtype: MID
+  value: NIHMS1779233
+authors:
+- authtype: Author
+  name: Rockhill AP
+- authtype: Author
+  name: Raslan AM
+- authtype: Author
+  name: Swann NC
+epubdate: 2020 Oct 25
+fulljournalname: Journal of open source software
+issue: '54'
+pages: '2674'
+pmclivedate: 2022/03/04
+printpubdate: '2020'
+pubdate: 2020 Oct 25
+sortdate: 2020/10/25 00:00
+source: J Open Source Softw
+title: 'pd-parser: A tool for Matching Photodiode Deflection Events to Time-Stamped
+  Events'
+uid: '8896687'
+volume: '5'

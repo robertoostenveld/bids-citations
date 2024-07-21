@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '30877927'
+- idtype: doi
+  value: 10.1016/j.dcn.2019.100635
+- idtype: pmcid
+  value: PMC6534774
+authors:
+- authtype: Author
+  name: Lau-Zhu A
+- authtype: Author
+  name: Lau MP
+- authtype: Author
+  name: McLoughlin G
+epubdate: 2019 Mar 8
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '100635'
+pmclivedate: 2019/05/30
+printpubdate: ''
+pubdate: 2019 Mar 8
+sortdate: 2019/03/08 00:00
+source: Dev Cogn Neurosci
+title: 'Mobile EEG in research on neurodevelopmental disorders: Opportunities and
+  challenges'
+uid: '6534774'
+volume: '36'

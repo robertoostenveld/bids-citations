@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '37612297'
+- idtype: doi
+  value: 10.1038/s41597-023-02458-8
+- idtype: pmcid
+  value: PMC10447527
+authors:
+- authtype: Author
+  name: Telesford QK
+- authtype: Author
+  name: Gonzalez-Moreira E
+- authtype: Author
+  name: Xu T
+- authtype: Author
+  name: Tian Y
+- authtype: Author
+  name: Colcombe SJ
+- authtype: Author
+  name: Cloud J
+- authtype: Author
+  name: Russ BE
+- authtype: Author
+  name: Falchier A
+- authtype: Author
+  name: Nentwich M
+- authtype: Author
+  name: Madsen J
+- authtype: Author
+  name: Parra LC
+- authtype: Author
+  name: Schroeder CE
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Franco AR
+epubdate: 2023 Aug 23
+fulljournalname: Scientific Data
+issue: ''
+pages: '554'
+pmclivedate: 2023/08/25
+printpubdate: ''
+pubdate: 2023 Aug 23
+sortdate: 2023/08/23 00:00
+source: Sci Data
+title: An open-access dataset of naturalistic viewing using simultaneous EEG-fMRI
+uid: '10447527'
+volume: '10'

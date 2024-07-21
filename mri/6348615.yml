@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '30691385'
+- idtype: doi
+  value: 10.1186/s12859-019-2609-8
+- idtype: pmcid
+  value: PMC6348615
+authors:
+- authtype: Author
+  name: Mikhael SS
+- authtype: Author
+  name: Pernet C
+epubdate: 2019 Jan 28
+fulljournalname: BMC Bioinformatics
+issue: ''
+pages: '55'
+pmclivedate: 2019/01/31
+printpubdate: ''
+pubdate: 2019 Jan 28
+sortdate: 2019/01/28 00:00
+source: BMC Bioinformatics
+title: A controlled comparison of thickness, volume and surface areas from multiple
+  cortical parcellation packages
+uid: '6348615'
+volume: '20'

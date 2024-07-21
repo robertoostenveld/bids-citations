@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '35596951'
+- idtype: doi
+  value: 10.1093/cercor/bhac172
+- idtype: pmcid
+  value: PMC9977370
+authors:
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Royer J
+- authtype: Author
+  name: Park BY
+- authtype: Author
+  name: Vos de Wael R
+- authtype: Author
+  name: Larivière S
+- authtype: Author
+  name: Tavakol S
+- authtype: Author
+  name: Rodriguez-Cruces R
+- authtype: Author
+  name: Paquola C
+- authtype: Author
+  name: Hong SJ
+- authtype: Author
+  name: Margulies DS
+- authtype: Author
+  name: Smallwood J
+- authtype: Author
+  name: Valk SL
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Bernhardt BC
+epubdate: 2022 May 22
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '5'
+pages: 1782-1798
+pmclivedate: 2023/05/22
+printpubdate: ''
+pubdate: 2022 May 22
+sortdate: 2022/05/22 00:00
+source: Cereb Cortex
+title: Long-range functional connections mirror and link microarchitectural and cognitive
+  hierarchies in the human brain
+uid: '9977370'
+volume: '33'

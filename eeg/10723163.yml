@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '38106971'
+- idtype: doi
+  value: 10.3390/fractalfract6120737
+- idtype: pmcid
+  value: PMC10723163
+- idtype: MID
+  value: NIHMS1904669
+authors:
+- authtype: Author
+  name: Stylianou O
+- authtype: Author
+  name: Kaposzta Z
+- authtype: Author
+  name: Czoch A
+- authtype: Author
+  name: Stefanovski L
+- authtype: Author
+  name: Yabluchanskiy A
+- authtype: Author
+  name: Racz FS
+- authtype: Author
+  name: Ritter P
+- authtype: Author
+  name: Eke A
+- authtype: Author
+  name: Mukli P
+epubdate: 2022 Dec 13
+fulljournalname: Fractal and fractional
+issue: '12'
+pages: '737'
+pmclivedate: 2023/12/15
+printpubdate: 2022 Dec
+pubdate: 2022 Dec 13
+sortdate: 2022/12/13 00:00
+source: Fractal Fract
+title: Scale-Free Functional Brain Networks Exhibit Increased Connectivity, Are More
+  Integrated and Less Segregated in Patients with Parkinson’s Disease following Dopaminergic
+  Treatment
+uid: '10723163'
+volume: '6'

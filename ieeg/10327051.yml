@@ -1,0 +1,55 @@
+articleids:
+- idtype: pmid
+  value: '37425747'
+- idtype: doi
+  value: 10.1101/2023.06.27.546708
+- idtype: pmcid
+  value: PMC10327051
+authors:
+- authtype: Author
+  name: Zada Z
+- authtype: Author
+  name: Goldstein A
+- authtype: Author
+  name: Michelmann S
+- authtype: Author
+  name: Simony E
+- authtype: Author
+  name: Price A
+- authtype: Author
+  name: Hasenfratz L
+- authtype: Author
+  name: Barham E
+- authtype: Author
+  name: Zadbood A
+- authtype: Author
+  name: Doyle W
+- authtype: Author
+  name: Friedman D
+- authtype: Author
+  name: Dugan P
+- authtype: Author
+  name: Melloni L
+- authtype: Author
+  name: Devore S
+- authtype: Author
+  name: Flinker A
+- authtype: Author
+  name: Devinsky O
+- authtype: Author
+  name: Nastase SA
+- authtype: Author
+  name: Hasson U
+epubdate: 2023 Jun 29
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.06.27.546708
+pmclivedate: 2023/07/08
+printpubdate: ''
+pubdate: 2023 Jun 29
+sortdate: 2023/06/29 00:00
+source: bioRxiv
+title: A shared linguistic space for transmitting our thoughts from brain to brain
+  in natural conversations
+uid: '10327051'
+volume: ''

@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '37311807'
+- idtype: doi
+  value: 10.1038/s41597-023-02286-w
+- idtype: pmcid
+  value: PMC10264396
+authors:
+- authtype: Author
+  name: Simistira Liwicki F
+- authtype: Author
+  name: Gupta V
+- authtype: Author
+  name: Saini R
+- authtype: Author
+  name: De K
+- authtype: Author
+  name: Abid N
+- authtype: Author
+  name: Rakesh S
+- authtype: Author
+  name: Wellington S
+- authtype: Author
+  name: Wilson H
+- authtype: Author
+  name: Liwicki M
+- authtype: Author
+  name: Eriksson J
+epubdate: 2023 Jun 13
+fulljournalname: Scientific Data
+issue: ''
+pages: '378'
+pmclivedate: 2023/06/15
+printpubdate: ''
+pubdate: 2023 Jun 13
+sortdate: 2023/06/13 00:00
+source: Sci Data
+title: Bimodal electroencephalography-functional magnetic resonance imaging dataset
+  for inner-speech recognition
+uid: '10264396'
+volume: '10'

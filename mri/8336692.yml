@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '34366810'
+- idtype: doi
+  value: 10.3389/fnhum.2021.676032
+- idtype: pmcid
+  value: PMC8336692
+authors:
+- authtype: Author
+  name: Isik AI
+- authtype: Author
+  name: Vessel EA
+epubdate: 2021 Jul 21
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '676032'
+pmclivedate: 2021/08/05
+printpubdate: ''
+pubdate: 2021 Jul 21
+sortdate: 2021/07/21 00:00
+source: Front Hum Neurosci
+title: 'From Visual Perception to Aesthetic Appeal: Brain Responses to Aesthetically
+  Appealing Natural Landscape Movies'
+uid: '8336692'
+volume: '15'

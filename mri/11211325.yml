@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '38937574'
+- idtype: doi
+  value: 10.1038/s41598-024-65846-z
+- idtype: pmcid
+  value: PMC11211325
+authors:
+- authtype: Author
+  name: Sheng J
+- authtype: Author
+  name: Xin Y
+- authtype: Author
+  name: Zhang Q
+- authtype: Author
+  name: Yang Z
+- authtype: Author
+  name: Wang L
+- authtype: Author
+  name: Zhang Q
+- authtype: Author
+  name: Wang B
+epubdate: 2024 Jun 27
+fulljournalname: Scientific Reports
+issue: ''
+pages: '14821'
+pmclivedate: 2024/06/28
+printpubdate: ''
+pubdate: 2024 Jun 27
+sortdate: 2024/06/27 00:00
+source: Sci Rep
+title: Novel Alzheimer's disease subtypes based on functional brain connectivity in
+  human connectome project
+uid: '11211325'
+volume: '14'

@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '35351925'
+- idtype: doi
+  value: 10.1038/s41597-022-01231-7
+- idtype: pmcid
+  value: PMC8964687
+authors:
+- authtype: Author
+  name: Spreng RN
+- authtype: Author
+  name: Setton R
+- authtype: Author
+  name: Alter U
+- authtype: Author
+  name: Cassidy BN
+- authtype: Author
+  name: Darboh B
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Kantarovich K
+- authtype: Author
+  name: Lockrow AW
+- authtype: Author
+  name: Mwilambwe-Tshilobo L
+- authtype: Author
+  name: Luh WM
+- authtype: Author
+  name: Kundu P
+- authtype: Author
+  name: Turner GR
+epubdate: 2022 Mar 29
+fulljournalname: Scientific Data
+issue: ''
+pages: '119'
+pmclivedate: 2022/04/12
+printpubdate: ''
+pubdate: 2022 Mar 29
+sortdate: 2022/03/29 00:00
+source: Sci Data
+title: Neurocognitive aging data release with behavioral, structural and multi-echo
+  functional MRI measures
+uid: '8964687'
+volume: '9'

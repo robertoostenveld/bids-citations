@@ -1,0 +1,57 @@
+articleids:
+- idtype: pmid
+  value: '31123325'
+- idtype: doi
+  value: 10.1038/s41597-019-0073-y
+- idtype: pmcid
+  value: PMC6533280
+authors:
+- authtype: Author
+  name: Avesani P
+- authtype: Author
+  name: McPherson B
+- authtype: Author
+  name: Hayashi S
+- authtype: Author
+  name: Caiafa CF
+- authtype: Author
+  name: Henschel R
+- authtype: Author
+  name: Garyfallidis E
+- authtype: Author
+  name: Kitchell L
+- authtype: Author
+  name: Bullock D
+- authtype: Author
+  name: Patterson A
+- authtype: Author
+  name: Olivetti E
+- authtype: Author
+  name: Sporns O
+- authtype: Author
+  name: Saykin AJ
+- authtype: Author
+  name: Wang L
+- authtype: Author
+  name: Dinov I
+- authtype: Author
+  name: Hancock D
+- authtype: Author
+  name: Caron B
+- authtype: Author
+  name: Qian Y
+- authtype: Author
+  name: Pestilli F
+epubdate: 2019 May 23
+fulljournalname: Scientific Data
+issue: ''
+pages: '69'
+pmclivedate: 2019/05/24
+printpubdate: ''
+pubdate: 2019 May 23
+sortdate: 2019/05/23 00:00
+source: Sci Data
+title: The open diffusion data derivatives, brain data upcycling via integrated publishing
+  of derivatives and reproducible open cloud services
+uid: '6533280'
+volume: '6'

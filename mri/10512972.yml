@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '37744210'
+- idtype: doi
+  value: 10.1002/cpe.6855
+- idtype: pmcid
+  value: PMC10512972
+- idtype: MID
+  value: NIHMS1770443
+authors:
+- authtype: Author
+  name: Verner E
+- authtype: Author
+  name: Petropoulos H
+- authtype: Author
+  name: Baker B
+- authtype: Author
+  name: Bockholt HJ
+- authtype: Author
+  name: Fries J
+- authtype: Author
+  name: Bohsali A
+- authtype: Author
+  name: Raja R
+- authtype: Author
+  name: Trinh DH
+- authtype: Author
+  name: Calhoun V
+epubdate: 2022 Jan 20
+fulljournalname: 'Concurrency and computation : practice & experience'
+issue: '18'
+pages: e6855
+pmclivedate: ''
+printpubdate: 2023 Aug 15
+pubdate: 2022 Jan 20
+sortdate: 2022/01/20 00:00
+source: Concurr Comput
+title: 'BrainForge: an online data analysis platform for integrative neuroimaging
+  acquisition, analysis, and sharing'
+uid: '10512972'
+volume: '35'

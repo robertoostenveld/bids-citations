@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '36907944'
+- idtype: doi
+  value: 10.1186/s40658-023-00537-8
+- idtype: pmcid
+  value: PMC10008760
+authors:
+- authtype: Author
+  name: Matheson GJ
+- authtype: Author
+  name: Ogden RT
+epubdate: 2023 Mar 13
+fulljournalname: EJNMMI Physics
+issue: ''
+pages: '17'
+pmclivedate: 2023/03/14
+printpubdate: ''
+pubdate: 2023 Mar 13
+sortdate: 2023/03/13 00:00
+source: EJNMMI Phys
+title: Multivariate analysis of PET pharmacokinetic parameters improves inferential
+  efficiency
+uid: '10008760'
+volume: '10'

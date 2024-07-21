@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '37609265'
+- idtype: doi
+  value: 10.1101/2023.08.04.552020
+- idtype: pmcid
+  value: PMC10441376
+authors:
+- authtype: Author
+  name: Bartnik A
+- authtype: Author
+  name: Serra LM
+- authtype: Author
+  name: Smith M
+- authtype: Author
+  name: Duncan WD
+- authtype: Author
+  name: Wishnie L
+- authtype: Author
+  name: Ruttenberg A
+- authtype: Author
+  name: Dwyer MG
+- authtype: Author
+  name: Diehl AD
+epubdate: 2023 Aug 7
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.08.04.552020
+pmclivedate: 2023/08/22
+printpubdate: ''
+pubdate: 2023 Aug 7
+sortdate: 2023/08/07 00:00
+source: bioRxiv
+title: 'MRIO: The Magnetic Resonance Imaging Acquisition and Analysis Ontology'
+uid: '10441376'
+volume: ''

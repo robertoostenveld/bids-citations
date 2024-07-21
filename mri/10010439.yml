@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '36922983'
+- idtype: doi
+  value: 10.3389/fnint.2023.1059679
+- idtype: pmcid
+  value: PMC10010439
+authors:
+- authtype: Author
+  name: Doherty EJ
+- authtype: Author
+  name: Spencer CA
+- authtype: Author
+  name: Burnison J
+- authtype: Author
+  name: Čeko M
+- authtype: Author
+  name: Chin J
+- authtype: Author
+  name: Eloy L
+- authtype: Author
+  name: Haring K
+- authtype: Author
+  name: Kim P
+- authtype: Author
+  name: Pittman D
+- authtype: Author
+  name: Powers S
+- authtype: Author
+  name: Pugh SL
+- authtype: Author
+  name: Roumis D
+- authtype: Author
+  name: Stephens JA
+- authtype: Author
+  name: Yeh T
+- authtype: Author
+  name: Hirshfield L
+epubdate: 2023 Feb 27
+fulljournalname: Frontiers in Integrative Neuroscience
+issue: ''
+pages: '1059679'
+pmclivedate: 2023/03/14
+printpubdate: ''
+pubdate: 2023 Feb 27
+sortdate: 2023/02/27 00:00
+source: Front Integr Neurosci
+title: 'Interdisciplinary views of fNIRS: Current advancements, equity challenges,
+  and an agenda for future needs of a diverse fNIRS research community'
+uid: '10010439'
+volume: '17'

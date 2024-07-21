@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '31629653'
+- idtype: doi
+  value: 10.1016/j.parkreldis.2019.10.002
+- idtype: pmcid
+  value: PMC7145760
+- idtype: MID
+  value: NIHMS1544448
+authors:
+- authtype: Author
+  name: Ryman SG
+- authtype: Author
+  name: Poston KL
+epubdate: 2019 Oct 10
+fulljournalname: Parkinsonism & related disorders
+issue: ''
+pages: 85-93
+pmclivedate: 2021/04/01
+printpubdate: 2020 Apr
+pubdate: 2019 Oct 10
+sortdate: 2019/10/10 00:00
+source: Parkinsonism Relat Disord
+title: MRI biomarkers of motor and non-motor symptoms in Parkinson’s disease
+uid: '7145760'
+volume: '73'

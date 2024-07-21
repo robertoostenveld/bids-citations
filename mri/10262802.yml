@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '35579986'
+- idtype: doi
+  value: 10.1162/jocn_a_01864
+- idtype: pmcid
+  value: PMC10262802
+- idtype: MID
+  value: NIHMS1904998
+authors:
+- authtype: Author
+  name: Pudhiyidath A
+- authtype: Author
+  name: Morton NW
+- authtype: Author
+  name: Duran RV
+- authtype: Author
+  name: Schapiro AC
+- authtype: Author
+  name: Momennejad I
+- authtype: Author
+  name: Hinojosa-Rowland DM
+- authtype: Author
+  name: Molitor RJ
+- authtype: Author
+  name: Preston AR
+epubdate: ''
+fulljournalname: Journal of cognitive neuroscience
+issue: '10'
+pages: 1736-1760
+pmclivedate: 2023/09/01
+printpubdate: 2022 Sep 1
+pubdate: 2022 Sep 1
+sortdate: 2022/09/01 00:00
+source: J Cogn Neurosci
+title: Representations of Temporal Community Structure in Hippocampus and Precuneus
+  Predict Inductive Reasoning Decisions
+uid: '10262802'
+volume: '34'

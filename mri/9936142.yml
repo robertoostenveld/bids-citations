@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '36816136'
+- idtype: doi
+  value: 10.3389/fnins.2023.1070413
+- idtype: pmcid
+  value: PMC9936142
+authors:
+- authtype: Author
+  name: Williams B
+- authtype: Author
+  name: Hedger N
+- authtype: Author
+  name: McNabb CB
+- authtype: Author
+  name: Rossetti GM
+- authtype: Author
+  name: Christakou A
+epubdate: 2023 Feb 3
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '1070413'
+pmclivedate: 2023/02/18
+printpubdate: ''
+pubdate: 2023 Feb 3
+sortdate: 2023/02/03 00:00
+source: Front Neurosci
+title: 'Inter-rater reliability of functional MRI data quality control assessments:
+  A standardised protocol and practical guide using pyfMRIqc'
+uid: '9936142'
+volume: '17'

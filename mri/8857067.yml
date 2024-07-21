@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '34914921'
+- idtype: doi
+  value: 10.1016/j.neuron.2021.11.017
+- idtype: pmcid
+  value: PMC8857067
+- idtype: MID
+  value: NIHMS1766199
+authors:
+- authtype: Author
+  name: Eke DO
+- authtype: Author
+  name: Bernard A
+- authtype: Author
+  name: Bjaalie JG
+- authtype: Author
+  name: Chavarriaga R
+- authtype: Author
+  name: Hanakawa T
+- authtype: Author
+  name: Hannan AJ
+- authtype: Author
+  name: Hill SL
+- authtype: Author
+  name: Martone ME
+- authtype: Author
+  name: McMahon A
+- authtype: Author
+  name: Ruebel O
+- authtype: Author
+  name: Crook S
+- authtype: Author
+  name: Thiels E
+- authtype: Author
+  name: Pestilli F
+epubdate: 2021 Dec 15
+fulljournalname: Neuron
+issue: '4'
+pages: 600-612
+pmclivedate: 2023/02/16
+printpubdate: 2022 Feb 16
+pubdate: 2021 Dec 15
+sortdate: 2021/12/15 00:00
+source: Neuron
+title: International Data Governance for Neuroscience
+uid: '8857067'
+volume: '110'

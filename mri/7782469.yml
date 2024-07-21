@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '32627144'
+- idtype: doi
+  value: 10.1007/s12021-020-09475-7
+- idtype: pmcid
+  value: PMC7782469
+authors:
+- authtype: Author
+  name: van der Voort SR
+- authtype: Author
+  name: Smits M
+- authtype: Author
+  name: Klein S
+- authtype: CollectiveName
+  name: for the Alzheimer’s Disease Neuroimaging Initiative
+epubdate: 2020 Jul 5
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 159-184
+pmclivedate: 2021/01/11
+printpubdate: '2021'
+pubdate: 2020 Jul 5
+sortdate: 2020/07/05 00:00
+source: Neuroinformatics
+title: 'DeepDicomSort: An Automatic Sorting Algorithm for Brain Magnetic Resonance
+  Imaging Data'
+uid: '7782469'
+volume: '19'

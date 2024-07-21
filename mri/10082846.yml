@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '37031232'
+- idtype: doi
+  value: 10.1038/s41597-023-02038-w
+- idtype: pmcid
+  value: PMC10082846
+authors:
+- authtype: Author
+  name: Strike LT
+- authtype: Author
+  name: Hansell NK
+- authtype: Author
+  name: Chuang KH
+- authtype: Author
+  name: Miller JL
+- authtype: Author
+  name: de Zubicaray GI
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: McMahon KL
+- authtype: Author
+  name: Wright MJ
+epubdate: 2023 Apr 8
+fulljournalname: Scientific Data
+issue: ''
+pages: '195'
+pmclivedate: 2023/04/10
+printpubdate: ''
+pubdate: 2023 Apr 8
+sortdate: 2023/04/08 00:00
+source: Sci Data
+title: The Queensland Twin Adolescent Brain Project, a longitudinal study of adolescent
+  brain development
+uid: '10082846'
+volume: '10'

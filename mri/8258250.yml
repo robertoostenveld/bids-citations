@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '34239423'
+- idtype: doi
+  value: 10.3389/fnhum.2021.621263
+- idtype: pmcid
+  value: PMC8258250
+authors:
+- authtype: Author
+  name: Oschwald J
+- authtype: Author
+  name: Mérillat S
+- authtype: Author
+  name: Jäncke L
+- authtype: Author
+  name: Seidler RD
+epubdate: 2021 Jun 22
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '621263'
+pmclivedate: 2021/07/07
+printpubdate: ''
+pubdate: 2021 Jun 22
+sortdate: 2021/06/22 00:00
+source: Front Hum Neurosci
+title: Fractional Anisotropy in Selected, Motor-Related White Matter Tracts and Its
+  Cross-Sectional and Longitudinal Associations With Motor Function in Healthy Older
+  Adults
+uid: '8258250'
+volume: '15'

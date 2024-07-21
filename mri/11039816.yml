@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38660590'
+- idtype: doi
+  value: 10.3389/fnrgo.2024.1346794
+- idtype: pmcid
+  value: PMC11039816
+authors:
+- authtype: Author
+  name: Demirezen G
+- authtype: Author
+  name: Taşkaya Temizel T
+- authtype: Author
+  name: Brouwer AM
+epubdate: 2024 Apr 10
+fulljournalname: Frontiers in Neuroergonomics
+issue: ''
+pages: '1346794'
+pmclivedate: 2024/04/24
+printpubdate: ''
+pubdate: 2024 Apr 10
+sortdate: 2024/04/10 00:00
+source: Front Neuroergon
+title: Reproducible machine learning research in mental workload classification using
+  EEG
+uid: '11039816'
+volume: '5'

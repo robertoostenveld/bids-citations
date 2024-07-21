@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '37792073'
+- idtype: doi
+  value: 10.1007/s00429-023-02711-1
+- idtype: pmcid
+  value: PMC10587189
+authors:
+- authtype: Author
+  name: Papadaki E
+- authtype: Author
+  name: Koustakas T
+- authtype: Author
+  name: Werner A
+- authtype: Author
+  name: Lindenberger U
+- authtype: Author
+  name: Kühn S
+- authtype: Author
+  name: Wenger E
+epubdate: 2023 Oct 4
+fulljournalname: Brain Structure & Function
+issue: '9'
+pages: 2147-2163
+pmclivedate: 2023/10/21
+printpubdate: '2023'
+pubdate: 2023 Oct 4
+sortdate: 2023/10/04 00:00
+source: Brain Struct Funct
+title: Resting-state functional connectivity in an auditory network differs between
+  aspiring professional and amateur musicians and correlates with performance
+uid: '10587189'
+volume: '228'

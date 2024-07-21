@@ -1,0 +1,332 @@
+articleids:
+- idtype: pmid
+  value: '33932337'
+- idtype: doi
+  value: 10.1016/j.neuron.2021.04.001
+- idtype: pmcid
+  value: PMC9153215
+- idtype: MID
+  value: NIHMS1792052
+authors:
+- authtype: Author
+  name: Gau R
+- authtype: Author
+  name: Noble S
+- authtype: Author
+  name: Heuer K
+- authtype: Author
+  name: Bottenhorn KL
+- authtype: Author
+  name: Bilgin IP
+- authtype: Author
+  name: Yang YF
+- authtype: Author
+  name: Huntenburg JM
+- authtype: Author
+  name: Bayer J
+- authtype: Author
+  name: Bethlehem RA
+- authtype: Author
+  name: Rhoads SA
+- authtype: Author
+  name: Vogelbacher C
+- authtype: Author
+  name: Borghesani V
+- authtype: Author
+  name: Levitis E
+- authtype: Author
+  name: Wang HT
+- authtype: Author
+  name: Bossche SV
+- authtype: Author
+  name: Kobeleva X
+- authtype: Author
+  name: Legarreta JH
+- authtype: Author
+  name: Guay S
+- authtype: Author
+  name: Atay SM
+- authtype: Author
+  name: Varoquaux GP
+- authtype: Author
+  name: Huijser DC
+- authtype: Author
+  name: Sandström MS
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Nastase SA
+- authtype: Author
+  name: Badhwar A
+- authtype: Author
+  name: Dumas G
+- authtype: Author
+  name: Schwab S
+- authtype: Author
+  name: Moia S
+- authtype: Author
+  name: Dayan M
+- authtype: Author
+  name: Bassil Y
+- authtype: Author
+  name: Brooks PP
+- authtype: Author
+  name: Mancini M
+- authtype: Author
+  name: Shine JM
+- authtype: Author
+  name: O’Connor D
+- authtype: Author
+  name: Xie X
+- authtype: Author
+  name: Poggiali D
+- authtype: Author
+  name: Friedrich P
+- authtype: Author
+  name: Riedl L
+- authtype: Author
+  name: Toro R
+- authtype: Author
+  name: Heinsfeld AS
+- authtype: Author
+  name: Caballero-Gaudes C
+- authtype: Author
+  name: Eklund A
+- authtype: Author
+  name: Garner KG
+- authtype: Author
+  name: Nolan CR
+- authtype: Author
+  name: Demeter DV
+- authtype: Author
+  name: Barrios FA
+- authtype: Author
+  name: Merchant JS
+- authtype: Author
+  name: McDevitt EA
+- authtype: Author
+  name: Oostenveld R
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Rokem A
+- authtype: Author
+  name: Doyle A
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Nikolaidis A
+- authtype: Author
+  name: Stanley OW
+- authtype: Author
+  name: Uruñuela E
+- authtype: CollectiveName
+  name: The Brainhack Community
+- authtype: Author
+  name: Anousheh N
+- authtype: Author
+  name: Arnatkeviciute A
+- authtype: Author
+  name: Bellec P
+- authtype: Author
+  name: Benn RA
+- authtype: Author
+  name: Bollmann S
+- authtype: Author
+  name: Bollmann S
+- authtype: Author
+  name: Bradley C
+- authtype: Author
+  name: Buchweitz A
+- authtype: Author
+  name: Chan MY
+- authtype: Author
+  name: Chandio BQ
+- authtype: Author
+  name: Chopra S
+- authtype: Author
+  name: Chung AW
+- authtype: Author
+  name: Close TG
+- authtype: Author
+  name: Cona G
+- authtype: Author
+  name: Constable RT
+- authtype: Author
+  name: Fallani FD
+- authtype: Author
+  name: Dickie EW
+- authtype: Author
+  name: Dorfschmidt L
+- authtype: Author
+  name: Duff EP
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Esper NB
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Fadnavis S
+- authtype: Author
+  name: Forkel SJ
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Ganesan S
+- authtype: Author
+  name: García Alanis JC
+- authtype: Author
+  name: Garyfallidis E
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: van Praag CD
+- authtype: Author
+  name: Gupta G
+- authtype: Author
+  name: Hartmann TS
+- authtype: Author
+  name: Heunis S
+- authtype: Author
+  name: Hoffstaedter F
+- authtype: Author
+  name: Hohmann DM
+- authtype: Author
+  name: Ioanas HI
+- authtype: Author
+  name: Kai J
+- authtype: Author
+  name: Karakuzu A
+- authtype: Author
+  name: Keshavan A
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Klink PC
+- authtype: Author
+  name: Koudoro S
+- authtype: Author
+  name: Laird AR
+- authtype: Author
+  name: Langs G
+- authtype: Author
+  name: Licandro R
+- authtype: Author
+  name: Liew SL
+- authtype: Author
+  name: Lipic T
+- authtype: Author
+  name: Lurie DJ
+- authtype: Author
+  name: Madan CR
+- authtype: Author
+  name: Mais LT
+- authtype: Author
+  name: Sina ML
+- authtype: Author
+  name: Manzano-Patron JP
+- authtype: Author
+  name: Maoutsa D
+- authtype: Author
+  name: Marcon M
+- authtype: Author
+  name: Margulies D
+- authtype: Author
+  name: Maumet C
+- authtype: Author
+  name: Meneguzzi F
+- authtype: Author
+  name: Mills KL
+- authtype: Author
+  name: Momi D
+- authtype: Author
+  name: Moreau CA
+- authtype: Author
+  name: Motala A
+- authtype: Author
+  name: Moxon-Emre I
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Nilsonne G
+- authtype: Author
+  name: Oliver LD
+- authtype: Author
+  name: Orchard ER
+- authtype: Author
+  name: Park PJ
+- authtype: Author
+  name: Parsapoor MM
+- authtype: Author
+  name: Pernet CR
+- authtype: Author
+  name: Pienaar R
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Qiu A
+- authtype: Author
+  name: Quendera T
+- authtype: Author
+  name: Rice LC
+- authtype: Author
+  name: Scharinger M
+- authtype: Author
+  name: Shaw TB
+- authtype: Author
+  name: Sirmpilatze N
+- authtype: Author
+  name: Sprenger J
+- authtype: Author
+  name: Stajduhar A
+- authtype: Author
+  name: Takerkart S
+- authtype: Author
+  name: Tam A
+- authtype: Author
+  name: Tejavibulya L
+- authtype: Author
+  name: de Schotten MT
+- authtype: Author
+  name: Thome I
+- authtype: Author
+  name: da Silva LT
+- authtype: Author
+  name: Traut N
+- authtype: Author
+  name: Uddin LQ
+- authtype: Author
+  name: Vallesi A
+- authtype: Author
+  name: VanMeter JW
+- authtype: Author
+  name: Castello MV
+- authtype: Author
+  name: Vohryzek J
+- authtype: Author
+  name: Vukojević J
+- authtype: Author
+  name: Whitaker KJ
+- authtype: Author
+  name: Wideman S
+- authtype: Author
+  name: Witt ST
+- authtype: Author
+  name: Xu T
+- authtype: Author
+  name: Yan CG
+- authtype: Author
+  name: Zuo XN
+epubdate: 2021 Apr 30
+fulljournalname: Neuron
+issue: '11'
+pages: 1769-1775
+pmclivedate: 2022/05/31
+printpubdate: 2021 Jun 2
+pubdate: 2021 Apr 30
+sortdate: 2021/04/30 00:00
+source: Neuron
+title: 'Brainhack: developing a culture of open, inclusive, community-driven neuroscience'
+uid: '9153215'
+volume: '109'

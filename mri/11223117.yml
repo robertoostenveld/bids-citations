@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '38966716'
+- idtype: doi
+  value: 10.1016/j.mex.2024.102789
+- idtype: pmcid
+  value: PMC11223117
+authors:
+- authtype: Author
+  name: Bano W
+- authtype: Author
+  name: Pulli E
+- authtype: Author
+  name: Cantonas L
+- authtype: Author
+  name: Sorsa A
+- authtype: Author
+  name: Hämäläinen J
+- authtype: Author
+  name: Karlsson H
+- authtype: Author
+  name: Karlsson L
+- authtype: Author
+  name: Saukko E
+- authtype: Author
+  name: Sainio T
+- authtype: Author
+  name: Peuna A
+- authtype: Author
+  name: Korja R
+- authtype: Author
+  name: Aro M
+- authtype: Author
+  name: Leppänen PH
+- authtype: Author
+  name: Tuulari JJ
+- authtype: Author
+  name: Merisaari H
+epubdate: 2024 Jun 1
+fulljournalname: MethodsX
+issue: ''
+pages: '102789'
+pmclivedate: 2024/07/04
+printpubdate: ''
+pubdate: 2024 Jun 1
+sortdate: 2024/06/01 00:00
+source: MethodsX
+title: 'Implementing ABCD studyⓇ MRI sequences for multi-site cohort studies: Practical
+  guide to necessary steps, preprocessing methods, and challenges'
+uid: '11223117'
+volume: '12'

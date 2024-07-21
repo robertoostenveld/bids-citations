@@ -1,0 +1,82 @@
+articleids:
+- idtype: pmid
+  value: '37026455'
+- idtype: doi
+  value: 10.1177/0271678X231168687
+- idtype: pmcid
+  value: PMC10369152
+authors:
+- authtype: Author
+  name: Nordio G
+- authtype: Author
+  name: Easmin R
+- authtype: Author
+  name: Giacomel A
+- authtype: Author
+  name: Dipasquale O
+- authtype: Author
+  name: Martins D
+- authtype: Author
+  name: Williams S
+- authtype: Author
+  name: Turkheimer F
+- authtype: Author
+  name: Howes O
+- authtype: Author
+  name: Veronese M
+- authtype: CollectiveName
+  name: 'and the FDOPA PET imaging working group:'
+- authtype: Author
+  name: Jauhar S
+- authtype: Author
+  name: Rogdaki M
+- authtype: Author
+  name: McCutcheon R
+- authtype: Author
+  name: Kaar S
+- authtype: Author
+  name: Vano L
+- authtype: Author
+  name: Rutigliano G
+- authtype: Author
+  name: Angelescu I
+- authtype: Author
+  name: Borgan F
+- authtype: Author
+  name: D’Ambrosio E
+- authtype: Author
+  name: Dahoun T
+- authtype: Author
+  name: Kim E
+- authtype: Author
+  name: Kim S
+- authtype: Author
+  name: Bloomfield M
+- authtype: Author
+  name: Egerton A
+- authtype: Author
+  name: Demjaha A
+- authtype: Author
+  name: Bonoldi I
+- authtype: Author
+  name: Nosarti C
+- authtype: Author
+  name: Maccabe J
+- authtype: Author
+  name: McGuire P
+- authtype: Author
+  name: Matthews J
+- authtype: Author
+  name: Talbot PS
+epubdate: 2023 Apr 7
+fulljournalname: Journal of Cerebral Blood Flow & Metabolism
+issue: '8'
+pages: 1285-1300
+pmclivedate: 2023/07/27
+printpubdate: 2023 Aug
+pubdate: 2023 Apr 7
+sortdate: 2023/04/07 00:00
+source: J Cereb Blood Flow Metab
+title: An automatic analysis framework for FDOPA PET neuroimaging
+uid: '10369152'
+volume: '43'

@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '33734344'
+- idtype: doi
+  value: 10.1093/brain/awab013
+- idtype: pmcid
+  value: PMC8240747
+authors:
+- authtype: Author
+  name: Saleh Y
+- authtype: Author
+  name: Le Heron C
+- authtype: Author
+  name: Petitet P
+- authtype: Author
+  name: Veldsman M
+- authtype: Author
+  name: Drew D
+- authtype: Author
+  name: Plant O
+- authtype: Author
+  name: Schulz U
+- authtype: Author
+  name: Sen A
+- authtype: Author
+  name: Rothwell PM
+- authtype: Author
+  name: Manohar S
+- authtype: Author
+  name: Husain M
+epubdate: 2021 Mar 18
+fulljournalname: Brain
+issue: '4'
+pages: 1247-1262
+pmclivedate: 2021/06/30
+printpubdate: ''
+pubdate: 2021 Mar 18
+sortdate: 2021/03/18 00:00
+source: Brain
+title: Apathy in small vessel cerebrovascular disease is associated with deficits
+  in effort-based decision making
+uid: '8240747'
+volume: '144'

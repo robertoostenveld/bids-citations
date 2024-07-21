@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '36977634'
+- idtype: doi
+  value: 10.1093/cercor/bhad073
+- idtype: pmcid
+  value: PMC10267626
+authors:
+- authtype: Author
+  name: Isenburg K
+- authtype: Author
+  name: Morin TM
+- authtype: Author
+  name: Rosen ML
+- authtype: Author
+  name: Somers DC
+- authtype: Author
+  name: Stern CE
+epubdate: 2023 Mar 28
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '12'
+pages: 7702-7713
+pmclivedate: 2024/03/28
+printpubdate: ''
+pubdate: 2023 Mar 28
+sortdate: 2023/03/28 00:00
+source: Cereb Cortex
+title: Functional network reconfiguration supporting memory-guided attention
+uid: '10267626'
+volume: '33'

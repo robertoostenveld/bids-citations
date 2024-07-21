@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '33339105'
+- idtype: doi
+  value: 10.3390/s20247198
+- idtype: pmcid
+  value: PMC7765532
+authors:
+- authtype: Author
+  name: Chailloux Peguero JD
+- authtype: Author
+  name: Mendoza-Montoya O
+- authtype: Author
+  name: Antelis JM
+epubdate: 2020 Dec 16
+fulljournalname: Sensors (Basel, Switzerland)
+issue: '24'
+pages: '7198'
+pmclivedate: 2020/12/27
+printpubdate: ''
+pubdate: 2020 Dec 16
+sortdate: 2020/12/16 00:00
+source: Sensors (Basel)
+title: Single-Option P300-BCI Performance Is Affected by Visual Stimulation Conditions
+uid: '7765532'
+volume: '20'

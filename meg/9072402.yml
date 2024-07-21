@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '35513362'
+- idtype: doi
+  value: 10.1038/s41467-022-29687-6
+- idtype: pmcid
+  value: PMC9072402
+authors:
+- authtype: Author
+  name: Pesnot Lerousseau J
+- authtype: Author
+  name: Parise CV
+- authtype: Author
+  name: Ernst MO
+- authtype: Author
+  name: van Wassenhove V
+epubdate: 2022 May 5
+fulljournalname: Nature Communications
+issue: ''
+pages: '2489'
+pmclivedate: 2022/05/07
+printpubdate: ''
+pubdate: 2022 May 5
+sortdate: 2022/05/05 00:00
+source: Nat Commun
+title: Multisensory correlation computations in the human brain identified by a time-resolved
+  encoding model
+uid: '9072402'
+volume: '13'

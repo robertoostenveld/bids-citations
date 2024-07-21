@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '37432073'
+- idtype: doi
+  value: 10.7554/eLife.85550
+- idtype: pmcid
+  value: PMC10335829
+authors:
+- authtype: Author
+  name: de Vries SE
+- authtype: Author
+  name: Siegle JH
+- authtype: Author
+  name: Koch C
+epubdate: 2023 Jul 11
+fulljournalname: eLife
+issue: ''
+pages: e85550
+pmclivedate: 2023/07/12
+printpubdate: ''
+pubdate: 2023 Jul 11
+sortdate: 2023/07/11 00:00
+source: eLife
+title: Sharing neurophysiology data from the Allen Brain Observatory
+uid: '10335829'
+volume: '12'

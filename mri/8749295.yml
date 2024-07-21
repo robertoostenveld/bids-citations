@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '35036958'
+- idtype: doi
+  value: 10.1016/j.xpro.2021.101077
+- idtype: pmcid
+  value: PMC8749295
+authors:
+- authtype: Author
+  name: Horien C
+- authtype: Author
+  name: Lee K
+- authtype: Author
+  name: Westwater ML
+- authtype: Author
+  name: Noble S
+- authtype: Author
+  name: Tejavibulya L
+- authtype: Author
+  name: Kayani T
+- authtype: Author
+  name: Constable RT
+- authtype: Author
+  name: Scheinost D
+epubdate: 2022 Jan 8
+fulljournalname: STAR Protocols
+issue: '1'
+pages: '101077'
+pmclivedate: 2022/01/13
+printpubdate: ''
+pubdate: 2022 Jan 8
+sortdate: 2022/01/08 00:00
+source: STAR Protoc
+title: A protocol for working with open-source neuroimaging datasets
+uid: '8749295'
+volume: '3'

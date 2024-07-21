@@ -1,0 +1,59 @@
+articleids:
+- idtype: pmid
+  value: '38852381'
+- idtype: doi
+  value: 10.1016/j.dcn.2024.101403
+- idtype: pmcid
+  value: PMC11214182
+authors:
+- authtype: Author
+  name: Crone EA
+- authtype: Author
+  name: Bol T
+- authtype: Author
+  name: Braams BR
+- authtype: Author
+  name: de Rooij M
+- authtype: Author
+  name: Franke B
+- authtype: Author
+  name: Franken I
+- authtype: Author
+  name: Gazzola V
+- authtype: Author
+  name: Güroğlu B
+- authtype: Author
+  name: Huizenga H
+- authtype: Author
+  name: Hulshoff Pol H
+- authtype: Author
+  name: Keijsers L
+- authtype: Author
+  name: Keysers C
+- authtype: Author
+  name: Krabbendam L
+- authtype: Author
+  name: Jansen L
+- authtype: Author
+  name: Popma A
+- authtype: Author
+  name: Stulp G
+- authtype: Author
+  name: van Atteveldt N
+- authtype: Author
+  name: van Duijvenvoorde A
+- authtype: Author
+  name: Veenstra R
+epubdate: 2024 Jun 6
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101403'
+pmclivedate: 2024/06/29
+printpubdate: ''
+pubdate: 2024 Jun 6
+sortdate: 2024/06/06 00:00
+source: Dev Cogn Neurosci
+title: 'Growing Up Together in Society (GUTS): A team science effort to predict societal
+  trajectories in adolescence and young adulthood'
+uid: '11214182'
+volume: '67'

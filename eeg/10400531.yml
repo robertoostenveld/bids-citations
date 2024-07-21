@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '37537187'
+- idtype: doi
+  value: 10.1038/s41597-023-02392-9
+- idtype: pmcid
+  value: PMC10400531
+authors:
+- authtype: Author
+  name: Georgiadis K
+- authtype: Author
+  name: Kalaganis FP
+- authtype: Author
+  name: Riskos K
+- authtype: Author
+  name: Matta E
+- authtype: Author
+  name: Oikonomou VP
+- authtype: Author
+  name: Yfantidou I
+- authtype: Author
+  name: Chantziaras D
+- authtype: Author
+  name: Pantouvakis K
+- authtype: Author
+  name: Nikolopoulos S
+- authtype: Author
+  name: Laskaris NA
+- authtype: Author
+  name: Kompatsiaris I
+epubdate: 2023 Aug 3
+fulljournalname: Scientific Data
+issue: ''
+pages: '508'
+pmclivedate: 2023/08/05
+printpubdate: ''
+pubdate: 2023 Aug 3
+sortdate: 2023/08/03 00:00
+source: Sci Data
+title: NeuMa - the absolute Neuromarketing dataset en route to an holistic understanding
+  of consumer behaviour
+uid: '10400531'
+volume: '10'

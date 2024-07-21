@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38163125'
+- idtype: doi
+  value: 10.1016/j.heliyon.2023.e23340
+- idtype: pmcid
+  value: PMC10755331
+authors:
+- authtype: Author
+  name: Cerina V
+- authtype: Author
+  name: Crivellaro C
+- authtype: Author
+  name: Morzenti S
+- authtype: Author
+  name: Pozzi FE
+- authtype: Author
+  name: Bigiogera V
+- authtype: Author
+  name: Jonghi-Lavarini L
+- authtype: Author
+  name: Moresco RM
+- authtype: Author
+  name: Basso G
+- authtype: Author
+  name: De Bernardi E
+epubdate: 2023 Dec 7
+fulljournalname: Heliyon
+issue: '1'
+pages: e23340
+pmclivedate: 2023/12/29
+printpubdate: ''
+pubdate: 2023 Dec 7
+sortdate: 2023/12/07 00:00
+source: Heliyon
+title: 'A ROI-based quantitative pipeline for 18F-FDG PET metabolism and pCASL perfusion
+  joint analysis: Validation of the 18F-FDG PET line'
+uid: '10755331'
+volume: '10'

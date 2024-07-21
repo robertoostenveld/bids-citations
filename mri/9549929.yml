@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '36225654'
+- idtype: doi
+  value: 10.3389/fninf.2022.902452
+- idtype: pmcid
+  value: PMC9549929
+authors:
+- authtype: Author
+  name: Li X
+- authtype: Author
+  name: Liang H
+epubdate: 2022 Sep 26
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '902452'
+pmclivedate: 2022/10/11
+printpubdate: ''
+pubdate: 2022 Sep 26
+sortdate: 2022/09/26 00:00
+source: Front Neuroinform
+title: 'Project, toolkit, and database of neuroinformatics ecosystem: A summary of
+  previous studies on “Frontiers in Neuroinformatics”'
+uid: '9549929'
+volume: '16'

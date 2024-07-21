@@ -1,0 +1,87 @@
+articleids:
+- idtype: pmid
+  value: '30747913'
+- idtype: doi
+  value: 10.1038/sdata.2018.307
+- idtype: pmcid
+  value: PMC6371896
+authors:
+- authtype: Author
+  name: Mendes N
+- authtype: Author
+  name: Oligschläger S
+- authtype: Author
+  name: Lauckner ME
+- authtype: Author
+  name: Golchert J
+- authtype: Author
+  name: Huntenburg JM
+- authtype: Author
+  name: Falkiewicz M
+- authtype: Author
+  name: Ellamil M
+- authtype: Author
+  name: Krause S
+- authtype: Author
+  name: Baczkowski BM
+- authtype: Author
+  name: Cozatl R
+- authtype: Author
+  name: Osoianu A
+- authtype: Author
+  name: Kumral D
+- authtype: Author
+  name: Pool J
+- authtype: Author
+  name: Golz L
+- authtype: Author
+  name: Dreyer M
+- authtype: Author
+  name: Haueis P
+- authtype: Author
+  name: Jost R
+- authtype: Author
+  name: Kramarenko Y
+- authtype: Author
+  name: Engen H
+- authtype: Author
+  name: Ohrnberger K
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Farrugia N
+- authtype: Author
+  name: Babayan A
+- authtype: Author
+  name: Reiter A
+- authtype: Author
+  name: Schaare HL
+- authtype: Author
+  name: Reinelt J
+- authtype: Author
+  name: Röbbig J
+- authtype: Author
+  name: Uhlig M
+- authtype: Author
+  name: Erbey M
+- authtype: Author
+  name: Gaebler M
+- authtype: Author
+  name: Smallwood J
+- authtype: Author
+  name: Villringer A
+- authtype: Author
+  name: Margulies DS
+epubdate: 2019 Feb 12
+fulljournalname: Scientific Data
+issue: ''
+pages: '180307'
+pmclivedate: 2019/02/13
+printpubdate: ''
+pubdate: 2019 Feb 12
+sortdate: 2019/02/12 00:00
+source: Sci Data
+title: A functional connectome phenotyping dataset including cognitive state and personality
+  measures
+uid: '6371896'
+volume: '6'

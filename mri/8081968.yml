@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '33935631'
+- idtype: doi
+  value: 10.3389/fnins.2021.633438
+- idtype: pmcid
+  value: PMC8081968
+authors:
+- authtype: Author
+  name: Huguet J
+- authtype: Author
+  name: Falcon C
+- authtype: Author
+  name: Fusté D
+- authtype: Author
+  name: Girona S
+- authtype: Author
+  name: Vicente D
+- authtype: Author
+  name: Molinuevo JL
+- authtype: Author
+  name: Gispert JD
+- authtype: Author
+  name: Operto G
+- authtype: CollectiveName
+  name: for the ALFA Study
+epubdate: 2021 Apr 15
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '633438'
+pmclivedate: 2021/04/30
+printpubdate: ''
+pubdate: 2021 Apr 15
+sortdate: 2021/04/15 00:00
+source: Front Neurosci
+title: 'Management and Quality Control of Large Neuroimaging Datasets: Developments
+  From the Barcelonaβeta Brain Research Center'
+uid: '8081968'
+volume: '15'

@@ -1,0 +1,40 @@
+articleids:
+- idtype: pmid
+  value: '34968581'
+- idtype: doi
+  value: 10.1016/j.ijpsycho.2021.12.008
+- idtype: pmcid
+  value: PMC9887537
+- idtype: MID
+  value: NIHMS1865409
+authors:
+- authtype: Author
+  name: Prado P
+- authtype: Author
+  name: Birba A
+- authtype: Author
+  name: Cruzat J
+- authtype: Author
+  name: Santamaría-García H
+- authtype: Author
+  name: Parra M
+- authtype: Author
+  name: Moguilner S
+- authtype: Author
+  name: Tagliazucchi E
+- authtype: Author
+  name: Ibáñez A
+epubdate: 2021 Dec 27
+fulljournalname: 'International journal of psychophysiology : official journal of
+  the International Organization of Psychophysiology'
+issue: ''
+pages: 24-38
+pmclivedate: 2023/01/31
+printpubdate: 2022 Feb
+pubdate: 2021 Dec 27
+sortdate: 2021/12/27 00:00
+source: Int J Psychophysiol
+title: 'Dementia ConnEEGtome: Towards multicentric harmonization of EEG connectivity
+  in neurodegeneration'
+uid: '9887537'
+volume: '172'

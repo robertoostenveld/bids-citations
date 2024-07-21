@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '32051490'
+- idtype: doi
+  value: 10.1038/s41598-020-59490-6
+- idtype: pmcid
+  value: PMC7016138
+authors:
+- authtype: Author
+  name: Huang X
+- authtype: Author
+  name: Rootes-Murdy K
+- authtype: Author
+  name: Bastidas DM
+- authtype: Author
+  name: Nee DE
+- authtype: Author
+  name: Franklin JC
+epubdate: 2020 Feb 12
+fulljournalname: Scientific Reports
+issue: ''
+pages: '2404'
+pmclivedate: 2020/02/21
+printpubdate: ''
+pubdate: 2020 Feb 12
+sortdate: 2020/02/12 00:00
+source: Sci Rep
+title: 'Brain Differences Associated with Self-Injurious Thoughts and Behaviors: A
+  Meta-Analysis of Neuroimaging Studies'
+uid: '7016138'
+volume: '10'

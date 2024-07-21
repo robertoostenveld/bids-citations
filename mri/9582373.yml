@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '35979921'
+- idtype: doi
+  value: 10.1002/hbm.26052
+- idtype: pmcid
+  value: PMC9582373
+authors:
+- authtype: Author
+  name: Cole DM
+- authtype: Author
+  name: Stämpfli P
+- authtype: Author
+  name: Gandia R
+- authtype: Author
+  name: Schibli L
+- authtype: Author
+  name: Gantner S
+- authtype: Author
+  name: Schuetz P
+- authtype: Author
+  name: Meier ML
+epubdate: 2022 Aug 18
+fulljournalname: Human Brain Mapping
+issue: '16'
+pages: 4943-4953
+pmclivedate: 2022/10/21
+printpubdate: ''
+pubdate: 2022 Aug 18
+sortdate: 2022/08/18 00:00
+source: Hum Brain Mapp
+title: 'In the back of your mind: Cortical mapping of paraspinal afferent inputs'
+uid: '9582373'
+volume: '43'

@@ -1,0 +1,84 @@
+articleids:
+- idtype: pmid
+  value: '32775955'
+- idtype: doi
+  value: 10.21105/joss.01294
+- idtype: pmcid
+  value: PMC7409983
+- idtype: MID
+  value: NIHMS1604185
+authors:
+- authtype: Author
+  name: Yarkoni T
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: de la Vega A
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: McNamara Q
+- authtype: Author
+  name: DeStasio K
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Petrov D
+- authtype: Author
+  name: Hayot-Sasson V
+- authtype: Author
+  name: Nielson DM
+- authtype: Author
+  name: Carlin J
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Whitaker K
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Wagner A
+- authtype: Author
+  name: Tirrell LS
+- authtype: Author
+  name: Jas M
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Holdgraf C
+- authtype: Author
+  name: Staden I
+- authtype: Author
+  name: Thirion B
+- authtype: Author
+  name: Kleinschmidt DF
+- authtype: Author
+  name: Lee JA
+- authtype: Author
+  name: Visconti di Oleggio Castello M
+- authtype: Author
+  name: Notter MP
+- authtype: Author
+  name: Blair R
+epubdate: 2019 Aug 12
+fulljournalname: Journal of open source software
+issue: '40'
+pages: '1294'
+pmclivedate: 2020/08/06
+printpubdate: '2019'
+pubdate: 2019 Aug 12
+sortdate: 2019/08/12 00:00
+source: J Open Source Softw
+title: 'PyBIDS: Python tools for BIDS datasets'
+uid: '7409983'
+volume: '4'

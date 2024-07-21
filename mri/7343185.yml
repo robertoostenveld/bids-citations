@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '32584808'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1007924
+- idtype: pmcid
+  value: PMC7343185
+authors:
+- authtype: Author
+  name: Lerma-Usabiaga G
+- authtype: Author
+  name: Benson N
+- authtype: Author
+  name: Winawer J
+- authtype: Author
+  name: Wandell BA
+epubdate: 2020 Jun 25
+fulljournalname: PLoS Computational Biology
+issue: '6'
+pages: e1007924
+pmclivedate: 2020/07/17
+printpubdate: ''
+pubdate: 2020 Jun 25
+sortdate: 2020/06/25 00:00
+source: PLoS Comput Biol
+title: 'A validation framework for neuroimaging software: The case of population receptive
+  fields'
+uid: '7343185'
+volume: '16'

@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '37188514'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.1325-22.2023
+- idtype: pmcid
+  value: PMC10278681
+authors:
+- authtype: Author
+  name: Huang H
+- authtype: Author
+  name: Gregg NM
+- authtype: Author
+  name: Ojeda Valencia G
+- authtype: Author
+  name: Brinkmann BH
+- authtype: Author
+  name: Lundstrom BN
+- authtype: Author
+  name: Worrell GA
+- authtype: Author
+  name: Miller KJ
+- authtype: Author
+  name: Hermes D
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '24'
+pages: 4434-4447
+pmclivedate: 2023/12/14
+printpubdate: 2023 Jun 14
+pubdate: 2023 Jun 14
+sortdate: 2023/06/14 00:00
+source: J Neurosci
+title: Electrical Stimulation of Temporal and Limbic Circuitry Produces Distinct Responses
+  in Human Ventral Temporal Cortex
+uid: '10278681'
+volume: '43'

@@ -1,0 +1,56 @@
+articleids:
+- idtype: pmid
+  value: '35896564'
+- idtype: doi
+  value: 10.1038/s41597-022-01562-5
+- idtype: pmcid
+  value: PMC9329339
+authors:
+- authtype: Author
+  name: Ropelewski AJ
+- authtype: Author
+  name: Rizzo MA
+- authtype: Author
+  name: Swedlow JR
+- authtype: Author
+  name: Huisken J
+- authtype: Author
+  name: Osten P
+- authtype: Author
+  name: Khanjani N
+- authtype: Author
+  name: Weiss K
+- authtype: Author
+  name: Bakalov V
+- authtype: Author
+  name: Engle M
+- authtype: Author
+  name: Gridley L
+- authtype: Author
+  name: Krzyzanowski M
+- authtype: Author
+  name: Madden T
+- authtype: Author
+  name: Maiese D
+- authtype: Author
+  name: Mandal M
+- authtype: Author
+  name: Waterfield J
+- authtype: Author
+  name: Williams D
+- authtype: Author
+  name: Hamilton CM
+- authtype: Author
+  name: Huggins W
+epubdate: 2022 Jul 27
+fulljournalname: Scientific Data
+issue: ''
+pages: '449'
+pmclivedate: 2022/07/29
+printpubdate: ''
+pubdate: 2022 Jul 27
+sortdate: 2022/07/27 00:00
+source: Sci Data
+title: Standard metadata for 3D microscopy
+uid: '9329339'
+volume: '9'

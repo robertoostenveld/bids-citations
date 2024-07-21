@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '35701471'
+- idtype: doi
+  value: 10.1038/s41597-022-01386-3
+- idtype: pmcid
+  value: PMC9198098
+authors:
+- authtype: Author
+  name: Hawco C
+- authtype: Author
+  name: Dickie EW
+- authtype: Author
+  name: Herman G
+- authtype: Author
+  name: Turner JA
+- authtype: Author
+  name: Argyelan M
+- authtype: Author
+  name: Malhotra AK
+- authtype: Author
+  name: Buchanan RW
+- authtype: Author
+  name: Voineskos AN
+epubdate: 2022 Jun 14
+fulljournalname: Scientific Data
+issue: ''
+pages: '332'
+pmclivedate: 2022/06/16
+printpubdate: ''
+pubdate: 2022 Jun 14
+sortdate: 2022/06/14 00:00
+source: Sci Data
+title: A longitudinal multi-scanner multimodal human neuroimaging dataset
+uid: '9198098'
+volume: '9'

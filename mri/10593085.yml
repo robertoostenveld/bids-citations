@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '37873012'
+- idtype: pmcid
+  value: PMC10593085
+authors:
+- authtype: Author
+  name: Pierré A
+- authtype: Author
+  name: Pham T
+- authtype: Author
+  name: Pearl J
+- authtype: Author
+  name: Datta SR
+- authtype: Author
+  name: Ritt JT
+- authtype: Author
+  name: Fleischmann A
+epubdate: 2024 Jan 22
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2310.04317v2
+pmclivedate: 2023/10/24
+printpubdate: ''
+pubdate: 2024 Jan 22
+sortdate: 2024/01/22 00:00
+source: ArXiv
+title: A perspective on neuroscience data standardization with Neurodata Without Borders
+uid: '10593085'
+volume: ''

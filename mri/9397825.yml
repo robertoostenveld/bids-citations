@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '35938379'
+- idtype: doi
+  value: 10.1080/87565641.2022.2108425
+- idtype: pmcid
+  value: PMC9397825
+- idtype: MID
+  value: NIHMS1830110
+authors:
+- authtype: Author
+  name: Schneider JM
+- authtype: Author
+  name: McIlvain G
+- authtype: Author
+  name: Johnson CL
+epubdate: 2022 Aug 8
+fulljournalname: Developmental neuropsychology
+issue: '5'
+pages: 258-272
+pmclivedate: 2023/08/08
+printpubdate: 2022 Aug
+pubdate: 2022 Aug 8
+sortdate: 2022/08/08 00:00
+source: Dev Neuropsychol
+title: Mechanical properties of the developing brain are associated with language
+  input and vocabulary outcome
+uid: '9397825'
+volume: '47'

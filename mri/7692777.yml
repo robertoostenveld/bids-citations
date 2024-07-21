@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '33120899'
+- idtype: doi
+  value: 10.3390/nu12113283
+- idtype: pmcid
+  value: PMC7692777
+authors:
+- authtype: Author
+  name: Zhang X
+- authtype: Author
+  name: Luo S
+- authtype: Author
+  name: Jones S
+- authtype: Author
+  name: Hsu E
+- authtype: Author
+  name: Page KA
+- authtype: Author
+  name: Monterosso JR
+epubdate: 2020 Oct 27
+fulljournalname: Nutrients
+issue: '11'
+pages: '3283'
+pmclivedate: 2020/11/28
+printpubdate: ''
+pubdate: 2020 Oct 27
+sortdate: 2020/10/27 00:00
+source: Nutrients
+title: Impacts of Acute Sucralose and Glucose on Brain Activity during Food Decisions
+  in Humans
+uid: '7692777'
+volume: '12'

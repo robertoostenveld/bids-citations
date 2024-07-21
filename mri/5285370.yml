@@ -1,0 +1,23 @@
+articleids:
+- idtype: pmid
+  value: '28203154'
+- idtype: doi
+  value: 10.3389/fnhum.2017.00041
+- idtype: pmcid
+  value: PMC5285370
+authors:
+- authtype: Author
+  name: Evans S
+epubdate: 2017 Feb 1
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '41'
+pmclivedate: 2017/02/15
+printpubdate: ''
+pubdate: 2017 Feb 1
+sortdate: 2017/02/01 00:00
+source: Front Hum Neurosci
+title: What Has Replication Ever Done for Us? Insights from Neuroimaging of Speech
+  Perception
+uid: '5285370'
+volume: '11'

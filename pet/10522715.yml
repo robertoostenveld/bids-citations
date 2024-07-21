@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '37752115'
+- idtype: doi
+  value: 10.1038/s41467-023-41689-6
+- idtype: pmcid
+  value: PMC10522715
+authors:
+- authtype: Author
+  name: Shafiei G
+- authtype: Author
+  name: Fulcher BD
+- authtype: Author
+  name: Voytek B
+- authtype: Author
+  name: Satterthwaite TD
+- authtype: Author
+  name: Baillet S
+- authtype: Author
+  name: Misic B
+epubdate: 2023 Sep 26
+fulljournalname: Nature Communications
+issue: ''
+pages: '6000'
+pmclivedate: 2023/09/28
+printpubdate: ''
+pubdate: 2023 Sep 26
+sortdate: 2023/09/26 00:00
+source: Nat Commun
+title: Neurophysiological signatures of cortical micro-architecture
+uid: '10522715'
+volume: '14'

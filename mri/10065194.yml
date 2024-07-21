@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '37007976'
+- idtype: doi
+  value: 10.3389/fgene.2023.1086802
+- idtype: pmcid
+  value: PMC10065194
+authors:
+- authtype: Author
+  name: Reer A
+- authtype: Author
+  name: Wiebe A
+- authtype: Author
+  name: Wang X
+- authtype: Author
+  name: Rieger JW
+epubdate: 2023 Mar 13
+fulljournalname: Frontiers in Genetics
+issue: ''
+pages: '1086802'
+pmclivedate: 2023/04/01
+printpubdate: ''
+pubdate: 2023 Mar 13
+sortdate: 2023/03/13 00:00
+source: Front Genet
+title: 'FAIR human neuroscientific data sharing to advance AI driven research and
+  applications: Legal frameworks and missing metadata standards'
+uid: '10065194'
+volume: '14'

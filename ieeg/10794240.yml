@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '38233418'
+- idtype: doi
+  value: 10.1038/s41467-023-43727-9
+- idtype: pmcid
+  value: PMC10794240
+authors:
+- authtype: Author
+  name: Lee K
+- authtype: Author
+  name: Paulk AC
+- authtype: Author
+  name: Ro YG
+- authtype: Author
+  name: Cleary DR
+- authtype: Author
+  name: Tonsfeldt KJ
+- authtype: Author
+  name: Kfir Y
+- authtype: Author
+  name: Pezaris JS
+- authtype: Author
+  name: Tchoe Y
+- authtype: Author
+  name: Lee J
+- authtype: Author
+  name: Bourhis AM
+- authtype: Author
+  name: Vatsyayan R
+- authtype: Author
+  name: Martin JR
+- authtype: Author
+  name: Russman SM
+- authtype: Author
+  name: Yang JC
+- authtype: Author
+  name: Baohan A
+- authtype: Author
+  name: Richardson RM
+- authtype: Author
+  name: Williams ZM
+- authtype: Author
+  name: Fried SI
+- authtype: Author
+  name: Hoi Sang U
+- authtype: Author
+  name: Raslan AM
+- authtype: Author
+  name: Ben-Haim S
+- authtype: Author
+  name: Halgren E
+- authtype: Author
+  name: Cash SS
+- authtype: Author
+  name: Dayeh SA
+epubdate: 2024 Jan 17
+fulljournalname: Nature Communications
+issue: ''
+pages: '218'
+pmclivedate: 2024/01/18
+printpubdate: ''
+pubdate: 2024 Jan 17
+sortdate: 2024/01/17 00:00
+source: Nat Commun
+title: Flexible, scalable, high channel count stereo-electrode for recording in the
+  human brain
+uid: '10794240'
+volume: '15'

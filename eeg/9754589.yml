@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '36469506'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1010747
+- idtype: pmcid
+  value: PMC9754589
+authors:
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Hertwig R
+- authtype: Author
+  name: Spitzer B
+epubdate: 2022 Dec 5
+fulljournalname: PLOS Computational Biology
+issue: '12'
+pages: e1010747
+pmclivedate: 2022/12/16
+printpubdate: ''
+pubdate: 2022 Dec 5
+sortdate: 2022/12/05 00:00
+source: PLoS Comput Biol
+title: EEG-representational geometries and psychometric distortions in approximate
+  numerical judgment
+uid: '9754589'
+volume: '18'

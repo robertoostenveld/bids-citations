@@ -1,0 +1,226 @@
+articleids:
+- idtype: pmid
+  value: '37390046'
+- idtype: doi
+  value: 10.1371/journal.pbio.3002133
+- idtype: pmcid
+  value: PMC10313015
+authors:
+- authtype: Author
+  name: Hawrylycz M
+- authtype: Author
+  name: Martone ME
+- authtype: Author
+  name: Ascoli GA
+- authtype: Author
+  name: Bjaalie JG
+- authtype: Author
+  name: Dong HW
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Gillis J
+- authtype: Author
+  name: Hertzano R
+- authtype: Author
+  name: Haynor DR
+- authtype: Author
+  name: Hof PR
+- authtype: Author
+  name: Kim Y
+- authtype: Author
+  name: Lein E
+- authtype: Author
+  name: Liu Y
+- authtype: Author
+  name: Miller JA
+- authtype: Author
+  name: Mitra PP
+- authtype: Author
+  name: Mukamel E
+- authtype: Author
+  name: Ng L
+- authtype: Author
+  name: Osumi-Sutherland D
+- authtype: Author
+  name: Peng H
+- authtype: Author
+  name: Ray PL
+- authtype: Author
+  name: Sanchez R
+- authtype: Author
+  name: Regev A
+- authtype: Author
+  name: Ropelewski A
+- authtype: Author
+  name: Scheuermann RH
+- authtype: Author
+  name: Tan SZ
+- authtype: Author
+  name: Thompson CL
+- authtype: Author
+  name: Tickle T
+- authtype: Author
+  name: Tilgner H
+- authtype: Author
+  name: Varghese M
+- authtype: Author
+  name: Wester B
+- authtype: Author
+  name: White O
+- authtype: Author
+  name: Zeng H
+- authtype: Author
+  name: Aevermann B
+- authtype: Author
+  name: Allemang D
+- authtype: Author
+  name: Ament S
+- authtype: Author
+  name: Athey TL
+- authtype: Author
+  name: Baker C
+- authtype: Author
+  name: Baker KS
+- authtype: Author
+  name: Baker PM
+- authtype: Author
+  name: Bandrowski A
+- authtype: Author
+  name: Banerjee S
+- authtype: Author
+  name: Bishwakarma P
+- authtype: Author
+  name: Carr A
+- authtype: Author
+  name: Chen M
+- authtype: Author
+  name: Choudhury R
+- authtype: Author
+  name: Cool J
+- authtype: Author
+  name: Creasy H
+- authtype: Author
+  name: D’Orazi F
+- authtype: Author
+  name: Degatano K
+- authtype: Author
+  name: Dichter B
+- authtype: Author
+  name: Ding SL
+- authtype: Author
+  name: Dolbeare T
+- authtype: Author
+  name: Ecker JR
+- authtype: Author
+  name: Fang R
+- authtype: Author
+  name: Fillion-Robin JC
+- authtype: Author
+  name: Fliss TP
+- authtype: Author
+  name: Gee J
+- authtype: Author
+  name: Gillespie T
+- authtype: Author
+  name: Gouwens N
+- authtype: Author
+  name: Zhang GQ
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Harris NL
+- authtype: Author
+  name: Herb BR
+- authtype: Author
+  name: Hintiryan H
+- authtype: Author
+  name: Hood G
+- authtype: Author
+  name: Horvath S
+- authtype: Author
+  name: Huo B
+- authtype: Author
+  name: Jarecka D
+- authtype: Author
+  name: Jiang S
+- authtype: Author
+  name: Khajouei F
+- authtype: Author
+  name: Kiernan EA
+- authtype: Author
+  name: Kir H
+- authtype: Author
+  name: Kruse L
+- authtype: Author
+  name: Lee C
+- authtype: Author
+  name: Lelieveldt B
+- authtype: Author
+  name: Li Y
+- authtype: Author
+  name: Liu H
+- authtype: Author
+  name: Liu L
+- authtype: Author
+  name: Markuhar A
+- authtype: Author
+  name: Mathews J
+- authtype: Author
+  name: Mathews KL
+- authtype: Author
+  name: Mezias C
+- authtype: Author
+  name: Miller MI
+- authtype: Author
+  name: Mollenkopf T
+- authtype: Author
+  name: Mufti S
+- authtype: Author
+  name: Mungall CJ
+- authtype: Author
+  name: Orvis J
+- authtype: Author
+  name: Puchades MA
+- authtype: Author
+  name: Qu L
+- authtype: Author
+  name: Receveur JP
+- authtype: Author
+  name: Ren B
+- authtype: Author
+  name: Sjoquist N
+- authtype: Author
+  name: Staats B
+- authtype: Author
+  name: Tward D
+- authtype: Author
+  name: van Velthoven CT
+- authtype: Author
+  name: Wang Q
+- authtype: Author
+  name: Xie F
+- authtype: Author
+  name: Xu H
+- authtype: Author
+  name: Yao Z
+- authtype: Author
+  name: Yun Z
+- authtype: Author
+  name: Zhang YR
+- authtype: Author
+  name: Zheng WJ
+- authtype: Author
+  name: Zingg B
+epubdate: 2023 Jun 30
+fulljournalname: PLOS Biology
+issue: '6'
+pages: e3002133
+pmclivedate: 2023/07/01
+printpubdate: ''
+pubdate: 2023 Jun 30
+sortdate: 2023/06/30 00:00
+source: PLoS Biol
+title: A guide to the BRAIN Initiative Cell Census Network data ecosystem
+uid: '10313015'
+volume: '21'

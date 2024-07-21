@@ -1,0 +1,63 @@
+articleids:
+- idtype: pmid
+  value: '34867254'
+- idtype: doi
+  value: 10.3389/fninf.2021.622951
+- idtype: pmcid
+  value: PMC8635782
+authors:
+- authtype: Author
+  name: Liang S
+- authtype: Author
+  name: Beaton D
+- authtype: Author
+  name: Arnott SR
+- authtype: Author
+  name: Gee T
+- authtype: Author
+  name: Zamyadi M
+- authtype: Author
+  name: Bartha R
+- authtype: Author
+  name: Symons S
+- authtype: Author
+  name: MacQueen GM
+- authtype: Author
+  name: Hassel S
+- authtype: Author
+  name: Lerch JP
+- authtype: Author
+  name: Anagnostou E
+- authtype: Author
+  name: Lam RW
+- authtype: Author
+  name: Frey BN
+- authtype: Author
+  name: Milev R
+- authtype: Author
+  name: Müller DJ
+- authtype: Author
+  name: Kennedy SH
+- authtype: Author
+  name: Scott CJ
+- authtype: CollectiveName
+  name: The ONDRI InvestigatorsTroyerAngelaALangAnthony E.AEGreenbergBarryBHudsonChrisCCorbettDaleDGrimesDavid
+    A.DAMunozDavid G.DGMunozDouglas P.DPFingerElizabethEOrangeJ. B.JBZinmanLorneLMontero-OdassoManuelMTartagliaMaria
+    CarmelaMCMasellisMarioMBorrieMichaelMStrongMichael J.MJFreedmanMorrisMMcLaughlinPaula
+    M.PMSwartzRichard H.RHHegeleRobert A.RABarthaRobertRBlackSandra E.SESymonsSeanSStrotherStephen
+    C.SCMcIlroyWilliam E.WE
+- authtype: Author
+  name: Strother SC
+epubdate: 2021 Nov 17
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '622951'
+pmclivedate: 2021/12/02
+printpubdate: ''
+pubdate: 2021 Nov 17
+sortdate: 2021/11/17 00:00
+source: Front Neuroinform
+title: Magnetic Resonance Imaging Sequence Identification Using a Metadata Learning
+  Approach
+uid: '8635782'
+volume: '15'

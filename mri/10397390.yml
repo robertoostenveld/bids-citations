@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '37545729'
+- idtype: doi
+  value: 10.3389/fneur.2023.1187095
+- idtype: pmcid
+  value: PMC10397390
+authors:
+- authtype: Author
+  name: Bradshaw A
+- authtype: Author
+  name: Hughes N
+- authtype: Author
+  name: Vallez-Garcia D
+- authtype: Author
+  name: Chokoshvili D
+- authtype: Author
+  name: Owens A
+- authtype: Author
+  name: Hansen C
+- authtype: Author
+  name: Emmert K
+- authtype: Author
+  name: Maetzler W
+- authtype: Author
+  name: Killin L
+- authtype: Author
+  name: Barnes R
+- authtype: Author
+  name: Brookes AJ
+- authtype: Author
+  name: Visser PJ
+- authtype: Author
+  name: Hofmann-Apitius M
+- authtype: Author
+  name: Diaz C
+- authtype: Author
+  name: Steukers L
+epubdate: 2023 Jul 20
+fulljournalname: Frontiers in Neurology
+issue: ''
+pages: '1187095'
+pmclivedate: 2023/08/04
+printpubdate: ''
+pubdate: 2023 Jul 20
+sortdate: 2023/07/20 00:00
+source: Front Neurol
+title: 'Data sharing in neurodegenerative disease research: challenges and learnings
+  from the innovative medicines initiative public-private partnership model'
+uid: '10397390'
+volume: '14'

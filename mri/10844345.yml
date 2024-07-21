@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '37857914'
+- idtype: doi
+  value: 10.1007/s11682-023-00800-7
+- idtype: pmcid
+  value: PMC10844345
+authors:
+- authtype: Author
+  name: Yang B
+- authtype: Author
+  name: Su M
+- authtype: Author
+  name: Wang Q
+- authtype: Author
+  name: Qu X
+- authtype: Author
+  name: Wang H
+- authtype: Author
+  name: Chen W
+- authtype: Author
+  name: Sun Y
+- authtype: Author
+  name: Li T
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Wang N
+- authtype: Author
+  name: Xian J
+epubdate: 2023 Oct 19
+fulljournalname: Brain Imaging and Behavior
+issue: '1'
+pages: 44-56
+pmclivedate: 2024/02/07
+printpubdate: '2024'
+pubdate: 2023 Oct 19
+sortdate: 2023/10/19 00:00
+source: Brain Imaging Behav
+title: 'Altered stability of dynamic brain functional architecture in primary open-angle
+  glaucoma: a surface-based resting-state fMRI study'
+uid: '10844345'
+volume: '18'

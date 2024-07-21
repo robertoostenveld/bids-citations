@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '32461581'
+- idtype: doi
+  value: 10.1038/s41597-020-0493-8
+- idtype: pmcid
+  value: PMC7253426
+authors:
+- authtype: Author
+  name: Tong Q
+- authtype: Author
+  name: He H
+- authtype: Author
+  name: Gong T
+- authtype: Author
+  name: Li C
+- authtype: Author
+  name: Liang P
+- authtype: Author
+  name: Qian T
+- authtype: Author
+  name: Sun Y
+- authtype: Author
+  name: Ding Q
+- authtype: Author
+  name: Li K
+- authtype: Author
+  name: Zhong J
+epubdate: 2020 May 27
+fulljournalname: Scientific Data
+issue: ''
+pages: '157'
+pmclivedate: 2020/06/10
+printpubdate: ''
+pubdate: 2020 May 27
+sortdate: 2020/05/27 00:00
+source: Sci Data
+title: Multicenter dataset of multi-shell diffusion MRI in healthy traveling adults
+  with identical settings
+uid: '7253426'
+volume: '7'

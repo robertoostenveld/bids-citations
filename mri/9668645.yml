@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '36451354'
+- idtype: doi
+  value: 10.1016/j.nicl.2022.103248
+- idtype: pmcid
+  value: PMC9668645
+authors:
+- authtype: Author
+  name: Cappelle S
+- authtype: Author
+  name: Pareto D
+- authtype: Author
+  name: Sunaert S
+- authtype: Author
+  name: Smets I
+- authtype: Author
+  name: Laenen A
+- authtype: Author
+  name: Dubois B
+- authtype: Author
+  name: Demaerel P
+epubdate: 2022 Oct 25
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '103248'
+pmclivedate: 2022/11/18
+printpubdate: ''
+pubdate: 2022 Oct 25
+sortdate: 2022/10/25 00:00
+source: Neuroimage Clin
+title: T1w/FLAIR ratio standardization as a myelin marker in MS patients
+uid: '9668645'
+volume: '36'

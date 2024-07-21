@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '38106059'
+- idtype: doi
+  value: 10.1101/2023.12.04.569978
+- idtype: pmcid
+  value: PMC10723284
+authors:
+- authtype: Author
+  name: Roger E
+- authtype: Author
+  name: Labache L
+- authtype: Author
+  name: Hamlin N
+- authtype: Author
+  name: Kruse J
+- authtype: Author
+  name: Baciu M
+- authtype: Author
+  name: Doucet GE
+epubdate: 2023 Dec 5
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.12.04.569978
+pmclivedate: 2023/12/16
+printpubdate: ''
+pubdate: 2023 Dec 5
+sortdate: 2023/12/05 00:00
+source: bioRxiv
+title: 'When Age Tips the Balance: a Dual Mechanism Affecting Hemispheric Specialization
+  for Language'
+uid: '10723284'
+volume: ''

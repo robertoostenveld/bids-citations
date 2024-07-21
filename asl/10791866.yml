@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38235379'
+- idtype: doi
+  value: 10.3389/fphys.2023.1271254
+- idtype: pmcid
+  value: PMC10791866
+authors:
+- authtype: Author
+  name: Kashyap S
+- authtype: Author
+  name: Oliveira ÍA
+- authtype: Author
+  name: Uludağ K
+epubdate: 2024 Jan 3
+fulljournalname: Frontiers in Physiology
+issue: ''
+pages: '1271254'
+pmclivedate: 2024/01/17
+printpubdate: ''
+pubdate: 2024 Jan 3
+sortdate: 2024/01/03 00:00
+source: Front Physiol
+title: Feasibility of high-resolution perfusion imaging using arterial spin labeling
+  MRI at 3 Tesla
+uid: '10791866'
+volume: '14'

@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '38820354'
+- idtype: doi
+  value: 10.1371/journal.pone.0297244
+- idtype: pmcid
+  value: PMC11142522
+authors:
+- authtype: Author
+  name: Radunsky D
+- authtype: Author
+  name: Solomon C
+- authtype: Author
+  name: Stern N
+- authtype: Author
+  name: Blumenfeld-Katzir T
+- authtype: Author
+  name: Filo S
+- authtype: Author
+  name: Mezer A
+- authtype: Author
+  name: Karsa A
+- authtype: Author
+  name: Shmueli K
+- authtype: Author
+  name: Soustelle L
+- authtype: Author
+  name: Duhamel G
+- authtype: Author
+  name: Girard OM
+- authtype: Author
+  name: Kepler G
+- authtype: Author
+  name: Shrot S
+- authtype: Author
+  name: Hoffmann C
+- authtype: Author
+  name: Ben-Eliezer N
+epubdate: 2024 May 31
+fulljournalname: PLOS ONE
+issue: '5'
+pages: e0297244
+pmclivedate: 2024/05/31
+printpubdate: ''
+pubdate: 2024 May 31
+sortdate: 2024/05/31 00:00
+source: PLoS One
+title: A comprehensive protocol for quantitative magnetic resonance imaging of the
+  brain at 3 Tesla
+uid: '11142522'
+volume: '19'

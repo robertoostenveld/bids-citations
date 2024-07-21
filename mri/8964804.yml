@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '35351911'
+- idtype: doi
+  value: 10.1038/s41597-022-01226-4
+- idtype: pmcid
+  value: PMC8964804
+authors:
+- authtype: Author
+  name: Etzel JA
+- authtype: Author
+  name: Brough RE
+- authtype: Author
+  name: Freund MC
+- authtype: Author
+  name: Kizhner A
+- authtype: Author
+  name: Lin Y
+- authtype: Author
+  name: Singh MF
+- authtype: Author
+  name: Tang R
+- authtype: Author
+  name: Tay A
+- authtype: Author
+  name: Wang A
+- authtype: Author
+  name: Braver TS
+epubdate: 2022 Mar 29
+fulljournalname: Scientific Data
+issue: ''
+pages: '114'
+pmclivedate: 2022/04/12
+printpubdate: ''
+pubdate: 2022 Mar 29
+sortdate: 2022/03/29 00:00
+source: Sci Data
+title: The Dual Mechanisms of Cognitive Control dataset, a theoretically-guided within-subject
+  task fMRI battery
+uid: '8964804'
+volume: '9'

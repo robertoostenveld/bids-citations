@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '37460750'
+- idtype: doi
+  value: 10.1007/s00259-023-06299-w
+- idtype: pmcid
+  value: PMC10547641
+authors:
+- authtype: Author
+  name: Gu F
+- authtype: Author
+  name: Wu Q
+epubdate: 2023 Jul 18
+fulljournalname: European Journal of Nuclear Medicine and Molecular Imaging
+issue: '12'
+pages: 3538-3557
+pmclivedate: 2023/10/05
+printpubdate: '2023'
+pubdate: 2023 Jul 18
+sortdate: 2023/07/18 00:00
+source: Eur J Nucl Med Mol Imaging
+title: 'Quantitation of dynamic total-body PET imaging: recent developments and future
+  perspectives'
+uid: '10547641'
+volume: '50'

@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '35244138'
+- idtype: doi
+  value: 10.1093/cercor/bhac087
+- idtype: pmcid
+  value: PMC9890460
+authors:
+- authtype: Author
+  name: Ceceli AO
+- authtype: Author
+  name: Parvaz MA
+- authtype: Author
+  name: King S
+- authtype: Author
+  name: Schafer M
+- authtype: Author
+  name: Malaker P
+- authtype: Author
+  name: Sharma A
+- authtype: Author
+  name: Alia-Klein N
+- authtype: Author
+  name: Goldstein RZ
+epubdate: 2022 Mar 4
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '3'
+pages: 597-611
+pmclivedate: 2023/03/04
+printpubdate: ''
+pubdate: 2022 Mar 4
+sortdate: 2022/03/04 00:00
+source: Cereb Cortex
+title: Altered prefrontal signaling during inhibitory control in a salient drug context
+  in cocaine use disorder
+uid: '9890460'
+volume: '33'

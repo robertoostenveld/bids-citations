@@ -1,0 +1,61 @@
+articleids:
+- idtype: pmid
+  value: '34919195'
+- idtype: doi
+  value: 10.1007/s10334-021-00985-2
+- idtype: pmcid
+  value: PMC8901489
+authors:
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Hogeboom L
+- authtype: Author
+  name: Nikulin P
+- authtype: Author
+  name: Wiegers E
+- authtype: Author
+  name: Schroyen G
+- authtype: Author
+  name: Kallehauge J
+- authtype: Author
+  name: Chmelík M
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Nechifor RE
+- authtype: Author
+  name: Fodor LA
+- authtype: Author
+  name: De Witt Hamer PC
+- authtype: Author
+  name: Barkhof F
+- authtype: Author
+  name: Pernet C
+- authtype: Author
+  name: Lequin M
+- authtype: Author
+  name: Deprez S
+- authtype: Author
+  name: Jančálek R
+- authtype: Author
+  name: Mutsaerts HJ
+- authtype: Author
+  name: Pizzini FB
+- authtype: Author
+  name: Emblem KE
+- authtype: Author
+  name: Keil VC
+epubdate: 2021 Dec 17
+fulljournalname: Magma (New York, N.y.)
+issue: '1'
+pages: 163-186
+pmclivedate: 2022/03/15
+printpubdate: '2022'
+pubdate: 2021 Dec 17
+sortdate: 2021/12/17 00:00
+source: MAGMA
+title: A systematic review on the use of quantitative imaging to detect cancer therapy
+  adverse effects in normal-appearing brain tissue
+uid: '8901489'
+volume: '35'

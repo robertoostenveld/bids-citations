@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '37720047'
+- idtype: doi
+  value: 10.21203/rs.3.rs-3328861/v1
+- idtype: pmcid
+  value: PMC10503860
+authors:
+- authtype: Author
+  name: Dai Y
+- authtype: Author
+  name: Yu-Chun H
+- authtype: Author
+  name: Fernandes BS
+- authtype: Author
+  name: Zhang K
+- authtype: Author
+  name: Xiaoyang L
+- authtype: Author
+  name: Enduru N
+- authtype: Author
+  name: Liu A
+- authtype: Author
+  name: Manuel AM
+- authtype: Author
+  name: Jiang X
+- authtype: Author
+  name: Zhao Z
+epubdate: 2023 Sep 8
+fulljournalname: Research Square
+issue: ''
+pages: rs.3.rs-3328861
+pmclivedate: 2023/09/16
+printpubdate: ''
+pubdate: 2023 Sep 8
+sortdate: 2023/09/08 00:00
+source: Res Sq
+title: 'Disentangling accelerated cognitive decline from the normal aging process
+  and unraveling its genetic components: A neuroimaging-based deep learning approach'
+uid: '10503860'
+volume: ''

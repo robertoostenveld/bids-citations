@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '31191266'
+- idtype: doi
+  value: 10.3389/fnbeh.2019.00082
+- idtype: pmcid
+  value: PMC6539194
+authors:
+- authtype: Author
+  name: Brown RE
+epubdate: 2019 May 22
+fulljournalname: Frontiers in Behavioral Neuroscience
+issue: ''
+pages: '82'
+pmclivedate: 2019/06/12
+printpubdate: ''
+pubdate: 2019 May 22
+sortdate: 2019/05/22 00:00
+source: Front Behav Neurosci
+title: Why Study the History of Neuroscience?
+uid: '6539194'
+volume: '13'

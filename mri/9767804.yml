@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '36539590'
+- idtype: doi
+  value: 10.1007/s11357-022-00702-4
+- idtype: pmcid
+  value: PMC9767804
+authors:
+- authtype: Author
+  name: Bray NW
+- authtype: Author
+  name: Pieruccini-Faria F
+- authtype: Author
+  name: Witt ST
+- authtype: Author
+  name: Rockwood K
+- authtype: Author
+  name: Bartha R
+- authtype: Author
+  name: Doherty TJ
+- authtype: Author
+  name: Nagamatsu LS
+- authtype: Author
+  name: Almeida QJ
+- authtype: Author
+  name: Liu-Ambrose T
+- authtype: Author
+  name: Middleton LE
+- authtype: Author
+  name: Bherer L
+- authtype: Author
+  name: Montero-Odasso M
+epubdate: 2022 Dec 21
+fulljournalname: GeroScience
+issue: '2'
+pages: 1033-1048
+pmclivedate: 2022/12/21
+printpubdate: ''
+pubdate: 2022 Dec 21
+sortdate: 2022/12/21 00:00
+source: GeroScience
+title: 'Frailty and functional brain connectivity (FBC) in older adults with mild
+  cognitive impairment (MCI): baseline results from the SYNERGIC Trial'
+uid: '9767804'
+volume: '45'

@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '31279672'
+- idtype: doi
+  value: 10.1016/j.tics.2019.05.009
+- idtype: pmcid
+  value: PMC6712987
+- idtype: MID
+  value: NIHMS1533646
+authors:
+- authtype: Author
+  name: Vaidya AR
+- authtype: Author
+  name: Pujara MS
+- authtype: Author
+  name: Petrides M
+- authtype: Author
+  name: Murray EA
+- authtype: Author
+  name: Fellows LK
+epubdate: 2019 Jul 3
+fulljournalname: Trends in cognitive sciences
+issue: '8'
+pages: 653-671
+pmclivedate: 2020/08/01
+printpubdate: 2019 Aug
+pubdate: 2019 Jul 3
+sortdate: 2019/07/03 00:00
+source: Trends Cogn Sci
+title: Lesion studies in contemporary neuroscience
+uid: '6712987'
+volume: '23'

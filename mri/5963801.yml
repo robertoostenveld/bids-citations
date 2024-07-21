@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '29746461'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1006064
+- idtype: pmcid
+  value: PMC5963801
+authors:
+- authtype: Author
+  name: van Mourik T
+- authtype: Author
+  name: Snoek L
+- authtype: Author
+  name: Knapen T
+- authtype: Author
+  name: Norris DG
+epubdate: 2018 May 10
+fulljournalname: PLoS Computational Biology
+issue: '5'
+pages: e1006064
+pmclivedate: 2018/06/02
+printpubdate: ''
+pubdate: 2018 May 10
+sortdate: 2018/05/10 00:00
+source: PLoS Comput Biol
+title: 'Porcupine: A visual pipeline tool for neuroimaging analysis'
+uid: '5963801'
+volume: '14'

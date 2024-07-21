@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '28616455'
+- idtype: doi
+  value: 10.1016/j.dib.2017.05.014
+- idtype: pmcid
+  value: PMC5459569
+authors:
+- authtype: Author
+  name: Sengupta A
+- authtype: Author
+  name: Yakupov R
+- authtype: Author
+  name: Speck O
+- authtype: Author
+  name: Pollmann S
+- authtype: Author
+  name: Hanke M
+epubdate: 2017 May 24
+fulljournalname: Data in Brief
+issue: ''
+pages: 219-222
+pmclivedate: 2017/06/14
+printpubdate: ''
+pubdate: 2017 May 24
+sortdate: 2017/05/24 00:00
+source: Data Brief
+title: Ultra high-field (7 T) multi-resolution fMRI data for orientation decoding
+  in visual cortex
+uid: '5459569'
+volume: '13'

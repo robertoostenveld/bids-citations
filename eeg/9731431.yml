@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '36480551'
+- idtype: doi
+  value: 10.1371/journal.pone.0278776
+- idtype: pmcid
+  value: PMC9731431
+authors:
+- authtype: Author
+  name: Kia SM
+- authtype: Author
+  name: Huijsdens H
+- authtype: Author
+  name: Rutherford S
+- authtype: Author
+  name: de Boer A
+- authtype: Author
+  name: Dinga R
+- authtype: Author
+  name: Wolfers T
+- authtype: Author
+  name: Berthet P
+- authtype: Author
+  name: Mennes M
+- authtype: Author
+  name: Andreassen OA
+- authtype: Author
+  name: Westlye LT
+- authtype: Author
+  name: Beckmann CF
+- authtype: Author
+  name: Marquand AF
+epubdate: 2022 Dec 8
+fulljournalname: PLOS ONE
+issue: '12'
+pages: e0278776
+pmclivedate: 2022/12/09
+printpubdate: ''
+pubdate: 2022 Dec 8
+sortdate: 2022/12/08 00:00
+source: PLoS One
+title: Closing the life-cycle of normative modeling using federated hierarchical Bayesian
+  regression
+uid: '9731431'
+volume: '17'

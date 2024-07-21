@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '37434046'
+- idtype: doi
+  value: 10.3758/s13423-023-02309-y
+- idtype: pmcid
+  value: PMC10728276
+authors:
+- authtype: Author
+  name: Kwon S
+- authtype: Author
+  name: Rugg MD
+- authtype: Author
+  name: Wiegand R
+- authtype: Author
+  name: Curran T
+- authtype: Author
+  name: Morcom AM
+epubdate: 2023 Jul 11
+fulljournalname: Psychonomic Bulletin & Review
+issue: '6'
+pages: 2083-2105
+pmclivedate: 2023/12/20
+printpubdate: '2023'
+pubdate: 2023 Jul 11
+sortdate: 2023/07/11 00:00
+source: Psychon Bull Rev
+title: "A meta-analysis of event-related potential correlates of recognition \uFEFF\
+  memory"
+uid: '10728276'
+volume: '30'

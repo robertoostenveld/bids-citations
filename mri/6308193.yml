@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '30622468'
+- idtype: doi
+  value: 10.3389/fninf.2018.00085
+- idtype: pmcid
+  value: PMC6308193
+authors:
+- authtype: Author
+  name: Mohaddes Z
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Abou-Haidar R
+- authtype: Author
+  name: Safi-Harab M
+- authtype: Author
+  name: Blader D
+- authtype: Author
+  name: Callegaro J
+- authtype: Author
+  name: Henri-Bellemare C
+- authtype: Author
+  name: Tunteng JF
+- authtype: Author
+  name: Evans L
+- authtype: Author
+  name: Campbell T
+- authtype: Author
+  name: Lo D
+- authtype: Author
+  name: Morin PE
+- authtype: Author
+  name: Whitehead V
+- authtype: Author
+  name: Chertkow H
+- authtype: Author
+  name: Evans AC
+epubdate: 2018 Dec 21
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '85'
+pmclivedate: 2019/01/08
+printpubdate: ''
+pubdate: 2018 Dec 21
+sortdate: 2018/12/21 00:00
+source: Front Neuroinform
+title: National Neuroinformatics Framework for Canadian Consortium on Neurodegeneration
+  in Aging (CCNA)
+uid: '6308193'
+volume: '12'

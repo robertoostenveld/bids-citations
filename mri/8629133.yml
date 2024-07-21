@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '34419594'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.118487
+- idtype: pmcid
+  value: PMC8629133
+- idtype: MID
+  value: NIHMS1748162
+authors:
+- authtype: Author
+  name: Bryce NV
+- authtype: Author
+  name: Flournoy JC
+- authtype: Author
+  name: Moreira JF
+- authtype: Author
+  name: Rosen ML
+- authtype: Author
+  name: Sambook KA
+- authtype: Author
+  name: Mair P
+- authtype: Author
+  name: McLaughlin KA
+epubdate: 2021 Aug 19
+fulljournalname: NeuroImage
+issue: ''
+pages: '118487'
+pmclivedate: 2021/11/29
+printpubdate: 2021 Nov
+pubdate: 2021 Aug 19
+sortdate: 2021/08/19 00:00
+source: Neuroimage
+title: 'Brain parcellation selection: An overlooked decision point with meaningful
+  effects on individual differences in resting-state functional connectivity'
+uid: '8629133'
+volume: '243'

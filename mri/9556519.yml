@@ -1,0 +1,90 @@
+articleids:
+- idtype: pmid
+  value: '36224186'
+- idtype: doi
+  value: 10.1038/s41597-022-01695-7
+- idtype: pmcid
+  value: PMC9556519
+authors:
+- authtype: Author
+  name: Richie-Halford A
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Ai L
+- authtype: Author
+  name: Caffarra S
+- authtype: Author
+  name: Covitz S
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Karipidis II
+- authtype: Author
+  name: Kruper J
+- authtype: Author
+  name: Milham M
+- authtype: Author
+  name: Avelar-Pereira B
+- authtype: Author
+  name: Roy E
+- authtype: Author
+  name: Sydnor VJ
+- authtype: Author
+  name: Yeatman JD
+- authtype: CollectiveName
+  name: The Fibr Community Science Consortiumhttp://orcid.org/0000-0003-1466-0352AbbottNicholas
+    J.NJ14http://orcid.org/0000-0001-6511-1957AndersonJohn A. E.JA15GaganaB.Bhttp://orcid.org/0000-0002-0762-2596BleileMaryLenaM16http://orcid.org/0000-0002-8356-7701BloomfieldPeter
+    S.PSBottomVinceV17BourqueJosianeJ18http://orcid.org/0000-0003-0787-6892BoyleRoryR19http://orcid.org/0000-0002-1627-6576BrynildsenJulia
+    K.JK18http://orcid.org/0000-0002-4391-0472CalarcoNavonaN20http://orcid.org/0000-0001-5834-7101CastrellonJaime
+    J.JJ21http://orcid.org/0000-0003-0944-6159ChakuNatashaN22http://orcid.org/0000-0002-0117-9757ChenBosiB2324http://orcid.org/0000-0003-0866-3477ChopraSidhantShttp://orcid.org/0000-0001-8249-7396CoffeyEmily
+    B. J.EB25http://orcid.org/0000-0003-0928-2668ColenbierNigelN26CoxDaniel J.DJ27CrippenJames
+    ElliottJEhttp://orcid.org/0000-0002-3805-2936CrouseJacob J.JJ28http://orcid.org/0000-0003-0316-3895DavidSzabolcsS29http://orcid.org/0000-0002-1378-2756LeenerBenjamin
+    DeBD30DelapGwynethG31http://orcid.org/0000-0001-8925-0871DengZhi-DeZD32http://orcid.org/0000-0003-4946-0350DugreJules
+    RogerJR33http://orcid.org/0000-0001-7061-7995EklundAndersA34http://orcid.org/0000-0002-7570-0939EllisKirstenK35http://orcid.org/0000-0002-8386-4423EredArielleA36http://orcid.org/0000-0002-3684-0605FarmerHarryH37http://orcid.org/0000-0003-1814-7206FaskowitzJoshuaJ38http://orcid.org/0000-0003-2457-1345FinchJody
+    E.JE39http://orcid.org/0000-0003-0077-7859FlandinGuillaumeG40http://orcid.org/0000-0001-7014-4665FloundersMatthew
+    W.MWhttp://orcid.org/0000-0001-8874-7843FonvilleLeonL41FrandsenSummer B.SB42http://orcid.org/0000-0003-3595-4210GaricDeaD43http://orcid.org/0000-0002-9561-8983Garrido-VásquezPatriciaP44http://orcid.org/0000-0002-7209-1736Gonzalez-EscamillaGabrielG45http://orcid.org/0000-0003-0383-4601GrogansShannon
+    E.SE46http://orcid.org/0000-0002-8653-1157GrotheerMareikeM47http://orcid.org/0000-0001-6504-191XGruskinDavid
+    C.DC48GubermanGuido I.GI49http://orcid.org/0000-0003-0597-7956HaggertyEdda BrianaEB18HahnYoungheeYHallElizabeth
+    H.EH17http://orcid.org/0000-0002-0469-8886HansonJamie L.JL50http://orcid.org/0000-0002-8970-1983HarelYannY51http://orcid.org/0000-0002-8770-7396VieiraBruno
+    HeblingBH52http://orcid.org/0000-0002-7973-6752HettwerMeike D.MD53HobdayHarrietHhttp://orcid.org/0000-0001-6738-1029HorienCoreyC54HuangFanFHuqueZeeshan
+    M.ZM18http://orcid.org/0000-0002-5297-2229JamesAnthony R.AR55http://orcid.org/0000-0002-0963-9738KahhaleIsabellaI50KamhoutSarah
+    L. H.SL56http://orcid.org/0000-0003-4708-1672KellerArielle S.AS18http://orcid.org/0000-0001-6840-4616KheraHarmandeep
+    SinghHShttp://orcid.org/0000-0001-8915-496XKiarGregoryG57http://orcid.org/0000-0003-0786-3039KirkPeter
+    AlexanderPA40http://orcid.org/0000-0003-0949-6754KohlSimon H.SH58KorenicStephanie
+    A.SA36http://orcid.org/0000-0003-2562-9617KorponayColeC59KozlowskiAlyssa K.AK56http://orcid.org/0000-0003-0869-648XKraljevicNevenaN58http://orcid.org/0000-0002-8688-581XLazariAlbertoA60http://orcid.org/0000-0002-6100-3235LeavittMackenzie
+    J.MJ61http://orcid.org/0000-0003-2246-4116LiZhaolongZ62http://orcid.org/0000-0002-5684-4443LiberatiGiuliaG63http://orcid.org/0000-0003-1311-726XLorencElizabeth
+    S.ES64http://orcid.org/0000-0001-5921-1353LossinAnnabelle JulinaAJhttp://orcid.org/0000-0002-2337-6073LotterLeon
+    D.LD58http://orcid.org/0000-0001-8702-3923Lydon-StaleyDavid M.DM18http://orcid.org/0000-0003-3228-6501MadanChristopher
+    R.CR65http://orcid.org/0000-0002-6777-4225MagielseNevilleN58http://orcid.org/0000-0002-0771-6795MarusakHilary
+    A.HA66http://orcid.org/0000-0001-9827-5421MayorJulienJ67http://orcid.org/0000-0003-3422-0135McGowanAmanda
+    L.AL18MehtaKahini P.KP18http://orcid.org/0000-0002-8888-1572MeislerSteven LeeSL19http://orcid.org/0000-0002-5300-473XMichaelCleanthisC68http://orcid.org/0000-0002-0225-6320MitchellMackenzie
+    E.ME43http://orcid.org/0000-0002-5880-3688Morand-BeaulieuSimonS49http://orcid.org/0000-0002-0668-2853NewmanBenjamin
+    T.BT69http://orcid.org/0000-0002-2717-193XNielsenJared A.JA56O’MaraShane M.SM70http://orcid.org/0000-0002-1038-0225OjhaAmarA50OmaryAdamAhttp://orcid.org/0000-0003-0859-1311ÖzarslanEvrenE71http://orcid.org/0000-0002-9329-7207ParkesLindenL18PetersonMadelineM56PinesAdam
+    RobertAR72http://orcid.org/0000-0002-9151-4319PisanuClaudiaC73http://orcid.org/0000-0001-9495-3184RichRyan
+    R.RR68SacchetMatthew D.MD74http://orcid.org/0000-0003-1815-6655SahooAshish K.AK75http://orcid.org/0000-0002-6001-7395SamaraAmjadA62SayedFarahF18http://orcid.org/0000-0002-1925-6669SchneiderJonathan
+    ThoreJThttp://orcid.org/0000-0002-0642-1717ShafferLindsay S.LS76http://orcid.org/0000-0001-8900-0792ShatalinaEkaterinaE41http://orcid.org/0000-0001-7107-1891SimsSara
+    A.SA77http://orcid.org/0000-0003-3010-6431SinclairSkylerShttp://orcid.org/0000-0002-3127-6427SongJae
+    W.JW18http://orcid.org/0000-0003-2877-078XHogrogianGriffin StocktonGSTamnesChristian
+    K.CK67http://orcid.org/0000-0001-6377-3885TooleyUrsula A.UA18TripathiVaibhavV78http://orcid.org/0000-0002-2670-4036TurkerHamid
+    B.HB79http://orcid.org/0000-0003-2998-6849ValkSofie LouiseSL80http://orcid.org/0000-0002-0493-6274WallMatthew
+    B.MB41WaltherCheryl K.CK75http://orcid.org/0000-0001-9871-3006WangYuchaoYhttp://orcid.org/0000-0003-2193-6003WegmannBertilB71http://orcid.org/0000-0002-9503-2093WeltonThomasT81http://orcid.org/0000-0003-0917-1570WiesmanAlex
+    I.AI49WiesmanAndrew G.AGWiesmanMarkMhttp://orcid.org/0000-0002-0701-9658WintersDrew
+    E.DE82YuanRuiyiRhttp://orcid.org/0000-0001-8770-4614ZacharekSadie J.SJ83http://orcid.org/0000-0002-0204-6497ZajnerChrisC84http://orcid.org/0000-0001-7207-9641ZakharovIlyaI85http://orcid.org/0000-0002-9733-380XZammarchiGianpaoloG73http://orcid.org/0000-0001-9240-1327ZhouDaleD18http://orcid.org/0000-0003-2570-8198ZimmermanBenjaminB86ZonerKurtK
+- authtype: Author
+  name: Satterthwaite TD
+- authtype: Author
+  name: Rokem A
+epubdate: 2022 Oct 12
+fulljournalname: Scientific Data
+issue: ''
+pages: '616'
+pmclivedate: 2022/10/14
+printpubdate: ''
+pubdate: 2022 Oct 12
+sortdate: 2022/10/12 00:00
+source: Sci Data
+title: An analysis-ready and quality controlled resource for pediatric brain white-matter
+  research
+uid: '9556519'
+volume: '9'

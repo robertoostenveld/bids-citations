@@ -1,0 +1,109 @@
+articleids:
+- idtype: pmid
+  value: '32065076'
+- idtype: doi
+  value: 10.1177/0271678X20905433
+- idtype: pmcid
+  value: PMC7370374
+authors:
+- authtype: Author
+  name: Knudsen GM
+- authtype: Author
+  name: Ganz M
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Boellaard R
+- authtype: Author
+  name: Bormans G
+- authtype: Author
+  name: Carson RE
+- authtype: Author
+  name: Catana C
+- authtype: Author
+  name: Doudet D
+- authtype: Author
+  name: Gee AD
+- authtype: Author
+  name: Greve DN
+- authtype: Author
+  name: Gunn RN
+- authtype: Author
+  name: Halldin C
+- authtype: Author
+  name: Herscovitch P
+- authtype: Author
+  name: Huang H
+- authtype: Author
+  name: Keller SH
+- authtype: Author
+  name: Lammertsma AA
+- authtype: Author
+  name: Lanzenberger R
+- authtype: Author
+  name: Liow JS
+- authtype: Author
+  name: Lohith TG
+- authtype: Author
+  name: Lubberink M
+- authtype: Author
+  name: Lyoo CH
+- authtype: Author
+  name: Mann JJ
+- authtype: Author
+  name: Matheson GJ
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Nørgaard M
+- authtype: Author
+  name: Ogden T
+- authtype: Author
+  name: Parsey R
+- authtype: Author
+  name: Pike VW
+- authtype: Author
+  name: Price J
+- authtype: Author
+  name: Rizzo G
+- authtype: Author
+  name: Rosa-Neto P
+- authtype: Author
+  name: Schain M
+- authtype: Author
+  name: Scott PJ
+- authtype: Author
+  name: Searle G
+- authtype: Author
+  name: Slifstein M
+- authtype: Author
+  name: Suhara T
+- authtype: Author
+  name: Talbot PS
+- authtype: Author
+  name: Thomas A
+- authtype: Author
+  name: Veronese M
+- authtype: Author
+  name: Wong DF
+- authtype: Author
+  name: Yaqub M
+- authtype: Author
+  name: Zanderigo F
+- authtype: Author
+  name: Zoghbi S
+- authtype: Author
+  name: Innis RB
+epubdate: 2020 Feb 16
+fulljournalname: Journal of Cerebral Blood Flow & Metabolism
+issue: '8'
+pages: 1576-1585
+pmclivedate: 2020/07/29
+printpubdate: 2020 Aug
+pubdate: 2020 Feb 16
+sortdate: 2020/02/16 00:00
+source: J Cereb Blood Flow Metab
+title: 'Guidelines for the content and format of PET brain data in publications and
+  archives: A consensus paper'
+uid: '7370374'
+volume: '40'

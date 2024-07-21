@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '34347243'
+- idtype: doi
+  value: 10.1007/s12021-021-09533-8
+- idtype: pmcid
+  value: PMC9537193
+authors:
+- authtype: Author
+  name: Torres-Espín A
+- authtype: Author
+  name: Almeida CA
+- authtype: Author
+  name: Chou A
+- authtype: Author
+  name: Huie JR
+- authtype: Author
+  name: Chiu M
+- authtype: Author
+  name: Vavrek R
+- authtype: Author
+  name: Sacramento J
+- authtype: Author
+  name: Orr MB
+- authtype: Author
+  name: Gensel JC
+- authtype: Author
+  name: Grethe JS
+- authtype: Author
+  name: Martone ME
+- authtype: Author
+  name: Fouad K
+- authtype: Author
+  name: Ferguson AR
+- authtype: CollectiveName
+  name: the STREET-FAIR Workshop ParticipantsAlilainWarrenWwarren.alilain@uky.eduBaconMarkMmark3bacon@gmail.comBattyNicholasNnbatty@ualberta.caBeattieMichaelMmichael.beattie@ucsf.eduBresnahanJacquelineJjacqueline.bresnahan@ucsf.eduBurnsideEmilyEemily.burnside@kcl.ac.ukBuschSarahSsbusch@athersys.comCarpenterRandallRcarpenter.794@osu.eduQuijornaIsaac
+    FrancosIFisaacfq87trabajo@gmail.comGuoXiaohuiXx1guo@ucsd.eduHaggertyAgnesAagnes.haggerty@gmail.comHaroonSarahSharoon.sarah@yahoo.comHarrisJackJjckhrrs1@gmail.comJakemanLynLlyn.jakeman@nih.govJonesLindaLlatj@comcast.netKleitmanNaomiNnaomi@chnfoundation.orgKopperTimothyTTimothy.Kopper@uky.eduLaneMichaelMmlane.neuro@gmail.comMaganaFranciscoFjavifran737@gmail.comMagnusonDavidDdsmagn01@louisville.eduMaldonadoInesIimaldonado@sralab.orgMayVerenaVverena.may@wingsforlife.comMcFarlaneKatelynKkatelynmcfarlane@uky.eduMoriokaKazuhitoKkazuhito.morioka@ucsf.eduOudegaMartinMmoudega@sralab.orgPascualPhilip
+    LeoPLplpascual18@gmail.comPolineJean-BaptisteJBbaptiste.poline@mcgill.caRosenzweigEphronEephronr@gmail.comSchmidtEmmaEekschmid@ualberta.caTetzlaffWolframWtetzlaff@icord.orgZholudevaLanaLlana.zholudeva@gladstone.ucsf.edu
+epubdate: 2021 Aug 4
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 203-219
+pmclivedate: 2022/10/08
+printpubdate: '2022'
+pubdate: 2021 Aug 4
+sortdate: 2021/08/04 00:00
+source: Neuroinformatics
+title: 'Promoting FAIR Data Through Community-driven Agile Design: the Open Data Commons
+  for Spinal Cord Injury (odc-sci.org)'
+uid: '9537193'
+volume: '20'

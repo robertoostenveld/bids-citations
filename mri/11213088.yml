@@ -1,0 +1,55 @@
+articleids:
+- idtype: pmid
+  value: '38946958'
+- idtype: doi
+  value: 10.1101/2024.06.18.24309054
+- idtype: pmcid
+  value: PMC11213088
+authors:
+- authtype: Author
+  name: Chopra S
+- authtype: Author
+  name: Cocuzza CV
+- authtype: Author
+  name: Lawhead C
+- authtype: Author
+  name: Ricard JA
+- authtype: Author
+  name: Labache L
+- authtype: Author
+  name: Patrick LM
+- authtype: Author
+  name: Kumar P
+- authtype: Author
+  name: Rubenstein A
+- authtype: Author
+  name: Moses J
+- authtype: Author
+  name: Chen L
+- authtype: Author
+  name: Blankenbaker C
+- authtype: Author
+  name: Gillis B
+- authtype: Author
+  name: Germine LT
+- authtype: Author
+  name: Harpaz-Rote I
+- authtype: Author
+  name: Yeo BT
+- authtype: Author
+  name: Baker JT
+- authtype: Author
+  name: Holmes AJ
+epubdate: 2024 Jun 21
+fulljournalname: medRxiv
+issue: ''
+pages: 2024.06.18.24309054
+pmclivedate: 2024/06/29
+printpubdate: ''
+pubdate: 2024 Jun 21
+sortdate: 2024/06/21 00:00
+source: medRxiv
+title: 'The Transdiagnostic Connectome Project: a richly phenotyped open dataset for
+  advancing the study of brain-behavior relationships in psychiatry'
+uid: '11213088'
+volume: ''

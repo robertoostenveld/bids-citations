@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '35770134'
+- idtype: doi
+  value: 10.1093/braincomms/fcac151
+- idtype: pmcid
+  value: PMC9234061
+authors:
+- authtype: Author
+  name: Dimakopoulos V
+- authtype: Author
+  name: Gotman J
+- authtype: Author
+  name: Stacey W
+- authtype: Author
+  name: von Ellenrieder N
+- authtype: Author
+  name: Jacobs J
+- authtype: Author
+  name: Papadelis C
+- authtype: Author
+  name: Cimbalnik J
+- authtype: Author
+  name: Worrell G
+- authtype: Author
+  name: Sperling MR
+- authtype: Author
+  name: Zijlmans M
+- authtype: Author
+  name: Imbach L
+- authtype: Author
+  name: Frauscher B
+- authtype: Author
+  name: Sarnthein J
+epubdate: 2022 Jun 9
+fulljournalname: Brain Communications
+issue: '3'
+pages: fcac151
+pmclivedate: 2022/06/28
+printpubdate: ''
+pubdate: 2022 Jun 9
+sortdate: 2022/06/09 00:00
+source: Brain Commun
+title: Protocol for multicentre comparison of interictal high-frequency oscillations
+  as a predictor of seizure freedom
+uid: '9234061'
+volume: '4'

@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '33402689'
+- idtype: doi
+  value: 10.1038/s41531-020-00144-9
+- idtype: pmcid
+  value: PMC7785730
+authors:
+- authtype: Author
+  name: Markello RD
+- authtype: Author
+  name: Shafiei G
+- authtype: Author
+  name: Tremblay C
+- authtype: Author
+  name: Postuma RB
+- authtype: Author
+  name: Dagher A
+- authtype: Author
+  name: Misic B
+epubdate: 2021 Jan 5
+fulljournalname: NPJ Parkinson's Disease
+issue: ''
+pages: '6'
+pmclivedate: 2021/01/14
+printpubdate: ''
+pubdate: 2021 Jan 5
+sortdate: 2021/01/05 00:00
+source: NPJ Parkinsons Dis
+title: Multimodal phenotypic axes of Parkinson’s disease
+uid: '7785730'
+volume: '7'

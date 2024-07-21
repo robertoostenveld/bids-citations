@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '38351064'
+- idtype: doi
+  value: 10.1038/s41597-024-03023-7
+- idtype: pmcid
+  value: PMC10864273
+authors:
+- authtype: Author
+  name: Gu M
+- authtype: Author
+  name: Pei W
+- authtype: Author
+  name: Gao X
+- authtype: Author
+  name: Wang Y
+epubdate: 2024 Feb 13
+fulljournalname: Scientific Data
+issue: ''
+pages: '196'
+pmclivedate: 2024/02/14
+printpubdate: ''
+pubdate: 2024 Feb 13
+sortdate: 2024/02/13 00:00
+source: Sci Data
+title: An open dataset for human SSVEPs in the frequency range of 1-60 Hz
+uid: '10864273'
+volume: '11'

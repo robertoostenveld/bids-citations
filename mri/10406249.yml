@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '37555175'
+- idtype: doi
+  value: 10.3389/fnimg.2022.1073734
+- idtype: pmcid
+  value: PMC10406249
+authors:
+- authtype: Author
+  name: Provins C
+- authtype: Author
+  name: MacNicol E
+- authtype: Author
+  name: Seeley SH
+- authtype: Author
+  name: Hagmann P
+- authtype: Author
+  name: Esteban O
+epubdate: 2023 Jan 12
+fulljournalname: Frontiers in Neuroimaging
+issue: ''
+pages: '1073734'
+pmclivedate: 2023/08/08
+printpubdate: ''
+pubdate: 2023 Jan 12
+sortdate: 2023/01/12 00:00
+source: Front Neuroimaging
+title: Quality control in functional MRI studies with MRIQC and fMRIPrep
+uid: '10406249'
+volume: '1'

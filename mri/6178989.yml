@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '30337866'
+- idtype: doi
+  value: 10.3389/fninf.2018.00064
+- idtype: pmcid
+  value: PMC6178989
+authors:
+- authtype: Author
+  name: Funck T
+- authtype: Author
+  name: Larcher K
+- authtype: Author
+  name: Toussaint PJ
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Thiel A
+epubdate: 2018 Sep 26
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '64'
+pmclivedate: 2018/10/18
+printpubdate: ''
+pubdate: 2018 Sep 26
+sortdate: 2018/09/26 00:00
+source: Front Neuroinform
+title: 'APPIAN: Automated Pipeline for PET Image Analysis'
+uid: '6178989'
+volume: '12'

@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '37475685'
+- idtype: doi
+  value: 10.1002/oby.23799
+- idtype: pmcid
+  value: PMC10767984
+- idtype: MID
+  value: NIHMS1897644
+authors:
+- authtype: Author
+  name: Dunn JP
+- authtype: Author
+  name: Lamichhane B
+- authtype: Author
+  name: Smith GI
+- authtype: Author
+  name: Garner A
+- authtype: Author
+  name: Wallendorf M
+- authtype: Author
+  name: Hershey T
+- authtype: Author
+  name: Klein S
+epubdate: ''
+fulljournalname: Obesity (Silver Spring, Md.)
+issue: '8'
+pages: 2065-2075
+pmclivedate: ''
+printpubdate: 2023 Aug
+pubdate: 2023 Aug
+sortdate: 2023/08/01 00:00
+source: Obesity (Silver Spring)
+title: Dorsal striatal response to taste is modified by obesity and insulin resistance
+uid: '10767984'
+volume: '31'

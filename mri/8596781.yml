@@ -1,0 +1,107 @@
+articleids:
+- idtype: pmid
+  value: '34155395'
+- idtype: doi
+  value: 10.1038/s41592-021-01185-5
+- idtype: pmcid
+  value: PMC8596781
+- idtype: MID
+  value: NIHMS1737199
+authors:
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Cook PA
+- authtype: Author
+  name: He X
+- authtype: Author
+  name: Yeh FC
+- authtype: Author
+  name: Dhollander T
+- authtype: Author
+  name: Adebimpe A
+- authtype: Author
+  name: Aguirre GK
+- authtype: Author
+  name: Bassett DS
+- authtype: Author
+  name: Betzel RF
+- authtype: Author
+  name: Bourque J
+- authtype: Author
+  name: Cabral LM
+- authtype: Author
+  name: Davatzikos C
+- authtype: Author
+  name: Detre JA
+- authtype: Author
+  name: Earl E
+- authtype: Author
+  name: Elliott MA
+- authtype: Author
+  name: Fadnavis S
+- authtype: Author
+  name: Fair DA
+- authtype: Author
+  name: Foran W
+- authtype: Author
+  name: Fotiadis P
+- authtype: Author
+  name: Garyfallidis E
+- authtype: Author
+  name: Giesbrecht B
+- authtype: Author
+  name: Gur RC
+- authtype: Author
+  name: Gur RE
+- authtype: Author
+  name: Kelz M
+- authtype: Author
+  name: Keshavan A
+- authtype: Author
+  name: Larsen BS
+- authtype: Author
+  name: Luna B
+- authtype: Author
+  name: Mackey AP
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Oathes DJ
+- authtype: Author
+  name: Perrone A
+- authtype: Author
+  name: Pines AR
+- authtype: Author
+  name: Roalf DR
+- authtype: Author
+  name: Richie-Halford A
+- authtype: Author
+  name: Rokem A
+- authtype: Author
+  name: Sydnor VJ
+- authtype: Author
+  name: Tapera TM
+- authtype: Author
+  name: Tooley UA
+- authtype: Author
+  name: Vettel JM
+- authtype: Author
+  name: Yeatman JD
+- authtype: Author
+  name: Grafton ST
+- authtype: Author
+  name: Satterthwaite TD
+epubdate: 2021 Jun 21
+fulljournalname: Nature methods
+issue: '7'
+pages: 775-778
+pmclivedate: 2022/01/01
+printpubdate: 2021 Jul
+pubdate: 2021 Jun 21
+sortdate: 2021/06/21 00:00
+source: Nat Methods
+title: 'QSIPrep: An integrative platform for preprocessing and reconstructing diffusion
+  MRI'
+uid: '8596781'
+volume: '18'

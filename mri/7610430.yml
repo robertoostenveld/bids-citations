@@ -1,0 +1,161 @@
+articleids:
+- idtype: pmid
+  value: '32078795'
+- idtype: doi
+  value: 10.1016/j.neuron.2019.12.023
+- idtype: pmcid
+  value: PMC7610430
+- idtype: MID
+  value: EMS119440
+authors:
+- authtype: CollectiveName
+  name: The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium
+    MilhamMichaelM12PetkovChristopher I.CI3MarguliesDaniel S.DS4SchroederCharles E.CE25BassoMichele
+    A.MA6BelinPascalP7FairDamien A.DA8FoxAndrewA910KastnerSabineS11MarsRogier B.RB1213MessingerAdamA14PoirierCollineC3VanduffelWimW151617Van
+    EssenDavid C.DC18AlvandAshkanA19BeckerYannickY20HamedSuliann BenSB21BennAustinA22BodinClementineC7BoretiusSusannS23CagnaBastienB7CoulonOlivierO7El-GoharySherif
+    HamdySH24EvrardHenryH22526ForkelStephanie J.SJ27FriedrichPatrickP2829Froudist-WalshSeanS30Garza-VillarrealEduardo
+    A.EA31GaoYangY32GozziAlessandroA33GrigisAntoineA34HartigReneeR26HayashTakuyaT35HeuerKatjaK36HowellsHenriettaH37ArdeschDirk
+    JanDJ38JarrayaBéchirB3940JarrettWendyW41JedemaHank P.HP42KaganIgorI23KellyClareC43KennedyHenryH444546KlinkP.
+    ChristiaanPC47KwokSze ChaiSC484950LeechRobertR51LiuXiaojinX5253MadanChristopherC54WasanaMadushankaM55MajkaPiotrP56MallonAnn-MarieAM57MarcheKevinK12MeguerditchianAdrienA2058MenonRavi
+    S.RS59MerchantHugoH31MitchellAnnaA12NenningKarl-HeinzKH60NikolaidisAkiA1Ortiz-RiosMichaelM3PaganiMarcoM33PareekVikasV61PrescottMarkM62ProcykEmmanuelE44RajimehrRezaR63RautuIoana-SabinaIS6465RazAmirA6667RoeAnna
+    WangAW3268Rossi-PoolRománR69RoumazeillesLeaL12SakaiTomokoT70SalletJeromeJ12García-SaldivarPamelaP31SatoChikaC70SawiakStephenS63SchifferMarikeM71SchwiedrzikCaspar
+    M.CM2372SeidlitzJakobJ1463SeinJulienJ7ShenZhi-mingZM73ShmuelAmirA74SilvaAfonso
+    C.AC75SimoneLucianoL37SirmpilatzNikolozN23SliwaJuliaJ76SmallwoodJonathanJ77TasserieJordyJ3940de
+    SchottenMichel ThiebautMT78ToroRobertoR79TrapeauRegisR7UhrigLynnL3940VezoliJulienJ80WangZhengZ4546WellsSaraS81WilliamsBellaB41XuTingT1XuAugix
+    GuohuaAG32YacoubEssaE82ZhanMingM14AiLeiL1AmiezCélineC44BalezeauFabienF3BaxterMark
+    G.MG83BlezerErwin L.A.EL84BrochierThomasT7ChenAihuaA85CroxsonPaula L.PL83DamatacChristienne
+    G.CG86DehaeneStanislasS34EverlingStefanS87FleysherLazarL83FreiwaldWinrichW88GriffithsTimothy
+    D.TD3GuedjCaroleC89Hadj-BouzianeFadilaF89HarelNoamN82HibaBassemB21JungBenjaminB14KooBonhwangB1LalandKevin
+    N.KN90LeopoldDavid A.DA14LindenforsPatrikP9192MeunierMartineM89MokKelvinK74MorrisonJohn
+    H.JH910NacefJenniferJ3NagyJamieJ83PinskMarkM11ReaderSimon M.SM9394RoelfsemaPieter
+    R.PR47RudkoDavid A.DA74RushworthMatthew F.S.MF95RussBrian E.BE14SchmidMichael
+    C.MC3SullivanElinor L.EL6896ThieleAlexanderA3TodorovOrlin S.OS97TsaoDorisD98UngerleiderLeslieL14WilsonCharles
+    R.E.CR44YeFrank Q.FQ14ZarcoWilbertW88ZhouYong-diYD99100* 1Child Mind Institute,
+    101 E 56th St, New York, NY 10022, USA 2Nathan Kline Institute, 140 Old Orangeburg
+    Rd, Orangeburg, NY 10962, USA 3Newcastle University, Newcastle upon Tyne NE1 7RU,
+    UK 4Centre National de la Recherche Scientifique (CNRS), 3, rue Michel-Ange, Paris
+    16, France 5Columbia University, 116th St & Broadway, New York, NY 10027, USA
+    6University of California, Los Angeles, Los Angeles, CA 90095 USA 7Institut de
+    Neurosciences de la Timone, UMR 7289, CNRS and Aix-Marseille University, Faculté
+    de Médecine, 27 Boulevard Jean Moulin, 13005 Marseille, France 8Department of
+    Behavior Neuroscience, Department of Psychiatry, Advanced Imaging Research Center,
+    Oregon Health and Science University, Portland, OR, USA 9California National Primate
+    Research Center, University of California, Davis, Davis, CA 95616 USA 10University
+    of California, Davis, Davis, CA 95616 USA 11Princeton Neuroscience Institute,
+    Princeton University, Princeton, NJ 08540, USA 12Oxford University, Oxford OX1
+    2JD, UK 13Radboud University Nijmegen, Montessorilaan 3, 6525 HR Nijmegen, The
+    Netherlands 14National Institute of Mental Health, Bethesda, MD 20892, USA 15Laboratory
+    for Neuro- and Psychophysiology, Neurosciences Department, KU Leuven Medical School,
+    3000 Leuven, Belgium 16Harvard Medical School, Boston, Massachusetts, 02115, USA
+    17Massachusetts General Hospital, Martinos Ctr. for Biomedical Imaging, Charlestown,
+    Massachusetts 02129, USA 18Washington University in St Louis, 1 Brookings Dr,
+    St. Louis, MO 63130, USA 19University of Auckland, Auckland CBD, Auckland 1010,
+    New Zealand 20Laboratoire de Psychologie Cognitive UMR 7290, Aix-Marseille Univ,
+    CNRS, 13331, Marseille, France 21Institut des Sciences Cognitives Marc Jeannerod,
+    Lyon, France 22Centro Nacional Investigaciones Cardiovascular, Calle de Melchor
+    Fernández Almagro, 3, 28029 Madrid, Spain 23German Primate Center – Leibniz Institute
+    for Primate Research, Kellnerweg 4, 37077 Göttingen, Germany 24Cairo University,
+    Al Orman‘ Giza Governorate 12613, Egypt 25Max Planck Institute for Biological
+    Cybernetics, Tübingen, Germany 26Centre for Integrative Neuroscience, Otfried-Müller-Str.
+    25, 72076 Tübingen, Germany 27King's College London, Institute of Psychiatry Psychology
+    and Neuroscience, Department of Neuroimaging, London UK 28Brain Connectivity and
+    Behaviour Laboratory (BCBLab), Sorbonne Universities, Paris, France 29ICM Institute
+    for Brain and Spinal Cord, Hôpital Pitié Salpêtrière, 47 Boulevard de l'Hôpital,
+    75013 Paris, France 30New York University, New York, NY 10003, USA 31Institute
+    of Neurobiology (INB), National Autonomous University of Mexico (UNAM), Campus
+    Juriquilla, UNAM Boulevard Juriquilla 3001, 76230 Santiago de Querétaro, Qro.,
+    Mexico 32Interdisciplinary Institute of Neuroscience and Technology, School of
+    Medicine, Zhejiang University, Hangzhou 310029, China 33Istituto Italiano di Tecnologia,
+    Corso Bettini 31, 38068, Rovereto, Italy 34Neurospin, Bâtiment 145, Point Courrier
+    156, CEA-Saclay Center, F91191 Gif-sur-Yvette Cedex, France 35RIKEN Center for
+    Biosystems Dynamics Research, 6-7-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo
+    650-0047, Japan 36Max Planck Institute for Human Cognitive and Brain Sciences,
+    Leipzig, Germany 37University of Milan, Humanitas Research Hospital, Via Alessandro
+    Manzoni 56, 20089, Milano MI, Italy 38Vrije Universiteit Amsterdam, De Boelelaan
+    1105, 1081 HV Amsterdam, Netherlands 39Cognitive Neuroimaging Unit, Institut National
+    de la Santé et de la Recherche Médicale U992, Gif-sur-Yvette, France 40Commissariat
+    á l'Énergie Atomique et aux Énergies Alternatives, Direction de la Recherche Fondamentale,
+    NeuroSpin Center, Gif-sur-Yvette, France 41Understanding Animal Research, Abbey
+    House, 74-76 St John Street, London EC1M 4DZ, UK 42IRP-National Institute on Drug
+    Abuse, NIH, Baltimore, MD, USA 43Trinity College Dublin, College Green, Dublin
+    2, Ireland 44University of Lyon, Université Claude Bernard Lyon 1, Inserm, Stem
+    Cell and Brain Research Institute U1208, 69500 Bron, France 45Institute of Neuroscience,
+    Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy
+    of Sciences, Shanghai 200031, China 46Shanghai Center for Brain Science and Brain-Inspired
+    Intelligence Technology, Shanghai 200031, China 47Netherlands Institute for Neuroscience,
+    Meibergdreef 47, 1105 BA Amsterdam-Zuidoost, Netherlands 48Shanghai Key Laboratory
+    of Brain Functional Genomics, Key Laboratory of Brain Functional Genomics Ministry
+    of Education, School of Psychology and Cognitive Science, East China Normal University,
+    Shanghai, China 49Shanghai Key Laboratory of Magnetic Resonance, East China Normal
+    University, Shanghai, China 50NYU-ECNU Institute of Brain and Cognitive Science
+    at NYU Shanghai, Shanghai, China 51King's College London, Strand, London WC2R
+    2LS, UK 52Institute of Neuroscience and Medicine (INM-7, Brain and Behaviour),
+    Research Centre Jülich, Jülich, Germany 53Institute of Systems Neuroscience, Heinrich
+    Heine University Düsseldorf, Düsseldorf, Germany 54University of Nottingham, Nottingham
+    NG7 2RD, UK 55Tianjin Medical University, Tianjin, China 56Laboratory of Neuroinformatics,
+    Nencki Institute of Experimental Biology, Warsaw, Poland 57MRC Harwell Institute,
+    Harwell Campus, Oxfordshire, OX11 0RD, UK 58Station de Primatologie UPS 846, CNRS,
+    13790, Rousset, France 59Western University, 1151 Richmond St, London, ON N6A
+    3K7, Canada 60Medical University of Vienna, Spitalgasse 23, 1090 Wien, Austria
+    61National Neuroimaging Facility, Computational Neuroscience & Neuroimaging, Department,
+    National Brain Research Center, Manesar, Haryana, 122052, India 62National Centre
+    for the Replacement Refinement and Reduction of Animals in Research (NC3Rs) Gibbs
+    Building, 215 Euston Road, London, NW1 2BE, UK 63University of Cambridge, The
+    Old Schools, Trinity Ln, Cambridge CB2 1TN, UK 64Technical University of Munich,
+    Arcisstraße 21, 80333 München, Germany 65University of Regensburg, Universitätsstraße
+    31, 93053 Regensburg, Germany 66Jewish General Hospital, 3755 Chemin de la Côte-Sainte-Catherine,
+    Montréal, QC H3T 1E2, Canada 67McGill University, 845 Sherbrooke St W, Montreal,
+    Quebec H3A 0G4, Canada 68Division of Neuroscience, Oregon National Primate Research
+    Center (ONPRC), Oregon Health & Science University, Beaverton, OR 97006, USA 69Instituto
+    de Fisiología Celular–Neurociencias, Universidad Nacional Autónoma de México,
+    04510 Mexico City, Mexico 70National Institute of Radiological Sciences, 4 Chome-9-1
+    Anagawa, Inage Ward, Chiba, 263-8555, Japan 71Nature Human Behaviour, The Campus,
+    4 Crinan Street, London N1 9XW, UK 72European Neuroscience Institute, a Joint
+    Initiative of the of the University Medical Center Göttingen and the Max Planck
+    Society, Grisebachstraße 5, 37077 Göttingen, Germany 73Chinese Academy of Sciences,
+    Neuroscience Institute, 320 Yueyang Road, Shanghai, 200031 74Montreal Neurological
+    Institute, McGill University, 3801 University St., Montreal, QC H3A 2B4, Canada
+    75University of Pittsburgh, Department of Neurobiology, 3501 Fifth Avenue, 6065
+    BST3, Pittsburgh, PA, 15261 USA 76Institut du Cerveau et de la Moelle épinière,
+    CNRS UMR7225, Sorbonne Université UMRS1127, Inserm U1127, Paris, France 77University
+    of York, Heslington, York YO10 5DD, UK 78Groupe d’Imagerie Neurofonctionnelle,
+    Institut des Maladies Neurodégénératives-UMR 5293, CNRS, CEA University of Bordeaux,
+    Bordeaux, France 79Institut Pasteur, 25-28 Rue du Dr Roux, 75015 Paris, France
+    80Ernst Strüngmann Institute, Deutschordenstraße 46, 60528 Frankfurt am Main,
+    Germany 81Centre for Macaques (CFM), MRC Harwell Institute, Porton Down, Salisbury,
+    SP4 0JQ 82Center for Magnetic Resonance Research, University of Minnesota Medical
+    School, Minneapolis, MN 55455, USA 83Department of Neuroscience, Icahn School
+    of Medicine at Mount Sinai, New York, NY 10029, USA 84Biomedical MR Imaging and
+    Spectroscopy Group, Center for Image Sciences, University Medical Center Utrecht,
+    Utrecht, The Netherlands 85Key Laboratory of Brain Functional Genomics (Ministry
+    of Education & Science and Technology Commission of Shanghai Municipality), School
+    of Life Sciences, East China Normal University, Shanghai 200062, China 86Donders
+    Institute for Brain, Cognition and Behavior, Radboud University Nijmegen, 6525
+    EN Nijmegen, Netherlands 87Centre for Functional and Metabolic Mapping, The University
+    of Western Ontario, London, ON N6A 3K7, Canada 88Laboratory of Neural Systems,
+    The Rockefeller University, New York, NY, USA 89Lyon Neuroscience Research Center,
+    ImpAct Team, INSERM U1028, CNRS UMR5292, Université Lyon 1, Bron, France 90Centre
+    for Social Learning and Cognitive Evolution, School of Biology, University of
+    St. Andrews, St. Andrews, UK 91Institute for Future Studies, Stockholm, Sweden
+    92Centre for Cultural Evolution & Department of Zoology, Stockholm University,
+    Stockholm, Sweden 93Department of Biology and Helmholtz Institute, Utrecht University,
+    3584 CH Utrecht, The Netherlands 94Department of Biology, McGill University, Montreal,
+    QC H3A 1BA, Canada 95Wellcome Centre for Integrative Neuroimaging, University
+    of Oxford, Oxford OX1 3AQ, UK 96Department of Human Physiology, University of
+    Oregon, Eugene, OR, USA 97School of Biological Sciences, The University of Queensland,
+    St. Lucia, Queensland 4072, Australia 98Department of Computation and Neural Systems,
+    California Institute of Technology, Pasadena, CA 91125, USA 99Krieger Mind/Brain
+    Institute, Department of Neurosurgery, Johns Hopkins University, Baltimore, MD
+    21287, USA 100School of Psychology, Shenzhen University, Shenzhen, China
+epubdate: ''
+fulljournalname: Neuron
+issue: '4'
+pages: 600-603
+pmclivedate: 2021/03/25
+printpubdate: 2020 Feb 19
+pubdate: 2020 Feb 19
+sortdate: 2020/02/19 00:00
+source: Neuron
+title: Accelerating the Evolution of Nonhuman Primate Neuroimaging
+uid: '7610430'
+volume: '105'

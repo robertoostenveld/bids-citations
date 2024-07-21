@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '35061216'
+- idtype: doi
+  value: 10.1007/s12021-021-09557-0
+- idtype: pmcid
+  value: PMC9300762
+authors:
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Kennedy DN
+- authtype: Author
+  name: Sommer FT
+- authtype: Author
+  name: Ascoli GA
+- authtype: Author
+  name: Van Essen DC
+- authtype: Author
+  name: Ferguson AR
+- authtype: Author
+  name: Grethe JS
+- authtype: Author
+  name: Hawrylycz MJ
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Keator DB
+- authtype: Author
+  name: Athey TL
+- authtype: Author
+  name: Vogelstein JT
+- authtype: Author
+  name: Mayberg HS
+- authtype: Author
+  name: Martone ME
+epubdate: 2022 Jan 21
+fulljournalname: Neuroinformatics
+issue: '2'
+pages: 507-512
+pmclivedate: 2022/10/09
+printpubdate: '2022'
+pubdate: 2022 Jan 21
+sortdate: 2022/01/21 00:00
+source: Neuroinformatics
+title: Is Neuroscience FAIR? A Call for Collaborative Standardisation of Neuroscience
+  Data
+uid: '9300762'
+volume: '20'

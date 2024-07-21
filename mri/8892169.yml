@@ -1,0 +1,50 @@
+articleids:
+- idtype: pmid
+  value: '35245791'
+- idtype: doi
+  value: 10.1016/j.nicl.2022.102972
+- idtype: pmcid
+  value: PMC8892169
+authors:
+- authtype: Author
+  name: De Stefano N
+- authtype: Author
+  name: Battaglini M
+- authtype: Author
+  name: Pareto D
+- authtype: Author
+  name: Cortese R
+- authtype: Author
+  name: Zhang J
+- authtype: Author
+  name: Oesingmann N
+- authtype: Author
+  name: Prados F
+- authtype: Author
+  name: Rocca MA
+- authtype: Author
+  name: Valsasina P
+- authtype: Author
+  name: Vrenken H
+- authtype: Author
+  name: Gandini Wheeler-Kingshott CA
+- authtype: Author
+  name: Filippi M
+- authtype: Author
+  name: Barkhof F
+- authtype: Author
+  name: Rovira À
+- authtype: CollectiveName
+  name: on behalf of the MAGNIMS Study Group
+epubdate: 2022 Feb 25
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '102972'
+pmclivedate: 2022/03/04
+printpubdate: ''
+pubdate: 2022 Feb 25
+sortdate: 2022/02/25 00:00
+source: Neuroimage Clin
+title: MAGNIMS recommendations for harmonization of MRI data in MS multicenter studies
+uid: '8892169'
+volume: '34'

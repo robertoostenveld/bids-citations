@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '32518809'
+- idtype: doi
+  value: 10.1016/j.dib.2020.105699
+- idtype: pmcid
+  value: PMC7270189
+authors:
+- authtype: Author
+  name: Badhwar A
+- authtype: Author
+  name: Collin-Verreault Y
+- authtype: Author
+  name: Lussier D
+- authtype: Author
+  name: Sharmarke H
+- authtype: Author
+  name: Orban P
+- authtype: Author
+  name: Urchs S
+- authtype: Author
+  name: Chouinard I
+- authtype: Author
+  name: Vogel J
+- authtype: Author
+  name: Potvin O
+- authtype: Author
+  name: Duchesne S
+- authtype: Author
+  name: Bellec P
+epubdate: 2020 May 16
+fulljournalname: Data in Brief
+issue: ''
+pages: '105699'
+pmclivedate: 2020/06/08
+printpubdate: ''
+pubdate: 2020 May 16
+sortdate: 2020/05/16 00:00
+source: Data Brief
+title: A dataset of long-term consistency values of resting-state fMRI connectivity
+  maps in a single individual derived at multiple sites and vendors using the Canadian
+  Dementia Imaging Protocol
+uid: '7270189'
+volume: '31'

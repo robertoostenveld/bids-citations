@@ -1,0 +1,65 @@
+articleids:
+- idtype: pmid
+  value: '36658136'
+- idtype: doi
+  value: 10.1038/s41597-023-01930-9
+- idtype: pmcid
+  value: PMC9852581
+authors:
+- authtype: Author
+  name: Palmerini L
+- authtype: Author
+  name: Reggi L
+- authtype: Author
+  name: Bonci T
+- authtype: Author
+  name: Del Din S
+- authtype: Author
+  name: Micó-Amigo ME
+- authtype: Author
+  name: Salis F
+- authtype: Author
+  name: Bertuletti S
+- authtype: Author
+  name: Caruso M
+- authtype: Author
+  name: Cereatti A
+- authtype: Author
+  name: Gazit E
+- authtype: Author
+  name: Paraschiv-Ionescu A
+- authtype: Author
+  name: Soltani A
+- authtype: Author
+  name: Kluge F
+- authtype: Author
+  name: Küderle A
+- authtype: Author
+  name: Ullrich M
+- authtype: Author
+  name: Kirk C
+- authtype: Author
+  name: Hiden H
+- authtype: Author
+  name: D’Ascanio I
+- authtype: Author
+  name: Hansen C
+- authtype: Author
+  name: Rochester L
+- authtype: Author
+  name: Mazzà C
+- authtype: Author
+  name: Chiari L
+epubdate: 2023 Jan 19
+fulljournalname: Scientific Data
+issue: ''
+pages: '38'
+pmclivedate: 2023/01/21
+printpubdate: ''
+pubdate: 2023 Jan 19
+sortdate: 2023/01/19 00:00
+source: Sci Data
+title: 'Mobility recorded by wearable devices and gold standards: the Mobilise-D procedure
+  for data standardization'
+uid: '9852581'
+volume: '10'

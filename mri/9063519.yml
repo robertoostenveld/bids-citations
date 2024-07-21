@@ -1,0 +1,56 @@
+articleids:
+- idtype: pmid
+  value: '35516811'
+- idtype: doi
+  value: 10.3389/fnins.2022.871228
+- idtype: pmcid
+  value: PMC9063519
+authors:
+- authtype: Author
+  name: Bourget MH
+- authtype: Author
+  name: Kamentsky L
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Mazzamuto G
+- authtype: Author
+  name: Lazari A
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Oostenveld R
+- authtype: Author
+  name: Niso G
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Lipp I
+- authtype: Author
+  name: Takerkart S
+- authtype: Author
+  name: Toussaint PJ
+- authtype: Author
+  name: Khan AR
+- authtype: Author
+  name: Nilsonne G
+- authtype: Author
+  name: Castelli FM
+- authtype: CollectiveName
+  name: The BIDS MaintainersAppelhoffStefanSBlairRossREarlEricEFeingoldFranklinFGalassiAnthonyAGauRémiRMarkiewiczChristopher
+    J.CJSaloTaylorT
+- authtype: Author
+  name: Cohen-Adad J
+epubdate: 2022 Apr 19
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '871228'
+pmclivedate: 2022/05/04
+printpubdate: ''
+pubdate: 2022 Apr 19
+sortdate: 2022/04/19 00:00
+source: Front Neurosci
+title: 'Microscopy-BIDS: An Extension to the Brain Imaging Data Structure for Microscopy
+  Data'
+uid: '9063519'
+volume: '16'

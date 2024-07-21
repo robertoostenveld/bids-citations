@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '30186224'
+- idtype: doi
+  value: 10.3389/fneur.2018.00687
+- idtype: pmcid
+  value: PMC6110910
+authors:
+- authtype: Author
+  name: Dhar R
+- authtype: Author
+  name: Chen Y
+- authtype: Author
+  name: An H
+- authtype: Author
+  name: Lee JM
+epubdate: 2018 Aug 21
+fulljournalname: Frontiers in Neurology
+issue: ''
+pages: '687'
+pmclivedate: 2018/09/05
+printpubdate: ''
+pubdate: 2018 Aug 21
+sortdate: 2018/08/21 00:00
+source: Front Neurol
+title: Application of Machine Learning to Automated Analysis of Cerebral Edema in
+  Large Cohorts of Ischemic Stroke Patients
+uid: '6110910'
+volume: '9'

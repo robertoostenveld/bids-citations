@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '38302470'
+- idtype: doi
+  value: 10.1038/s41597-024-02931-y
+- idtype: pmcid
+  value: PMC10834522
+authors:
+- authtype: Author
+  name: Smith DV
+- authtype: Author
+  name: Ludwig RM
+- authtype: Author
+  name: Dennison JB
+- authtype: Author
+  name: Reeck C
+- authtype: Author
+  name: Fareri DS
+epubdate: 2024 Feb 1
+fulljournalname: Scientific Data
+issue: ''
+pages: '158'
+pmclivedate: 2024/02/02
+printpubdate: ''
+pubdate: 2024 Feb 1
+sortdate: 2024/02/01 00:00
+source: Sci Data
+title: An fMRI Dataset on Social Reward Processing and Decision Making in Younger
+  and Older Adults
+uid: '10834522'
+volume: '11'

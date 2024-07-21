@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '36304315'
+- idtype: doi
+  value: 10.3389/fbinf.2022.857577
+- idtype: pmcid
+  value: PMC9580919
+authors:
+- authtype: Author
+  name: Burkhardt J
+- authtype: Author
+  name: Sharma A
+- authtype: Author
+  name: Tan J
+- authtype: Author
+  name: Franke L
+- authtype: Author
+  name: Leburu J
+- authtype: Author
+  name: Jeschke J
+- authtype: Author
+  name: Devore S
+- authtype: Author
+  name: Friedman D
+- authtype: Author
+  name: Chen J
+- authtype: Author
+  name: Haehn D
+epubdate: 2022 Apr 21
+fulljournalname: Frontiers in Bioinformatics
+issue: ''
+pages: '857577'
+pmclivedate: 2022/10/26
+printpubdate: ''
+pubdate: 2022 Apr 21
+sortdate: 2022/04/21 00:00
+source: Front Bioinform
+title: 'N-Tools-Browser: Web-Based Visualization of Electrocorticography Data for
+  Epilepsy Surgery'
+uid: '9580919'
+volume: '2'

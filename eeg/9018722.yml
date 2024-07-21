@@ -1,0 +1,74 @@
+articleids:
+- idtype: pmid
+  value: '35440583'
+- idtype: doi
+  value: 10.1038/s41597-022-01211-x
+- idtype: pmcid
+  value: PMC9018722
+authors:
+- authtype: Author
+  name: Cai H
+- authtype: Author
+  name: Yuan Z
+- authtype: Author
+  name: Gao Y
+- authtype: Author
+  name: Sun S
+- authtype: Author
+  name: Li N
+- authtype: Author
+  name: Tian F
+- authtype: Author
+  name: Xiao H
+- authtype: Author
+  name: Li J
+- authtype: Author
+  name: Yang Z
+- authtype: Author
+  name: Li X
+- authtype: Author
+  name: Zhao Q
+- authtype: Author
+  name: Liu Z
+- authtype: Author
+  name: Yao Z
+- authtype: Author
+  name: Yang M
+- authtype: Author
+  name: Peng H
+- authtype: Author
+  name: Zhu J
+- authtype: Author
+  name: Zhang X
+- authtype: Author
+  name: Gao G
+- authtype: Author
+  name: Zheng F
+- authtype: Author
+  name: Li R
+- authtype: Author
+  name: Guo Z
+- authtype: Author
+  name: Ma R
+- authtype: Author
+  name: Yang J
+- authtype: Author
+  name: Zhang L
+- authtype: Author
+  name: Hu X
+- authtype: Author
+  name: Li Y
+- authtype: Author
+  name: Hu B
+epubdate: 2022 Apr 19
+fulljournalname: Scientific Data
+issue: ''
+pages: '178'
+pmclivedate: 2022/04/28
+printpubdate: ''
+pubdate: 2022 Apr 19
+sortdate: 2022/04/19 00:00
+source: Sci Data
+title: A multi-modal open dataset for mental-disorder analysis
+uid: '9018722'
+volume: '9'

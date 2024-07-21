@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '38538633'
+- idtype: doi
+  value: 10.1038/s41598-024-57572-3
+- idtype: pmcid
+  value: PMC10973431
+authors:
+- authtype: Author
+  name: Rovai A
+- authtype: Author
+  name: Lolli V
+- authtype: Author
+  name: Trotta N
+- authtype: Author
+  name: Goldman S
+- authtype: Author
+  name: De Tiège X
+epubdate: 2024 Mar 27
+fulljournalname: Scientific Reports
+issue: ''
+pages: '7252'
+pmclivedate: 2024/03/28
+printpubdate: ''
+pubdate: 2024 Mar 27
+sortdate: 2024/03/27 00:00
+source: Sci Rep
+title: CVRmap—a complete cerebrovascular reactivity mapping post-processing BIDS toolbox
+uid: '10973431'
+volume: '14'

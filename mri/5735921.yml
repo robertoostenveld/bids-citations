@@ -1,0 +1,155 @@
+articleids:
+- idtype: pmid
+  value: '29257126'
+- idtype: doi
+  value: 10.1038/sdata.2017.181
+- idtype: pmcid
+  value: PMC5735921
+authors:
+- authtype: Author
+  name: Alexander LM
+- authtype: Author
+  name: Escalera J
+- authtype: Author
+  name: Ai L
+- authtype: Author
+  name: Andreotti C
+- authtype: Author
+  name: Febre K
+- authtype: Author
+  name: Mangone A
+- authtype: Author
+  name: Vega-Potler N
+- authtype: Author
+  name: Langer N
+- authtype: Author
+  name: Alexander A
+- authtype: Author
+  name: Kovacs M
+- authtype: Author
+  name: Litke S
+- authtype: Author
+  name: O'Hagan B
+- authtype: Author
+  name: Andersen J
+- authtype: Author
+  name: Bronstein B
+- authtype: Author
+  name: Bui A
+- authtype: Author
+  name: Bushey M
+- authtype: Author
+  name: Butler H
+- authtype: Author
+  name: Castagna V
+- authtype: Author
+  name: Camacho N
+- authtype: Author
+  name: Chan E
+- authtype: Author
+  name: Citera D
+- authtype: Author
+  name: Clucas J
+- authtype: Author
+  name: Cohen S
+- authtype: Author
+  name: Dufek S
+- authtype: Author
+  name: Eaves M
+- authtype: Author
+  name: Fradera B
+- authtype: Author
+  name: Gardner J
+- authtype: Author
+  name: Grant-Villegas N
+- authtype: Author
+  name: Green G
+- authtype: Author
+  name: Gregory C
+- authtype: Author
+  name: Hart E
+- authtype: Author
+  name: Harris S
+- authtype: Author
+  name: Horton M
+- authtype: Author
+  name: Kahn D
+- authtype: Author
+  name: Kabotyanski K
+- authtype: Author
+  name: Karmel B
+- authtype: Author
+  name: Kelly SP
+- authtype: Author
+  name: Kleinman K
+- authtype: Author
+  name: Koo B
+- authtype: Author
+  name: Kramer E
+- authtype: Author
+  name: Lennon E
+- authtype: Author
+  name: Lord C
+- authtype: Author
+  name: Mantello G
+- authtype: Author
+  name: Margolis A
+- authtype: Author
+  name: Merikangas KR
+- authtype: Author
+  name: Milham J
+- authtype: Author
+  name: Minniti G
+- authtype: Author
+  name: Neuhaus R
+- authtype: Author
+  name: Levine A
+- authtype: Author
+  name: Osman Y
+- authtype: Author
+  name: Parra LC
+- authtype: Author
+  name: Pugh KR
+- authtype: Author
+  name: Racanello A
+- authtype: Author
+  name: Restrepo A
+- authtype: Author
+  name: Saltzman T
+- authtype: Author
+  name: Septimus B
+- authtype: Author
+  name: Tobe R
+- authtype: Author
+  name: Waltz R
+- authtype: Author
+  name: Williams A
+- authtype: Author
+  name: Yeo A
+- authtype: Author
+  name: Castellanos FX
+- authtype: Author
+  name: Klein A
+- authtype: Author
+  name: Paus T
+- authtype: Author
+  name: Leventhal BL
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Koplewicz HS
+- authtype: Author
+  name: Milham MP
+epubdate: 2017 Dec 19
+fulljournalname: Scientific Data
+issue: ''
+pages: '170181'
+pmclivedate: 2017/12/21
+printpubdate: ''
+pubdate: 2017 Dec 19
+sortdate: 2017/12/19 00:00
+source: Sci Data
+title: An open resource for transdiagnostic research in pediatric mental health and
+  learning disorders
+uid: '5735921'
+volume: '4'

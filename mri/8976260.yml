@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '35386953'
+- idtype: doi
+  value: 10.1093/schizbullopen/sgac014
+- idtype: pmcid
+  value: PMC8976260
+authors:
+- authtype: Author
+  name: Chan SY
+- authtype: Author
+  name: Nickerson LD
+- authtype: Author
+  name: Pathak R
+- authtype: Author
+  name: Öngür D
+- authtype: Author
+  name: Hall MH
+epubdate: 2022 Jan 27
+fulljournalname: Schizophrenia Bulletin Open
+issue: '1'
+pages: sgac014
+pmclivedate: 2022/04/04
+printpubdate: ''
+pubdate: 2022 Jan 27
+sortdate: 2022/01/27 00:00
+source: Schizophr Bull Open
+title: Impact of Substance Use Disorder on Between-Network Brain Connectivity in Early
+  Psychosis
+uid: '8976260'
+volume: '3'

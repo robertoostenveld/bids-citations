@@ -1,0 +1,416 @@
+articleids:
+- idtype: pmid
+  value: '32483374'
+- idtype: doi
+  value: 10.1038/s41586-020-2314-9
+- idtype: pmcid
+  value: PMC7771346
+- idtype: MID
+  value: NIHMS1649206
+authors:
+- authtype: Author
+  name: Botvinik-Nezer R
+- authtype: Author
+  name: Holzmeister F
+- authtype: Author
+  name: Camerer CF
+- authtype: Author
+  name: Dreber A
+- authtype: Author
+  name: Huber J
+- authtype: Author
+  name: Johannesson M
+- authtype: Author
+  name: Kirchler M
+- authtype: Author
+  name: Iwanir R
+- authtype: Author
+  name: Mumford JA
+- authtype: Author
+  name: Adcock RA
+- authtype: Author
+  name: Avesani P
+- authtype: Author
+  name: Baczkowski BM
+- authtype: Author
+  name: Bajracharya A
+- authtype: Author
+  name: Bakst L
+- authtype: Author
+  name: Ball S
+- authtype: Author
+  name: Barilari M
+- authtype: Author
+  name: Bault N
+- authtype: Author
+  name: Beaton D
+- authtype: Author
+  name: Beitner J
+- authtype: Author
+  name: Benoit RG
+- authtype: Author
+  name: Berkers RM
+- authtype: Author
+  name: Bhanji JP
+- authtype: Author
+  name: Biswal BB
+- authtype: Author
+  name: Bobadilla-Suarez S
+- authtype: Author
+  name: Bortolini T
+- authtype: Author
+  name: Bottenhorn KL
+- authtype: Author
+  name: Bowring A
+- authtype: Author
+  name: Braem S
+- authtype: Author
+  name: Brooks HR
+- authtype: Author
+  name: Brudner EG
+- authtype: Author
+  name: Calderon CB
+- authtype: Author
+  name: Camilleri JA
+- authtype: Author
+  name: Castrellon JJ
+- authtype: Author
+  name: Cecchetti L
+- authtype: Author
+  name: Cieslik EC
+- authtype: Author
+  name: Cole ZJ
+- authtype: Author
+  name: Collignon O
+- authtype: Author
+  name: Cox RW
+- authtype: Author
+  name: Cunningham WA
+- authtype: Author
+  name: Czoschke S
+- authtype: Author
+  name: Dadi K
+- authtype: Author
+  name: Davis CP
+- authtype: Author
+  name: De Luca A
+- authtype: Author
+  name: Delgado MR
+- authtype: Author
+  name: Demetriou L
+- authtype: Author
+  name: Dennison JB
+- authtype: Author
+  name: Di X
+- authtype: Author
+  name: Dickie EW
+- authtype: Author
+  name: Dobryakova E
+- authtype: Author
+  name: Donnat CL
+- authtype: Author
+  name: Dukart J
+- authtype: Author
+  name: Duncan NW
+- authtype: Author
+  name: Durnez J
+- authtype: Author
+  name: Eed A
+- authtype: Author
+  name: Eickhoff SB
+- authtype: Author
+  name: Erhart A
+- authtype: Author
+  name: Fontanesi L
+- authtype: Author
+  name: Fricke GM
+- authtype: Author
+  name: Fu S
+- authtype: Author
+  name: Galván A
+- authtype: Author
+  name: Gau R
+- authtype: Author
+  name: Genon S
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: Glerean E
+- authtype: Author
+  name: Goeman JJ
+- authtype: Author
+  name: Golowin SA
+- authtype: Author
+  name: González-García C
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Grady CL
+- authtype: Author
+  name: Green MA
+- authtype: Author
+  name: Guassi Moreira JF
+- authtype: Author
+  name: Guest O
+- authtype: Author
+  name: Hakimi S
+- authtype: Author
+  name: Hamilton JP
+- authtype: Author
+  name: Hancock R
+- authtype: Author
+  name: Handjaras G
+- authtype: Author
+  name: Harry BB
+- authtype: Author
+  name: Hawco C
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Herman G
+- authtype: Author
+  name: Heunis S
+- authtype: Author
+  name: Hoffstaedter F
+- authtype: Author
+  name: Hogeveen J
+- authtype: Author
+  name: Holmes S
+- authtype: Author
+  name: Hu CP
+- authtype: Author
+  name: Huettel SA
+- authtype: Author
+  name: Hughes ME
+- authtype: Author
+  name: Iacovella V
+- authtype: Author
+  name: Iordan AD
+- authtype: Author
+  name: Isager PM
+- authtype: Author
+  name: Isik AI
+- authtype: Author
+  name: Jahn A
+- authtype: Author
+  name: Johnson MR
+- authtype: Author
+  name: Johnstone T
+- authtype: Author
+  name: Joseph MJ
+- authtype: Author
+  name: Juliano AC
+- authtype: Author
+  name: Kable JW
+- authtype: Author
+  name: Kassinopoulos M
+- authtype: Author
+  name: Koba C
+- authtype: Author
+  name: Kong XZ
+- authtype: Author
+  name: Koscik TR
+- authtype: Author
+  name: Kucukboyaci NE
+- authtype: Author
+  name: Kuhl BA
+- authtype: Author
+  name: Kupek S
+- authtype: Author
+  name: Laird AR
+- authtype: Author
+  name: Lamm C
+- authtype: Author
+  name: Langner R
+- authtype: Author
+  name: Lauharatanahirun N
+- authtype: Author
+  name: Lee H
+- authtype: Author
+  name: Lee S
+- authtype: Author
+  name: Leemans A
+- authtype: Author
+  name: Leo A
+- authtype: Author
+  name: Lesage E
+- authtype: Author
+  name: Li F
+- authtype: Author
+  name: Li MY
+- authtype: Author
+  name: Lim PC
+- authtype: Author
+  name: Lintz EN
+- authtype: Author
+  name: Liphardt SW
+- authtype: Author
+  name: Losecaat Vermeer AB
+- authtype: Author
+  name: Love BC
+- authtype: Author
+  name: Mack ML
+- authtype: Author
+  name: Malpica N
+- authtype: Author
+  name: Marins T
+- authtype: Author
+  name: Maumet C
+- authtype: Author
+  name: McDonald K
+- authtype: Author
+  name: McGuire JT
+- authtype: Author
+  name: Melero H
+- authtype: Author
+  name: Méndez Leal AS
+- authtype: Author
+  name: Meyer B
+- authtype: Author
+  name: Meyer KN
+- authtype: Author
+  name: Mihai G
+- authtype: Author
+  name: Mitsis GD
+- authtype: Author
+  name: Moll J
+- authtype: Author
+  name: Nielson DM
+- authtype: Author
+  name: Nilsonne G
+- authtype: Author
+  name: Notter MP
+- authtype: Author
+  name: Olivetti E
+- authtype: Author
+  name: Onicas AI
+- authtype: Author
+  name: Papale P
+- authtype: Author
+  name: Patil KR
+- authtype: Author
+  name: Peelle JE
+- authtype: Author
+  name: Pérez A
+- authtype: Author
+  name: Pischedda D
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Prystauka Y
+- authtype: Author
+  name: Ray S
+- authtype: Author
+  name: Reuter-Lorenz PA
+- authtype: Author
+  name: Reynolds RC
+- authtype: Author
+  name: Ricciardi E
+- authtype: Author
+  name: Rieck JR
+- authtype: Author
+  name: Rodriguez-Thompson AM
+- authtype: Author
+  name: Romyn A
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Samanez-Larkin GR
+- authtype: Author
+  name: Sanz-Morales E
+- authtype: Author
+  name: Schlichting ML
+- authtype: Author
+  name: Schultz DH
+- authtype: Author
+  name: Shen Q
+- authtype: Author
+  name: Sheridan MA
+- authtype: Author
+  name: Silvers JA
+- authtype: Author
+  name: Skagerlund K
+- authtype: Author
+  name: Smith A
+- authtype: Author
+  name: Smith DV
+- authtype: Author
+  name: Sokol-Hessner P
+- authtype: Author
+  name: Steinkamp SR
+- authtype: Author
+  name: Tashjian SM
+- authtype: Author
+  name: Thirion B
+- authtype: Author
+  name: Thorp JN
+- authtype: Author
+  name: Tinghög G
+- authtype: Author
+  name: Tisdall L
+- authtype: Author
+  name: Tompson SH
+- authtype: Author
+  name: Toro-Serey C
+- authtype: Author
+  name: Tresols JJ
+- authtype: Author
+  name: Tozzi L
+- authtype: Author
+  name: Truong V
+- authtype: Author
+  name: Turella L
+- authtype: Author
+  name: van 't Veer AE
+- authtype: Author
+  name: Verguts T
+- authtype: Author
+  name: Vettel JM
+- authtype: Author
+  name: Vijayarajah S
+- authtype: Author
+  name: Vo K
+- authtype: Author
+  name: Wall MB
+- authtype: Author
+  name: Weeda WD
+- authtype: Author
+  name: Weis S
+- authtype: Author
+  name: White DJ
+- authtype: Author
+  name: Wisniewski D
+- authtype: Author
+  name: Xifra-Porxas A
+- authtype: Author
+  name: Yearling EA
+- authtype: Author
+  name: Yoon S
+- authtype: Author
+  name: Yuan R
+- authtype: Author
+  name: Yuen KS
+- authtype: Author
+  name: Zhang L
+- authtype: Author
+  name: Zhang X
+- authtype: Author
+  name: Zosky JE
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Schonberg T
+epubdate: 2020 May 20
+fulljournalname: Nature
+issue: '7810'
+pages: 84-88
+pmclivedate: 2020/12/29
+printpubdate: 2020 Jun
+pubdate: 2020 May 20
+sortdate: 2020/05/20 00:00
+source: Nature
+title: Variability in the analysis of a single neuroimaging dataset by many teams
+uid: '7771346'
+volume: '582'

@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '31747608'
+- idtype: doi
+  value: 10.1016/j.celrep.2019.10.067
+- idtype: pmcid
+  value: PMC6914265
+- idtype: MID
+  value: NIHMS1544231
+authors:
+- authtype: Author
+  name: Kliemann D
+- authtype: Author
+  name: Adolphs R
+- authtype: Author
+  name: Tyszka JM
+- authtype: Author
+  name: Fischl B
+- authtype: Author
+  name: Yeo BT
+- authtype: Author
+  name: Nair R
+- authtype: Author
+  name: Dubois J
+- authtype: Author
+  name: Paul LK
+epubdate: ''
+fulljournalname: Cell reports
+issue: '8'
+pages: 2398-2407.e4
+pmclivedate: 2019/12/16
+printpubdate: 2019 Nov 19
+pubdate: 2019 Nov 19
+sortdate: 2019/11/19 00:00
+source: Cell Rep
+title: Intrinsic Functional Connectivity of the Brain in Adults with a Single Cerebral
+  Hemisphere
+uid: '6914265'
+volume: '29'

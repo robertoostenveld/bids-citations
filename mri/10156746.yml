@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '36869233'
+- idtype: doi
+  value: 10.1038/s41386-023-01528-0
+- idtype: pmcid
+  value: PMC10156746
+authors:
+- authtype: Author
+  name: Ghahremani DG
+- authtype: Author
+  name: Pochon JB
+- authtype: Author
+  name: Diaz MP
+- authtype: Author
+  name: Tyndale RF
+- authtype: Author
+  name: Dean AC
+- authtype: Author
+  name: London ED
+epubdate: 2023 Mar 3
+fulljournalname: Neuropsychopharmacology
+issue: '6'
+pages: 936-945
+pmclivedate: 2023/05/05
+printpubdate: 2023 May
+pubdate: 2023 Mar 3
+sortdate: 2023/03/03 00:00
+source: Neuropsychopharmacology
+title: 'Nicotine dependence and insula subregions: functional connectivity and cue-induced
+  activation'
+uid: '10156746'
+volume: '48'

@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '31702552'
+- idtype: doi
+  value: 10.7554/eLife.47035
+- idtype: pmcid
+  value: PMC6839904
+authors:
+- authtype: Author
+  name: Hermes D
+- authtype: Author
+  name: Petridou N
+- authtype: Author
+  name: Kay KN
+- authtype: Author
+  name: Winawer J
+epubdate: 2019 Nov 8
+fulljournalname: eLife
+issue: ''
+pages: e47035
+pmclivedate: 2019/11/12
+printpubdate: ''
+pubdate: 2019 Nov 8
+sortdate: 2019/11/08 00:00
+source: eLife
+title: An image-computable model for the stimulus selectivity of gamma oscillations
+uid: '6839904'
+volume: '8'

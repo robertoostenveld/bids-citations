@@ -1,0 +1,159 @@
+articleids:
+- idtype: pmid
+  value: '37428210'
+- idtype: doi
+  value: 10.1007/s00418-023-02209-1
+- idtype: pmcid
+  value: PMC10492740
+authors:
+- authtype: Author
+  name: Moore J
+- authtype: Author
+  name: Basurto-Lozada D
+- authtype: Author
+  name: Besson S
+- authtype: Author
+  name: Bogovic J
+- authtype: Author
+  name: Bragantini J
+- authtype: Author
+  name: Brown EM
+- authtype: Author
+  name: Burel JM
+- authtype: Author
+  name: Casas Moreno X
+- authtype: Author
+  name: de Medeiros G
+- authtype: Author
+  name: Diel EE
+- authtype: Author
+  name: Gault D
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Gold I
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Hartley M
+- authtype: Author
+  name: Horsfall D
+- authtype: Author
+  name: Keller MS
+- authtype: Author
+  name: Kittisopikul M
+- authtype: Author
+  name: Kovacs G
+- authtype: Author
+  name: Küpcü Yoldaş A
+- authtype: Author
+  name: Kyoda K
+- authtype: Author
+  name: le Tournoulx de la Villegeorges A
+- authtype: Author
+  name: Li T
+- authtype: Author
+  name: Liberali P
+- authtype: Author
+  name: Lindner D
+- authtype: Author
+  name: Linkert M
+- authtype: Author
+  name: Lüthi J
+- authtype: Author
+  name: Maitin-Shepard J
+- authtype: Author
+  name: Manz T
+- authtype: Author
+  name: Marconato L
+- authtype: Author
+  name: McCormick M
+- authtype: Author
+  name: Lange M
+- authtype: Author
+  name: Mohamed K
+- authtype: Author
+  name: Moore W
+- authtype: Author
+  name: Norlin N
+- authtype: Author
+  name: Ouyang W
+- authtype: Author
+  name: Özdemir B
+- authtype: Author
+  name: Palla G
+- authtype: Author
+  name: Pape C
+- authtype: Author
+  name: Pelkmans L
+- authtype: Author
+  name: Pietzsch T
+- authtype: Author
+  name: Preibisch S
+- authtype: Author
+  name: Prete M
+- authtype: Author
+  name: Rzepka N
+- authtype: Author
+  name: Samee S
+- authtype: Author
+  name: Schaub N
+- authtype: Author
+  name: Sidky H
+- authtype: Author
+  name: Solak AC
+- authtype: Author
+  name: Stirling DR
+- authtype: Author
+  name: Striebel J
+- authtype: Author
+  name: Tischer C
+- authtype: Author
+  name: Toloudis D
+- authtype: Author
+  name: Virshup I
+- authtype: Author
+  name: Walczysko P
+- authtype: Author
+  name: Watson AM
+- authtype: Author
+  name: Weisbart E
+- authtype: Author
+  name: Wong F
+- authtype: Author
+  name: Yamauchi KA
+- authtype: Author
+  name: Bayraktar O
+- authtype: Author
+  name: Cimini BA
+- authtype: Author
+  name: Gehlenborg N
+- authtype: Author
+  name: Haniffa M
+- authtype: Author
+  name: Hotaling N
+- authtype: Author
+  name: Onami S
+- authtype: Author
+  name: Royer LA
+- authtype: Author
+  name: Saalfeld S
+- authtype: Author
+  name: Stegle O
+- authtype: Author
+  name: Theis FJ
+- authtype: Author
+  name: Swedlow JR
+epubdate: 2023 Jul 10
+fulljournalname: Histochemistry and Cell Biology
+issue: '3'
+pages: 223-251
+pmclivedate: 2023/09/11
+printpubdate: '2023'
+pubdate: 2023 Jul 10
+sortdate: 2023/07/10 00:00
+source: Histochem Cell Biol
+title: 'OME-Zarr: a cloud-optimized bioimaging file format with international community
+  support'
+uid: '10492740'
+volume: '160'

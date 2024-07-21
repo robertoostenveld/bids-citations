@@ -1,0 +1,82 @@
+articleids:
+- idtype: pmid
+  value: '36969588'
+- idtype: doi
+  value: 10.3389/fphys.2023.1104838
+- idtype: pmcid
+  value: PMC10036853
+authors:
+- authtype: Author
+  name: Kumar H
+- authtype: Author
+  name: Green R
+- authtype: Author
+  name: Cornfeld DM
+- authtype: Author
+  name: Condron P
+- authtype: Author
+  name: Emsden T
+- authtype: Author
+  name: Elsayed A
+- authtype: Author
+  name: Zhao D
+- authtype: Author
+  name: Gilbert K
+- authtype: Author
+  name: Nash MP
+- authtype: Author
+  name: Clark AR
+- authtype: Author
+  name: Tawhai MH
+- authtype: Author
+  name: Burrowes K
+- authtype: Author
+  name: Murphy R
+- authtype: Author
+  name: Tayebi M
+- authtype: Author
+  name: McGeown J
+- authtype: Author
+  name: Kwon E
+- authtype: Author
+  name: Shim V
+- authtype: Author
+  name: Wang A
+- authtype: Author
+  name: Choisne J
+- authtype: Author
+  name: Carman L
+- authtype: Author
+  name: Besier T
+- authtype: Author
+  name: Handsfield G
+- authtype: Author
+  name: Babarenda Gamage TP
+- authtype: Author
+  name: Shen J
+- authtype: Author
+  name: Maso Talou G
+- authtype: Author
+  name: Safaei S
+- authtype: Author
+  name: Maller JJ
+- authtype: Author
+  name: Taylor D
+- authtype: Author
+  name: Potter L
+- authtype: Author
+  name: Holdsworth SJ
+- authtype: Author
+  name: Wilson GA
+epubdate: 2023 Mar 10
+fulljournalname: Frontiers in Physiology
+issue: ''
+pages: '1104838'
+pmclivedate: 2023/03/25
+printpubdate: ''
+pubdate: 2023 Mar 10
+sortdate: 2023/03/10 00:00
+source: Front Physiol
+title: Roadmap for an imaging and modelling paediatric study in rural NZ
+uid: '10036853'
+volume: '14'

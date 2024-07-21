@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '38298801'
+- idtype: doi
+  value: 10.1016/j.bpsgos.2023.05.007
+- idtype: pmcid
+  value: PMC10829678
+authors:
+- authtype: Author
+  name: Odriozola P
+- authtype: Author
+  name: Kribakaran S
+- authtype: Author
+  name: Cohodes EM
+- authtype: Author
+  name: Zacharek SJ
+- authtype: Author
+  name: McCauley S
+- authtype: Author
+  name: Haberman JT
+- authtype: Author
+  name: Quintela LA
+- authtype: Author
+  name: Hernandez C
+- authtype: Author
+  name: Spencer H
+- authtype: Author
+  name: Pruessner L
+- authtype: Author
+  name: Caballero C
+- authtype: Author
+  name: Gee DG
+epubdate: 2023 Jun 8
+fulljournalname: Biological Psychiatry Global Open Science
+issue: '1'
+pages: 155-164
+pmclivedate: 2024/01/31
+printpubdate: ''
+pubdate: 2023 Jun 8
+sortdate: 2023/06/08 00:00
+source: Biol Psychiatry Glob Open Sci
+title: Hippocampal Involvement in Safety Signal Learning Varies With Anxiety Among
+  Healthy Adults
+uid: '10829678'
+volume: '4'

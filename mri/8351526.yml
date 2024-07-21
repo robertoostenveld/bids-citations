@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '33684602'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.117914
+- idtype: pmcid
+  value: PMC8351526
+- idtype: MID
+  value: NIHMS1728155
+authors:
+- authtype: Author
+  name: Moia S
+- authtype: Author
+  name: Termenon M
+- authtype: Author
+  name: Uruñuela E
+- authtype: Author
+  name: Chen G
+- authtype: Author
+  name: Stickland RC
+- authtype: Author
+  name: Bright MG
+- authtype: Author
+  name: Caballero-Gaudes C
+epubdate: 2021 Mar 6
+fulljournalname: NeuroImage
+issue: ''
+pages: '117914'
+pmclivedate: 2021/08/09
+printpubdate: 2021 Jun
+pubdate: 2021 Mar 6
+sortdate: 2021/03/06 00:00
+source: Neuroimage
+title: ICA-based denoising strategies in breath-hold induced cerebrovascular reactivity
+  mapping with multi echo BOLD fMRI
+uid: '8351526'
+volume: '233'

@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35126084'
+- idtype: doi
+  value: 10.3389/fnagi.2021.720636
+- idtype: pmcid
+  value: PMC8812526
+authors:
+- authtype: Author
+  name: Wulms N
+- authtype: Author
+  name: Redmann L
+- authtype: Author
+  name: Herpertz C
+- authtype: Author
+  name: Bonberg N
+- authtype: Author
+  name: Berger K
+- authtype: Author
+  name: Sundermann B
+- authtype: Author
+  name: Minnerup H
+epubdate: 2022 Jan 11
+fulljournalname: Frontiers in Aging Neuroscience
+issue: ''
+pages: '720636'
+pmclivedate: 2022/02/04
+printpubdate: ''
+pubdate: 2022 Jan 11
+sortdate: 2022/01/11 00:00
+source: Front Aging Neurosci
+title: The Effect of Training Sample Size on the Prediction of White Matter Hyperintensity
+  Volume in a Healthy Population Using BIANCA
+uid: '8812526'
+volume: '13'

@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '28053326'
+- idtype: doi
+  value: 10.1038/nrn.2016.167
+- idtype: pmcid
+  value: PMC6910649
+- idtype: MID
+  value: NIHMS1060257
+authors:
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Baker CI
+- authtype: Author
+  name: Durnez J
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Matthews PM
+- authtype: Author
+  name: Munafò MR
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Vul E
+- authtype: Author
+  name: Yarkoni T
+epubdate: 2017 Jan 5
+fulljournalname: Nature reviews. Neuroscience
+issue: '2'
+pages: 115-126
+pmclivedate: 2019/12/13
+printpubdate: 2017 Feb
+pubdate: 2017 Jan 5
+sortdate: 2017/01/05 00:00
+source: Nat Rev Neurosci
+title: 'Scanning the horizon: towards transparent and reproducible neuroimaging research'
+uid: '6910649'
+volume: '18'

@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '38811613'
+- idtype: doi
+  value: 10.1038/s41597-024-03398-7
+- idtype: pmcid
+  value: PMC11137001
+authors:
+- authtype: Author
+  name: Mou X
+- authtype: Author
+  name: He C
+- authtype: Author
+  name: Tan L
+- authtype: Author
+  name: Yu J
+- authtype: Author
+  name: Liang H
+- authtype: Author
+  name: Zhang J
+- authtype: Author
+  name: Tian Y
+- authtype: Author
+  name: Yang YF
+- authtype: Author
+  name: Xu T
+- authtype: Author
+  name: Wang Q
+- authtype: Author
+  name: Cao M
+- authtype: Author
+  name: Chen Z
+- authtype: Author
+  name: Hu CP
+- authtype: Author
+  name: Wang X
+- authtype: Author
+  name: Liu Q
+- authtype: Author
+  name: Wu H
+epubdate: 2024 May 29
+fulljournalname: Scientific Data
+issue: ''
+pages: '550'
+pmclivedate: 2024/05/30
+printpubdate: ''
+pubdate: 2024 May 29
+sortdate: 2024/05/29 00:00
+source: Sci Data
+title: 'ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment
+  and Neural Decoding'
+uid: '11137001'
+volume: '11'

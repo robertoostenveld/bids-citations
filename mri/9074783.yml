@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '35527740'
+- idtype: doi
+  value: 10.3389/fnagi.2022.872867
+- idtype: pmcid
+  value: PMC9074783
+authors:
+- authtype: Author
+  name: Demro C
+- authtype: Author
+  name: Shen C
+- authtype: Author
+  name: Hendrickson TJ
+- authtype: Author
+  name: Arend JL
+- authtype: Author
+  name: Disner SG
+- authtype: Author
+  name: Sponheim SR
+epubdate: 2022 Apr 22
+fulljournalname: Frontiers in Aging Neuroscience
+issue: ''
+pages: '872867'
+pmclivedate: 2022/05/07
+printpubdate: ''
+pubdate: 2022 Apr 22
+sortdate: 2022/04/22 00:00
+source: Front Aging Neurosci
+title: 'Advanced Brain-Age in Psychotic Psychopathology: Evidence for Transdiagnostic
+  Neurodevelopmental Origins'
+uid: '9074783'
+volume: '14'

@@ -1,0 +1,55 @@
+articleids:
+- idtype: pmid
+  value: '37720825'
+- idtype: doi
+  value: 10.3389/fninf.2023.1215261
+- idtype: pmcid
+  value: PMC10500076
+authors:
+- authtype: Author
+  name: Wang L
+- authtype: Author
+  name: Ambite JL
+- authtype: Author
+  name: Appaji A
+- authtype: Author
+  name: Bijsterbosch J
+- authtype: Author
+  name: Dockes J
+- authtype: Author
+  name: Herrick R
+- authtype: Author
+  name: Kogan A
+- authtype: Author
+  name: Lander H
+- authtype: Author
+  name: Marcus D
+- authtype: Author
+  name: Moore SM
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Rajasekar A
+- authtype: Author
+  name: Sahoo SS
+- authtype: Author
+  name: Turner MD
+- authtype: Author
+  name: Wang X
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Turner JA
+epubdate: 2023 Aug 31
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1215261'
+pmclivedate: 2023/09/15
+printpubdate: ''
+pubdate: 2023 Aug 31
+sortdate: 2023/08/31 00:00
+source: Front Neuroinform
+title: 'NeuroBridge: a prototype platform for discovery of the long-tail neuroimaging
+  data'
+uid: '10500076'
+volume: '17'

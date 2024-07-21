@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '36412515'
+- idtype: doi
+  value: 10.1093/brain/awac373
+- idtype: pmcid
+  value: PMC10200283
+authors:
+- authtype: Author
+  name: Sinha N
+epubdate: 2022 Nov 21
+fulljournalname: Brain
+issue: '11'
+pages: 3735-3737
+pmclivedate: 2023/05/22
+printpubdate: ''
+pubdate: 2022 Nov 21
+sortdate: 2022/11/21 00:00
+source: Brain
+title: 'Localizing epileptogenic tissues in epilepsy: are we losing (the) focus?'
+uid: '10200283'
+volume: '145'

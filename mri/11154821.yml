@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '38841732'
+- idtype: doi
+  value: 10.1002/brb3.3554
+- idtype: pmcid
+  value: PMC11154821
+authors:
+- authtype: Author
+  name: Warren SL
+- authtype: Author
+  name: Khan DM
+- authtype: Author
+  name: Moustafa AA
+epubdate: 2024 Jun 6
+fulljournalname: Brain and Behavior
+issue: '6'
+pages: e3554
+pmclivedate: 2024/06/06
+printpubdate: ''
+pubdate: 2024 Jun 6
+sortdate: 2024/06/06 00:00
+source: Brain Behav
+title: 'Assistive tools for classifying neurological disorders using fMRI and deep
+  learning: A guide and example'
+uid: '11154821'
+volume: '14'

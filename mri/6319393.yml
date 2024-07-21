@@ -1,0 +1,54 @@
+articleids:
+- idtype: pmid
+  value: '30532080'
+- idtype: doi
+  value: 10.1038/s41592-018-0235-4
+- idtype: pmcid
+  value: PMC6319393
+- idtype: MID
+  value: NIHMS1511125
+authors:
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Blair RW
+- authtype: Author
+  name: Moodie CA
+- authtype: Author
+  name: Isik AI
+- authtype: Author
+  name: Erramuzpe A
+- authtype: Author
+  name: Kent JD
+- authtype: Author
+  name: Goncalves M
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Snyder M
+- authtype: Author
+  name: Oya H
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Wright J
+- authtype: Author
+  name: Durnez J
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Gorgolewski KJ
+epubdate: 2018 Dec 10
+fulljournalname: Nature methods
+issue: '1'
+pages: 111-116
+pmclivedate: 2019/06/10
+printpubdate: 2019 Jan
+pubdate: 2018 Dec 10
+sortdate: 2018/12/10 00:00
+source: Nat Methods
+title: 'FMRIPrep: a robust preprocessing pipeline for functional MRI'
+uid: '6319393'
+volume: '16'

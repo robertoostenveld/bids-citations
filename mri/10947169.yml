@@ -1,0 +1,40 @@
+articleids:
+- idtype: pmid
+  value: '37418036'
+- idtype: doi
+  value: 10.1007/s10916-023-01969-6
+- idtype: pmcid
+  value: PMC10947169
+- idtype: MID
+  value: NIHMS1967183
+authors:
+- authtype: Author
+  name: Zöllner HJ
+- authtype: Author
+  name: Davies-Jenkins CW
+- authtype: Author
+  name: Lee EG
+- authtype: Author
+  name: Hendrickson TJ
+- authtype: Author
+  name: Clarke WT
+- authtype: Author
+  name: Edden RA
+- authtype: Author
+  name: Wisnowski JL
+- authtype: Author
+  name: Gudmundson AT
+- authtype: Author
+  name: Oeltzschner G
+epubdate: 2023 Jul 7
+fulljournalname: Journal of medical systems
+issue: '1'
+pages: '69'
+pmclivedate: 2024/07/07
+printpubdate: ''
+pubdate: 2023 Jul 7
+sortdate: 2023/07/07 00:00
+source: J Med Syst
+title: Continuous automated analysis workflow for MRS studies
+uid: '10947169'
+volume: '47'

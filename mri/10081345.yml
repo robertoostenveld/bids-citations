@@ -1,0 +1,73 @@
+articleids:
+- idtype: pmid
+  value: '37033463'
+- idtype: pmcid
+  value: PMC10081345
+authors:
+- authtype: Author
+  name: Clunie DA
+- authtype: Author
+  name: Flanders A
+- authtype: Author
+  name: Taylor A
+- authtype: Author
+  name: Erickson B
+- authtype: Author
+  name: Bialecki B
+- authtype: Author
+  name: Brundage D
+- authtype: Author
+  name: Gutman D
+- authtype: Author
+  name: Prior F
+- authtype: Author
+  name: Seibert JA
+- authtype: Author
+  name: Perry J
+- authtype: Author
+  name: Gichoya JW
+- authtype: Author
+  name: Kirby J
+- authtype: Author
+  name: Andriole K
+- authtype: Author
+  name: Geneslaw L
+- authtype: Author
+  name: Moore S
+- authtype: Author
+  name: Fitzgerald T
+- authtype: Author
+  name: Tellis W
+- authtype: Author
+  name: Xiao Y
+- authtype: Author
+  name: Farahani K
+- authtype: Author
+  name: Luo J
+- authtype: Author
+  name: Rosenthal A
+- authtype: Author
+  name: Kandarpa K
+- authtype: Author
+  name: Rosen R
+- authtype: Author
+  name: Goetz K
+- authtype: Author
+  name: Babcock D
+- authtype: Author
+  name: Xu B
+- authtype: Author
+  name: Hsiao J
+epubdate: 2023 Apr 1
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2303.10473v2
+pmclivedate: 2023/04/08
+printpubdate: ''
+pubdate: 2023 Apr 1
+sortdate: 2023/04/01 00:00
+source: ArXiv
+title: Report of the Medical Image De-Identification (MIDI) Task Group - Best Practices
+  and Recommendations
+uid: '10081345'
+volume: ''

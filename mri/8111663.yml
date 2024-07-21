@@ -1,0 +1,23 @@
+articleids:
+- idtype: pmid
+  value: '33974213'
+- idtype: doi
+  value: 10.1007/s12021-021-09519-6
+- idtype: pmcid
+  value: PMC8111663
+authors:
+- authtype: Author
+  name: Madan CR
+epubdate: 2021 May 11
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 109-137
+pmclivedate: 2021/05/11
+printpubdate: '2022'
+pubdate: 2021 May 11
+sortdate: 2021/05/11 00:00
+source: Neuroinformatics
+title: 'Scan Once, Analyse Many: Using Large Open-Access Neuroimaging Datasets to
+  Understand the Brain'
+uid: '8111663'
+volume: '20'

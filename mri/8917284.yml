@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '35287304'
+- idtype: doi
+  value: 10.1016/j.pacs.2022.100339
+- idtype: pmcid
+  value: PMC8917284
+authors:
+- authtype: Author
+  name: Gröhl J
+- authtype: Author
+  name: Hacker L
+- authtype: Author
+  name: Cox BT
+- authtype: Author
+  name: Dreher KK
+- authtype: Author
+  name: Morscher S
+- authtype: Author
+  name: Rakotondrainibe A
+- authtype: Author
+  name: Varray F
+- authtype: Author
+  name: Yip LC
+- authtype: Author
+  name: Vogt WC
+- authtype: Author
+  name: Bohndiek SE
+- authtype: CollectiveName
+  name: Members of the International Photoacoustic Standardisation Consortium (IPASC)
+epubdate: 2022 Feb 26
+fulljournalname: Photoacoustics
+issue: ''
+pages: '100339'
+pmclivedate: 2022/03/13
+printpubdate: ''
+pubdate: 2022 Feb 26
+sortdate: 2022/02/26 00:00
+source: Photoacoustics
+title: 'The IPASC data format: A consensus data format for photoacoustic imaging'
+uid: '8917284'
+volume: '26'

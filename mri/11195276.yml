@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '38915600'
+- idtype: doi
+  value: 10.1101/2024.06.13.598710
+- idtype: pmcid
+  value: PMC11195276
+authors:
+- authtype: Author
+  name: Fujimoto SH
+- authtype: Author
+  name: Fujimoto A
+- authtype: Author
+  name: Elorette C
+- authtype: Author
+  name: Seltzer A
+- authtype: Author
+  name: Andraka E
+- authtype: Author
+  name: Verma G
+- authtype: Author
+  name: Janssen WG
+- authtype: Author
+  name: Fleysher L
+- authtype: Author
+  name: Folloni D
+- authtype: Author
+  name: Choi KS
+- authtype: Author
+  name: Russ BE
+- authtype: Author
+  name: Mayberg HS
+- authtype: Author
+  name: Rudebeck PH
+epubdate: 2024 Jun 14
+fulljournalname: bioRxiv
+issue: ''
+pages: 2024.06.13.598710
+pmclivedate: 2024/06/25
+printpubdate: ''
+pubdate: 2024 Jun 14
+sortdate: 2024/06/14 00:00
+source: bioRxiv
+title: Deep brain stimulation induces white matter remodeling and functional changes
+  to brain-wide networks
+uid: '11195276'
+volume: ''

@@ -1,0 +1,46 @@
+articleids:
+- idtype: pmid
+  value: '29374138'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0508-17.2018
+- idtype: pmcid
+  value: PMC5815449
+authors:
+- authtype: Author
+  name: Vu MA
+- authtype: Author
+  name: Adalı T
+- authtype: Author
+  name: Ba D
+- authtype: Author
+  name: Buzsáki G
+- authtype: Author
+  name: Carlson D
+- authtype: Author
+  name: Heller K
+- authtype: Author
+  name: Liston C
+- authtype: Author
+  name: Rudin C
+- authtype: Author
+  name: Sohal VS
+- authtype: Author
+  name: Widge AS
+- authtype: Author
+  name: Mayberg HS
+- authtype: Author
+  name: Sapiro G
+- authtype: Author
+  name: Dzirasa K
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '7'
+pages: 1601-1607
+pmclivedate: 2018/08/14
+printpubdate: 2018 Feb 14
+pubdate: 2018 Feb 14
+sortdate: 2018/02/14 00:00
+source: J Neurosci
+title: A Shared Vision for Machine Learning in Neuroscience
+uid: '5815449'
+volume: '38'

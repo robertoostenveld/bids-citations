@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '38326377'
+- idtype: doi
+  value: 10.1038/s41597-024-03013-9
+- idtype: pmcid
+  value: PMC10850093
+authors:
+- authtype: Author
+  name: Wu Y
+- authtype: Author
+  name: Liu X
+- authtype: Author
+  name: Huang Y
+- authtype: Author
+  name: Zhou T
+- authtype: Author
+  name: Zhang F
+epubdate: 2024 Feb 7
+fulljournalname: Scientific Data
+issue: ''
+pages: '177'
+pmclivedate: 2024/02/08
+printpubdate: ''
+pubdate: 2024 Feb 7
+sortdate: 2024/02/07 00:00
+source: Sci Data
+title: An open relaxation-diffusion MRI dataset in neurosurgical studies
+uid: '10850093'
+volume: '11'

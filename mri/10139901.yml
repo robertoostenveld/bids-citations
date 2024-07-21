@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '37062244'
+- idtype: doi
+  value: 10.1016/j.dcn.2023.101244
+- idtype: pmcid
+  value: PMC10139901
+authors:
+- authtype: Author
+  name: Gao P
+- authtype: Author
+  name: Wang YS
+- authtype: Author
+  name: Lu QY
+- authtype: Author
+  name: Rong MJ
+- authtype: Author
+  name: Fan XR
+- authtype: Author
+  name: Holmes AJ
+- authtype: Author
+  name: Dong HM
+- authtype: Author
+  name: Li HF
+- authtype: Author
+  name: Zuo XN
+epubdate: 2023 Apr 13
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101244'
+pmclivedate: 2023/04/29
+printpubdate: ''
+pubdate: 2023 Apr 13
+sortdate: 2023/04/13 00:00
+source: Dev Cogn Neurosci
+title: 'Brief mock-scan training reduces head motion during real scanning for children:
+  A growth curve study'
+uid: '10139901'
+volume: '61'

@@ -1,0 +1,48 @@
+articleids:
+- idtype: pmid
+  value: '37492666'
+- idtype: doi
+  value: 10.3389/fradi.2022.929533
+- idtype: pmcid
+  value: PMC10365107
+authors:
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Dijsselhof MB
+- authtype: Author
+  name: Padrela B
+- authtype: Author
+  name: Pasternak M
+- authtype: Author
+  name: Dolui S
+- authtype: Author
+  name: Jarutyte L
+- authtype: Author
+  name: Pinter N
+- authtype: Author
+  name: Hernandez-Garcia L
+- authtype: Author
+  name: Jahn A
+- authtype: Author
+  name: Kuijer JP
+- authtype: Author
+  name: Barkhof F
+- authtype: Author
+  name: Mutsaerts HJ
+- authtype: Author
+  name: Keil VC
+epubdate: 2022 Jun 14
+fulljournalname: Frontiers in radiology
+issue: ''
+pages: '929533'
+pmclivedate: 2023/07/25
+printpubdate: ''
+pubdate: 2022 Jun 14
+sortdate: 2022/06/14 00:00
+source: Front Radiol
+title: A Beginner's Guide to Arterial Spin Labeling (ASL) Image Processing
+uid: '10365107'
+volume: '2'

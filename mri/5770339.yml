@@ -1,0 +1,63 @@
+articleids:
+- idtype: pmid
+  value: '29079522'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2017.10.034
+- idtype: pmcid
+  value: PMC5770339
+authors:
+- authtype: Author
+  name: Alfaro-Almagro F
+- authtype: Author
+  name: Jenkinson M
+- authtype: Author
+  name: Bangerter NK
+- authtype: Author
+  name: Andersson JL
+- authtype: Author
+  name: Griffanti L
+- authtype: Author
+  name: Douaud G
+- authtype: Author
+  name: Sotiropoulos SN
+- authtype: Author
+  name: Jbabdi S
+- authtype: Author
+  name: Hernandez-Fernandez M
+- authtype: Author
+  name: Vallee E
+- authtype: Author
+  name: Vidaurre D
+- authtype: Author
+  name: Webster M
+- authtype: Author
+  name: McCarthy P
+- authtype: Author
+  name: Rorden C
+- authtype: Author
+  name: Daducci A
+- authtype: Author
+  name: Alexander DC
+- authtype: Author
+  name: Zhang H
+- authtype: Author
+  name: Dragonu I
+- authtype: Author
+  name: Matthews PM
+- authtype: Author
+  name: Miller KL
+- authtype: Author
+  name: Smith SM
+epubdate: ''
+fulljournalname: Neuroimage
+issue: ''
+pages: 400-424
+pmclivedate: 2018/02/01
+printpubdate: 2018 Feb 1
+pubdate: 2018 Feb 1
+sortdate: 2018/02/01 00:00
+source: Neuroimage
+title: Image processing and Quality Control for the first 10,000 brain imaging datasets
+  from UK Biobank
+uid: '5770339'
+volume: '166'

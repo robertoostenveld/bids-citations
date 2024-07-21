@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '32380941'
+- idtype: doi
+  value: 10.1186/s10020-020-00149-3
+- idtype: pmcid
+  value: PMC7203847
+authors:
+- authtype: Author
+  name: van Noordt S
+- authtype: Author
+  name: Desjardins JA
+- authtype: Author
+  name: Huberty S
+- authtype: Author
+  name: Abou-Abbas L
+- authtype: Author
+  name: Webb SJ
+- authtype: Author
+  name: Levin AR
+- authtype: Author
+  name: Segalowitz SJ
+- authtype: Author
+  name: Evans AC
+- authtype: Author
+  name: Elsabbagh M
+epubdate: 2020 May 7
+fulljournalname: Molecular Medicine
+issue: ''
+pages: '40'
+pmclivedate: 2020/05/07
+printpubdate: ''
+pubdate: 2020 May 7
+sortdate: 2020/05/07 00:00
+source: Mol Med
+title: 'EEG-IP: an international infant EEG data integration platform for the study
+  of risk and resilience in autism and related conditions'
+uid: '7203847'
+volume: '26'

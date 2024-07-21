@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '37322080'
+- idtype: doi
+  value: 10.1038/s41597-023-02260-6
+- idtype: pmcid
+  value: PMC10272177
+authors:
+- authtype: Author
+  name: Iwama S
+- authtype: Author
+  name: Morishige M
+- authtype: Author
+  name: Kodama M
+- authtype: Author
+  name: Takahashi Y
+- authtype: Author
+  name: Hirose R
+- authtype: Author
+  name: Ushiba J
+epubdate: 2023 Jun 15
+fulljournalname: Scientific Data
+issue: ''
+pages: '385'
+pmclivedate: 2023/06/17
+printpubdate: ''
+pubdate: 2023 Jun 15
+sortdate: 2023/06/15 00:00
+source: Sci Data
+title: High-density scalp electroencephalogram dataset during sensorimotor rhythm-based
+  brain-computer interfacing
+uid: '10272177'
+volume: '10'

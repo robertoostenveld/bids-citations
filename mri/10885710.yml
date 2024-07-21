@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '38406247'
+- idtype: doi
+  value: 10.1016/j.dib.2024.110197
+- idtype: pmcid
+  value: PMC10885710
+authors:
+- authtype: Author
+  name: Smith DV
+- authtype: Author
+  name: Wyngaarden J
+- authtype: Author
+  name: Sharp CJ
+- authtype: Author
+  name: Sazhin D
+- authtype: Author
+  name: Zaff O
+- authtype: Author
+  name: Fareri D
+- authtype: Author
+  name: Jarcho J
+epubdate: 2024 Feb 15
+fulljournalname: Data in Brief
+issue: ''
+pages: '110197'
+pmclivedate: 2024/02/23
+printpubdate: ''
+pubdate: 2024 Feb 15
+sortdate: 2024/02/15 00:00
+source: Data Brief
+title: An fMRI dataset of social and nonsocial reward processing in young adults
+uid: '10885710'
+volume: '53'

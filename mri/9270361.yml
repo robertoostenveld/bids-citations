@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '35803976'
+- idtype: doi
+  value: 10.1038/s41597-022-01509-w
+- idtype: pmcid
+  value: PMC9270361
+authors:
+- authtype: Author
+  name: Won K
+- authtype: Author
+  name: Kwon M
+- authtype: Author
+  name: Ahn M
+- authtype: Author
+  name: Jun SC
+epubdate: 2022 Jul 8
+fulljournalname: Scientific Data
+issue: ''
+pages: '388'
+pmclivedate: 2022/07/10
+printpubdate: ''
+pubdate: 2022 Jul 8
+sortdate: 2022/07/08 00:00
+source: Sci Data
+title: EEG Dataset for RSVP and P300 Speller Brain-Computer Interfaces
+uid: '9270361'
+volume: '9'

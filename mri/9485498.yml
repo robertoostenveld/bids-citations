@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '35266088'
+- idtype: doi
+  value: 10.1007/s10278-022-00601-2
+- idtype: pmcid
+  value: PMC9485498
+authors:
+- authtype: Author
+  name: Kanakaraj P
+- authtype: Author
+  name: Ramadass K
+- authtype: Author
+  name: Bao S
+- authtype: Author
+  name: Basford M
+- authtype: Author
+  name: Jones LM
+- authtype: Author
+  name: Lee HH
+- authtype: Author
+  name: Xu K
+- authtype: Author
+  name: Schilling KG
+- authtype: Author
+  name: Carr JJ
+- authtype: Author
+  name: Terry JG
+- authtype: Author
+  name: Huo Y
+- authtype: Author
+  name: Sandler KL
+- authtype: Author
+  name: Netwon AT
+- authtype: Author
+  name: Landman BA
+epubdate: 2022 Mar 9
+fulljournalname: Journal of Digital Imaging
+issue: '4'
+pages: 1023-1033
+pmclivedate: 2023/08/01
+printpubdate: 2022 Aug
+pubdate: 2022 Mar 9
+sortdate: 2022/03/09 00:00
+source: J Digit Imaging
+title: Workflow Integration of Research AI Tools into a Hospital Radiology Rapid Prototyping
+  Environment
+uid: '9485498'
+volume: '35'

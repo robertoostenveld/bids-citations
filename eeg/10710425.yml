@@ -1,0 +1,67 @@
+articleids:
+- idtype: pmid
+  value: '38071313'
+- idtype: doi
+  value: 10.1038/s41597-023-02806-8
+- idtype: pmcid
+  value: PMC10710425
+authors:
+- authtype: Author
+  name: Prado P
+- authtype: Author
+  name: Medel V
+- authtype: Author
+  name: Gonzalez-Gomez R
+- authtype: Author
+  name: Sainz-Ballesteros A
+- authtype: Author
+  name: Vidal V
+- authtype: Author
+  name: Santamaría-García H
+- authtype: Author
+  name: Moguilner S
+- authtype: Author
+  name: Mejia J
+- authtype: Author
+  name: Slachevsky A
+- authtype: Author
+  name: Behrens MI
+- authtype: Author
+  name: Aguillon D
+- authtype: Author
+  name: Lopera F
+- authtype: Author
+  name: Parra MA
+- authtype: Author
+  name: Matallana D
+- authtype: Author
+  name: Maito MA
+- authtype: Author
+  name: Garcia AM
+- authtype: Author
+  name: Custodio N
+- authtype: Author
+  name: Funes AÁ
+- authtype: Author
+  name: Piña-Escudero S
+- authtype: Author
+  name: Birba A
+- authtype: Author
+  name: Fittipaldi S
+- authtype: Author
+  name: Legaz A
+- authtype: Author
+  name: Ibañez A
+epubdate: 2023 Dec 9
+fulljournalname: Scientific Data
+issue: ''
+pages: '889'
+pmclivedate: 2023/12/11
+printpubdate: ''
+pubdate: 2023 Dec 9
+sortdate: 2023/12/09 00:00
+source: Sci Data
+title: The BrainLat project, a multimodal neuroimaging dataset of neurodegeneration
+  from underrepresented backgrounds
+uid: '10710425'
+volume: '10'

@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '32151567'
+- idtype: doi
+  value: 10.1016/j.bpsc.2019.12.020
+- idtype: pmcid
+  value: PMC7150637
+- idtype: MID
+  value: NIHMS1549700
+authors:
+- authtype: Author
+  name: Aronson Fischell S
+- authtype: Author
+  name: Ross TJ
+- authtype: Author
+  name: Deng ZD
+- authtype: Author
+  name: Salmeron BJ
+- authtype: Author
+  name: Stein EA
+epubdate: 2020 Jan 13
+fulljournalname: Biological psychiatry. Cognitive neuroscience and neuroimaging
+issue: '4'
+pages: 448-460
+pmclivedate: 2021/04/01
+printpubdate: 2020 Apr
+pubdate: 2020 Jan 13
+sortdate: 2020/01/13 00:00
+source: Biol Psychiatry Cogn Neurosci Neuroimaging
+title: Transcranial Direct Current Stimulation Applied to the Dorsolateral and Ventromedial
+  Prefrontal Cortices in Smokers Modifies Cognitive Circuits Implicated in the Nicotine
+  Withdrawal Syndrome
+uid: '7150637'
+volume: '5'

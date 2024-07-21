@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '33893904'
+- idtype: doi
+  value: 10.1007/s11065-021-09496-2
+- idtype: pmcid
+  value: PMC9090677
+authors:
+- authtype: Author
+  name: Backhausen LL
+- authtype: Author
+  name: Herting MM
+- authtype: Author
+  name: Tamnes CK
+- authtype: Author
+  name: Vetter NC
+epubdate: 2021 Apr 24
+fulljournalname: Neuropsychology Review
+issue: '2'
+pages: 400-418
+pmclivedate: 2022/05/12
+printpubdate: '2022'
+pubdate: 2021 Apr 24
+sortdate: 2021/04/24 00:00
+source: Neuropsychol Rev
+title: Best Practices in Structural Neuroimaging of Neurodevelopmental Disorders
+uid: '9090677'
+volume: '32'

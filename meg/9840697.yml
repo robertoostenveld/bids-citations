@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '36521374'
+- idtype: doi
+  value: 10.1016/j.cortex.2022.10.007
+- idtype: pmcid
+  value: PMC9840697
+- idtype: MID
+  value: NIHMS1860467
+authors:
+- authtype: Author
+  name: Daniel PL
+- authtype: Author
+  name: Bonaiuto JJ
+- authtype: Author
+  name: Bestmann S
+- authtype: Author
+  name: Aron AR
+- authtype: Author
+  name: Little S
+epubdate: 2022 Nov 26
+fulljournalname: Cortex; a journal devoted to the study of the nervous system and
+  behavior
+issue: ''
+pages: 127-136
+pmclivedate: 2023/01/15
+printpubdate: 2023 Jan
+pubdate: 2022 Nov 26
+sortdate: 2022/11/26 00:00
+source: Cortex
+title: High precision magnetoencephalography reveals increased right-inferior frontal
+  gyrus beta power during response conflict
+uid: '9840697'
+volume: '158'

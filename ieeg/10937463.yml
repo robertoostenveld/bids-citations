@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '38486923'
+- idtype: doi
+  value: 10.3389/fninf.2024.1345425
+- idtype: pmcid
+  value: PMC10937463
+authors:
+- authtype: Author
+  name: Juan JV
+- authtype: Author
+  name: Martínez R
+- authtype: Author
+  name: Iáñez E
+- authtype: Author
+  name: Ortiz M
+- authtype: Author
+  name: Tornero J
+- authtype: Author
+  name: Azorín JM
+epubdate: 2024 Feb 29
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1345425'
+pmclivedate: 2024/03/14
+printpubdate: ''
+pubdate: 2024 Feb 29
+sortdate: 2024/02/29 00:00
+source: Front Neuroinform
+title: 'Exploring EEG-based motor imagery decoding: a dual approach using spatial
+  features and spectro-spatial Deep Learning model IFNet'
+uid: '10937463'
+volume: '18'

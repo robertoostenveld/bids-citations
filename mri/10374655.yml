@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '37500686'
+- idtype: doi
+  value: 10.1038/s41597-023-02400-y
+- idtype: pmcid
+  value: PMC10374655
+authors:
+- authtype: Author
+  name: Chen X
+- authtype: Author
+  name: Qu L
+- authtype: Author
+  name: Xie Y
+- authtype: Author
+  name: Ahmad S
+- authtype: Author
+  name: Yap PT
+epubdate: 2023 Jul 27
+fulljournalname: Scientific Data
+issue: ''
+pages: '489'
+pmclivedate: 2023/07/29
+printpubdate: ''
+pubdate: 2023 Jul 27
+sortdate: 2023/07/27 00:00
+source: Sci Data
+title: A paired dataset of T1- and T2-weighted MRI at 3 Tesla and 7 Tesla
+uid: '10374655'
+volume: '10'

@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '34965456'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2021.118849
+- idtype: pmcid
+  value: PMC10155599
+- idtype: MID
+  value: NIHMS1892335
+authors:
+- authtype: Author
+  name: Ngo GH
+- authtype: Author
+  name: Khosla M
+- authtype: Author
+  name: Jamison K
+- authtype: Author
+  name: Kuceyeski A
+- authtype: Author
+  name: Sabuncu MR
+epubdate: 2021 Dec 26
+fulljournalname: NeuroImage
+issue: ''
+pages: '118849'
+pmclivedate: 2023/05/03
+printpubdate: 2022 Mar
+pubdate: 2021 Dec 26
+sortdate: 2021/12/26 00:00
+source: Neuroimage
+title: Predicting individual task contrasts from resting-state functional connectivity
+  using a surface-based convolutional network
+uid: '10155599'
+volume: '248'

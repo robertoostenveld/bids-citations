@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35244855'
+- idtype: doi
+  value: 10.1007/s12021-022-09567-6
+- idtype: pmcid
+  value: PMC9440951
+authors:
+- authtype: Author
+  name: Demuru M
+- authtype: Author
+  name: van Blooijs D
+- authtype: Author
+  name: Zweiphenning W
+- authtype: Author
+  name: Hermes D
+- authtype: Author
+  name: Leijten F
+- authtype: Author
+  name: Zijlmans M
+- authtype: CollectiveName
+  name: on behalf of the RESPect group
+epubdate: 2022 Mar 4
+fulljournalname: Neuroinformatics
+issue: '3'
+pages: 727-736
+pmclivedate: 2022/10/09
+printpubdate: '2022'
+pubdate: 2022 Mar 4
+sortdate: 2022/03/04 00:00
+source: Neuroinformatics
+title: A Practical Workflow for Organizing Clinical Intraoperative and Long-term iEEG
+  Data in BIDS
+uid: '9440951'
+volume: '20'

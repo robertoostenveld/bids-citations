@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '33648956'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0528-20.2021
+- idtype: pmcid
+  value: PMC8026345
+authors:
+- authtype: Author
+  name: Diersch N
+- authtype: Author
+  name: Valdes-Herrera JP
+- authtype: Author
+  name: Tempelmann C
+- authtype: Author
+  name: Wolbers T
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '14'
+pages: 3204-3221
+pmclivedate: 2021/04/08
+printpubdate: 2021 Apr 7
+pubdate: 2021 Apr 7
+sortdate: 2021/04/07 00:00
+source: J Neurosci
+title: Increased Hippocampal Excitability and Altered Learning Dynamics Mediate Cognitive
+  Mapping Deficits in Human Aging
+uid: '8026345'
+volume: '41'

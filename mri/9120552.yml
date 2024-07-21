@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35289976'
+- idtype: doi
+  value: 10.1002/hbm.25830
+- idtype: pmcid
+  value: PMC9120552
+authors:
+- authtype: Author
+  name: Byrge L
+- authtype: Author
+  name: Kliemann D
+- authtype: Author
+  name: He Y
+- authtype: Author
+  name: Cheng H
+- authtype: Author
+  name: Tyszka JM
+- authtype: Author
+  name: Adolphs R
+- authtype: Author
+  name: Kennedy DP
+epubdate: 2022 Mar 15
+fulljournalname: Human Brain Mapping
+issue: '9'
+pages: 2972-2991
+pmclivedate: 2022/05/21
+printpubdate: ''
+pubdate: 2022 Mar 15
+sortdate: 2022/03/15 00:00
+source: Hum Brain Mapp
+title: Video‐evoked fMRI BOLD responses are highly consistent across different data
+  acquisition sites
+uid: '9120552'
+volume: '43'

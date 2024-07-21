@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '35013331'
+- idtype: doi
+  value: 10.1038/s41597-021-01102-7
+- idtype: pmcid
+  value: PMC8748587
+authors:
+- authtype: Author
+  name: Grootswagers T
+- authtype: Author
+  name: Zhou I
+- authtype: Author
+  name: Robinson AK
+- authtype: Author
+  name: Hebart MN
+- authtype: Author
+  name: Carlson TA
+epubdate: 2022 Jan 10
+fulljournalname: Scientific Data
+issue: ''
+pages: '3'
+pmclivedate: 2022/01/20
+printpubdate: ''
+pubdate: 2022 Jan 10
+sortdate: 2022/01/10 00:00
+source: Sci Data
+title: Human EEG recordings for 1,854 concepts presented in rapid serial visual presentation
+  streams
+uid: '8748587'
+volume: '9'

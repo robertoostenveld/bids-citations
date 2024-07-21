@@ -1,0 +1,105 @@
+articleids:
+- idtype: pmid
+  value: '30261308'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2018.09.060
+- idtype: pmcid
+  value: PMC6484842
+- idtype: MID
+  value: NIHMS1000586
+authors:
+- authtype: Author
+  name: Harms MP
+- authtype: Author
+  name: Somerville LH
+- authtype: Author
+  name: Ances BM
+- authtype: Author
+  name: Andersson J
+- authtype: Author
+  name: Barch DM
+- authtype: Author
+  name: Bastiani M
+- authtype: Author
+  name: Bookheimer SY
+- authtype: Author
+  name: Brown TB
+- authtype: Author
+  name: Buckner RL
+- authtype: Author
+  name: Burgess GC
+- authtype: Author
+  name: Coalson TS
+- authtype: Author
+  name: Chappell MA
+- authtype: Author
+  name: Dapretto M
+- authtype: Author
+  name: Douaud G
+- authtype: Author
+  name: Fischl B
+- authtype: Author
+  name: Glasser MF
+- authtype: Author
+  name: Greve DN
+- authtype: Author
+  name: Hodge C
+- authtype: Author
+  name: Jamison KW
+- authtype: Author
+  name: Jbabdi S
+- authtype: Author
+  name: Kandala S
+- authtype: Author
+  name: Li X
+- authtype: Author
+  name: Mair RW
+- authtype: Author
+  name: Mangia S
+- authtype: Author
+  name: Marcus D
+- authtype: Author
+  name: Mascali D
+- authtype: Author
+  name: Moeller S
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Robinson EC
+- authtype: Author
+  name: Salat DH
+- authtype: Author
+  name: Smith SM
+- authtype: Author
+  name: Sotiropoulos SN
+- authtype: Author
+  name: Terpstra M
+- authtype: Author
+  name: Thomas KM
+- authtype: Author
+  name: Tisdall MD
+- authtype: Author
+  name: Ugurbil K
+- authtype: Author
+  name: van der Kouwe A
+- authtype: Author
+  name: Woods RP
+- authtype: Author
+  name: Zöllei L
+- authtype: Author
+  name: Van Essen DC
+- authtype: Author
+  name: Yacoub E
+epubdate: 2018 Sep 24
+fulljournalname: NeuroImage
+issue: ''
+pages: 972-984
+pmclivedate: 2019/12/01
+printpubdate: 2018 Dec
+pubdate: 2018 Sep 24
+sortdate: 2018/09/24 00:00
+source: Neuroimage
+title: 'Extending the Human Connectome Project across ages: Imaging protocols for
+  the Lifespan Development and Aging projects'
+uid: '6484842'
+volume: '183'

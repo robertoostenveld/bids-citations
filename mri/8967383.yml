@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '35352679'
+- idtype: doi
+  value: 10.7554/eLife.71309
+- idtype: pmcid
+  value: PMC8967383
+authors:
+- authtype: Author
+  name: Meyer AK
+- authtype: Author
+  name: Benoit RG
+epubdate: 2022 Mar 30
+fulljournalname: eLife
+issue: ''
+pages: e71309
+pmclivedate: 2022/03/31
+printpubdate: ''
+pubdate: 2022 Mar 30
+sortdate: 2022/03/30 00:00
+source: eLife
+title: Suppression weakens unwanted memories via a sustained reduction of neural reactivation
+uid: '8967383'
+volume: '11'

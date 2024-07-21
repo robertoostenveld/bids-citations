@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '38260687'
+- idtype: doi
+  value: 10.1101/2024.01.09.574915
+- idtype: pmcid
+  value: PMC10802406
+authors:
+- authtype: Author
+  name: van den Boom MA
+- authtype: Author
+  name: Gregg NM
+- authtype: Author
+  name: Valencia GO
+- authtype: Author
+  name: Lundstrom BN
+- authtype: Author
+  name: Miller KJ
+- authtype: Author
+  name: van Blooijs D
+- authtype: Author
+  name: Huiskamp GJ
+- authtype: Author
+  name: Leijten FS
+- authtype: Author
+  name: Worrell GA
+- authtype: Author
+  name: Hermes D
+epubdate: 2024 Jan 11
+fulljournalname: bioRxiv
+issue: ''
+pages: 2024.01.09.574915
+pmclivedate: 2024/01/23
+printpubdate: ''
+pubdate: 2024 Jan 11
+sortdate: 2024/01/11 00:00
+source: bioRxiv
+title: 'ER-detect: a pipeline for robust detection of early evoked responses in BIDS-iEEG
+  electrical stimulation data'
+uid: '10802406'
+volume: ''

@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '36285209'
+- idtype: doi
+  value: 10.1177/15357597221101271
+- idtype: pmcid
+  value: PMC9549227
+authors:
+- authtype: Author
+  name: Sinha N
+- authtype: Author
+  name: Johnson GW
+- authtype: Author
+  name: Davis KA
+- authtype: Author
+  name: Englot DJ
+epubdate: 2022 May 13
+fulljournalname: Epilepsy Currents
+issue: '5'
+pages: 272-278
+pmclivedate: 2022/10/24
+printpubdate: ''
+pubdate: 2022 May 13
+sortdate: 2022/05/13 00:00
+source: Epilepsy Curr
+title: 'Integrating Network Neuroscience Into Epilepsy Care: Progress, Barriers, and
+  Next Steps'
+uid: '9549227'
+volume: '22'

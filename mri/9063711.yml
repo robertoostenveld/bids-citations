@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '35007719'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.118890
+- idtype: pmcid
+  value: PMC9063711
+- idtype: MID
+  value: NIHMS1787506
+authors:
+- authtype: Author
+  name: Gbadeyan O
+- authtype: Author
+  name: Teng J
+- authtype: Author
+  name: Prakash RS
+epubdate: 2022 Jan 8
+fulljournalname: NeuroImage
+issue: ''
+pages: '118890'
+pmclivedate: 2022/05/03
+printpubdate: 2022 Apr 15
+pubdate: 2022 Jan 8
+sortdate: 2022/01/08 00:00
+source: Neuroimage
+title: Predicting response time variability from task and resting-state functional
+  connectivity in the aging brain
+uid: '9063711'
+volume: '250'

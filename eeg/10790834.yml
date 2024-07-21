@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '38235233'
+- idtype: doi
+  value: 10.3389/fnrgo.2021.643969
+- idtype: pmcid
+  value: PMC10790834
+authors:
+- authtype: Author
+  name: Gramann K
+- authtype: Author
+  name: McKendrick R
+- authtype: Author
+  name: Baldwin C
+- authtype: Author
+  name: Roy RN
+- authtype: Author
+  name: Jeunet C
+- authtype: Author
+  name: Mehta RK
+- authtype: Author
+  name: Vecchiato G
+epubdate: 2021 Mar 8
+fulljournalname: Frontiers in Neuroergonomics
+issue: ''
+pages: '643969'
+pmclivedate: 2024/01/17
+printpubdate: ''
+pubdate: 2021 Mar 8
+sortdate: 2021/03/08 00:00
+source: Front Neuroergon
+title: Grand Field Challenges for Cognitive Neuroergonomics in the Coming Decade
+uid: '10790834'
+volume: '2'

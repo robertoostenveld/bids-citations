@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '37006395'
+- idtype: doi
+  value: 10.1016/j.dib.2023.109059
+- idtype: pmcid
+  value: PMC10060583
+authors:
+- authtype: Author
+  name: Gu Y
+- authtype: Author
+  name: Sainburg LE
+- authtype: Author
+  name: Han F
+- authtype: Author
+  name: Liu X
+epubdate: 2023 Mar 15
+fulljournalname: Data in Brief
+issue: ''
+pages: '109059'
+pmclivedate: 2023/03/31
+printpubdate: ''
+pubdate: 2023 Mar 15
+sortdate: 2023/03/15 00:00
+source: Data Brief
+title: Simultaneous EEG and functional MRI data during rest and sleep from humans
+uid: '10060583'
+volume: '48'

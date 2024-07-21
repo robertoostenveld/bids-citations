@@ -1,0 +1,38 @@
+articleids:
+- idtype: pmid
+  value: '33409718'
+- idtype: doi
+  value: 10.1007/s12021-020-09500-9
+- idtype: pmcid
+  value: PMC8233299
+authors:
+- authtype: Author
+  name: Gong ZQ
+- authtype: Author
+  name: Gao P
+- authtype: Author
+  name: Jiang C
+- authtype: Author
+  name: Xing XX
+- authtype: Author
+  name: Dong HM
+- authtype: Author
+  name: White T
+- authtype: Author
+  name: Castellanos FX
+- authtype: Author
+  name: Li HF
+- authtype: Author
+  name: Zuo XN
+epubdate: 2021 Jan 7
+fulljournalname: Neuroinformatics
+issue: '3'
+pages: 529-545
+pmclivedate: 2021/07/09
+printpubdate: '2021'
+pubdate: 2021 Jan 7
+sortdate: 2021/01/07 00:00
+source: Neuroinformatics
+title: 'DREAM: A Toolbox to Decode Rhythms of the Brain System'
+uid: '8233299'
+volume: '19'

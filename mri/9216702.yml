@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '35757179'
+- idtype: doi
+  value: 10.1016/j.cpnec.2022.100144
+- idtype: pmcid
+  value: PMC9216702
+authors:
+- authtype: Author
+  name: Meier M
+- authtype: Author
+  name: Lonsdorf TB
+- authtype: Author
+  name: Lupien SJ
+- authtype: Author
+  name: Stalder T
+- authtype: Author
+  name: Laufer S
+- authtype: Author
+  name: Sicorello M
+- authtype: Author
+  name: Linz R
+- authtype: Author
+  name: Puhlmann LM
+epubdate: 2022 May 30
+fulljournalname: Comprehensive Psychoneuroendocrinology
+issue: ''
+pages: '100144'
+pmclivedate: 2022/06/24
+printpubdate: ''
+pubdate: 2022 May 30
+sortdate: 2022/05/30 00:00
+source: Compr Psychoneuroendocrinol
+title: 'Open and reproducible science practices in psychoneuroendocrinology: Opportunities
+  to foster scientific progress'
+uid: '9216702'
+volume: '11'

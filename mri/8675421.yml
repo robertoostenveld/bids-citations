@@ -1,0 +1,155 @@
+articleids:
+- idtype: pmid
+  value: '32310331'
+- idtype: doi
+  value: 10.1002/hbm.25015
+- idtype: pmcid
+  value: PMC8675421
+authors:
+- authtype: Author
+  name: Liew S
+- authtype: Author
+  name: Zavaliangos‐Petropulu A
+- authtype: Author
+  name: Jahanshad N
+- authtype: Author
+  name: Lang CE
+- authtype: Author
+  name: Hayward KS
+- authtype: Author
+  name: Lohse KR
+- authtype: Author
+  name: Juliano JM
+- authtype: Author
+  name: Assogna F
+- authtype: Author
+  name: Baugh LA
+- authtype: Author
+  name: Bhattacharya AK
+- authtype: Author
+  name: Bigjahan B
+- authtype: Author
+  name: Borich MR
+- authtype: Author
+  name: Boyd LA
+- authtype: Author
+  name: Brodtmann A
+- authtype: Author
+  name: Buetefisch CM
+- authtype: Author
+  name: Byblow WD
+- authtype: Author
+  name: Cassidy JM
+- authtype: Author
+  name: Conforto AB
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Dimyan MA
+- authtype: Author
+  name: Dula AN
+- authtype: Author
+  name: Ermer E
+- authtype: Author
+  name: Etherton MR
+- authtype: Author
+  name: Fercho KA
+- authtype: Author
+  name: Gregory CM
+- authtype: Author
+  name: Hadidchi S
+- authtype: Author
+  name: Holguin JA
+- authtype: Author
+  name: Hwang DH
+- authtype: Author
+  name: Jung S
+- authtype: Author
+  name: Kautz SA
+- authtype: Author
+  name: Khlif MS
+- authtype: Author
+  name: Khoshab N
+- authtype: Author
+  name: Kim B
+- authtype: Author
+  name: Kim H
+- authtype: Author
+  name: Kuceyeski A
+- authtype: Author
+  name: Lotze M
+- authtype: Author
+  name: MacIntosh BJ
+- authtype: Author
+  name: Margetis JL
+- authtype: Author
+  name: Mohamed FB
+- authtype: Author
+  name: Piras F
+- authtype: Author
+  name: Ramos‐Murguialday A
+- authtype: Author
+  name: Richard G
+- authtype: Author
+  name: Roberts P
+- authtype: Author
+  name: Robertson AD
+- authtype: Author
+  name: Rondina JM
+- authtype: Author
+  name: Rost NS
+- authtype: Author
+  name: Sanossian N
+- authtype: Author
+  name: Schweighofer N
+- authtype: Author
+  name: Seo NJ
+- authtype: Author
+  name: Shiroishi MS
+- authtype: Author
+  name: Soekadar SR
+- authtype: Author
+  name: Spalletta G
+- authtype: Author
+  name: Stinear CM
+- authtype: Author
+  name: Suri A
+- authtype: Author
+  name: Tang WK
+- authtype: Author
+  name: Thielman GT
+- authtype: Author
+  name: Vecchio D
+- authtype: Author
+  name: Villringer A
+- authtype: Author
+  name: Ward NS
+- authtype: Author
+  name: Werden E
+- authtype: Author
+  name: Westlye LT
+- authtype: Author
+  name: Winstein C
+- authtype: Author
+  name: Wittenberg GF
+- authtype: Author
+  name: Wong KA
+- authtype: Author
+  name: Yu C
+- authtype: Author
+  name: Cramer SC
+- authtype: Author
+  name: Thompson PM
+epubdate: 2020 Apr 20
+fulljournalname: Human Brain Mapping
+issue: '1'
+pages: 129-148
+pmclivedate: 2021/12/27
+printpubdate: ''
+pubdate: 2020 Apr 20
+sortdate: 2020/04/20 00:00
+source: Hum Brain Mapp
+title: 'The ENIGMA Stroke Recovery Working Group: Big data neuroimaging to study brain–behavior
+  relationships after stroke'
+uid: '8675421'
+volume: '43'

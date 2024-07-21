@@ -1,0 +1,59 @@
+articleids:
+- idtype: pmid
+  value: '36008415'
+- idtype: doi
+  value: 10.1038/s41597-022-01623-9
+- idtype: pmcid
+  value: PMC9403972
+authors:
+- authtype: Author
+  name: Nugent AC
+- authtype: Author
+  name: Thomas AG
+- authtype: Author
+  name: Mahoney M
+- authtype: Author
+  name: Gibbons A
+- authtype: Author
+  name: Smith JT
+- authtype: Author
+  name: Charles AJ
+- authtype: Author
+  name: Shaw JS
+- authtype: Author
+  name: Stout JD
+- authtype: Author
+  name: Namyst AM
+- authtype: Author
+  name: Basavaraj A
+- authtype: Author
+  name: Earl E
+- authtype: Author
+  name: Riddle T
+- authtype: Author
+  name: Snow J
+- authtype: Author
+  name: Japee S
+- authtype: Author
+  name: Pavletic AJ
+- authtype: Author
+  name: Sinclair S
+- authtype: Author
+  name: Roopchansingh V
+- authtype: Author
+  name: Bandettini PA
+- authtype: Author
+  name: Chung J
+epubdate: 2022 Aug 25
+fulljournalname: Scientific Data
+issue: ''
+pages: '518'
+pmclivedate: 2022/08/25
+printpubdate: ''
+pubdate: 2022 Aug 25
+sortdate: 2022/08/25 00:00
+source: Sci Data
+title: 'The NIMH intramural healthy volunteer dataset: A comprehensive MEG, MRI, and
+  behavioral resource'
+uid: '9403972'
+volume: '9'

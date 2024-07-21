@@ -1,0 +1,64 @@
+articleids:
+- idtype: pmid
+  value: '36934605'
+- idtype: doi
+  value: 10.1016/j.dcn.2023.101231
+- idtype: pmcid
+  value: PMC10031023
+authors:
+- authtype: Author
+  name: Byington N
+- authtype: Author
+  name: Grimsrud G
+- authtype: Author
+  name: Mooney MA
+- authtype: Author
+  name: Cordova M
+- authtype: Author
+  name: Doyle O
+- authtype: Author
+  name: Hermosillo RJ
+- authtype: Author
+  name: Earl E
+- authtype: Author
+  name: Houghton A
+- authtype: Author
+  name: Conan G
+- authtype: Author
+  name: Hendrickson TJ
+- authtype: Author
+  name: Ragothaman A
+- authtype: Author
+  name: Carrasco CM
+- authtype: Author
+  name: Rueter A
+- authtype: Author
+  name: Perrone A
+- authtype: Author
+  name: Moore LA
+- authtype: Author
+  name: Graham A
+- authtype: Author
+  name: Nigg JT
+- authtype: Author
+  name: Thompson WK
+- authtype: Author
+  name: Nelson SM
+- authtype: Author
+  name: Feczko E
+- authtype: Author
+  name: Fair DA
+- authtype: Author
+  name: Miranda-Dominguez O
+epubdate: 2023 Mar 15
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '101231'
+pmclivedate: 2023/03/23
+printpubdate: ''
+pubdate: 2023 Mar 15
+sortdate: 2023/03/15 00:00
+source: Dev Cogn Neurosci
+title: Polyneuro risk scores capture widely distributed connectivity patterns of cognition
+uid: '10031023'
+volume: '60'

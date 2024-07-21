@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '39019885'
+- idtype: doi
+  value: 10.1038/s41597-024-03606-4
+- idtype: pmcid
+  value: PMC11255311
+authors:
+- authtype: Author
+  name: Harmony T
+- authtype: Author
+  name: Otero-Ojeda G
+- authtype: Author
+  name: Aubert-Vázquez E
+- authtype: Author
+  name: Fernández T
+- authtype: Author
+  name: Cubero-Rego L
+epubdate: 2024 Jul 17
+fulljournalname: Scientific Data
+issue: ''
+pages: '784'
+pmclivedate: 2024/07/18
+printpubdate: ''
+pubdate: 2024 Jul 17
+sortdate: 2024/07/17 00:00
+source: Sci Data
+title: Normative longitudinal EEG recordings during sleep stage II in the first year
+  of age
+uid: '11255311'
+volume: '11'

@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '32547375'
+- idtype: doi
+  value: 10.3389/fnbeh.2020.00076
+- idtype: pmcid
+  value: PMC7274270
+authors:
+- authtype: Author
+  name: Bayard F
+- authtype: Author
+  name: Abé C
+- authtype: Author
+  name: Wrobel N
+- authtype: Author
+  name: Ingvar M
+- authtype: Author
+  name: Henje E
+- authtype: Author
+  name: Petrovic P
+epubdate: 2020 May 29
+fulljournalname: Frontiers in Behavioral Neuroscience
+issue: ''
+pages: '76'
+pmclivedate: 2020/06/15
+printpubdate: ''
+pubdate: 2020 May 29
+sortdate: 2020/05/29 00:00
+source: Front Behav Neurosci
+title: Emotional Instability Relates to Ventral Striatum Activity During Reward Anticipation
+  in Females
+uid: '7274270'
+volume: '14'

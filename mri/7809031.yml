@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '33446665'
+- idtype: doi
+  value: 10.1038/s41597-020-00790-x
+- idtype: pmcid
+  value: PMC7809031
+authors:
+- authtype: Author
+  name: Fedele T
+- authtype: Author
+  name: Boran E
+- authtype: Author
+  name: Chirkov V
+- authtype: Author
+  name: Hilfiker P
+- authtype: Author
+  name: Grunwald T
+- authtype: Author
+  name: Stieglitz L
+- authtype: Author
+  name: Jokeit H
+- authtype: Author
+  name: Sarnthein J
+epubdate: 2021 Jan 14
+fulljournalname: Scientific Data
+issue: ''
+pages: '9'
+pmclivedate: 2021/01/21
+printpubdate: ''
+pubdate: 2021 Jan 14
+sortdate: 2021/01/14 00:00
+source: Sci Data
+title: Dataset of spiking and LFP activity invasively recorded in the human amygdala
+  during aversive dynamic stimuli
+uid: '7809031'
+volume: '8'

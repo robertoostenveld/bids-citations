@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '33519362'
+- idtype: doi
+  value: 10.3389/fnins.2020.610388
+- idtype: pmcid
+  value: PMC7845738
+authors:
+- authtype: Author
+  name: Pernet CR
+- authtype: Author
+  name: Martinez-Cancino R
+- authtype: Author
+  name: Truong D
+- authtype: Author
+  name: Makeig S
+- authtype: Author
+  name: Delorme A
+epubdate: 2021 Jan 11
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '610388'
+pmclivedate: 2021/01/30
+printpubdate: ''
+pubdate: 2021 Jan 11
+sortdate: 2021/01/11 00:00
+source: Front Neurosci
+title: 'From BIDS-Formatted EEG Data to Sensor-Space Group Results: A Fully Reproducible
+  Workflow With EEGLAB and LIMO EEG'
+uid: '7845738'
+volume: '14'

@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '32895538'
+- idtype: doi
+  value: 10.1038/s41592-020-0941-6
+- idtype: pmcid
+  value: PMC7721302
+- idtype: MID
+  value: NIHMS1649226
+authors:
+- authtype: Author
+  name: Kay K
+- authtype: Author
+  name: Jamison KW
+- authtype: Author
+  name: Zhang RY
+- authtype: Author
+  name: Ugurbil K
+epubdate: 2020 Sep 7
+fulljournalname: Nature methods
+issue: '10'
+pages: 1033-1039
+pmclivedate: 2021/04/01
+printpubdate: 2020 Oct
+pubdate: 2020 Sep 7
+sortdate: 2020/09/07 00:00
+source: Nat Methods
+title: A temporal decomposition method for identifying venous effects in task-based
+  fMRI
+uid: '7721302'
+volume: '17'

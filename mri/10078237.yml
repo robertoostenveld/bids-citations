@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '36124370'
+- idtype: doi
+  value: 10.1111/psyp.14180
+- idtype: pmcid
+  value: PMC10078237
+authors:
+- authtype: Author
+  name: Roy Y
+- authtype: Author
+  name: Faubert J
+epubdate: 2022 Sep 19
+fulljournalname: Psychophysiology
+issue: '2'
+pages: e14180
+pmclivedate: 2023/04/07
+printpubdate: 2023 Feb
+pubdate: 2022 Sep 19
+sortdate: 2022/09/19 00:00
+source: Psychophysiology
+title: Is the Contralateral Delay Activity (CDA) a robust neural correlate for Visual
+  Working Memory (VWM) tasks? A reproducibility study
+uid: '10078237'
+volume: '60'

@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '32954332'
+- idtype: doi
+  value: 10.1093/braincomms/fcaa082
+- idtype: pmcid
+  value: PMC7472902
+authors:
+- authtype: Author
+  name: Chari A
+- authtype: Author
+  name: Thornton RC
+- authtype: Author
+  name: Tisdall MM
+- authtype: Author
+  name: Scott RC
+epubdate: 2020 Jun 13
+fulljournalname: Brain Communications
+issue: '2'
+pages: fcaa082
+pmclivedate: 2020/09/17
+printpubdate: ''
+pubdate: 2020 Jun 13
+sortdate: 2020/06/13 00:00
+source: Brain Commun
+title: 'Microelectrode recordings in human epilepsy: a case for clinical translation'
+uid: '7472902'
+volume: '2'

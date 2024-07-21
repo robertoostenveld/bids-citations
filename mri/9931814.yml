@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '35982364'
+- idtype: doi
+  value: 10.1007/s12021-022-09597-0
+- idtype: pmcid
+  value: PMC9931814
+authors:
+- authtype: Author
+  name: Di Noto T
+- authtype: Author
+  name: Marie G
+- authtype: Author
+  name: Tourbier S
+- authtype: Author
+  name: Alemán-Gómez Y
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Saliou G
+- authtype: Author
+  name: Cuadra MB
+- authtype: Author
+  name: Hagmann P
+- authtype: Author
+  name: Richiardi J
+epubdate: 2022 Aug 18
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 21-34
+pmclivedate: 2023/02/17
+printpubdate: '2023'
+pubdate: 2022 Aug 18
+sortdate: 2022/08/18 00:00
+source: Neuroinformatics
+title: 'Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels,
+  and Anatomical Knowledge'
+uid: '9931814'
+volume: '21'

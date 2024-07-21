@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '34220472'
+- idtype: doi
+  value: 10.3389/fnhum.2021.666210
+- idtype: pmcid
+  value: PMC8248681
+authors:
+- authtype: Author
+  name: Rasgado-Toledo J
+- authtype: Author
+  name: Lizcano-Cortés F
+- authtype: Author
+  name: Olalde-Mathieu VE
+- authtype: Author
+  name: Licea-Haquet G
+- authtype: Author
+  name: Zamora-Ursulo MA
+- authtype: Author
+  name: Giordano M
+- authtype: Author
+  name: Reyes-Aguilar A
+epubdate: 2021 Jun 17
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '666210'
+pmclivedate: 2021/07/02
+printpubdate: ''
+pubdate: 2021 Jun 17
+sortdate: 2021/06/17 00:00
+source: Front Hum Neurosci
+title: A Dataset to Study Pragmatic Language and Its Underlying Cognitive Processes
+uid: '8248681'
+volume: '15'

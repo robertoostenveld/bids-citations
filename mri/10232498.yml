@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '37258534'
+- idtype: doi
+  value: 10.1038/s41467-023-38709-w
+- idtype: pmcid
+  value: PMC10232498
+authors:
+- authtype: Author
+  name: Moneta N
+- authtype: Author
+  name: Garvert MM
+- authtype: Author
+  name: Heekeren HR
+- authtype: Author
+  name: Schuck NW
+epubdate: 2023 May 31
+fulljournalname: Nature Communications
+issue: ''
+pages: '3156'
+pmclivedate: 2023/06/02
+printpubdate: ''
+pubdate: 2023 May 31
+sortdate: 2023/05/31 00:00
+source: Nat Commun
+title: Task state representations in vmPFC mediate relevant and irrelevant value signals
+  and their behavioral influence
+uid: '10232498'
+volume: '14'

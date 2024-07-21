@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '35027334'
+- idtype: doi
+  value: 10.1016/j.ebiom.2021.103640
+- idtype: pmcid
+  value: PMC8808156
+authors:
+- authtype: Author
+  name: Spitschan M
+- authtype: Author
+  name: Santhi N
+epubdate: 2022 Jan 10
+fulljournalname: EBioMedicine
+issue: ''
+pages: '103640'
+pmclivedate: 2022/02/04
+printpubdate: ''
+pubdate: 2022 Jan 10
+sortdate: 2022/01/10 00:00
+source: EBioMedicine
+title: Individual differences and diversity in human physiological responses to light
+uid: '8808156'
+volume: '75'

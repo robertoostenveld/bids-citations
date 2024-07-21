@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '34990466'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1009651
+- idtype: pmcid
+  value: PMC8735620
+authors:
+- authtype: Author
+  name: DuPre E
+- authtype: Author
+  name: Holdgraf C
+- authtype: Author
+  name: Karakuzu A
+- authtype: Author
+  name: Tetrel L
+- authtype: Author
+  name: Bellec P
+- authtype: Author
+  name: Stikov N
+- authtype: Author
+  name: Poline JB
+epubdate: 2022 Jan 6
+fulljournalname: PLoS Computational Biology
+issue: '1'
+pages: e1009651
+pmclivedate: 2022/01/07
+printpubdate: ''
+pubdate: 2022 Jan 6
+sortdate: 2022/01/06 00:00
+source: PLoS Comput Biol
+title: 'Beyond advertising: New infrastructures for publishing integrated research
+  objects'
+uid: '8735620'
+volume: '18'

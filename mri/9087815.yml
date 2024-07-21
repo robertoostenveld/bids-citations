@@ -1,0 +1,61 @@
+articleids:
+- idtype: pmid
+  value: '34270123'
+- idtype: doi
+  value: 10.1002/mrm.28926
+- idtype: pmcid
+  value: PMC9087815
+- idtype: MID
+  value: NIHMS1799834
+authors:
+- authtype: Author
+  name: Cai LY
+- authtype: Author
+  name: Yang Q
+- authtype: Author
+  name: Kanakaraj P
+- authtype: Author
+  name: Nath V
+- authtype: Author
+  name: Newton AT
+- authtype: Author
+  name: Edmonson HA
+- authtype: Author
+  name: Luci J
+- authtype: Author
+  name: Conrad BN
+- authtype: Author
+  name: Price GR
+- authtype: Author
+  name: Hansen CB
+- authtype: Author
+  name: Kerley CI
+- authtype: Author
+  name: Ramadass K
+- authtype: Author
+  name: Yeh FC
+- authtype: Author
+  name: Kang H
+- authtype: Author
+  name: Garyfallidis E
+- authtype: Author
+  name: Descoteaux M
+- authtype: Author
+  name: Rheault F
+- authtype: Author
+  name: Schilling KG
+- authtype: Author
+  name: Landman BA
+epubdate: 2021 Jul 16
+fulljournalname: Magnetic resonance in medicine
+issue: '6'
+pages: 3304-3320
+pmclivedate: 2022/05/10
+printpubdate: 2021 Dec
+pubdate: 2021 Jul 16
+sortdate: 2021/07/16 00:00
+source: Magn Reson Med
+title: 'MASiVar: Multisite, multiscanner, and multisubject acquisitions for studying
+  variability in diffusion weighted MRI'
+uid: '9087815'
+volume: '86'

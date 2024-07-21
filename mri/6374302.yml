@@ -1,0 +1,64 @@
+articleids:
+- idtype: pmid
+  value: '30792636'
+- idtype: doi
+  value: 10.3389/fninf.2019.00001
+- idtype: pmcid
+  value: PMC6374302
+authors:
+- authtype: Author
+  name: Kennedy DN
+- authtype: Author
+  name: Abraham SA
+- authtype: Author
+  name: Bates JF
+- authtype: Author
+  name: Crowley A
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Gillespie T
+- authtype: Author
+  name: Goncalves M
+- authtype: Author
+  name: Grethe JS
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Haselgrove C
+- authtype: Author
+  name: Hodge SM
+- authtype: Author
+  name: Jarecka D
+- authtype: Author
+  name: Kaczmarzyk J
+- authtype: Author
+  name: Keator DB
+- authtype: Author
+  name: Meyer K
+- authtype: Author
+  name: Martone ME
+- authtype: Author
+  name: Padhy S
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Preuss N
+- authtype: Author
+  name: Sincomb T
+- authtype: Author
+  name: Travers M
+epubdate: 2019 Feb 7
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1'
+pmclivedate: 2019/02/21
+printpubdate: ''
+pubdate: 2019 Feb 7
+sortdate: 2019/02/07 00:00
+source: Front Neuroinform
+title: 'Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging'
+uid: '6374302'
+volume: '13'

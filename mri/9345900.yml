@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '35918334'
+- idtype: doi
+  value: 10.1038/s41597-022-01575-0
+- idtype: pmcid
+  value: PMC9345900
+authors:
+- authtype: Author
+  name: Pei X
+- authtype: Author
+  name: Xu G
+- authtype: Author
+  name: Zhou Y
+- authtype: Author
+  name: Tao L
+- authtype: Author
+  name: Cui X
+- authtype: Author
+  name: Wang Z
+- authtype: Author
+  name: Xu B
+- authtype: Author
+  name: Wang AL
+- authtype: Author
+  name: Zhao X
+- authtype: Author
+  name: Dong H
+- authtype: Author
+  name: An Y
+- authtype: Author
+  name: Cao Y
+- authtype: Author
+  name: Li R
+- authtype: Author
+  name: Hu H
+- authtype: Author
+  name: Yu Y
+epubdate: 2022 Aug 2
+fulljournalname: Scientific Data
+issue: ''
+pages: '465'
+pmclivedate: 2022/08/04
+printpubdate: ''
+pubdate: 2022 Aug 2
+sortdate: 2022/08/02 00:00
+source: Sci Data
+title: A simultaneous electroencephalography and eye-tracking dataset in elite athletes
+  during alertness and concentration tasks
+uid: '9345900'
+volume: '9'

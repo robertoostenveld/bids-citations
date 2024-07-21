@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '29867327'
+- idtype: doi
+  value: 10.3389/fnins.2018.00316
+- idtype: pmcid
+  value: PMC5962655
+authors:
+- authtype: Author
+  name: Nastase SA
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Connolly AC
+- authtype: Author
+  name: Gobbini MI
+- authtype: Author
+  name: Haxby JV
+epubdate: 2018 May 15
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '316'
+pmclivedate: 2018/06/04
+printpubdate: ''
+pubdate: 2018 May 15
+sortdate: 2018/05/15 00:00
+source: Front Neurosci
+title: Neural Responses to Naturalistic Clips of Behaving Animals in Two Different
+  Task Contexts
+uid: '5962655'
+volume: '12'

@@ -1,0 +1,66 @@
+articleids:
+- idtype: pmid
+  value: '34003431'
+- idtype: doi
+  value: 10.1007/s12021-021-09516-9
+- idtype: pmcid
+  value: PMC9537233
+authors:
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Abou-Haidar R
+- authtype: Author
+  name: Rabalais H
+- authtype: Author
+  name: Sun SD
+- authtype: Author
+  name: Rosli Z
+- authtype: Author
+  name: Chatpar K
+- authtype: Author
+  name: Boivin MN
+- authtype: Author
+  name: Tabatabaei M
+- authtype: Author
+  name: Rogers C
+- authtype: Author
+  name: Legault M
+- authtype: Author
+  name: Lo D
+- authtype: Author
+  name: Degroot C
+- authtype: Author
+  name: Dagher A
+- authtype: Author
+  name: Dyke SO
+- authtype: Author
+  name: Durcan TM
+- authtype: Author
+  name: Seyller A
+- authtype: Author
+  name: Doyon J
+- authtype: Author
+  name: Poupon V
+- authtype: Author
+  name: Fon EA
+- authtype: Author
+  name: Genge A
+- authtype: Author
+  name: Rouleau GA
+- authtype: Author
+  name: Karamchandani J
+- authtype: Author
+  name: Evans AC
+epubdate: 2021 May 18
+fulljournalname: Neuroinformatics
+issue: '1'
+pages: 139-153
+pmclivedate: 2022/10/08
+printpubdate: '2022'
+pubdate: 2021 May 18
+sortdate: 2021/05/18 00:00
+source: Neuroinformatics
+title: 'The C-BIG Repository: an Institution-Level Open Science Platform'
+uid: '9537233'
+volume: '20'

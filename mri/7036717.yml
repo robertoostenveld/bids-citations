@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '32123701'
+- idtype: doi
+  value: 10.1016/j.dib.2020.105176
+- idtype: pmcid
+  value: PMC7036717
+authors:
+- authtype: Author
+  name: Poppenk J
+epubdate: 2020 Feb 4
+fulljournalname: Data in Brief
+issue: ''
+pages: '105176'
+pmclivedate: 2020/03/02
+printpubdate: ''
+pubdate: 2020 Feb 4
+sortdate: 2020/02/04 00:00
+source: Data Brief
+title: Multimodal brain data and core dimensions of creativity
+uid: '7036717'
+volume: '29'

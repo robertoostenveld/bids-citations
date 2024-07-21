@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '35142409'
+- idtype: doi
+  value: 10.1002/hbm.25803
+- idtype: pmcid
+  value: PMC9057092
+authors:
+- authtype: Author
+  name: Jwa AS
+- authtype: Author
+  name: Poldrack RA
+epubdate: 2022 Feb 10
+fulljournalname: Human Brain Mapping
+issue: '8'
+pages: 2707-2721
+pmclivedate: 2022/05/03
+printpubdate: ''
+pubdate: 2022 Feb 10
+sortdate: 2022/02/10 00:00
+source: Hum Brain Mapp
+title: The spectrum of data sharing policies in neuroimaging data repositories
+uid: '9057092'
+volume: '43'

@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '37694123'
+- idtype: doi
+  value: 10.3389/fnins.2023.1233416
+- idtype: pmcid
+  value: PMC10483824
+authors:
+- authtype: Author
+  name: Torabian S
+- authtype: Author
+  name: Vélez N
+- authtype: Author
+  name: Sochat V
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Grossman ED
+epubdate: 2023 Aug 24
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '1233416'
+pmclivedate: 2023/09/08
+printpubdate: ''
+pubdate: 2023 Aug 24
+sortdate: 2023/08/24 00:00
+source: Front Neurosci
+title: 'The PyMVPA BIDS-App: a robust multivariate pattern analysis pipeline for fMRI
+  data'
+uid: '10483824'
+volume: '17'

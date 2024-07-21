@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '35679333'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1009995
+- idtype: pmcid
+  value: PMC9182256
+authors:
+- authtype: Author
+  name: Gagl B
+- authtype: Author
+  name: Richlan F
+- authtype: Author
+  name: Ludersdorfer P
+- authtype: Author
+  name: Sassenhagen J
+- authtype: Author
+  name: Eisenhauer S
+- authtype: Author
+  name: Gregorova K
+- authtype: Author
+  name: Fiebach CJ
+epubdate: 2022 Jun 9
+fulljournalname: PLoS Computational Biology
+issue: '6'
+pages: e1009995
+pmclivedate: 2022/06/10
+printpubdate: ''
+pubdate: 2022 Jun 9
+sortdate: 2022/06/09 00:00
+source: PLoS Comput Biol
+title: 'The lexical categorization model: A computational model of left ventral occipito-temporal
+  cortex activation in visual word recognition'
+uid: '9182256'
+volume: '18'

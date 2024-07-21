@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '38049487'
+- idtype: doi
+  value: 10.1038/s41597-023-02752-5
+- idtype: pmcid
+  value: PMC10695966
+authors:
+- authtype: Author
+  name: Gwilliams L
+- authtype: Author
+  name: Flick G
+- authtype: Author
+  name: Marantz A
+- authtype: Author
+  name: Pylkkänen L
+- authtype: Author
+  name: Poeppel D
+- authtype: Author
+  name: King JR
+epubdate: 2023 Dec 4
+fulljournalname: Scientific Data
+issue: ''
+pages: '862'
+pmclivedate: 2023/12/06
+printpubdate: ''
+pubdate: 2023 Dec 4
+sortdate: 2023/12/04 00:00
+source: Sci Data
+title: Introducing MEG-MASC a high-quality magneto-encephalography dataset for evaluating
+  natural speech processing
+uid: '10695966'
+volume: '10'

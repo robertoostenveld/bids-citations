@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '38430283'
+- idtype: doi
+  value: 10.1007/s10548-024-01043-5
+- idtype: pmcid
+  value: PMC11199263
+authors:
+- authtype: Author
+  name: Bagdasarov A
+- authtype: Author
+  name: Brunet D
+- authtype: Author
+  name: Michel CM
+- authtype: Author
+  name: Gaffrey MS
+epubdate: 2024 Mar 2
+fulljournalname: Brain Topography
+issue: '4'
+pages: 496-513
+pmclivedate: 2024/06/27
+printpubdate: '2024'
+pubdate: 2024 Mar 2
+sortdate: 2024/03/02 00:00
+source: Brain Topogr
+title: 'Microstate Analysis of Continuous Infant EEG: Tutorial and Reliability'
+uid: '11199263'
+volume: '37'

@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '33087725'
+- idtype: doi
+  value: 10.1038/s41597-020-00699-5
+- idtype: pmcid
+  value: PMC7578808
+authors:
+- authtype: Author
+  name: Jamadar SD
+- authtype: Author
+  name: Ward PG
+- authtype: Author
+  name: Close TG
+- authtype: Author
+  name: Fornito A
+- authtype: Author
+  name: Premaratne M
+- authtype: Author
+  name: O’Brien K
+- authtype: Author
+  name: Stäb D
+- authtype: Author
+  name: Chen Z
+- authtype: Author
+  name: Shah NJ
+- authtype: Author
+  name: Egan GF
+epubdate: 2020 Oct 21
+fulljournalname: Scientific Data
+issue: ''
+pages: '363'
+pmclivedate: 2020/10/23
+printpubdate: ''
+pubdate: 2020 Oct 21
+sortdate: 2020/10/21 00:00
+source: Sci Data
+title: Simultaneous BOLD-fMRI and constant infusion FDG-PET data of the resting human
+  brain
+uid: '7578808'
+volume: '7'

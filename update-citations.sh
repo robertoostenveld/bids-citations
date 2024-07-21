@@ -2,6 +2,8 @@
 #
 #PBS -l walltime=00:10:00
 #PBS -l mem=100Mb
+#
+# Copyright (C) 2024, Robert Oostenveld
 
 # set up the DCCN environment
 # source /opt/optenv.sh

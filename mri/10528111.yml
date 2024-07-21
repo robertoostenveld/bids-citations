@@ -1,0 +1,89 @@
+articleids:
+- idtype: pmid
+  value: '37562146'
+- idtype: doi
+  value: 10.1016/j.eplepsyres.2023.107201
+- idtype: pmcid
+  value: PMC10528111
+- idtype: MID
+  value: NIHMS1924228
+authors:
+- authtype: Author
+  name: Bhagavatula S
+- authtype: Author
+  name: Cabeen R
+- authtype: Author
+  name: Harris NG
+- authtype: Author
+  name: Gröhn O
+- authtype: Author
+  name: Wright DK
+- authtype: Author
+  name: Garner R
+- authtype: Author
+  name: Bennett A
+- authtype: Author
+  name: Alba C
+- authtype: Author
+  name: Martinez A
+- authtype: Author
+  name: Ndode-Ekane XE
+- authtype: Author
+  name: Andrade P
+- authtype: Author
+  name: Paananen T
+- authtype: Author
+  name: Ciszek R
+- authtype: Author
+  name: Immonen R
+- authtype: Author
+  name: Manninen E
+- authtype: Author
+  name: Puhakka N
+- authtype: Author
+  name: Tohka J
+- authtype: Author
+  name: Heiskanen M
+- authtype: Author
+  name: Ali I
+- authtype: Author
+  name: Shultz SR
+- authtype: Author
+  name: Casillas-Espinosa PM
+- authtype: Author
+  name: Yamakawa GR
+- authtype: Author
+  name: Jones NC
+- authtype: Author
+  name: Hudson MR
+- authtype: Author
+  name: Silva JC
+- authtype: Author
+  name: Braine EL
+- authtype: Author
+  name: Brady RD
+- authtype: Author
+  name: Santana-Gomez CE
+- authtype: Author
+  name: Smith GD
+- authtype: Author
+  name: Staba R
+- authtype: Author
+  name: O’Brien TJ
+- authtype: Author
+  name: Pitkänen A
+- authtype: Author
+  name: Duncan D
+epubdate: 2023 Aug 2
+fulljournalname: Epilepsy research
+issue: ''
+pages: '107201'
+pmclivedate: ''
+printpubdate: 2023 Sep
+pubdate: 2023 Aug 2
+sortdate: 2023/08/02 00:00
+source: Epilepsy Res
+title: Image Data Harmonization Tools for the Analysis of Posttraumatic Epilepsy Development
+  in Preclinical Multisite MRI Studies
+uid: '10528111'
+volume: '195'

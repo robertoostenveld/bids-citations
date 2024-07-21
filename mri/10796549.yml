@@ -1,0 +1,23 @@
+articleids:
+- idtype: pmid
+  value: '38250019'
+- idtype: doi
+  value: 10.3389/fninf.2023.1276407
+- idtype: pmcid
+  value: PMC10796549
+authors:
+- authtype: Author
+  name: Martone ME
+epubdate: 2024 Jan 5
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1276407'
+pmclivedate: 2024/01/19
+printpubdate: ''
+pubdate: 2024 Jan 5
+sortdate: 2024/01/05 00:00
+source: Front Neuroinform
+title: 'The past, present and future of neuroscience data sharing: a perspective on
+  the state of practices and infrastructure for FAIR'
+uid: '10796549'
+volume: '17'

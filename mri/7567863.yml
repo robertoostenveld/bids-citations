@@ -1,0 +1,77 @@
+articleids:
+- idtype: pmid
+  value: '33067452'
+- idtype: doi
+  value: 10.1038/s41597-020-00670-4
+- idtype: pmcid
+  value: PMC7567863
+authors:
+- authtype: Author
+  name: Pinho AL
+- authtype: Author
+  name: Amadon A
+- authtype: Author
+  name: Gauthier B
+- authtype: Author
+  name: Clairis N
+- authtype: Author
+  name: Knops A
+- authtype: Author
+  name: Genon S
+- authtype: Author
+  name: Dohmatob E
+- authtype: Author
+  name: Torre JJ
+- authtype: Author
+  name: Ginisty C
+- authtype: Author
+  name: Becuwe-Desmidt S
+- authtype: Author
+  name: Roger S
+- authtype: Author
+  name: Lecomte Y
+- authtype: Author
+  name: Berland V
+- authtype: Author
+  name: Laurier L
+- authtype: Author
+  name: Joly-Testault V
+- authtype: Author
+  name: Médiouni-Cloarec G
+- authtype: Author
+  name: Doublé C
+- authtype: Author
+  name: Martins B
+- authtype: Author
+  name: Salmon E
+- authtype: Author
+  name: Piazza M
+- authtype: Author
+  name: Melcher D
+- authtype: Author
+  name: Pessiglione M
+- authtype: Author
+  name: van Wassenhove V
+- authtype: Author
+  name: Eger E
+- authtype: Author
+  name: Varoquaux G
+- authtype: Author
+  name: Dehaene S
+- authtype: Author
+  name: Hertz-Pannier L
+- authtype: Author
+  name: Thirion B
+epubdate: 2020 Oct 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '353'
+pmclivedate: 2020/10/19
+printpubdate: ''
+pubdate: 2020 Oct 16
+sortdate: 2020/10/16 00:00
+source: Sci Data
+title: Individual Brain Charting dataset extension, second release of high-resolution
+  fMRI data for cognitive mapping
+uid: '7567863'
+volume: '7'

@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '38419667'
+- idtype: doi
+  value: 10.3389/fnins.2024.1306344
+- idtype: pmcid
+  value: PMC10900985
+authors:
+- authtype: Author
+  name: Cecconi B
+- authtype: Author
+  name: Montupil J
+- authtype: Author
+  name: Mortaheb S
+- authtype: Author
+  name: Panda R
+- authtype: Author
+  name: Sanders RD
+- authtype: Author
+  name: Phillips C
+- authtype: Author
+  name: Alnagger N
+- authtype: Author
+  name: Remacle E
+- authtype: Author
+  name: Defresne A
+- authtype: Author
+  name: Boly M
+- authtype: Author
+  name: Bahri MA
+- authtype: Author
+  name: Lamalle L
+- authtype: Author
+  name: Laureys S
+- authtype: Author
+  name: Gosseries O
+- authtype: Author
+  name: Bonhomme V
+- authtype: Author
+  name: Annen J
+epubdate: 2024 Feb 13
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '1306344'
+pmclivedate: 2024/02/28
+printpubdate: ''
+pubdate: 2024 Feb 13
+sortdate: 2024/02/13 00:00
+source: Front Neurosci
+title: 'Study protocol: Cerebral characterization of sensory gating in disconnected
+  dreaming states during propofol anesthesia using fMRI'
+uid: '10900985'
+volume: '18'

@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '37181735'
+- idtype: doi
+  value: 10.3389/fninf.2023.1082111
+- idtype: pmcid
+  value: PMC10166805
+authors:
+- authtype: Author
+  name: Bowen Z
+- authtype: Author
+  name: Magnusson G
+- authtype: Author
+  name: Diep M
+- authtype: Author
+  name: Ayyangar U
+- authtype: Author
+  name: Smirnov A
+- authtype: Author
+  name: Kanold PO
+- authtype: Author
+  name: Losert W
+epubdate: 2023 Apr 25
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1082111'
+pmclivedate: 2023/05/10
+printpubdate: ''
+pubdate: 2023 Apr 25
+sortdate: 2023/04/25 00:00
+source: Front Neuroinform
+title: 'NeuroWRAP: integrating, validating, and sharing neurodata analysis workflows'
+uid: '10166805'
+volume: '17'

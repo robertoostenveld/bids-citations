@@ -1,0 +1,99 @@
+articleids:
+- idtype: pmid
+  value: '38106459'
+- idtype: pmcid
+  value: PMC10723526
+authors:
+- authtype: Author
+  name: Familiar AM
+- authtype: Author
+  name: Kazerooni AF
+- authtype: Author
+  name: Anderson H
+- authtype: Author
+  name: Lubneuski A
+- authtype: Author
+  name: Viswanathan K
+- authtype: Author
+  name: Breslow R
+- authtype: Author
+  name: Khalili N
+- authtype: Author
+  name: Bagheri S
+- authtype: Author
+  name: Haldar D
+- authtype: Author
+  name: Kim MC
+- authtype: Author
+  name: Arif S
+- authtype: Author
+  name: Madhogarhia R
+- authtype: Author
+  name: Nguyen TQ
+- authtype: Author
+  name: Frenkel EA
+- authtype: Author
+  name: Helili Z
+- authtype: Author
+  name: Harrison J
+- authtype: Author
+  name: Farahani K
+- authtype: Author
+  name: Linguraru MG
+- authtype: Author
+  name: Bagci U
+- authtype: Author
+  name: Velichko Y
+- authtype: Author
+  name: Stevens J
+- authtype: Author
+  name: Leary S
+- authtype: Author
+  name: Lober RM
+- authtype: Author
+  name: Campion S
+- authtype: Author
+  name: Smith AA
+- authtype: Author
+  name: Morinigo D
+- authtype: Author
+  name: Rood B
+- authtype: Author
+  name: Diamond K
+- authtype: Author
+  name: Pollack IF
+- authtype: Author
+  name: Williams M
+- authtype: Author
+  name: Vossough A
+- authtype: Author
+  name: Ware JB
+- authtype: Author
+  name: Mueller S
+- authtype: Author
+  name: Storm PB
+- authtype: Author
+  name: Heath AP
+- authtype: Author
+  name: Waanders AJ
+- authtype: Author
+  name: Lilly J
+- authtype: Author
+  name: Mason JL
+- authtype: Author
+  name: Resnick AC
+- authtype: Author
+  name: Nabavizadeh A
+epubdate: 2023 Oct 2
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2310.01413v1
+pmclivedate: 2023/12/16
+printpubdate: ''
+pubdate: 2023 Oct 2
+sortdate: 2023/10/02 00:00
+source: ArXiv
+title: A multi-institutional pediatric dataset of clinical radiology MRIs by the Children’s
+  Brain Tumor Network
+uid: '10723526'
+volume: ''

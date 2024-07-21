@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '35784190'
+- idtype: doi
+  value: 10.3389/fninf.2022.883223
+- idtype: pmcid
+  value: PMC9239912
+authors:
+- authtype: Author
+  name: Frazier-Logue N
+- authtype: Author
+  name: Wang J
+- authtype: Author
+  name: Wang Z
+- authtype: Author
+  name: Sodums D
+- authtype: Author
+  name: Khosla A
+- authtype: Author
+  name: Samson AD
+- authtype: Author
+  name: McIntosh AR
+- authtype: Author
+  name: Shen K
+epubdate: 2022 Jun 14
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '883223'
+pmclivedate: 2022/06/30
+printpubdate: ''
+pubdate: 2022 Jun 14
+sortdate: 2022/06/14 00:00
+source: Front Neuroinform
+title: A Robust Modular Automated Neuroimaging Pipeline for Model Inputs to TheVirtualBrain
+uid: '9239912'
+volume: '16'

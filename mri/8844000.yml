@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '35165257'
+- idtype: doi
+  value: 10.1038/s41398-022-01812-5
+- idtype: pmcid
+  value: PMC8844000
+authors:
+- authtype: Author
+  name: Ioanas HI
+- authtype: Author
+  name: Saab BJ
+- authtype: Author
+  name: Rudin M
+epubdate: 2022 Feb 14
+fulljournalname: Translational Psychiatry
+issue: ''
+pages: '60'
+pmclivedate: 2022/03/02
+printpubdate: ''
+pubdate: 2022 Feb 14
+sortdate: 2022/02/14 00:00
+source: Transl Psychiatry
+title: Whole-brain opto-fMRI map of mouse VTA dopaminergic activation reflects structural
+  projections with small but significant deviations
+uid: '8844000'
+volume: '12'

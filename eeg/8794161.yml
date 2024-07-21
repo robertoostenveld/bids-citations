@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '35085301'
+- idtype: doi
+  value: 10.1371/journal.pone.0262718
+- idtype: pmcid
+  value: PMC8794161
+authors:
+- authtype: Author
+  name: Reteig LC
+- authtype: Author
+  name: Newman LA
+- authtype: Author
+  name: Ridderinkhof KR
+- authtype: Author
+  name: Slagter HA
+epubdate: 2022 Jan 27
+fulljournalname: PLoS ONE
+issue: '1'
+pages: e0262718
+pmclivedate: 2022/01/28
+printpubdate: ''
+pubdate: 2022 Jan 27
+sortdate: 2022/01/27 00:00
+source: PLoS One
+title: 'Effects of tDCS on the attentional blink revisited: A statistical evaluation
+  of a replication attempt'
+uid: '8794161'
+volume: '17'

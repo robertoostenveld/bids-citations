@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '35697741'
+- idtype: doi
+  value: 10.1038/s41597-022-01398-z
+- idtype: pmcid
+  value: PMC9192640
+authors:
+- authtype: Author
+  name: Renton AI
+- authtype: Author
+  name: Painter DR
+- authtype: Author
+  name: Mattingley JB
+epubdate: 2022 Jun 13
+fulljournalname: Scientific Data
+issue: ''
+pages: '296'
+pmclivedate: 2022/06/15
+printpubdate: ''
+pubdate: 2022 Jun 13
+sortdate: 2022/06/13 00:00
+source: Sci Data
+title: Optimising the classification of feature-based attention in frequency-tagged
+  electroencephalography data
+uid: '9192640'
+volume: '9'

@@ -1,0 +1,60 @@
+articleids:
+- idtype: pmid
+  value: '34354282'
+- idtype: doi
+  value: 10.1038/s41593-021-00901-w
+- idtype: pmcid
+  value: PMC8547387
+- idtype: MID
+  value: NIHMS1743906
+authors:
+- authtype: Author
+  name: Li A
+- authtype: Author
+  name: Huynh C
+- authtype: Author
+  name: Fitzgerald Z
+- authtype: Author
+  name: Cajigas I
+- authtype: Author
+  name: Brusko D
+- authtype: Author
+  name: Jagid J
+- authtype: Author
+  name: Claudio A
+- authtype: Author
+  name: Kanner A
+- authtype: Author
+  name: Hopp J
+- authtype: Author
+  name: Chen S
+- authtype: Author
+  name: Haagensen J
+- authtype: Author
+  name: Johnson E
+- authtype: Author
+  name: Anderson W
+- authtype: Author
+  name: Crone N
+- authtype: Author
+  name: Inati S
+- authtype: Author
+  name: Zaghloul K
+- authtype: Author
+  name: Bulacio J
+- authtype: Author
+  name: Gonzalez-Martinez J
+- authtype: Author
+  name: Sarma SV
+epubdate: 2021 Aug 5
+fulljournalname: Nature neuroscience
+issue: '10'
+pages: 1465-1474
+pmclivedate: 2022/04/01
+printpubdate: 2021 Oct
+pubdate: 2021 Aug 5
+sortdate: 2021/08/05 00:00
+source: Nat Neurosci
+title: Neural Fragility as an EEG Marker of the Seizure Onset Zone
+uid: '8547387'
+volume: '24'

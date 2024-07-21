@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '31636533'
+- idtype: doi
+  value: 10.3389/fnins.2019.01053
+- idtype: pmcid
+  value: PMC6788344
+authors:
+- authtype: Author
+  name: Pena D
+- authtype: Author
+  name: Barman A
+- authtype: Author
+  name: Suescun J
+- authtype: Author
+  name: Jiang X
+- authtype: Author
+  name: Schiess MC
+- authtype: Author
+  name: Giancardo L
+- authtype: CollectiveName
+  name: the Alzheimer's Disease Neuroimaging Initiative
+epubdate: 2019 Oct 4
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '1053'
+pmclivedate: 2019/10/21
+printpubdate: ''
+pubdate: 2019 Oct 4
+sortdate: 2019/10/04 00:00
+source: Front Neurosci
+title: Quantifying Neurodegenerative Progression With DeepSymNet, an End-to-End Data-Driven
+  Approach
+uid: '6788344'
+volume: '13'

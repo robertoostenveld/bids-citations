@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '34624638'
+- idtype: doi
+  value: 10.1016/j.nicl.2021.102849
+- idtype: pmcid
+  value: PMC8503570
+authors:
+- authtype: Author
+  name: Bautin P
+- authtype: Author
+  name: Cohen-Adad J
+epubdate: 2021 Oct 4
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '102849'
+pmclivedate: 2021/10/15
+printpubdate: ''
+pubdate: 2021 Oct 4
+sortdate: 2021/10/04 00:00
+source: Neuroimage Clin
+title: 'Minimum detectable spinal cord atrophy with automatic segmentation: Investigations
+  using an open-access dataset of healthy participants'
+uid: '8503570'
+volume: '32'

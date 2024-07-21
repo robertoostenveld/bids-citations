@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '35999222'
+- idtype: doi
+  value: 10.1038/s41597-022-01644-4
+- idtype: pmcid
+  value: PMC9399117
+authors:
+- authtype: Author
+  name: Ma S
+- authtype: Author
+  name: Huang T
+- authtype: Author
+  name: Qu Y
+- authtype: Author
+  name: Chen X
+- authtype: Author
+  name: Zhang Y
+- authtype: Author
+  name: Zhen Z
+epubdate: 2022 Aug 23
+fulljournalname: Scientific Data
+issue: ''
+pages: '515'
+pmclivedate: 2022/08/25
+printpubdate: ''
+pubdate: 2022 Aug 23
+sortdate: 2022/08/23 00:00
+source: Sci Data
+title: An fMRI dataset for whole-body somatotopic mapping in humans
+uid: '9399117'
+volume: '9'

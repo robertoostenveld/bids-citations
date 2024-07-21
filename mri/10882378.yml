@@ -1,0 +1,50 @@
+articleids:
+- idtype: pmid
+  value: '38373861'
+- idtype: doi
+  value: 10.1136/bmjopen-2022-071287
+- idtype: pmcid
+  value: PMC10882378
+authors:
+- authtype: Author
+  name: Warby SA
+- authtype: Author
+  name: Ganderton C
+- authtype: Author
+  name: Watson L
+- authtype: Author
+  name: Pizzari T
+- authtype: Author
+  name: Balster S
+- authtype: Author
+  name: Hoy G
+- authtype: Author
+  name: Barwood S
+- authtype: Author
+  name: Kerr B
+- authtype: Author
+  name: Lawrence S
+- authtype: Author
+  name: Lenssen R
+- authtype: Author
+  name: Rotstein A
+- authtype: Author
+  name: Takla A
+- authtype: Author
+  name: Civier O
+- authtype: Author
+  name: Hughes M
+epubdate: 2024 Feb 19
+fulljournalname: BMJ Open
+issue: '2'
+pages: e071287
+pmclivedate: 2024/02/22
+printpubdate: ''
+pubdate: 2024 Feb 19
+sortdate: 2024/02/19 00:00
+source: BMJ Open
+title: 'Effect of a physiotherapy-directed rehabilitation programme on patients with
+  multidirectional instability of the glenohumeral joint: a multimodal interventional
+  MRI study protocol'
+uid: '10882378'
+volume: '14'

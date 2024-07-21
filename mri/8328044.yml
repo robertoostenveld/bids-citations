@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '33787328'
+- idtype: doi
+  value: 10.1089/neu.2020.7363
+- idtype: pmcid
+  value: PMC8328044
+authors:
+- authtype: Author
+  name: Hogeveen J
+- authtype: Author
+  name: Aragon DF
+- authtype: Author
+  name: Rogge-Obando K
+- authtype: Author
+  name: Campbell RA
+- authtype: Author
+  name: Shuttleworth CW
+- authtype: Author
+  name: Avila-Rieger RE
+- authtype: Author
+  name: Yeo RA
+- authtype: Author
+  name: Wilson JK
+- authtype: Author
+  name: Fratzke V
+- authtype: Author
+  name: Brandt E
+- authtype: Author
+  name: Story-Remer J
+- authtype: Author
+  name: Gill D
+- authtype: Author
+  name: Mayer AR
+- authtype: Author
+  name: Cavanagh JF
+- authtype: Author
+  name: Quinn DK
+epubdate: 2021 Jul 26
+fulljournalname: Journal of Neurotrauma
+issue: '16'
+pages: 2264-2274
+pmclivedate: 2022/08/15
+printpubdate: 2021 Aug 15
+pubdate: 2021 Jul 26
+sortdate: 2021/07/26 00:00
+source: J Neurotrauma
+title: Ventromedial Prefrontal-Anterior Cingulate Hyperconnectivity and Resilience
+  to Apathy in Traumatic Brain Injury
+uid: '8328044'
+volume: '38'

@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '31550276'
+- idtype: doi
+  value: 10.1371/journal.pone.0222914
+- idtype: pmcid
+  value: PMC6759145
+authors:
+- authtype: Author
+  name: Li Y
+- authtype: Author
+  name: Saxe R
+- authtype: Author
+  name: Anzellotti S
+epubdate: 2019 Sep 24
+fulljournalname: PLoS ONE
+issue: '9'
+pages: e0222914
+pmclivedate: 2019/10/04
+printpubdate: ''
+pubdate: 2019 Sep 24
+sortdate: 2019/09/24 00:00
+source: PLoS One
+title: 'Intersubject MVPD: Empirical comparison of fMRI denoising methods for connectivity
+  analysis'
+uid: '6759145'
+volume: '14'

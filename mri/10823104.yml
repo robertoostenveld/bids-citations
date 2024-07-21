@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '38287945'
+- idtype: doi
+  value: 10.1016/j.dib.2023.110024
+- idtype: pmcid
+  value: PMC10823104
+authors:
+- authtype: Author
+  name: Studnicki A
+- authtype: Author
+  name: Ferris DP
+epubdate: 2023 Dec 30
+fulljournalname: Data in Brief
+issue: ''
+pages: '110024'
+pmclivedate: 2024/01/29
+printpubdate: ''
+pubdate: 2023 Dec 30
+sortdate: 2023/12/30 00:00
+source: Data Brief
+title: Dual-layer electroencephalography data during real-world table tennis
+uid: '10823104'
+volume: '52'

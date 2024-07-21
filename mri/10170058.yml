@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '37162700'
+- idtype: doi
+  value: 10.1007/s11357-023-00805-6
+- idtype: pmcid
+  value: PMC10170058
+authors:
+- authtype: Author
+  name: Bray NW
+- authtype: Author
+  name: Pieruccini-Faria F
+- authtype: Author
+  name: Witt ST
+- authtype: Author
+  name: Bartha R
+- authtype: Author
+  name: Doherty TJ
+- authtype: Author
+  name: Nagamatsu LS
+- authtype: Author
+  name: Almeida QJ
+- authtype: Author
+  name: Liu-Ambrose T
+- authtype: Author
+  name: Middleton LE
+- authtype: Author
+  name: Bherer L
+- authtype: Author
+  name: Montero-Odasso M
+epubdate: 2023 May 10
+fulljournalname: GeroScience
+issue: '3'
+pages: 1967-1985
+pmclivedate: 2023/05/11
+printpubdate: ''
+pubdate: 2023 May 10
+sortdate: 2023/05/10 00:00
+source: GeroScience
+title: Combining exercise with cognitive training and vitamin D3 to improve functional
+  brain connectivity (FBC) in older adults with mild cognitive impairment (MCI). Results
+  from the SYNERGIC trial
+uid: '10170058'
+volume: '45'

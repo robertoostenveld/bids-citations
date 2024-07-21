@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '37797434'
+- idtype: doi
+  value: 10.1016/j.nicl.2023.103519
+- idtype: pmcid
+  value: PMC10568416
+authors:
+- authtype: Author
+  name: Alushaj E
+- authtype: Author
+  name: Hemachandra D
+- authtype: Author
+  name: Kuurstra A
+- authtype: Author
+  name: Menon RS
+- authtype: Author
+  name: Ganjavi H
+- authtype: Author
+  name: Sharma M
+- authtype: Author
+  name: Kashgari A
+- authtype: Author
+  name: Barr J
+- authtype: Author
+  name: Reisman W
+- authtype: Author
+  name: Khan AR
+- authtype: Author
+  name: MacDonald PA
+epubdate: 2023 Sep 28
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '103519'
+pmclivedate: 2023/10/13
+printpubdate: ''
+pubdate: 2023 Sep 28
+sortdate: 2023/09/28 00:00
+source: Neuroimage Clin
+title: Subregional analysis of striatum iron in Parkinson’s disease and rapid eye
+  movement sleep behaviour disorder
+uid: '10568416'
+volume: '40'

@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '31885863'
+- idtype: doi
+  value: 10.12688/f1000research.20496.1
+- idtype: pmcid
+  value: PMC6913234
+authors:
+- authtype: Author
+  name: Morgan C
+- authtype: Author
+  name: Schwarzkopf DS
+epubdate: 2020 Feb 26
+fulljournalname: F1000Research
+issue: ''
+pages: '1681'
+pmclivedate: 2019/12/27
+printpubdate: ''
+pubdate: 2020 Feb 26
+sortdate: 2020/02/26 00:00
+source: F1000Res
+title: Comparison of human population receptive field estimates between scanners and
+  the effect of temporal filtering
+uid: '6913234'
+volume: '8'

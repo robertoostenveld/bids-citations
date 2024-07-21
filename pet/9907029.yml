@@ -1,0 +1,91 @@
+articleids:
+- idtype: pmid
+  value: '36761917'
+- idtype: doi
+  value: 10.3389/fneur.2022.1063598
+- idtype: pmcid
+  value: PMC9907029
+authors:
+- authtype: Author
+  name: Collij LE
+- authtype: Author
+  name: Farrar G
+- authtype: Author
+  name: Valléz García D
+- authtype: Author
+  name: Bader I
+- authtype: Author
+  name: Shekari M
+- authtype: Author
+  name: Lorenzini L
+- authtype: Author
+  name: Pemberton H
+- authtype: Author
+  name: Altomare D
+- authtype: Author
+  name: Pla S
+- authtype: Author
+  name: Loor M
+- authtype: Author
+  name: Markiewicz P
+- authtype: Author
+  name: Yaqub M
+- authtype: Author
+  name: Buckley C
+- authtype: Author
+  name: Frisoni GB
+- authtype: Author
+  name: Nordberg A
+- authtype: Author
+  name: Payoux P
+- authtype: Author
+  name: Stephens A
+- authtype: Author
+  name: Gismondi R
+- authtype: Author
+  name: Visser PJ
+- authtype: Author
+  name: Ford L
+- authtype: Author
+  name: Schmidt M
+- authtype: Author
+  name: Birck C
+- authtype: Author
+  name: Georges J
+- authtype: Author
+  name: Mett A
+- authtype: Author
+  name: Walker Z
+- authtype: Author
+  name: Boada M
+- authtype: Author
+  name: Drzezga A
+- authtype: Author
+  name: Vandenberghe R
+- authtype: Author
+  name: Hanseeuw B
+- authtype: Author
+  name: Jessen F
+- authtype: Author
+  name: Schöll M
+- authtype: Author
+  name: Ritchie C
+- authtype: Author
+  name: Lopes Alves I
+- authtype: Author
+  name: Gispert JD
+- authtype: Author
+  name: Barkhof F
+epubdate: 2023 Jan 20
+fulljournalname: Frontiers in Neurology
+issue: ''
+pages: '1063598'
+pmclivedate: 2023/02/08
+printpubdate: ''
+pubdate: 2023 Jan 20
+sortdate: 2023/01/20 00:00
+source: Front Neurol
+title: 'The amyloid imaging for the prevention of Alzheimer''s disease consortium:
+  A European collaboration with global impact'
+uid: '9907029'
+volume: '13'

@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '28327935'
+- idtype: doi
+  value: 10.1093/gigascience/gix013
+- idtype: pmcid
+  value: PMC5467033
+authors:
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Kleissas D
+- authtype: Author
+  name: Roncal WG
+- authtype: Author
+  name: Litt B
+- authtype: Author
+  name: Wandell B
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Wiener M
+- authtype: Author
+  name: Vogelstein RJ
+- authtype: Author
+  name: Burns R
+- authtype: Author
+  name: Vogelstein JT
+epubdate: 2017 Mar 7
+fulljournalname: GigaScience
+issue: '5'
+pages: 1-10
+pmclivedate: 2017/06/19
+printpubdate: ''
+pubdate: 2017 Mar 7
+sortdate: 2017/03/07 00:00
+source: Gigascience
+title: 'Science in the cloud (SIC): A use case in MRI connectomics'
+uid: '5467033'
+volume: '6'

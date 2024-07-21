@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '28291265'
+- idtype: doi
+  value: 10.1038/sdata.2017.32
+- idtype: pmcid
+  value: PMC5349250
+authors:
+- authtype: Author
+  name: Lüsebrink F
+- authtype: Author
+  name: Sciarra A
+- authtype: Author
+  name: Mattern H
+- authtype: Author
+  name: Yakupov R
+- authtype: Author
+  name: Speck O
+epubdate: 2017 Mar 14
+fulljournalname: Scientific Data
+issue: ''
+pages: '170032'
+pmclivedate: 2017/03/17
+printpubdate: ''
+pubdate: 2017 Mar 14
+sortdate: 2017/03/14 00:00
+source: Sci Data
+title: T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic
+  resolution of 250 μm
+uid: '5349250'
+volume: '4'

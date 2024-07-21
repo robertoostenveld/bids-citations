@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '35266973'
+- idtype: doi
+  value: 10.1093/cercor/bhac062
+- idtype: pmcid
+  value: PMC9758588
+authors:
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Hertwig R
+- authtype: Author
+  name: Spitzer B
+epubdate: 2022 Mar 10
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '1'
+pages: 207-221
+pmclivedate: 2022/12/19
+printpubdate: ''
+pubdate: 2022 Mar 10
+sortdate: 2022/03/10 00:00
+source: Cereb Cortex
+title: Control over sampling boosts numerical evidence processing in human decisions
+  from experience
+uid: '9758588'
+volume: '33'

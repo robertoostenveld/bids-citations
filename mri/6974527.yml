@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '31713656'
+- idtype: doi
+  value: 10.1007/s00259-019-04541-y
+- idtype: pmcid
+  value: PMC6974527
+authors:
+- authtype: Author
+  name: Matheson GJ
+- authtype: Author
+  name: Plavén-Sigray P
+- authtype: Author
+  name: Tuisku J
+- authtype: Author
+  name: Rinne J
+- authtype: Author
+  name: Matuskey D
+- authtype: Author
+  name: Cervenka S
+epubdate: 2019 Nov 12
+fulljournalname: European Journal of Nuclear Medicine and Molecular Imaging
+issue: '2'
+pages: 502-504
+pmclivedate: 2020/02/03
+printpubdate: '2020'
+pubdate: 2019 Nov 12
+sortdate: 2019/11/12 00:00
+source: Eur J Nucl Med Mol Imaging
+title: Clinical brain PET research must embrace multi-centre collaboration and data
+  sharing or risk its demise
+uid: '6974527'
+volume: '47'

@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '33574337'
+- idtype: doi
+  value: 10.1038/s41597-021-00823-z
+- idtype: pmcid
+  value: PMC7878753
+authors:
+- authtype: Author
+  name: Caron B
+- authtype: Author
+  name: Stuck R
+- authtype: Author
+  name: McPherson B
+- authtype: Author
+  name: Bullock D
+- authtype: Author
+  name: Kitchell L
+- authtype: Author
+  name: Faskowitz J
+- authtype: Author
+  name: Kellar D
+- authtype: Author
+  name: Cheng H
+- authtype: Author
+  name: Newman S
+- authtype: Author
+  name: Port N
+- authtype: Author
+  name: Pestilli F
+epubdate: 2021 Feb 11
+fulljournalname: Scientific Data
+issue: ''
+pages: '56'
+pmclivedate: 2021/02/24
+printpubdate: ''
+pubdate: 2021 Feb 11
+sortdate: 2021/02/11 00:00
+source: Sci Data
+title: Collegiate athlete brain data for white matter mapping and network neuroscience
+uid: '7878753'
+volume: '8'

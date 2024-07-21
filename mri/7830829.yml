@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '32745683'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2020.117207
+- idtype: pmcid
+  value: PMC7830829
+- idtype: MID
+  value: NIHMS1658215
+authors:
+- authtype: Author
+  name: Jolly E
+- authtype: Author
+  name: Sadhukha S
+- authtype: Author
+  name: Chang LJ
+epubdate: 2020 Aug 1
+fulljournalname: NeuroImage
+issue: ''
+pages: '117207'
+pmclivedate: 2021/01/25
+printpubdate: 2020 Nov 15
+pubdate: 2020 Aug 1
+sortdate: 2020/08/01 00:00
+source: Neuroimage
+title: Custom-molded headcases have limited efficacy in reducing head motion during
+  naturalistic fMRI experiments
+uid: '7830829'
+volume: '222'

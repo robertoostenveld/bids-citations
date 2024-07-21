@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '32716372'
+- idtype: doi
+  value: 10.3791/61474
+- idtype: pmcid
+  value: PMC7425813
+- idtype: MID
+  value: NIHMS1611010
+authors:
+- authtype: Author
+  name: Schneider JM
+- authtype: Author
+  name: Hu A
+- authtype: Author
+  name: Legault J
+- authtype: Author
+  name: Qi Z
+epubdate: 2020 Jun 30
+fulljournalname: 'Journal of visualized experiments : JoVE'
+issue: '160'
+pages: 10.3791/61474
+pmclivedate: 2021/06/30
+printpubdate: ''
+pubdate: 2020 Jun 30
+sortdate: 2020/06/30 00:00
+source: J Vis Exp
+title: Measuring Statistical Learning Across Modalities and Domains in School-Aged
+  Children Via an Online Platform and Neuroimaging Techniques
+uid: '7425813'
+volume: ''

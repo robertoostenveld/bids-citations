@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '38933816'
+- idtype: doi
+  value: 10.3389/fnins.2024.1389680
+- idtype: pmcid
+  value: PMC11199395
+authors:
+- authtype: Author
+  name: Kruper J
+- authtype: Author
+  name: Hagen MP
+- authtype: Author
+  name: Rheault F
+- authtype: Author
+  name: Crane I
+- authtype: Author
+  name: Gilmore A
+- authtype: Author
+  name: Narayan M
+- authtype: Author
+  name: Motwani K
+- authtype: Author
+  name: Lila E
+- authtype: Author
+  name: Rorden C
+- authtype: Author
+  name: Yeatman JD
+- authtype: Author
+  name: Rokem A
+epubdate: 2024 Jun 12
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '1389680'
+pmclivedate: 2024/06/26
+printpubdate: ''
+pubdate: 2024 Jun 12
+sortdate: 2024/06/12 00:00
+source: Front Neurosci
+title: 'Tractometry of the Human Connectome Project: resources and insights'
+uid: '11199395'
+volume: '18'

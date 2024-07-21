@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '35027555'
+- idtype: doi
+  value: 10.1038/s41597-021-01099-z
+- idtype: pmcid
+  value: PMC8758703
+authors:
+- authtype: Author
+  name: Cimbalnik J
+- authtype: Author
+  name: Dolezal J
+- authtype: Author
+  name: Topçu Ç
+- authtype: Author
+  name: Lech M
+- authtype: Author
+  name: Marks VS
+- authtype: Author
+  name: Joseph B
+- authtype: Author
+  name: Dobias M
+- authtype: Author
+  name: Van Gompel J
+- authtype: Author
+  name: Worrell G
+- authtype: Author
+  name: Kucewicz M
+epubdate: 2022 Jan 13
+fulljournalname: Scientific Data
+issue: ''
+pages: '6'
+pmclivedate: 2022/01/20
+printpubdate: ''
+pubdate: 2022 Jan 13
+sortdate: 2022/01/13 00:00
+source: Sci Data
+title: Intracranial electrophysiological recordings from the human brain during memory
+  tasks with pupillometry
+uid: '8758703'
+volume: '9'

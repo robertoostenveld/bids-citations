@@ -1,0 +1,85 @@
+articleids:
+- idtype: pmid
+  value: '35236846'
+- idtype: doi
+  value: 10.1038/s41597-022-01164-1
+- idtype: pmcid
+  value: PMC8891322
+authors:
+- authtype: Author
+  name: Norgaard M
+- authtype: Author
+  name: Matheson GJ
+- authtype: Author
+  name: Hansen HD
+- authtype: Author
+  name: Thomas A
+- authtype: Author
+  name: Searle G
+- authtype: Author
+  name: Rizzo G
+- authtype: Author
+  name: Veronese M
+- authtype: Author
+  name: Giacomel A
+- authtype: Author
+  name: Yaqub M
+- authtype: Author
+  name: Tonietto M
+- authtype: Author
+  name: Funck T
+- authtype: Author
+  name: Gillman A
+- authtype: Author
+  name: Boniface H
+- authtype: Author
+  name: Routier A
+- authtype: Author
+  name: Dalenberg JR
+- authtype: Author
+  name: Betthauser T
+- authtype: Author
+  name: Feingold F
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Blair RW
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Gau R
+- authtype: Author
+  name: Salo T
+- authtype: Author
+  name: Niso G
+- authtype: Author
+  name: Pernet C
+- authtype: Author
+  name: Phillips C
+- authtype: Author
+  name: Oostenveld R
+- authtype: Author
+  name: Gallezot JD
+- authtype: Author
+  name: Carson RE
+- authtype: Author
+  name: Knudsen GM
+- authtype: Author
+  name: Innis RB
+- authtype: Author
+  name: Ganz M
+epubdate: 2022 Mar 2
+fulljournalname: Scientific Data
+issue: ''
+pages: '65'
+pmclivedate: 2022/03/17
+printpubdate: ''
+pubdate: 2022 Mar 2
+sortdate: 2022/03/02 00:00
+source: Sci Data
+title: PET-BIDS, an extension to the brain imaging data structure for positron emission
+  tomography
+uid: '8891322'
+volume: '9'

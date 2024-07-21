@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '34785702'
+- idtype: doi
+  value: 10.1038/s41598-021-01772-8
+- idtype: pmcid
+  value: PMC8595363
+authors:
+- authtype: Author
+  name: Liebherr M
+- authtype: Author
+  name: Corcoran AW
+- authtype: Author
+  name: Alday PM
+- authtype: Author
+  name: Coussens S
+- authtype: Author
+  name: Bellan V
+- authtype: Author
+  name: Howlett CA
+- authtype: Author
+  name: Immink MA
+- authtype: Author
+  name: Kohler M
+- authtype: Author
+  name: Schlesewsky M
+- authtype: Author
+  name: Bornkessel-Schlesewsky I
+epubdate: 2021 Nov 16
+fulljournalname: Scientific Reports
+issue: ''
+pages: '22325'
+pmclivedate: 2021/11/17
+printpubdate: ''
+pubdate: 2021 Nov 16
+sortdate: 2021/11/16 00:00
+source: Sci Rep
+title: EEG and behavioral correlates of attentional processing while walking and navigating
+  naturalistic environments
+uid: '8595363'
+volume: '11'

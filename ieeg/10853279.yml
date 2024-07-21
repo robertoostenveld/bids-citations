@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38332144'
+- idtype: doi
+  value: 10.1038/s41597-024-02959-0
+- idtype: pmcid
+  value: PMC10853279
+authors:
+- authtype: Author
+  name: Levitas D
+- authtype: Author
+  name: Hayashi S
+- authtype: Author
+  name: Vinci-Booher S
+- authtype: Author
+  name: Heinsfeld A
+- authtype: Author
+  name: Bhatia D
+- authtype: Author
+  name: Lee N
+- authtype: Author
+  name: Galassi A
+- authtype: Author
+  name: Niso G
+- authtype: Author
+  name: Pestilli F
+epubdate: 2024 Feb 8
+fulljournalname: Scientific Data
+issue: ''
+pages: '179'
+pmclivedate: 2024/02/09
+printpubdate: ''
+pubdate: 2024 Feb 8
+sortdate: 2024/02/08 00:00
+source: Sci Data
+title: 'ezBIDS: Guided standardization of neuroimaging data interoperable with major
+  data archives and platforms'
+uid: '10853279'
+volume: '11'

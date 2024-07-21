@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '34658334'
+- idtype: doi
+  value: 10.7554/eLife.71774
+- idtype: pmcid
+  value: PMC8550750
+authors:
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Feingold F
+- authtype: Author
+  name: Blair R
+- authtype: Author
+  name: Halchenko YO
+- authtype: Author
+  name: Miller E
+- authtype: Author
+  name: Hardcastle N
+- authtype: Author
+  name: Wexler J
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Goncavles M
+- authtype: Author
+  name: Jwa A
+- authtype: Author
+  name: Poldrack R
+epubdate: 2021 Oct 18
+fulljournalname: eLife
+issue: ''
+pages: e71774
+pmclivedate: 2021/10/29
+printpubdate: ''
+pubdate: 2021 Oct 18
+sortdate: 2021/10/18 00:00
+source: eLife
+title: The OpenNeuro resource for sharing of neuroscience data
+uid: '8550750'
+volume: '10'

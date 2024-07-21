@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '32566704'
+- idtype: doi
+  value: 10.1016/j.dib.2020.105801
+- idtype: pmcid
+  value: PMC7298646
+authors:
+- authtype: Author
+  name: Lytle MN
+- authtype: Author
+  name: Hammer R
+- authtype: Author
+  name: Booth JR
+epubdate: 2020 Jun 2
+fulljournalname: Data in Brief
+issue: ''
+pages: '105801'
+pmclivedate: 2020/06/19
+printpubdate: ''
+pubdate: 2020 Jun 2
+sortdate: 2020/06/02 00:00
+source: Data Brief
+title: A neuroimaging dataset on working memory and reward processing in children
+  with and without ADHD
+uid: '7298646'
+volume: '31'

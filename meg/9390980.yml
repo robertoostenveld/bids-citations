@@ -1,0 +1,55 @@
+articleids:
+- idtype: pmid
+  value: '35990374'
+- idtype: doi
+  value: 10.21105/joss.01896
+- idtype: pmcid
+  value: PMC9390980
+- idtype: MID
+  value: NIHMS1780640
+authors:
+- authtype: Author
+  name: Appelhoff S
+- authtype: Author
+  name: Sanderson M
+- authtype: Author
+  name: Brooks TL
+- authtype: Author
+  name: van Vliet M
+- authtype: Author
+  name: Quentin R
+- authtype: Author
+  name: Holdgraf C
+- authtype: Author
+  name: Chaumon M
+- authtype: Author
+  name: Mikulan E
+- authtype: Author
+  name: Tavabi K
+- authtype: Author
+  name: Höchenberger R
+- authtype: Author
+  name: Welke D
+- authtype: Author
+  name: Brunner C
+- authtype: Author
+  name: Rockhill AP
+- authtype: Author
+  name: Larson E
+- authtype: Author
+  name: Gramfort A
+- authtype: Author
+  name: Jas M
+epubdate: 2019 Dec 18
+fulljournalname: Journal of open source software
+issue: '44'
+pages: '1896'
+pmclivedate: 2022/08/19
+printpubdate: '2019'
+pubdate: 2019 Dec 18
+sortdate: 2019/12/18 00:00
+source: J Open Source Softw
+title: 'MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating
+  their analysis'
+uid: '9390980'
+volume: '4'

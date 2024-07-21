@@ -1,0 +1,56 @@
+articleids:
+- idtype: pmid
+  value: '27922621'
+- idtype: doi
+  value: 10.1038/sdata.2016.102
+- idtype: pmcid
+  value: PMC5139675
+authors:
+- authtype: Author
+  name: Maumet C
+- authtype: Author
+  name: Auer T
+- authtype: Author
+  name: Bowring A
+- authtype: Author
+  name: Chen G
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Flandin G
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Helmer KG
+- authtype: Author
+  name: Jenkinson M
+- authtype: Author
+  name: Keator DB
+- authtype: Author
+  name: Nichols BN
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Reynolds R
+- authtype: Author
+  name: Sochat V
+- authtype: Author
+  name: Turner J
+- authtype: Author
+  name: Nichols TE
+epubdate: 2016 Dec 6
+fulljournalname: Scientific Data
+issue: ''
+pages: '160102'
+pmclivedate: 2016/12/08
+printpubdate: ''
+pubdate: 2016 Dec 6
+sortdate: 2016/12/06 00:00
+source: Sci Data
+title: Sharing brain mapping statistical results with the neuroimaging data model
+uid: '5139675'
+volume: '3'

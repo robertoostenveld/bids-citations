@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '37424962'
+- idtype: doi
+  value: 10.1002/dad2.12455
+- idtype: pmcid
+  value: PMC10329259
+authors:
+- authtype: Author
+  name: Prado P
+- authtype: Author
+  name: Mejía JA
+- authtype: Author
+  name: Sainz‐Ballesteros A
+- authtype: Author
+  name: Birba A
+- authtype: Author
+  name: Moguilner S
+- authtype: Author
+  name: Herzog R
+- authtype: Author
+  name: Otero M
+- authtype: Author
+  name: Cuadros J
+- authtype: Author
+  name: Z‐Rivera L
+- authtype: Author
+  name: O'Byrne DF
+- authtype: Author
+  name: Parra M
+- authtype: Author
+  name: Ibáñez A
+epubdate: 2023 Jul 8
+fulljournalname: 'Alzheimer''s & Dementia : Diagnosis, Assessment & Disease Monitoring'
+issue: '3'
+pages: e12455
+pmclivedate: 2023/07/09
+printpubdate: ''
+pubdate: 2023 Jul 8
+sortdate: 2023/07/08 00:00
+source: Alzheimers Dement (Amst)
+title: Harmonized multi‐metric and multi‐centric assessment of EEG source space connectivity
+  for dementia characterization
+uid: '10329259'
+volume: '15'

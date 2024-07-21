@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '35599834'
+- idtype: doi
+  value: 10.1016/j.dib.2022.108225
+- idtype: pmcid
+  value: PMC9114495
+authors:
+- authtype: Author
+  name: Peterson V
+- authtype: Author
+  name: Galván C
+- authtype: Author
+  name: Hernández H
+- authtype: Author
+  name: Saavedra MP
+- authtype: Author
+  name: Spies R
+epubdate: 2022 Apr 30
+fulljournalname: Data in Brief
+issue: ''
+pages: '108225'
+pmclivedate: 2022/05/19
+printpubdate: ''
+pubdate: 2022 Apr 30
+sortdate: 2022/04/30 00:00
+source: Data Brief
+title: A motor imagery vs. rest dataset with low-cost consumer grade EEG hardware
+uid: '9114495'
+volume: '42'

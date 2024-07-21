@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '38021241'
+- idtype: doi
+  value: 10.3389/fnhum.2023.1276994
+- idtype: pmcid
+  value: PMC10672243
+authors:
+- authtype: Author
+  name: Ren X
+- authtype: Author
+  name: Dong B
+- authtype: Author
+  name: Luan Y
+- authtype: Author
+  name: Wu Y
+- authtype: Author
+  name: Huang Y
+- authtype: CollectiveName
+  name: the Alzheimer's Disease Neuroimaging Initiative
+epubdate: 2023 Nov 9
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '1276994'
+pmclivedate: 2023/01/01
+printpubdate: ''
+pubdate: 2023 Nov 9
+sortdate: 2023/11/09 00:00
+source: Front Hum Neurosci
+title: Alterations via inter-regional connective relationships in Alzheimer’s disease
+uid: '10672243'
+volume: '17'

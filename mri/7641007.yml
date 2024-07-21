@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '33214792'
+- idtype: doi
+  value: 10.3389/fninf.2020.571039
+- idtype: pmcid
+  value: PMC7641007
+authors:
+- authtype: Author
+  name: Mandal PK
+- authtype: Author
+  name: Sandal K
+- authtype: Author
+  name: Shukla D
+- authtype: Author
+  name: Tripathi M
+- authtype: Author
+  name: Singh K
+- authtype: Author
+  name: Roy S
+epubdate: 2020 Oct 21
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '571039'
+pmclivedate: 2020/11/18
+printpubdate: ''
+pubdate: 2020 Oct 21
+sortdate: 2020/10/21 00:00
+source: Front Neuroinform
+title: 'ANSH: Multimodal Neuroimaging Database Including MR Spectroscopic Data From
+  Each Continent to Advance Alzheimer’s Disease Research'
+uid: '7641007'
+volume: '14'

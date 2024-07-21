@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '37516756'
+- idtype: doi
+  value: 10.1038/s41597-023-02396-5
+- idtype: pmcid
+  value: PMC10387077
+authors:
+- authtype: Author
+  name: Yoo HJ
+- authtype: Author
+  name: Nashiro K
+- authtype: Author
+  name: Min J
+- authtype: Author
+  name: Cho C
+- authtype: Author
+  name: Mercer N
+- authtype: Author
+  name: Bachman SL
+- authtype: Author
+  name: Nasseri P
+- authtype: Author
+  name: Dutt S
+- authtype: Author
+  name: Porat S
+- authtype: Author
+  name: Choi P
+- authtype: Author
+  name: Zhang Y
+- authtype: Author
+  name: Grigoryan V
+- authtype: Author
+  name: Feng T
+- authtype: Author
+  name: Thayer JF
+- authtype: Author
+  name: Lehrer P
+- authtype: Author
+  name: Chang C
+- authtype: Author
+  name: Stanley JA
+- authtype: Author
+  name: Head E
+- authtype: Author
+  name: Rouanet J
+- authtype: Author
+  name: Marmarelis VZ
+- authtype: Author
+  name: Narayanan S
+- authtype: Author
+  name: Wisnowski J
+- authtype: Author
+  name: Nation DA
+- authtype: Author
+  name: Mather M
+epubdate: 2023 Jul 29
+fulljournalname: Scientific Data
+issue: ''
+pages: '503'
+pmclivedate: 2023/07/31
+printpubdate: ''
+pubdate: 2023 Jul 29
+sortdate: 2023/07/29 00:00
+source: Sci Data
+title: Multimodal neuroimaging data from a 5-week heart rate variability biofeedback
+  randomized clinical trial
+uid: '10387077'
+volume: '10'

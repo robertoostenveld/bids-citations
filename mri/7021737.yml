@@ -1,0 +1,67 @@
+articleids:
+- idtype: pmid
+  value: '31628564'
+- idtype: doi
+  value: 10.1007/s10334-019-00784-w
+- idtype: pmcid
+  value: PMC7021737
+authors:
+- authtype: Author
+  name: Mendichovszky I
+- authtype: Author
+  name: Pullens P
+- authtype: Author
+  name: Dekkers I
+- authtype: Author
+  name: Nery F
+- authtype: Author
+  name: Bane O
+- authtype: Author
+  name: Pohlmann A
+- authtype: Author
+  name: de Boer A
+- authtype: Author
+  name: Ljimani A
+- authtype: Author
+  name: Odudu A
+- authtype: Author
+  name: Buchanan C
+- authtype: Author
+  name: Sharma K
+- authtype: Author
+  name: Laustsen C
+- authtype: Author
+  name: Harteveld A
+- authtype: Author
+  name: Golay X
+- authtype: Author
+  name: Pedrosa I
+- authtype: Author
+  name: Alsop D
+- authtype: Author
+  name: Fain S
+- authtype: Author
+  name: Caroli A
+- authtype: Author
+  name: Prasad P
+- authtype: Author
+  name: Francis S
+- authtype: Author
+  name: Sigmund E
+- authtype: Author
+  name: Fernández‐Seara M
+- authtype: Author
+  name: Sourbron S
+epubdate: 2019 Oct 18
+fulljournalname: Magma (New York, N.y.)
+issue: '1'
+pages: 131-140
+pmclivedate: 2020/02/17
+printpubdate: '2020'
+pubdate: 2019 Oct 18
+sortdate: 2019/10/18 00:00
+source: MAGMA
+title: 'Technical recommendations for clinical translation of renal MRI: a consensus
+  project of the Cooperation in Science and Technology Action PARENCHIMA'
+uid: '7021737'
+volume: '33'

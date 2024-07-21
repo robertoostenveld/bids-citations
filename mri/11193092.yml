@@ -1,0 +1,43 @@
+articleids:
+- idtype: pmid
+  value: '0'
+- idtype: doi
+  value: 10.1002/hbm.26701
+- idtype: pmcid
+  value: PMC11193092
+authors:
+- authtype: Author
+  name: Bey P
+- authtype: Author
+  name: Dhindsa K
+- authtype: Author
+  name: Kashyap A
+- authtype: Author
+  name: Schirner M
+- authtype: Author
+  name: Feldheim J
+- authtype: Author
+  name: Bönstrup M
+- authtype: Author
+  name: Schulz R
+- authtype: Author
+  name: Cheng B
+- authtype: Author
+  name: Thomalla G
+- authtype: Author
+  name: Gerloff C
+- authtype: Author
+  name: Ritter P
+epubdate: 2024 Jun 22
+fulljournalname: Human Brain Mapping
+issue: '9'
+pages: e26701
+pmclivedate: 2024/06/22
+printpubdate: ''
+pubdate: 2024 Jun 22
+sortdate: 2024/06/22 00:00
+source: Hum Brain Mapp
+title: A lesion‐aware automated processing framework for clinical stroke magnetic
+  resonance imaging
+uid: '11193092'
+volume: '45'

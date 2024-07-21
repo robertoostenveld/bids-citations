@@ -1,0 +1,26 @@
+articleids:
+- idtype: pmid
+  value: '31139070'
+- idtype: doi
+  value: 10.3389/fninf.2019.00029
+- idtype: pmcid
+  value: PMC6517786
+authors:
+- authtype: Author
+  name: Keshavan A
+- authtype: Author
+  name: Yeatman JD
+- authtype: Author
+  name: Rokem A
+epubdate: 2019 May 8
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '29'
+pmclivedate: 2019/05/28
+printpubdate: ''
+pubdate: 2019 May 8
+sortdate: 2019/05/08 00:00
+source: Front Neuroinform
+title: Combining Citizen Science and Deep Learning to Amplify Expertise in Neuroimaging
+uid: '6517786'
+volume: '13'

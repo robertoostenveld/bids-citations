@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '33716693'
+- idtype: doi
+  value: 10.3389/fnhum.2021.623766
+- idtype: pmcid
+  value: PMC7952529
+authors:
+- authtype: Author
+  name: Mikos A
+- authtype: Author
+  name: Malagurski B
+- authtype: Author
+  name: Liem F
+- authtype: Author
+  name: Mérillat S
+- authtype: Author
+  name: Jäncke L
+epubdate: 2021 Feb 26
+fulljournalname: Frontiers in Human Neuroscience
+issue: ''
+pages: '623766'
+pmclivedate: 2021/03/13
+printpubdate: ''
+pubdate: 2021 Feb 26
+sortdate: 2021/02/26 00:00
+source: Front Hum Neurosci
+title: Object-Location Memory Training in Older Adults Leads to Greater Deactivation
+  of the Dorsal Default Mode Network
+uid: '7952529'
+volume: '15'

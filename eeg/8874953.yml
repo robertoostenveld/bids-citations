@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '35074827'
+- idtype: doi
+  value: 10.1523/ENEURO.0073-21.2022
+- idtype: pmcid
+  value: PMC8874953
+authors:
+- authtype: Author
+  name: García Murillo D
+- authtype: Author
+  name: Zhao Y
+- authtype: Author
+  name: Rogovin OS
+- authtype: Author
+  name: Zhang K
+- authtype: Author
+  name: Hu AW
+- authtype: Author
+  name: Kim MR
+- authtype: Author
+  name: Chen S
+- authtype: Author
+  name: Wang Z
+- authtype: Author
+  name: Keeley ZC
+- authtype: Author
+  name: Shin DI
+- authtype: Author
+  name: Suárez Casanova VM
+- authtype: Author
+  name: Zhu Y
+- authtype: Author
+  name: Martin L
+- authtype: Author
+  name: Papaemmanouil O
+- authtype: Author
+  name: Van Hooser SD
+epubdate: 2022 Feb 8
+fulljournalname: eNeuro
+issue: '1'
+pages: ENEURO.0073-21.2022
+pmclivedate: 2022/02/25
+printpubdate: ''
+pubdate: 2022 Feb 8
+sortdate: 2022/02/08 00:00
+source: eNeuro
+title: 'NDI: A Platform-Independent Data Interface and Database for Neuroscience Physiology
+  and Imaging Experiments'
+uid: '8874953'
+volume: '9'

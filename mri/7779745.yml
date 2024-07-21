@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '33383554'
+- idtype: doi
+  value: 10.1016/j.dcn.2020.100902
+- idtype: pmcid
+  value: PMC7779745
+authors:
+- authtype: Author
+  name: Klapwijk ET
+- authtype: Author
+  name: van den Bos W
+- authtype: Author
+  name: Tamnes CK
+- authtype: Author
+  name: Raschle NM
+- authtype: Author
+  name: Mills KL
+epubdate: 2020 Dec 17
+fulljournalname: Developmental Cognitive Neuroscience
+issue: ''
+pages: '100902'
+pmclivedate: 2021/01/08
+printpubdate: ''
+pubdate: 2020 Dec 17
+sortdate: 2020/12/17 00:00
+source: Dev Cogn Neurosci
+title: Opportunities for increased reproducibility and replicability of developmental
+  neuroimaging
+uid: '7779745'
+volume: '47'

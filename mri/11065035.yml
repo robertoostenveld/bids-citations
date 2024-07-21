@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '38699309'
+- idtype: doi
+  value: 10.1101/2024.01.03.24300794
+- idtype: pmcid
+  value: PMC11065035
+authors:
+- authtype: Author
+  name: Karthik EN
+- authtype: Author
+  name: Valosek J
+- authtype: Author
+  name: Smith AC
+- authtype: Author
+  name: Pfyffer D
+- authtype: Author
+  name: Schading-Sassenhausen S
+- authtype: Author
+  name: Farner L
+- authtype: Author
+  name: Weber KA II
+- authtype: Author
+  name: Freund P
+- authtype: Author
+  name: Cohen-Adad J
+epubdate: 2024 Apr 21
+fulljournalname: medRxiv
+issue: ''
+pages: 2024.01.03.24300794
+pmclivedate: 2024/05/03
+printpubdate: ''
+pubdate: 2024 Apr 21
+sortdate: 2024/04/21 00:00
+source: medRxiv
+title: 'SCIseg: Automatic Segmentation of T2-weighted Intramedullary Lesions in Spinal
+  Cord Injury'
+uid: '11065035'
+volume: ''

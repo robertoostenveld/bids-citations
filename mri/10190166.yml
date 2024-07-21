@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '37207252'
+- idtype: doi
+  value: 10.1117/1.NPh.10.2.023513
+- idtype: pmcid
+  value: PMC10190166
+authors:
+- authtype: Author
+  name: Vidal-Rosas EE
+- authtype: Author
+  name: von Lühmann A
+- authtype: Author
+  name: Pinti P
+- authtype: Author
+  name: Cooper RJ
+epubdate: 2023 May 17
+fulljournalname: Neurophotonics
+issue: '2'
+pages: '023513'
+pmclivedate: 2023/05/18
+printpubdate: 2023 Apr
+pubdate: 2023 May 17
+sortdate: 2023/05/17 00:00
+source: Neurophotonics
+title: 'Wearable, high-density fNIRS and diffuse optical tomography technologies:
+  a perspective'
+uid: '10190166'
+volume: '10'

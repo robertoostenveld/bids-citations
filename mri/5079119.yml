@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '27779618'
+- idtype: doi
+  value: 10.1038/sdata.2016.93
+- idtype: pmcid
+  value: PMC5079119
+authors:
+- authtype: Author
+  name: Sengupta A
+- authtype: Author
+  name: Kaule FR
+- authtype: Author
+  name: Guntupalli JS
+- authtype: Author
+  name: Hoffmann MB
+- authtype: Author
+  name: Häusler C
+- authtype: Author
+  name: Stadler J
+- authtype: Author
+  name: Hanke M
+epubdate: 2016 Oct 25
+fulljournalname: Scientific Data
+issue: ''
+pages: '160093'
+pmclivedate: 2016/11/11
+printpubdate: ''
+pubdate: 2016 Oct 25
+sortdate: 2016/10/25 00:00
+source: Sci Data
+title: A studyforrest extension, retinotopic mapping and localization of higher visual
+  areas
+uid: '5079119'
+volume: '3'

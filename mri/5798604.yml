@@ -1,0 +1,65 @@
+articleids:
+- idtype: pmid
+  value: '28232121'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2017.02.030
+- idtype: pmcid
+  value: PMC5798604
+- idtype: MID
+  value: NIHMS908648
+authors:
+- authtype: CollectiveName
+  name: BRAINS (Brain Imaging in Normal Subjects) Expert Working Group
+- authtype: Author
+  name: Shenkin SD
+- authtype: Author
+  name: Pernet C
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Poline JB
+- authtype: Author
+  name: Matthews PM
+- authtype: Author
+  name: van der Lugt A
+- authtype: Author
+  name: Mackay C
+- authtype: Author
+  name: Lanyon L
+- authtype: Author
+  name: Mazoyer B
+- authtype: Author
+  name: Boardman JP
+- authtype: Author
+  name: Thompson PM
+- authtype: Author
+  name: Fox N
+- authtype: Author
+  name: Marcus DS
+- authtype: Author
+  name: Sheikh A
+- authtype: Author
+  name: Cox SR
+- authtype: Author
+  name: Anblagan D
+- authtype: Author
+  name: Job DE
+- authtype: Author
+  name: Dickie DA
+- authtype: Author
+  name: Rodriguez D
+- authtype: Author
+  name: Wardlaw JM
+epubdate: 2017 Feb 14
+fulljournalname: NeuroImage
+issue: ''
+pages: 399-409
+pmclivedate: 2018/06/01
+printpubdate: 2017 Jun
+pubdate: 2017 Feb 14
+sortdate: 2017/02/14 00:00
+source: Neuroimage
+title: 'Improving data availability for brain image biobanking in healthy subjects:
+  Practice-based suggestions from an international multidisciplinary working group'
+uid: '5798604'
+volume: '153'

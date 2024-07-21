@@ -1,0 +1,51 @@
+articleids:
+- idtype: pmid
+  value: '32546753'
+- idtype: doi
+  value: 10.1038/s41597-020-0532-5
+- idtype: pmcid
+  value: PMC7297990
+authors:
+- authtype: Author
+  name: Nejedly P
+- authtype: Author
+  name: Kremen V
+- authtype: Author
+  name: Sladky V
+- authtype: Author
+  name: Cimbalnik J
+- authtype: Author
+  name: Klimes P
+- authtype: Author
+  name: Plesinger F
+- authtype: Author
+  name: Mivalt F
+- authtype: Author
+  name: Travnicek V
+- authtype: Author
+  name: Viscor I
+- authtype: Author
+  name: Pail M
+- authtype: Author
+  name: Halamek J
+- authtype: Author
+  name: Brinkmann BH
+- authtype: Author
+  name: Brazdil M
+- authtype: Author
+  name: Jurak P
+- authtype: Author
+  name: Worrell G
+epubdate: 2020 Jun 16
+fulljournalname: Scientific Data
+issue: ''
+pages: '179'
+pmclivedate: 2020/06/22
+printpubdate: ''
+pubdate: 2020 Jun 16
+sortdate: 2020/06/16 00:00
+source: Sci Data
+title: Multicenter intracranial EEG dataset for classification of graphoelements and
+  artifactual signals
+uid: '7297990'
+volume: '7'

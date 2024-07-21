@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '32512402'
+- idtype: doi
+  value: 10.1016/j.nicl.2020.102286
+- idtype: pmcid
+  value: PMC7281799
+authors:
+- authtype: Author
+  name: Orr JM
+- authtype: Author
+  name: Lopez J
+- authtype: Author
+  name: Imburgio MJ
+- authtype: Author
+  name: Pelletier-Baldelli A
+- authtype: Author
+  name: Bernard JA
+- authtype: Author
+  name: Mittal VA
+epubdate: 2020 May 26
+fulljournalname: 'NeuroImage : Clinical'
+issue: ''
+pages: '102286'
+pmclivedate: 2020/06/10
+printpubdate: ''
+pubdate: 2020 May 26
+sortdate: 2020/05/26 00:00
+source: Neuroimage Clin
+title: Adolescents at clinical high risk for psychosis show qualitatively altered
+  patterns of activation during rule learning
+uid: '7281799'
+volume: '27'

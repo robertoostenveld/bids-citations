@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '37986723'
+- idtype: pmcid
+  value: PMC10659454
+authors:
+- authtype: Author
+  name: Wogu E
+- authtype: Author
+  name: Filima P
+- authtype: Author
+  name: Caron B
+- authtype: Author
+  name: Levitas D
+- authtype: Author
+  name: Herholz P
+- authtype: Author
+  name: Leal C
+- authtype: Author
+  name: Mehboob MF
+- authtype: Author
+  name: Hayashi S
+- authtype: Author
+  name: Akintoye S
+- authtype: Author
+  name: Ogoh G
+- authtype: Author
+  name: Godwin T
+- authtype: Author
+  name: Eke D
+- authtype: Author
+  name: Pestilli F
+epubdate: 2023 Nov 8
+fulljournalname: ArXiv
+issue: ''
+pages: arXiv:2311.04425v1
+pmclivedate: 2023/11/08
+printpubdate: ''
+pubdate: 2023 Nov 8
+sortdate: 2023/11/08 00:00
+source: ArXiv
+title: A labeled Clinical-MRI dataset of Nigerian brains
+uid: '10659454'
+volume: ''

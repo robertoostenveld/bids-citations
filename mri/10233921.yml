@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '37116766'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2023.120138
+- idtype: pmcid
+  value: PMC10233921
+- idtype: MID
+  value: NIHMS1899196
+authors:
+- authtype: Author
+  name: Taylor PA
+- authtype: Author
+  name: Reynolds RC
+- authtype: Author
+  name: Calhoun V
+- authtype: Author
+  name: Gonzalez-Castillo J
+- authtype: Author
+  name: Handwerker DA
+- authtype: Author
+  name: Bandettini PA
+- authtype: Author
+  name: Mejia AF
+- authtype: Author
+  name: Chen G
+epubdate: 2023 Apr 27
+fulljournalname: NeuroImage
+issue: ''
+pages: '120138'
+pmclivedate: 2024/07/01
+printpubdate: 2023 Jul 1
+pubdate: 2023 Apr 27
+sortdate: 2023/04/27 00:00
+source: Neuroimage
+title: 'Highlight Results, Don’t Hide Them: Enhance interpretation, reduce biases
+  and improve reproducibility'
+uid: '10233921'
+volume: '274'

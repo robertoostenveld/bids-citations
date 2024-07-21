@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '36114184'
+- idtype: doi
+  value: 10.1038/s41398-022-02155-x
+- idtype: pmcid
+  value: PMC9481539
+authors:
+- authtype: Author
+  name: Maurus I
+- authtype: Author
+  name: Roell L
+- authtype: Author
+  name: Keeser D
+- authtype: Author
+  name: Papazov B
+- authtype: Author
+  name: Papazova I
+- authtype: Author
+  name: Lembeck M
+- authtype: Author
+  name: Roeh A
+- authtype: Author
+  name: Wagner E
+- authtype: Author
+  name: Hirjak D
+- authtype: Author
+  name: Malchow B
+- authtype: Author
+  name: Ertl-Wagner B
+- authtype: Author
+  name: Stoecklein S
+- authtype: Author
+  name: Hasan A
+- authtype: Author
+  name: Schmitt A
+- authtype: Author
+  name: Meyer-Lindenberg A
+- authtype: Author
+  name: Falkai P
+epubdate: 2022 Sep 16
+fulljournalname: Translational Psychiatry
+issue: ''
+pages: '388'
+pmclivedate: 2022/09/18
+printpubdate: ''
+pubdate: 2022 Sep 16
+sortdate: 2022/09/16 00:00
+source: Transl Psychiatry
+title: 'Fitness is positively associated with hippocampal formation subfield volumes
+  in schizophrenia: a multiparametric magnetic resonance imaging study'
+uid: '9481539'
+volume: '12'

@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '38007482'
+- idtype: doi
+  value: 10.1038/s41597-023-02738-3
+- idtype: pmcid
+  value: PMC10676381
+authors:
+- authtype: Author
+  name: Muschter E
+- authtype: Author
+  name: Schulz J
+- authtype: Author
+  name: Tömösközi M
+- authtype: Author
+  name: Herbst L
+- authtype: Author
+  name: Küssel L
+- authtype: Author
+  name: Sefunç M
+- authtype: Author
+  name: Holtzhausen S
+- authtype: Author
+  name: Speidel S
+- authtype: Author
+  name: Fitzek FH
+- authtype: Author
+  name: Li SC
+epubdate: 2023 Nov 25
+fulljournalname: Scientific Data
+issue: ''
+pages: '826'
+pmclivedate: 2023/11/25
+printpubdate: ''
+pubdate: 2023 Nov 25
+sortdate: 2023/11/25 00:00
+source: Sci Data
+title: 'Coming in handy: CeTI-Age — A comprehensive database of kinematic hand movements
+  across the lifespan'
+uid: '10676381'
+volume: '10'

@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '31157320'
+- idtype: doi
+  value: 10.1177/2515245917746500
+- idtype: pmcid
+  value: PMC6544443
+- idtype: MID
+  value: NIHMS1006701
+authors:
+- authtype: Author
+  name: Gilmore RO
+- authtype: Author
+  name: Lorenzo Kennedy J
+- authtype: Author
+  name: Adolph KE
+epubdate: 2018 Jan 10
+fulljournalname: Advances in methods and practices in psychological science
+issue: '1'
+pages: 121-130
+pmclivedate: 2019/05/31
+printpubdate: 2018 Mar
+pubdate: 2018 Jan 10
+sortdate: 2018/01/10 00:00
+source: Adv Methods Pract Psychol Sci
+title: Practical Solutions for Sharing Data and Materials From Psychological Research
+uid: '6544443'
+volume: '1'

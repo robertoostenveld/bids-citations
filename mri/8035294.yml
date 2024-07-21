@@ -1,0 +1,29 @@
+articleids:
+- idtype: pmid
+  value: '33506440'
+- idtype: doi
+  value: 10.1007/s11682-021-00450-7
+- idtype: pmcid
+  value: PMC8035294
+- idtype: MID
+  value: NIHMS1672220
+authors:
+- authtype: Author
+  name: Wilde EA
+- authtype: Author
+  name: Dennis EL
+- authtype: Author
+  name: Tate DF
+epubdate: 2021 Jan 27
+fulljournalname: Brain imaging and behavior
+issue: '2'
+pages: 465-474
+pmclivedate: 2022/04/01
+printpubdate: 2021 Apr
+pubdate: 2021 Jan 27
+sortdate: 2021/01/27 00:00
+source: Brain Imaging Behav
+title: 'The ENIGMA Brain Injury Working Group: Approach, Challenges, and Potential
+  Benefits'
+uid: '8035294'
+volume: '15'

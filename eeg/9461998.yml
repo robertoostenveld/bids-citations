@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '36092106'
+- idtype: doi
+  value: 10.3389/fpsyg.2022.817516
+- idtype: pmcid
+  value: PMC9461998
+authors:
+- authtype: Author
+  name: Bornkessel-Schlesewsky I
+- authtype: Author
+  name: Sharrad I
+- authtype: Author
+  name: Howlett CA
+- authtype: Author
+  name: Alday PM
+- authtype: Author
+  name: Corcoran AW
+- authtype: Author
+  name: Bellan V
+- authtype: Author
+  name: Wilkinson E
+- authtype: Author
+  name: Kliegl R
+- authtype: Author
+  name: Lewis RL
+- authtype: Author
+  name: Small SL
+- authtype: Author
+  name: Schlesewsky M
+epubdate: 2022 Aug 26
+fulljournalname: Frontiers in Psychology
+issue: ''
+pages: '817516'
+pmclivedate: 2022/09/10
+printpubdate: ''
+pubdate: 2022 Aug 26
+sortdate: 2022/08/26 00:00
+source: Front Psychol
+title: 'Rapid adaptation of predictive models during language comprehension: Aperiodic
+  EEG slope, individual alpha frequency and idea density modulate individual differences
+  in real-time model updating'
+uid: '9461998'
+volume: '13'

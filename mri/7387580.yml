@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '32433952'
+- idtype: doi
+  value: 10.1016/j.neuropsychologia.2020.107500
+- idtype: pmcid
+  value: PMC7387580
+- idtype: MID
+  value: NIHMS1599033
+authors:
+- authtype: Author
+  name: Cai MB
+- authtype: Author
+  name: Shvartsman M
+- authtype: Author
+  name: Wu A
+- authtype: Author
+  name: Zhang H
+- authtype: Author
+  name: Zhu X
+epubdate: 2020 May 17
+fulljournalname: Neuropsychologia
+issue: ''
+pages: '107500'
+pmclivedate: 2021/07/01
+printpubdate: 2020 Jul
+pubdate: 2020 May 17
+sortdate: 2020/05/17 00:00
+source: Neuropsychologia
+title: Incorporating structured assumptions with probabilistic graphical models in
+  fMRI data analysis
+uid: '7387580'
+volume: '144'

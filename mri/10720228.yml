@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '38093292'
+- idtype: doi
+  value: 10.1186/s12916-023-03208-8
+- idtype: pmcid
+  value: PMC10720228
+authors:
+- authtype: Author
+  name: Sundermann B
+- authtype: Author
+  name: Feldmann R
+- authtype: Author
+  name: Mathys C
+- authtype: Author
+  name: Rau JM
+- authtype: Author
+  name: Garde S
+- authtype: Author
+  name: Braje A
+- authtype: Author
+  name: Weglage J
+- authtype: Author
+  name: Pfleiderer B
+epubdate: 2023 Dec 13
+fulljournalname: BMC Medicine
+issue: ''
+pages: '496'
+pmclivedate: 2023/12/14
+printpubdate: ''
+pubdate: 2023 Dec 13
+sortdate: 2023/12/13 00:00
+source: BMC Med
+title: Functional connectivity of cognition-related brain networks in adults with
+  fetal alcohol syndrome
+uid: '10720228'
+volume: '21'

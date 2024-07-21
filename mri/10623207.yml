@@ -1,0 +1,75 @@
+articleids:
+- idtype: pmid
+  value: '37906015'
+- idtype: doi
+  value: 10.1148/radiol.230096
+- idtype: pmcid
+  value: PMC10623207
+authors:
+- authtype: Author
+  name: Schabdach JM
+- authtype: Author
+  name: Schmitt JE
+- authtype: Author
+  name: Sotardi S
+- authtype: Author
+  name: Vossough A
+- authtype: Author
+  name: Andronikou S
+- authtype: Author
+  name: Roberts TP
+- authtype: Author
+  name: Huang H
+- authtype: Author
+  name: Padmanabhan V
+- authtype: Author
+  name: Ortiz-Rosa A
+- authtype: Author
+  name: Gardner M
+- authtype: Author
+  name: Covitz S
+- authtype: Author
+  name: Bedford SA
+- authtype: Author
+  name: Mandal AS
+- authtype: Author
+  name: Chaiyachati BH
+- authtype: Author
+  name: White SR
+- authtype: Author
+  name: Bullmore E
+- authtype: Author
+  name: Bethlehem RA
+- authtype: Author
+  name: Shinohara RT
+- authtype: Author
+  name: Billot B
+- authtype: Author
+  name: Iglesias JE
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Gur RE
+- authtype: Author
+  name: Satterthwaite TD
+- authtype: Author
+  name: Roalf D
+- authtype: Author
+  name: Seidlitz J
+- authtype: Author
+  name: Alexander-Bloch A
+- authtype: CollectiveName
+  name: for the Lifespan Brain Chart Consortium
+epubdate: 2023 Oct 31
+fulljournalname: Radiology
+issue: '1'
+pages: e230096
+pmclivedate: ''
+printpubdate: ''
+pubdate: 2023 Oct 31
+sortdate: 2023/10/31 00:00
+source: Radiology
+title: Brain Growth Charts for Quantitative Analysis of Pediatric Clinical Brain MRI
+  Scans with Limited Imaging Pathology
+uid: '10623207'
+volume: '309'

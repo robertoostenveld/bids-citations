@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '33251549'
+- idtype: doi
+  value: 10.1093/cercor/bhaa348
+- idtype: pmcid
+  value: PMC7945016
+authors:
+- authtype: Author
+  name: Vidal-Piñeiro D
+- authtype: Author
+  name: Sneve MH
+- authtype: Author
+  name: Amlien IK
+- authtype: Author
+  name: Grydeland H
+- authtype: Author
+  name: Mowinckel AM
+- authtype: Author
+  name: Roe JM
+- authtype: Author
+  name: Sørensen Ø
+- authtype: Author
+  name: Nyberg LH
+- authtype: Author
+  name: Walhovd KB
+- authtype: Author
+  name: Fjell AM
+epubdate: 2020 Nov 30
+fulljournalname: Cerebral Cortex (New York, NY)
+issue: '4'
+pages: 2098-2110
+pmclivedate: 2021/03/16
+printpubdate: ''
+pubdate: 2020 Nov 30
+sortdate: 2020/11/30 00:00
+source: Cereb Cortex
+title: The Functional Foundations of Episodic Memory Remain Stable Throughout the
+  Lifespan
+uid: '7945016'
+volume: '31'

@@ -1,0 +1,97 @@
+articleids:
+- idtype: pmid
+  value: '35689029'
+- idtype: doi
+  value: 10.1038/s41592-022-01458-7
+- idtype: pmcid
+  value: PMC10548890
+- idtype: MID
+  value: NIHMS1827527
+authors:
+- authtype: Author
+  name: Adebimpe A
+- authtype: Author
+  name: Bertolero M
+- authtype: Author
+  name: Dolui S
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Murtha K
+- authtype: Author
+  name: Baller EB
+- authtype: Author
+  name: Boeve B
+- authtype: Author
+  name: Boxer A
+- authtype: Author
+  name: Butler ER
+- authtype: Author
+  name: Cook P
+- authtype: Author
+  name: Colcombe S
+- authtype: Author
+  name: Covitz S
+- authtype: Author
+  name: Davatzikos C
+- authtype: Author
+  name: Davila DG
+- authtype: Author
+  name: Elliott MA
+- authtype: Author
+  name: Flounders MW
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Gur RE
+- authtype: Author
+  name: Gur RC
+- authtype: Author
+  name: Jaber B
+- authtype: Author
+  name: McMillian C
+- authtype: CollectiveName
+  name: the ALLFTD Consortium
+- authtype: Author
+  name: Milham M
+- authtype: Author
+  name: Mutsaerts HJ
+- authtype: Author
+  name: Oathes DJ
+- authtype: Author
+  name: Olm CA
+- authtype: Author
+  name: Phillips JS
+- authtype: Author
+  name: Tackett W
+- authtype: Author
+  name: Roalf DR
+- authtype: Author
+  name: Rosen H
+- authtype: Author
+  name: Tapera TM
+- authtype: Author
+  name: Tisdall MD
+- authtype: Author
+  name: Zhou D
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Poldrack RA
+- authtype: Author
+  name: Detre JA
+- authtype: Author
+  name: Satterthwaite TD
+epubdate: 2022 Jun 10
+fulljournalname: Nature methods
+issue: '6'
+pages: 683-686
+pmclivedate: 2023/10/04
+printpubdate: 2022 Jun
+pubdate: 2022 Jun 10
+sortdate: 2022/06/10 00:00
+source: Nat Methods
+title: 'ASLPrep: a platform for processing of arterial spin labeled MRI and quantification
+  of regional brain perfusion'
+uid: '10548890'
+volume: '19'

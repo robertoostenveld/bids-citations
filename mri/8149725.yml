@@ -1,0 +1,35 @@
+articleids:
+- idtype: pmid
+  value: '34035308'
+- idtype: doi
+  value: 10.1038/s41597-021-00923-w
+- idtype: pmcid
+  value: PMC8149725
+authors:
+- authtype: Author
+  name: Lüsebrink F
+- authtype: Author
+  name: Mattern H
+- authtype: Author
+  name: Yakupov R
+- authtype: Author
+  name: Acosta-Cabronero J
+- authtype: Author
+  name: Ashtarayeh M
+- authtype: Author
+  name: Oeltze-Jafra S
+- authtype: Author
+  name: Speck O
+epubdate: 2021 May 25
+fulljournalname: Scientific Data
+issue: ''
+pages: '138'
+pmclivedate: 2021/06/01
+printpubdate: ''
+pubdate: 2021 May 25
+sortdate: 2021/05/25 00:00
+source: Sci Data
+title: Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human
+  phantom
+uid: '8149725'
+volume: '8'

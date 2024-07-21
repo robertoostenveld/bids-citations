@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '33359343'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2020.117679
+- idtype: pmcid
+  value: PMC7903159
+authors:
+- authtype: Author
+  name: Poirier C
+- authtype: Author
+  name: Hamed SB
+- authtype: Author
+  name: Garcia-Saldivar P
+- authtype: Author
+  name: Kwok SC
+- authtype: Author
+  name: Meguerditchian A
+- authtype: Author
+  name: Merchant H
+- authtype: Author
+  name: Rogers J
+- authtype: Author
+  name: Wells S
+- authtype: Author
+  name: Fox AS
+epubdate: ''
+fulljournalname: Neuroimage
+issue: ''
+pages: '117679'
+pmclivedate: 2021/03/03
+printpubdate: 2021 Mar
+pubdate: 2021 Mar
+sortdate: 2021/03/01 00:00
+source: Neuroimage
+title: 'Beyond MRI: on the scientific value of combining non-human primate neuroimaging
+  with metadata'
+uid: '7903159'
+volume: '228'

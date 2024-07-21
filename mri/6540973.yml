@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '31157322'
+- idtype: doi
+  value: 10.12688/mniopenres.12772.2
+- idtype: pmcid
+  value: PMC6540973
+- idtype: MID
+  value: NIHMS1025994
+authors:
+- authtype: Author
+  name: Poline JB
+epubdate: 2019 Jan 31
+fulljournalname: MNI open research
+issue: ''
+pages: '1'
+pmclivedate: 2019/05/29
+printpubdate: '2019'
+pubdate: 2019 Jan 31
+sortdate: 2019/01/31 00:00
+source: MNI Open Res
+title: 'From data sharing to data publishing [version 2; peer review: 2 approved,
+  1 approved with reservations]'
+uid: '6540973'
+volume: '2'

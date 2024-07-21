@@ -1,0 +1,54 @@
+articleids:
+- idtype: pmid
+  value: '28369458'
+- idtype: doi
+  value: 10.1093/gigascience/giw011
+- idtype: pmcid
+  value: PMC5466711
+authors:
+- authtype: Author
+  name: O’Connor D
+- authtype: Author
+  name: Potler NV
+- authtype: Author
+  name: Kovacs M
+- authtype: Author
+  name: Xu T
+- authtype: Author
+  name: Ai L
+- authtype: Author
+  name: Pellman J
+- authtype: Author
+  name: Vanderwal T
+- authtype: Author
+  name: Parra LC
+- authtype: Author
+  name: Cohen S
+- authtype: Author
+  name: Ghosh S
+- authtype: Author
+  name: Escalera J
+- authtype: Author
+  name: Grant-Villegas N
+- authtype: Author
+  name: Osman Y
+- authtype: Author
+  name: Bui A
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Milham MP
+epubdate: 2017 Jan 7
+fulljournalname: GigaScience
+issue: '2'
+pages: 1-14
+pmclivedate: 2017/06/19
+printpubdate: ''
+pubdate: 2017 Jan 7
+sortdate: 2017/01/07 00:00
+source: Gigascience
+title: 'The Healthy Brain Network Serial Scanning Initiative: a resource for evaluating
+  inter-individual differences and their reliabilities across scan conditions and
+  sessions'
+uid: '5466711'
+volume: '6'

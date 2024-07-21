@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '35692429'
+- idtype: doi
+  value: 10.3389/fnins.2022.832276
+- idtype: pmcid
+  value: PMC9174798
+authors:
+- authtype: Author
+  name: Liu L
+- authtype: Author
+  name: Chang J
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Liang G
+- authtype: Author
+  name: Wang YP
+- authtype: Author
+  name: Zhang H
+epubdate: 2022 May 25
+fulljournalname: Frontiers in Neuroscience
+issue: ''
+pages: '832276'
+pmclivedate: 2022/06/09
+printpubdate: ''
+pubdate: 2022 May 25
+sortdate: 2022/05/25 00:00
+source: Front Neurosci
+title: Decomposition-Based Correlation Learning for Multi-Modal MRI-Based Classification
+  of Neuropsychiatric Disorders
+uid: '9174798'
+volume: '16'

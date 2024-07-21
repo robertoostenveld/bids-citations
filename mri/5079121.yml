@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '27779621'
+- idtype: doi
+  value: 10.1038/sdata.2016.92
+- idtype: pmcid
+  value: PMC5079121
+authors:
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Adelhöfer N
+- authtype: Author
+  name: Kottke D
+- authtype: Author
+  name: Iacovella V
+- authtype: Author
+  name: Sengupta A
+- authtype: Author
+  name: Kaule FR
+- authtype: Author
+  name: Nigbur R
+- authtype: Author
+  name: Waite AQ
+- authtype: Author
+  name: Baumgartner F
+- authtype: Author
+  name: Stadler J
+epubdate: 2016 Oct 25
+fulljournalname: Scientific Data
+issue: ''
+pages: '160092'
+pmclivedate: 2016/11/11
+printpubdate: ''
+pubdate: 2016 Oct 25
+sortdate: 2016/10/25 00:00
+source: Sci Data
+title: A studyforrest extension, simultaneous fMRI and eye gaze recordings during
+  prolonged natural stimulation
+uid: '5079121'
+volume: '3'

@@ -1,0 +1,27 @@
+articleids:
+- idtype: pmid
+  value: '34901310'
+- idtype: doi
+  value: 10.1117/1.NPh.8.4.041001
+- idtype: pmcid
+  value: PMC8652350
+authors:
+- authtype: Author
+  name: Luke R
+- authtype: Author
+  name: Shader MJ
+- authtype: Author
+  name: McAlpine D
+epubdate: 2021 Dec 8
+fulljournalname: Neurophotonics
+issue: '4'
+pages: '041001'
+pmclivedate: 2021/12/10
+printpubdate: 2021 Oct
+pubdate: 2021 Dec 8
+sortdate: 2021/12/08 00:00
+source: Neurophotonics
+title: Characterization of Mayer-wave oscillations in functional near-infrared spectroscopy
+  using a physiologically informed model of the neural power spectra
+uid: '8652350'
+volume: '8'

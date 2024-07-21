@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '33211552'
+- idtype: doi
+  value: 10.1089/big.2020.0065
+- idtype: pmcid
+  value: PMC8233216
+authors:
+- authtype: Author
+  name: Van Horn JD
+epubdate: 2021 Jun 16
+fulljournalname: Big Data
+issue: '3'
+pages: 153-187
+pmclivedate: 2022/06/01
+printpubdate: 2021 Jun 1
+pubdate: 2021 Jun 16
+sortdate: 2021/06/16 00:00
+source: Big Data
+title: Bridging the Brain and Data Sciences
+uid: '8233216'
+volume: '9'

@@ -1,0 +1,53 @@
+articleids:
+- idtype: pmid
+  value: '35202205'
+- idtype: doi
+  value: 10.3390/tomography8010040
+- idtype: pmcid
+  value: PMC8875191
+authors:
+- authtype: Author
+  name: Doran SJ
+- authtype: Author
+  name: Al Sa’d M
+- authtype: Author
+  name: Petts JA
+- authtype: Author
+  name: Darcy J
+- authtype: Author
+  name: Alpert K
+- authtype: Author
+  name: Cho W
+- authtype: Author
+  name: Sanchez LE
+- authtype: Author
+  name: Alle S
+- authtype: Author
+  name: El Harouni A
+- authtype: Author
+  name: Genereaux B
+- authtype: Author
+  name: Ziegler E
+- authtype: Author
+  name: Harris GJ
+- authtype: Author
+  name: Aboagye EO
+- authtype: Author
+  name: Sala E
+- authtype: Author
+  name: Koh DM
+- authtype: Author
+  name: Marcus D
+epubdate: 2022 Feb 11
+fulljournalname: Tomography
+issue: '1'
+pages: 497-512
+pmclivedate: 2022/02/26
+printpubdate: ''
+pubdate: 2022 Feb 11
+sortdate: 2022/02/11 00:00
+source: Tomography
+title: 'Integrating the OHIF Viewer into XNAT: Achievements, Challenges and Prospects
+  for Quantitative Imaging Studies'
+uid: '8875191'
+volume: '8'

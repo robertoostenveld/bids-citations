@@ -1,0 +1,22 @@
+articleids:
+- idtype: pmid
+  value: '37554632'
+- idtype: doi
+  value: 10.3389/fnimg.2023.1070274
+- idtype: pmcid
+  value: PMC10406291
+authors:
+- authtype: Author
+  name: Etzel JA
+epubdate: 2023 Feb 17
+fulljournalname: Frontiers in Neuroimaging
+issue: ''
+pages: '1070274'
+pmclivedate: 2023/08/08
+printpubdate: ''
+pubdate: 2023 Feb 17
+sortdate: 2023/02/17 00:00
+source: Front Neuroimaging
+title: Efficient evaluation of the Open QC task fMRI dataset
+uid: '10406291'
+volume: '2'

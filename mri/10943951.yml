@@ -1,0 +1,25 @@
+articleids:
+- idtype: pmid
+  value: '38495843'
+- idtype: doi
+  value: 10.3389/fninf.2024.1387758
+- idtype: pmcid
+  value: PMC10943951
+authors:
+- authtype: Author
+  name: van Swieten MM
+- authtype: Author
+  name: Haselgrove C
+epubdate: 2024 Mar 1
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '1387758'
+pmclivedate: 2024/03/16
+printpubdate: ''
+pubdate: 2024 Mar 1
+sortdate: 2024/03/01 00:00
+source: Front Neuroinform
+title: 'Editorial: Navigating the landscape of FAIR data sharing and reuse: repositories,
+  standards, and resources'
+uid: '10943951'
+volume: '18'

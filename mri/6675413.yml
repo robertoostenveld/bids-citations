@@ -1,0 +1,42 @@
+articleids:
+- idtype: pmid
+  value: '31091476'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2019.04.078
+- idtype: pmcid
+  value: PMC6675413
+- idtype: MID
+  value: NIHMS1530980
+authors:
+- authtype: Author
+  name: Dickie EW
+- authtype: Author
+  name: Anticevic A
+- authtype: Author
+  name: Smith DE
+- authtype: Author
+  name: Coalson TS
+- authtype: Author
+  name: Manogaran M
+- authtype: Author
+  name: Calarco N
+- authtype: Author
+  name: Viviano JD
+- authtype: Author
+  name: Glasser MF
+- authtype: Author
+  name: Van Essen DC
+- authtype: Author
+  name: Voineskos AN
+epubdate: 2019 May 12
+fulljournalname: NeuroImage
+issue: ''
+pages: 818-826
+pmclivedate: 2020/08/15
+printpubdate: 2019 Aug 15
+pubdate: 2019 May 12
+sortdate: 2019/05/12 00:00
+source: Neuroimage
+title: 'ciftify: A framework for surface-based analysis of legacy MR acquisitions'
+uid: '6675413'
+volume: '197'

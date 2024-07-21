@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '34505977'
+- idtype: doi
+  value: 10.1007/s11682-021-00484-x
+- idtype: pmcid
+  value: PMC8825640
+authors:
+- authtype: Author
+  name: Koerte IK
+- authtype: Author
+  name: Bahr R
+- authtype: Author
+  name: Filipcik P
+- authtype: Author
+  name: Gooijers J
+- authtype: Author
+  name: Leemans A
+- authtype: Author
+  name: Lin AP
+- authtype: Author
+  name: Tripodis Y
+- authtype: Author
+  name: Shenton ME
+- authtype: Author
+  name: Sochen N
+- authtype: Author
+  name: Swinnen SP
+- authtype: Author
+  name: Pasternak O
+- authtype: CollectiveName
+  name: for the REPIMPACT Consortium Investigators
+epubdate: 2021 Sep 10
+fulljournalname: Brain Imaging and Behavior
+issue: '1'
+pages: 492-502
+pmclivedate: 2022/02/23
+printpubdate: '2022'
+pubdate: 2021 Sep 10
+sortdate: 2021/09/10 00:00
+source: Brain Imaging Behav
+title: REPIMPACT - a prospective longitudinal multisite study on the effects of repetitive
+  head impacts in youth soccer
+uid: '8825640'
+volume: '16'

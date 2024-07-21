@@ -1,0 +1,31 @@
+articleids:
+- idtype: pmid
+  value: '38408873'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.1369-23.2024
+- idtype: pmcid
+  value: PMC10993028
+authors:
+- authtype: Author
+  name: Benjamin L
+- authtype: Author
+  name: Sablé-Meyer M
+- authtype: Author
+  name: Fló A
+- authtype: Author
+  name: Dehaene-Lambertz G
+- authtype: Author
+  name: Al Roumi F
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '14'
+pages: e1369232024
+pmclivedate: ''
+printpubdate: 2024 Apr 3
+pubdate: 2024 Apr 3
+sortdate: 2024/04/03 00:00
+source: J Neurosci
+title: Long-Horizon Associative Learning Explains Human Sensitivity to Statistical
+  and Network Structures in Auditory Sequences
+uid: '10993028'
+volume: '44'

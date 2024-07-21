@@ -1,0 +1,28 @@
+articleids:
+- idtype: pmid
+  value: '38499355'
+- idtype: doi
+  value: 10.1523/ENEURO.0531-23.2024
+- idtype: pmcid
+  value: PMC10950324
+authors:
+- authtype: Author
+  name: Grandjean J
+- authtype: Author
+  name: Lake EM
+- authtype: Author
+  name: Pagani M
+- authtype: Author
+  name: Mandino F
+epubdate: 2024 Mar 6
+fulljournalname: eNeuro
+issue: '3'
+pages: ENEURO.0531-23.2024
+pmclivedate: 2024/03/19
+printpubdate: ''
+pubdate: 2024 Mar 6
+sortdate: 2024/03/06 00:00
+source: eNeuro
+title: What N Is N-ough for MRI-Based Animal Neuroimaging?
+uid: '10950324'
+volume: '11'

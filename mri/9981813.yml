@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '36064140'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2022.119609
+- idtype: pmcid
+  value: PMC9981813
+- idtype: MID
+  value: NIHMS1850027
+authors:
+- authtype: Author
+  name: Covitz S
+- authtype: Author
+  name: Tapera TM
+- authtype: Author
+  name: Adebimpe A
+- authtype: Author
+  name: Alexander-Bloch AF
+- authtype: Author
+  name: Bertolero MA
+- authtype: Author
+  name: Feczko E
+- authtype: Author
+  name: Franco AR
+- authtype: Author
+  name: Gur RE
+- authtype: Author
+  name: Gur RC
+- authtype: Author
+  name: Hendrickson T
+- authtype: Author
+  name: Houghton A
+- authtype: Author
+  name: Mehta K
+- authtype: Author
+  name: Murtha K
+- authtype: Author
+  name: Perrone AJ
+- authtype: Author
+  name: Robert-Fitzgerald T
+- authtype: Author
+  name: Schabdach JM
+- authtype: Author
+  name: Shinohara RT
+- authtype: Author
+  name: Vogel JW
+- authtype: Author
+  name: Zhao C
+- authtype: Author
+  name: Fair DA
+- authtype: Author
+  name: Milham MP
+- authtype: Author
+  name: Cieslak M
+- authtype: Author
+  name: Satterthwaite TD
+epubdate: 2022 Sep 3
+fulljournalname: NeuroImage
+issue: ''
+pages: '119609'
+pmclivedate: 2023/05/07
+printpubdate: 2022 Nov
+pubdate: 2022 Sep 3
+sortdate: 2022/09/03 00:00
+source: Neuroimage
+title: 'Curation of BIDS (CuBIDS): A workflow and software package for streamlining
+  reproducible curation of large BIDS datasets'
+uid: '9981813'
+volume: '263'

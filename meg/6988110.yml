@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '31141737'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2019.05.063
+- idtype: pmcid
+  value: PMC6988110
+authors:
+- authtype: Author
+  name: Tierney TM
+- authtype: Author
+  name: Holmes N
+- authtype: Author
+  name: Mellor S
+- authtype: Author
+  name: López JD
+- authtype: Author
+  name: Roberts G
+- authtype: Author
+  name: Hill RM
+- authtype: Author
+  name: Boto E
+- authtype: Author
+  name: Leggett J
+- authtype: Author
+  name: Shah V
+- authtype: Author
+  name: Brookes MJ
+- authtype: Author
+  name: Bowtell R
+- authtype: Author
+  name: Barnes GR
+epubdate: ''
+fulljournalname: Neuroimage
+issue: ''
+pages: 598-608
+pmclivedate: 2020/02/03
+printpubdate: 2019 Oct 1
+pubdate: 2019 Oct 1
+sortdate: 2019/10/01 00:00
+source: Neuroimage
+title: 'Optically pumped magnetometers: From quantum origins to multi-channel magnetoencephalography'
+uid: '6988110'
+volume: '199'

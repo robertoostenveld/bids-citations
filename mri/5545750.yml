@@ -1,0 +1,30 @@
+articleids:
+- idtype: pmid
+  value: '28464561'
+- idtype: doi
+  value: 10.1111/nyas.13325
+- idtype: pmcid
+  value: PMC5545750
+- idtype: MID
+  value: NIHMS878076
+authors:
+- authtype: Author
+  name: Gilmore RO
+- authtype: Author
+  name: Diaz MT
+- authtype: Author
+  name: Wyble BA
+- authtype: Author
+  name: Yarkoni T
+epubdate: 2017 May 2
+fulljournalname: Annals of the New York Academy of Sciences
+issue: '1'
+pages: 5-18
+pmclivedate: 2017/08/07
+printpubdate: 2017 May
+pubdate: 2017 May 2
+sortdate: 2017/05/02 00:00
+source: Ann N Y Acad Sci
+title: Progress Toward Openness, Transparency, and Reproducibility in Cognitive Neuroscience
+uid: '5545750'
+volume: '1396'

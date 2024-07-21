@@ -1,0 +1,34 @@
+articleids:
+- idtype: pmid
+  value: '37277500'
+- idtype: doi
+  value: 10.1038/s41597-023-02242-8
+- idtype: pmcid
+  value: PMC10241774
+authors:
+- authtype: Author
+  name: Kalantari A
+- authtype: Author
+  name: Szczepanik M
+- authtype: Author
+  name: Heunis S
+- authtype: Author
+  name: Mönch C
+- authtype: Author
+  name: Hanke M
+- authtype: Author
+  name: Wachtler T
+- authtype: Author
+  name: Aswendt M
+epubdate: 2023 Jun 5
+fulljournalname: Scientific Data
+issue: ''
+pages: '357'
+pmclivedate: 2023/06/07
+printpubdate: ''
+pubdate: 2023 Jun 5
+sortdate: 2023/06/05 00:00
+source: Sci Data
+title: How to establish and maintain a multimodal animal research dataset using DataLad
+uid: '10241774'
+volume: '10'

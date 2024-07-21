@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '36599681'
+- idtype: doi
+  value: 10.1523/JNEUROSCI.0895-22.2022
+- idtype: pmcid
+  value: PMC9908315
+authors:
+- authtype: Author
+  name: Katabi N
+- authtype: Author
+  name: Simon H
+- authtype: Author
+  name: Yakim S
+- authtype: Author
+  name: Ravreby I
+- authtype: Author
+  name: Ohad T
+- authtype: Author
+  name: Yeshurun Y
+epubdate: ''
+fulljournalname: The Journal of Neuroscience
+issue: '6'
+pages: 1027-1037
+pmclivedate: 2023/08/08
+printpubdate: 2023 Feb 8
+pubdate: 2023 Feb 8
+sortdate: 2023/02/08 00:00
+source: J Neurosci
+title: 'Deeper Than You Think: Partisanship-Dependent Brain Responses in Early Sensory
+  and Motor Brain Regions'
+uid: '9908315'
+volume: '43'

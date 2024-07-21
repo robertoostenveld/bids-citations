@@ -1,0 +1,88 @@
+articleids:
+- idtype: pmid
+  value: '28111547'
+- idtype: doi
+  value: 10.3389/fninf.2016.00053
+- idtype: pmcid
+  value: PMC5216036
+authors:
+- authtype: Author
+  name: Das S
+- authtype: Author
+  name: Glatard T
+- authtype: Author
+  name: Rogers C
+- authtype: Author
+  name: Saigle J
+- authtype: Author
+  name: Paiva S
+- authtype: Author
+  name: MacIntyre L
+- authtype: Author
+  name: Safi-Harab M
+- authtype: Author
+  name: Rousseau ME
+- authtype: Author
+  name: Stirling J
+- authtype: Author
+  name: Khalili-Mahani N
+- authtype: Author
+  name: MacFarlane D
+- authtype: Author
+  name: Kostopoulos P
+- authtype: Author
+  name: Rioux P
+- authtype: Author
+  name: Madjar C
+- authtype: Author
+  name: Lecours-Boucher X
+- authtype: Author
+  name: Vanamala S
+- authtype: Author
+  name: Adalat R
+- authtype: Author
+  name: Mohaddes Z
+- authtype: Author
+  name: Fonov VS
+- authtype: Author
+  name: Milot S
+- authtype: Author
+  name: Leppert I
+- authtype: Author
+  name: Degroot C
+- authtype: Author
+  name: Durcan TM
+- authtype: Author
+  name: Campbell T
+- authtype: Author
+  name: Moreau J
+- authtype: Author
+  name: Dagher A
+- authtype: Author
+  name: Collins DL
+- authtype: Author
+  name: Karamchandani J
+- authtype: Author
+  name: Bar-Or A
+- authtype: Author
+  name: Fon EA
+- authtype: Author
+  name: Hoge R
+- authtype: Author
+  name: Baillet S
+- authtype: Author
+  name: Rouleau G
+- authtype: Author
+  name: Evans AC
+epubdate: 2017 Jan 6
+fulljournalname: Frontiers in Neuroinformatics
+issue: ''
+pages: '53'
+pmclivedate: 2017/01/20
+printpubdate: ''
+pubdate: 2017 Jan 6
+sortdate: 2017/01/06 00:00
+source: Front Neuroinform
+title: Cyberinfrastructure for Open Science at the Montreal Neurological Institute
+uid: '5216036'
+volume: '10'

@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '38582538'
+- idtype: doi
+  value: 10.1136/bmjopen-2024-086153
+- idtype: pmcid
+  value: PMC11002401
+authors:
+- authtype: Author
+  name: Beattie BC
+- authtype: Author
+  name: Batista García-Ramó K
+- authtype: Author
+  name: Biggs K
+- authtype: Author
+  name: Boissé Lomax L
+- authtype: Author
+  name: Brien DC
+- authtype: Author
+  name: Gallivan JP
+- authtype: Author
+  name: Ikeda K
+- authtype: Author
+  name: Schmidt M
+- authtype: Author
+  name: Shukla G
+- authtype: Author
+  name: Whatley B
+- authtype: Author
+  name: Woodroffe S
+- authtype: Author
+  name: Omisade A
+- authtype: Author
+  name: Winston GP
+epubdate: 2024 Apr 5
+fulljournalname: BMJ Open
+issue: '4'
+pages: e086153
+pmclivedate: 2024/04/09
+printpubdate: ''
+pubdate: 2024 Apr 5
+sortdate: 2024/04/05 00:00
+source: BMJ Open
+title: Literature review and protocol for a prospective multicentre cohort study on
+  multimodal prediction of seizure recurrence after unprovoked first seizure
+uid: '11002401'
+volume: '14'

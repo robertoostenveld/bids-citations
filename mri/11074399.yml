@@ -1,0 +1,59 @@
+articleids:
+- idtype: pmid
+  value: '37694678'
+- idtype: doi
+  value: 10.1089/neu.2022.0094
+- idtype: pmcid
+  value: PMC11074399
+authors:
+- authtype: Author
+  name: Wade BS
+- authtype: Author
+  name: Tate DF
+- authtype: Author
+  name: Kennedy E
+- authtype: Author
+  name: Bigler ED
+- authtype: Author
+  name: York GE
+- authtype: Author
+  name: Taylor BA
+- authtype: Author
+  name: Troyanskaya M
+- authtype: Author
+  name: Hovenden ES
+- authtype: Author
+  name: Goodrich-Hunsaker N
+- authtype: Author
+  name: Newsome MR
+- authtype: Author
+  name: Dennis EL
+- authtype: Author
+  name: Abildskov T
+- authtype: Author
+  name: Pugh MJ
+- authtype: Author
+  name: Walker WC
+- authtype: Author
+  name: Kenney K
+- authtype: Author
+  name: Betts A
+- authtype: Author
+  name: Shih R
+- authtype: Author
+  name: Welsh RC
+- authtype: Author
+  name: Wilde EA
+epubdate: 2023 Dec 29
+fulljournalname: Journal of Neurotrauma
+issue: 1-2
+pages: 32-40
+pmclivedate: ''
+printpubdate: 2024 Jan 1
+pubdate: 2023 Dec 29
+sortdate: 2023/12/29 00:00
+source: J Neurotrauma
+title: Microstructural Organization of Distributed White Matter Associated With Fine
+  Motor Control in US Service Members With Mild Traumatic Brain Injury
+uid: '11074399'
+volume: '41'

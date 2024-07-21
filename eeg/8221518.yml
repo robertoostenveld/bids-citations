@@ -1,0 +1,44 @@
+articleids:
+- idtype: pmid
+  value: '33338609'
+- idtype: doi
+  value: 10.1016/j.neuroimage.2020.117641
+- idtype: pmcid
+  value: PMC8221518
+- idtype: MID
+  value: NIHMS1712561
+authors:
+- authtype: Author
+  name: Balasubramani PP
+- authtype: Author
+  name: Ojeda A
+- authtype: Author
+  name: Grennan G
+- authtype: Author
+  name: Maric V
+- authtype: Author
+  name: Le H
+- authtype: Author
+  name: Alim F
+- authtype: Author
+  name: Zafar-Khan M
+- authtype: Author
+  name: Diaz-Delgado J
+- authtype: Author
+  name: Silveira S
+- authtype: Author
+  name: Ramanathan D
+- authtype: Author
+  name: Mishra J
+epubdate: 2020 Dec 15
+fulljournalname: NeuroImage
+issue: ''
+pages: '117641'
+pmclivedate: 2021/06/23
+printpubdate: 2021 May 1
+pubdate: 2020 Dec 15
+sortdate: 2020/12/15 00:00
+source: Neuroimage
+title: Mapping Cognitive Brain Functions at Scale
+uid: '8221518'
+volume: '231'

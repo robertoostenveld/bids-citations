@@ -1,0 +1,49 @@
+articleids:
+- idtype: pmid
+  value: '32797941'
+- idtype: doi
+  value: 10.1016/j.biopsych.2020.06.012
+- idtype: pmcid
+  value: PMC10726343
+- idtype: MID
+  value: NIHMS1604864
+authors:
+- authtype: Author
+  name: Nielson DM
+- authtype: Author
+  name: Keren H
+- authtype: Author
+  name: O’Callaghan G
+- authtype: Author
+  name: Jackson SM
+- authtype: Author
+  name: Douka I
+- authtype: Author
+  name: Vidal-Ribas P
+- authtype: Author
+  name: Pornpattananangkul N
+- authtype: Author
+  name: Camp CC
+- authtype: Author
+  name: Gorham LS
+- authtype: Author
+  name: Wei C
+- authtype: Author
+  name: Kirwan S
+- authtype: Author
+  name: Zheng CY
+- authtype: Author
+  name: Stringaris A
+epubdate: 2020 Jun 17
+fulljournalname: Biological psychiatry
+issue: '2'
+pages: 134-143
+pmclivedate: 2023/12/18
+printpubdate: 2021 Jan 15
+pubdate: 2020 Jun 17
+sortdate: 2020/06/17 00:00
+source: Biol Psychiatry
+title: 'Great Expectations: A Critical Review of and Suggestions for the Study of
+  Reward Processing as a Cause and Predictor of Depression'
+uid: '10726343'
+volume: '89'

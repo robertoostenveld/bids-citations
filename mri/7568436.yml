@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '33068112'
+- idtype: doi
+  value: 10.1093/gigascience/giaa104
+- idtype: pmcid
+  value: PMC7568436
+authors:
+- authtype: Author
+  name: Moreau CA
+- authtype: Author
+  name: Jean-Louis M
+- authtype: Author
+  name: Blair R
+- authtype: Author
+  name: Markiewicz CJ
+- authtype: Author
+  name: Turner JA
+- authtype: Author
+  name: Calhoun VD
+- authtype: Author
+  name: Nichols TE
+- authtype: Author
+  name: Pernet CR
+epubdate: 2020 Oct 17
+fulljournalname: GigaScience
+issue: '10'
+pages: giaa104
+pmclivedate: 2020/10/21
+printpubdate: ''
+pubdate: 2020 Oct 17
+sortdate: 2020/10/17 00:00
+source: Gigascience
+title: 'The genetics-BIDS extension: Easing the search for genetic data associated
+  with human brain imaging'
+uid: '7568436'
+volume: '9'

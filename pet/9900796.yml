@@ -1,0 +1,32 @@
+articleids:
+- idtype: pmid
+  value: '36747831'
+- idtype: doi
+  value: 10.1101/2023.01.23.525101
+- idtype: pmcid
+  value: PMC9900796
+authors:
+- authtype: Author
+  name: Shafiei G
+- authtype: Author
+  name: Fulcher BD
+- authtype: Author
+  name: Voytek B
+- authtype: Author
+  name: Satterthwaite TD
+- authtype: Author
+  name: Baillet S
+- authtype: Author
+  name: Misic B
+epubdate: 2023 Jan 23
+fulljournalname: bioRxiv
+issue: ''
+pages: 2023.01.23.525101
+pmclivedate: 2023/02/07
+printpubdate: ''
+pubdate: 2023 Jan 23
+sortdate: 2023/01/23 00:00
+source: bioRxiv
+title: Neurophysiological signatures of cortical micro-architecture
+uid: '9900796'
+volume: ''

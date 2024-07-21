@@ -1,0 +1,36 @@
+articleids:
+- idtype: pmid
+  value: '37348130'
+- idtype: doi
+  value: 10.1162/jocn_a_02021
+- idtype: pmcid
+  value: PMC10759317
+- idtype: MID
+  value: NIHMS1947051
+authors:
+- authtype: Author
+  name: Tanrıverdi B
+- authtype: Author
+  name: Cowan ET
+- authtype: Author
+  name: Metoki A
+- authtype: Author
+  name: Jobson KR
+- authtype: Author
+  name: Murty VP
+- authtype: Author
+  name: Chein J
+- authtype: Author
+  name: Olson IR
+epubdate: ''
+fulljournalname: Journal of cognitive neuroscience
+issue: '9'
+pages: 1446-1462
+pmclivedate: 2024/01/02
+printpubdate: 2023 Sep 1
+pubdate: 2023 Sep 1
+sortdate: 2023/09/01 00:00
+source: J Cogn Neurosci
+title: Awake Hippocampal–Cortical Co-reactivation Is Associated with Forgetting
+uid: '10759317'
+volume: '35'

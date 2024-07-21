@@ -1,0 +1,33 @@
+articleids:
+- idtype: pmid
+  value: '31824294'
+- idtype: doi
+  value: 10.3389/fnagi.2019.00298
+- idtype: pmcid
+  value: PMC6881240
+authors:
+- authtype: Author
+  name: Oschwald J
+- authtype: Author
+  name: Mérillat S
+- authtype: Author
+  name: Liem F
+- authtype: Author
+  name: Röcke C
+- authtype: Author
+  name: Martin M
+- authtype: Author
+  name: Jäncke L
+epubdate: 2019 Nov 21
+fulljournalname: Frontiers in Aging Neuroscience
+issue: ''
+pages: '298'
+pmclivedate: 2019/12/10
+printpubdate: ''
+pubdate: 2019 Nov 21
+sortdate: 2019/11/21 00:00
+source: Front Aging Neurosci
+title: 'Lagged Coupled Changes Between White Matter Microstructure and Processing
+  Speed in Healthy Aging: A Longitudinal Investigation'
+uid: '6881240'
+volume: '11'

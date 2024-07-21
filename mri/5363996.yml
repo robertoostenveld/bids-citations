@@ -1,0 +1,79 @@
+articleids:
+- idtype: pmid
+  value: '28278228'
+- idtype: doi
+  value: 10.1371/journal.pcbi.1005209
+- idtype: pmcid
+  value: PMC5363996
+authors:
+- authtype: Author
+  name: Gorgolewski KJ
+- authtype: Author
+  name: Alfaro-Almagro F
+- authtype: Author
+  name: Auer T
+- authtype: Author
+  name: Bellec P
+- authtype: Author
+  name: Capotă M
+- authtype: Author
+  name: Chakravarty MM
+- authtype: Author
+  name: Churchill NW
+- authtype: Author
+  name: Cohen AL
+- authtype: Author
+  name: Craddock RC
+- authtype: Author
+  name: Devenyi GA
+- authtype: Author
+  name: Eklund A
+- authtype: Author
+  name: Esteban O
+- authtype: Author
+  name: Flandin G
+- authtype: Author
+  name: Ghosh SS
+- authtype: Author
+  name: Guntupalli JS
+- authtype: Author
+  name: Jenkinson M
+- authtype: Author
+  name: Keshavan A
+- authtype: Author
+  name: Kiar G
+- authtype: Author
+  name: Liem F
+- authtype: Author
+  name: Raamana PR
+- authtype: Author
+  name: Raffelt D
+- authtype: Author
+  name: Steele CJ
+- authtype: Author
+  name: Quirion PO
+- authtype: Author
+  name: Smith RE
+- authtype: Author
+  name: Strother SC
+- authtype: Author
+  name: Varoquaux G
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Yarkoni T
+- authtype: Author
+  name: Poldrack RA
+epubdate: 2017 Mar 9
+fulljournalname: PLoS Computational Biology
+issue: '3'
+pages: e1005209
+pmclivedate: 2017/04/06
+printpubdate: ''
+pubdate: 2017 Mar 9
+sortdate: 2017/03/09 00:00
+source: PLoS Comput Biol
+title: 'BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging
+  data analysis methods'
+uid: '5363996'
+volume: '13'

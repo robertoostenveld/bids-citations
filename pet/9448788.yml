@@ -1,0 +1,63 @@
+articleids:
+- idtype: pmid
+  value: '36068231'
+- idtype: doi
+  value: 10.1038/s41597-022-01615-9
+- idtype: pmcid
+  value: PMC9448788
+authors:
+- authtype: Author
+  name: Clement P
+- authtype: Author
+  name: Castellaro M
+- authtype: Author
+  name: Okell TW
+- authtype: Author
+  name: Thomas DL
+- authtype: Author
+  name: Vandemaele P
+- authtype: Author
+  name: Elgayar S
+- authtype: Author
+  name: Oliver-Taylor A
+- authtype: Author
+  name: Kirk T
+- authtype: Author
+  name: Woods JG
+- authtype: Author
+  name: Vos SB
+- authtype: Author
+  name: Kuijer JP
+- authtype: Author
+  name: Achten E
+- authtype: Author
+  name: van Osch MJ
+- authtype: CollectiveName
+  name: BIDS maintainersAppelhoffStefanS22BlairRossR23http://orcid.org/0000-0002-6533-2909FeingoldFranklinF23http://orcid.org/0000-0002-1535-9767GauRémiR24http://orcid.org/0000-0002-6533-164XMarkiewiczChristopher
+    J.CJ23http://orcid.org/0000-0001-9813-3167SaloTaylorT25
+- authtype: Author
+  name: Detre JA
+- authtype: Author
+  name: Lu H
+- authtype: Author
+  name: Alsop DC
+- authtype: Author
+  name: Chappell MA
+- authtype: Author
+  name: Hernandez-Garcia L
+- authtype: Author
+  name: Petr J
+- authtype: Author
+  name: Mutsaerts HJ
+epubdate: 2022 Sep 6
+fulljournalname: Scientific Data
+issue: ''
+pages: '543'
+pmclivedate: 2022/09/08
+printpubdate: ''
+pubdate: 2022 Sep 6
+sortdate: 2022/09/06 00:00
+source: Sci Data
+title: ASL-BIDS, the brain imaging data structure extension for arterial spin labeling
+uid: '9448788'
+volume: '9'

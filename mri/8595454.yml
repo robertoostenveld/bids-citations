@@ -1,0 +1,69 @@
+articleids:
+- idtype: pmid
+  value: '34786613'
+- idtype: doi
+  value: 10.1186/s40345-021-00240-6
+- idtype: pmcid
+  value: PMC8595454
+authors:
+- authtype: Author
+  name: Vogelbacher C
+- authtype: Author
+  name: Sommer J
+- authtype: Author
+  name: Schuster V
+- authtype: Author
+  name: Bopp MH
+- authtype: Author
+  name: Falkenberg I
+- authtype: Author
+  name: Ritter PS
+- authtype: Author
+  name: Bermpohl F
+- authtype: Author
+  name: Hindi Attar C
+- authtype: Author
+  name: Rauer L
+- authtype: Author
+  name: Einenkel KE
+- authtype: Author
+  name: Treutlein J
+- authtype: Author
+  name: Gruber O
+- authtype: Author
+  name: Juckel G
+- authtype: Author
+  name: Flasbeck V
+- authtype: Author
+  name: Mulert C
+- authtype: Author
+  name: Hautzinger M
+- authtype: Author
+  name: Pfennig A
+- authtype: Author
+  name: Matura S
+- authtype: Author
+  name: Reif A
+- authtype: Author
+  name: Grotegerd D
+- authtype: Author
+  name: Dannlowski U
+- authtype: Author
+  name: Kircher T
+- authtype: Author
+  name: Bauer M
+- authtype: Author
+  name: Jansen A
+epubdate: 2021 Nov 17
+fulljournalname: International Journal of Bipolar Disorders
+issue: ''
+pages: '37'
+pmclivedate: 2021/12/02
+printpubdate: ''
+pubdate: 2021 Nov 17
+sortdate: 2021/11/17 00:00
+source: Int J Bipolar Disord
+title: 'The German research consortium for the study of bipolar disorder (BipoLife):
+  a magnetic resonance imaging study protocol'
+uid: '8595454'
+volume: '9'

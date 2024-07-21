@@ -1,0 +1,41 @@
+articleids:
+- idtype: pmid
+  value: '37128458'
+- idtype: pmcid
+  value: PMC10148274
+authors:
+- authtype: Author
+  name: Wang X
+- authtype: Author
+  name: Wang Y
+- authtype: Author
+  name: Ambite JL
+- authtype: Author
+  name: Appaji A
+- authtype: Author
+  name: Lander H
+- authtype: Author
+  name: Moore SM
+- authtype: Author
+  name: Rajasekar AK
+- authtype: Author
+  name: Turner JA
+- authtype: Author
+  name: Turner MD
+- authtype: Author
+  name: Wang L
+- authtype: Author
+  name: Sahoo SS
+epubdate: 2023 Apr 29
+fulljournalname: AMIA Annual Symposium Proceedings
+issue: ''
+pages: 1135-1144
+pmclivedate: 2023/04/30
+printpubdate: ''
+pubdate: 2023 Apr 29
+sortdate: 2023/04/29 00:00
+source: AMIA Annu Symp Proc
+title: 'Enabling Scientific Reproducibility through FAIR Data Management: An ontology-driven
+  deep learning approach in the NeuroBridge Project'
+uid: '10148274'
+volume: '2022'

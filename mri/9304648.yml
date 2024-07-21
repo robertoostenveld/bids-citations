@@ -1,0 +1,24 @@
+articleids:
+- idtype: pmid
+  value: '35874548'
+- idtype: doi
+  value: 10.3389/fphys.2022.917976
+- idtype: pmcid
+  value: PMC9304648
+authors:
+- authtype: Author
+  name: Czapanskiy MF
+- authtype: Author
+  name: Beltran RS
+epubdate: 2022 Jul 8
+fulljournalname: Frontiers in Physiology
+issue: ''
+pages: '917976'
+pmclivedate: 2022/07/23
+printpubdate: ''
+pubdate: 2022 Jul 8
+sortdate: 2022/07/08 00:00
+source: Front Physiol
+title: How Reproducibility Will Accelerate Discovery Through Collaboration in Physio-Logging
+uid: '9304648'
+volume: '13'
