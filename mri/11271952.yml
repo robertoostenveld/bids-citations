@@ -1,0 +1,39 @@
+articleids:
+- idtype: pmid
+  value: '39008524'
+- idtype: doi
+  value: 10.1371/journal.pbio.3002721
+- idtype: pmcid
+  value: PMC11271952
+authors:
+- authtype: Author
+  name: Hu H
+- authtype: Author
+  name: Li A
+- authtype: Author
+  name: Zhang L
+- authtype: Author
+  name: Liu C
+- authtype: Author
+  name: Shi L
+- authtype: Author
+  name: Peng X
+- authtype: Author
+  name: Li T
+- authtype: Author
+  name: Zhou Y
+- authtype: Author
+  name: Xue G
+epubdate: 2024 Jul 15
+fulljournalname: PLOS Biology
+issue: '7'
+pages: e3002721
+pmclivedate: 2024/07/25
+printpubdate: ''
+pubdate: 2024 Jul 15
+sortdate: 2024/07/15 00:00
+source: PLoS Biol
+title: Goal-directed attention transforms both working and long-term memory representations
+  in the human parietal cortex
+uid: '11271952'
+volume: '22'

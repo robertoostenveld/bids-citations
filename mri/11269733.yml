@@ -1,0 +1,47 @@
+articleids:
+- idtype: pmid
+  value: '39048577'
+- idtype: doi
+  value: 10.1038/s41467-024-50310-3
+- idtype: pmcid
+  value: PMC11269733
+authors:
+- authtype: Author
+  name: Lahner B
+- authtype: Author
+  name: Dwivedi K
+- authtype: Author
+  name: Iamshchinina P
+- authtype: Author
+  name: Graumann M
+- authtype: Author
+  name: Lascelles A
+- authtype: Author
+  name: Roig G
+- authtype: Author
+  name: Gifford AT
+- authtype: Author
+  name: Pan B
+- authtype: Author
+  name: Jin S
+- authtype: Author
+  name: Ratan Murty NA
+- authtype: Author
+  name: Kay K
+- authtype: Author
+  name: Oliva A
+- authtype: Author
+  name: Cichy R
+epubdate: 2024 Jul 24
+fulljournalname: Nature Communications
+issue: ''
+pages: '6241'
+pmclivedate: 2024/07/25
+printpubdate: ''
+pubdate: 2024 Jul 24
+sortdate: 2024/07/24 00:00
+source: Nat Commun
+title: Modeling short visual events through the BOLD moments video fMRI dataset and
+  metadata
+uid: '11269733'
+volume: '15'

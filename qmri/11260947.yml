@@ -1,0 +1,37 @@
+articleids:
+- idtype: pmid
+  value: '39041057'
+- idtype: doi
+  value: 10.1016/j.ejro.2024.100582
+- idtype: pmcid
+  value: PMC11260947
+authors:
+- authtype: Author
+  name: Nainamalai V
+- authtype: Author
+  name: Qair HA
+- authtype: Author
+  name: Pelanis E
+- authtype: Author
+  name: Jenssen HB
+- authtype: Author
+  name: Fretland ÅA
+- authtype: Author
+  name: Edwin B
+- authtype: Author
+  name: Elle OJ
+- authtype: Author
+  name: Balasingham I
+epubdate: 2024 Jun 27
+fulljournalname: European Journal of Radiology Open
+issue: ''
+pages: '100582'
+pmclivedate: 2024/07/22
+printpubdate: ''
+pubdate: 2024 Jun 27
+sortdate: 2024/06/27 00:00
+source: Eur J Radiol Open
+title: Automated algorithm for medical data structuring, and segmentation using artificial
+  intelligence within secured environment for dataset creation
+uid: '11260947'
+volume: '13'

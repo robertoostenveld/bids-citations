@@ -10,6 +10,7 @@ It is based on the corresponding code in <https://github.com/fieldtrip/automatio
 Set up a new conda environment
 
     conda create -n=citations python=3.10
+    conda activate citations
 
 Install the required packages 
 

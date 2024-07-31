@@ -1,0 +1,45 @@
+articleids:
+- idtype: pmid
+  value: '39033226'
+- idtype: doi
+  value: 10.1038/s41597-024-03636-y
+- idtype: pmcid
+  value: PMC11271451
+authors:
+- authtype: Author
+  name: Bissett PG
+- authtype: Author
+  name: Eisenberg IW
+- authtype: Author
+  name: Shim S
+- authtype: Author
+  name: Rios JA
+- authtype: Author
+  name: Jones HM
+- authtype: Author
+  name: Hagen MP
+- authtype: Author
+  name: Enkavi AZ
+- authtype: Author
+  name: Li JK
+- authtype: Author
+  name: Mumford JA
+- authtype: Author
+  name: MacKinnon DP
+- authtype: Author
+  name: Marsch LA
+- authtype: Author
+  name: Poldrack RA
+epubdate: 2024 Jul 20
+fulljournalname: Scientific Data
+issue: ''
+pages: '809'
+pmclivedate: 2024/07/25
+printpubdate: ''
+pubdate: 2024 Jul 20
+sortdate: 2024/07/20 00:00
+source: Sci Data
+title: Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct
+  of self-regulation
+uid: '11271451'
+volume: '11'
